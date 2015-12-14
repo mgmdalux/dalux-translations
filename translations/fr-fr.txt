@@ -1,0 +1,1649 @@
+#	0xc3c3c3
+of	/
+#All	0xc3c3c3
+#all tasks	0xc3c3c3
+#approved	0x24A05B
+#Approved	0x24A05B
+#approved followup	0x6ACE61
+#ApprovedFollowup	0x6ACE61
+#awaiting approval	0xC6E47D
+#AwaitingApproval	0xC6E47D
+#checklist closed	0x24A05B
+#checklist open	0xE83438
+#completed	0xF7EA3E
+#Completed	0xF7EA3E
+#green	0x24A05B
+#inbox	0xE83438
+#Inbox	0xE83438
+#none	0xAAAAAA
+#ongoing	0xEF8235
+#Ongoing	0xEF8235
+#red	0xE83438
+#rejected	0xF7C425
+#Rejected	0xF7C425
+#selectioncolor	0xDAEBBF
+#yellow	0xF7EA3E
+(element ...)	(element ...)
+(multiple)	(multiple)
+(no deadline)	(no deadline)
+(No photo)	Take photo
+(No superior)	(No superior)
+(No title)	(No title)
+(none)	(none)
+(Not set)	(Not set)
+(Photo)	Retake
+(room ...)	(room ...)
+(unspecified)	(not specified)
+{0} of {1}	{0} of {1}
+{0} unsent message	{0} unsent message
+{0} unsent messages	{0} unsent messages
+0 tasks for {0}	0 tasks for {0}
+A client error occured	A client error occured.\nDalux has been notified.
+A main responsbile cannot be removed	A main responsbile cannot be removed
+Accept	Accept
+Accept eula	Accept our <a href='eula.htm' target='_blank'>terms and conditions</a>
+Account expired (admin)	<center><br/><br/>Dalux Field project "{0}" has expired.<br/><br/>Contact Dalux to reactivate your project.<br/><br/>&nbsp;</center>
+Account expired (user)	<center><br/><br/>Dalux Field project "{0}" has expired.<br/><br/>Contact the IT administrator to reactivate your project.<br/><br/>&nbsp;</center>
+accuracy	accuracy
+Active user	Active user
+add	Add
+Add	Add
+Add building	Add building
+Add criteria	Add criteria
+Add information	Add information
+Add new registration	Add new registration
+Add new role	Add new role
+Add other user	Add other user
+Add other user...	Add other user...
+Add person	Add person
+Add persons	Add persons
+Add photo	Add photo
+Add project user	Add project user
+Add quick field	Add quick title
+add subordinate warning	You are about to add a subordinate to:\n{0} ({1})\n\nProceed?
+add subordinate warning	You are about to add a role beneath {1} on the contract {1}.\n\nContinue?
+Add zone	Add zone
+added	Added
+Added	Added
+Address	Address
+Address 1	Address 1
+Address 2	Address 2
+Address book	Contacts
+address1	Address 1
+address2	Address 2
+administration	Administration
+Administration	Administration
+Administrator	Administrator
+administrators	Administrator
+administrators	Administrators
+Advanced	Advanced
+Advanced filter	Advanced
+After	After
+alert delete role	Are you sure you want to delete this role?\n\nTasks assigned to {0} remains available to {1} under "Ongoing".
+all	All
+All	All
+All (folder)	All tasks
+All contracts	All contracts
+All tasks	All tasks
+All tasks (folder)	All tasks
+All tasks will be deleted	Unsent tasks and drafts will be lost
+All users	All users
+all_users	All users
+all_users	All users
+Allow cookies	Allow cookies (<a href='cookies.htm' target='_blank'>read more</a>)
+Allow create tasks	Allow create tasks
+Allow create tasks colleagues	Allow create tasks for colleagues
+Allow create users	Allow create users
+already created	already created
+already exists	already exists
+Altered	Altered
+Annotate	Annotate Photo
+Anonymous user	Anonymous user
+Approve	Approve, close
+Approve followup	Approve, followup
+Approved	Approved, closed
+Approved (date)	Approved
+Approved (folder)	Approved
+Approved by	Approved, closed by
+Approved closed (folder)	Approved, closed
+Approved followup	Approved, followup
+Approved followup (folder)	Approved, followup
+Approved, followup by	Approved, followup by
+ApprovedFollowup (folder)	Approved, followup
+Architecture (model)	Architecture
+Archive (folder)	Completed
+Are you sure you want to delete building "{0}"?	Are you sure you want to delete the building "{0}"?
+Are you sure you want to delete this checklist?	Are you sure you want to delete this checklist?
+Are you sure you want to delete this control plan?	Are you sure you want to delete this inspection plan?
+area	Area
+Area (discipline)	Area
+AreaPlan	Area plans
+arrow	Arrow
+Ascending A-Z	Ascending A-Z
+Assign	Assign
+Assign to	Assign to
+assigned	Assigned
+Assigned	Assigned
+Assigned by	Assigned by
+Assigned to	Assigned to
+Assigned to	Assigned to
+Assigned to {0}	Assigned to <u>{0}</u>
+assignee	Assignee
+Assignee	Assignee
+Associate checklist	Associate with checklist
+Associated checklist	Associated checklist
+Association comment	Comment on association
+Attention to	Att
+Auto	Auto
+Available offline	Available offline
+Awaiting approval (folder)	Awaiting approval
+AwaitingApproval (folder)	Awaiting approval
+back	Back
+Back	Back
+Bar	Bar
+Base data	Base data
+Before	Before
+BIM object	Building part
+BIM object type	Building part type
+bottom right	bottom right
+box	Box
+Bring to front	Bring to front
+Building	Building
+Building incomplete	Building unavailable
+Building is not ready	Building is not ready
+Building name	Building name
+Building overview	Building overview
+Building status	Building status
+building updated?	Building not found. Repositioning required. Has the drawing material been updated?
+building_incomplete	Building unavailable
+building_incomplete_text	The building was recently updated and is currently being prepared for display on the mobile device. The building is unavailable for a while.
+building_model_analysing	The building is being analysed.
+building_model_not_uploaded	Building model not uploaded yet.
+building_model_pending	The building is scheduled for analysis.
+building_model_queued_reanalysis	Building is currently queued for reanalysis.
+building_model_waiting	Building is currently queued for analysis.
+building_name	Building name
+building_name	Building name
+building_name_cannot_be_empty	Building name may not be empty!
+building_name_cannot_be_empty	Building name may not be empty!
+building_overview	Building overview
+buildings	Buildings
+Buildings	Buildings
+by	by
+Can be approved upon creation	Can be approved upon creation
+Can delete when	It is only possible to delete all tasks when there are less than 50 tasks in the project.
+cancel	Cancel
+Cancel	Cancel
+CANCEL	CANCEL
+Cancel changes	Discard changes
+Cannot remove project owner	Cannot remove project owner
+Category	Category
+Caution	Caution
+CeilingPlan	Ceiling plans
+change	Change
+Change	Change
+Change location	Change location
+Change to automatic publishing	Change to automatic publishing
+Change to manual publishing	Change to manual publishing
+change...	Change...
+changed	changed
+changed from	changed from
+changed_by	Changed by
+changed_from	changed from
+Checklist	Checklists
+Checklist association changed	Checklist association changed
+Checklist changes will be saved	Changes to the checklist will be saved.\nContinue?
+Checklist closed	Checklist closed
+Checklist no.	Checklist no.
+Checklist report	Checklist report
+Checklist template	Checklist template
+Checklist template order	Checklist template order
+Checklists	Checklists
+Checklists disabled	Checklists disabled
+Checklists enabled	Checklists enabled
+Choose	Select
+Choose...	Select...
+city	City
+City	City
+City	City
+Clear	Clear
+Clear annotations	Clear Annotations
+Click on the map to place origo	Click on the map to place origo
+Click to open	Click to open
+Client error	Client error
+close	Close
+Close	Close
+Closed (singular)	Completed
+Color	Color
+Color code	Color code
+Color code changed	Color code changed
+Combined	Combined
+Combined report	Combined report
+Comment	Comment
+Compact	Compact
+Companies	Companies
+company	Company
+Company	Company
+Company name	Company name
+Complete	Ready
+Completed	Reported ready
+Completed (checklist)	Completed
+Completed (folder)	Reported ready
+Completed by	Rectified by
+Complexity	Complexity
+Compressing image	Compressing image...
+Compressing image	Compressing image
+Confirm	Confirm
+Confirm delete construction	Are you sure you want to delete this contract?
+confirm delete site	Are you sure you want to delete this site?
+Confirm deletion	Confirm deletion
+Confirm password	Confirm password
+confirm_password	Confirm password
+Confirmation required	Confirmation required
+Connection problems	Connection problems
+Connection problems	Connection problems\n\nTry again...
+Connection problems	Connection problems
+connection_lost	Connection problems
+connection_lost_text	No internet connection
+construction	Contract
+Construction	Contract
+constructions	Contracts
+Constructions	Contracts
+Contact Dalux	Contact Dalux
+Contact information	Contact information
+Contact IT Administrators	Contact IT Administrator
+Contains	Contains
+Continue logout	Loguout?
+Contract	Contract
+Contract management	Contract management
+Contractor	Contractor
+Control plan	Inspection plan
+Control plan area	Inspection plan area
+Control plans	Inspection plans
+Copy from other project	Copy from other project
+copy_link	Copy link
+Correspondence	Correspondence
+Correspondence report	Condensed report
+Correspondence report (filename)	Condensed report
+could not center on gps description	Could not center on location. GPS position is outside drawing area.
+could not center on gps title	GPS position far away
+Could not open attachment	Could not open attachment no. {0}.\nIs the file broken?
+Could not reach the server	Could not reach the server. Are you connected to the internet?
+could_not_find_comment	Could not find comment specified in link.\n\n Redirecting to user sites.
+Country	Country
+Craftsman	Craftsman
+Create	Create
+Create Construction	Create contract
+Create demo user	Create demo user
+Create empty checklist	Create empty checklist
+Create empty control plan	Create empty inspection plan
+Create inspection	Save report
+Create new	Create new
+Create role	Create role
+Create roles	Create roles
+Create send	Create, send
+Create user	Create user
+Create user	Create user
+Create user	Create user
+Create user	Create user
+Create user	Create user
+Create user	Create user
+Create user	Create user
+create:	Create: {0}
+created	Created
+Created	Created
+Created by	Created by
+Created by (email)	Created by (e-mail)
+Created only via checklists	Created only via checklists
+created_by	Created by
+Creates tasks	Creates tasks
+credetials_fail	User credentials don't match
+Criteria	Criteria
+custom_filter	Custom filter
+Daily summary	Daily summary
+Dalux administration	Dalux administration
+Dalux daily	Dalux Daily
+Dashboard	Dashboard
+Data fields	Data fields
+Data removed from {0} checklists	Saving changes will <font style="color:#DD0000">delete</font> data from {0} checklists.
+Database	Database
+date	Date
+Date	Date
+dateformat	MMM d yyyy, h:mm tt
+dateformat_air	MMM d yyyy, h:mm a
+dateformat_air_checklist	MMM d yyyy, h:mm a
+dateformat_deadline	MMM d yyyy
+dateformat_short	MMM d
+dateformatDayYear	MMMM d yyyy
+deadline	Deadline
+Deadline	Deadline
+Deadline changed	Deadline changed
+Default description	Default description
+Default description	Default description
+Deficiency	Deficiency
+Delegated to	Delegated to
+Delete	Delete
+delete	Delete
+Delete all	Delete all
+Delete all tasks	Delete all tasks
+Delete building	Delete building
+Delete checklist	Delete checklist
+Delete control plan	Delete inspection plan
+Delete draft	Delete draft
+Delete Draft	Delete draft
+Delete draft	Delete draft
+Delete draft (draft)	Delete draft
+Delete draft (update)	Delete draft
+Delete draft alternative	Delete draft
+Delete drawing	Delete drawing
+Delete from outbox	Delete from Outbox
+Delete photo	Delete photo
+Delete selection	Delete selection
+Delete tasks	Delete tasks
+Delete view	Delete view
+Delete x tasks	Delete tasks: {0}x {1}
+Delete zone	Delete zone
+Demo user	Demo user
+Descending Z-A	Descending Z-A
+description	Description
+Description	Description
+Detail	Detail
+Detail reports	Detail reports
+Detailed	Detailed
+Deviation	Deviation
+DF	DF
+Disabled	Disabled
+Discard changes	Discard changes
+Discipline	Discipline
+Discipline (drawing)	Discipline
+Discipline already exists	Discipline already exist for this contract
+Disciplines	Disciplines
+Displays	Displays
+Do you accept the invitation to the project {0}?	Do you accept the invitation to the project {0}?
+Do you want to save changes to the draft?	Do you want to save changes to the draft?
+Do you want to save the draft?	Do you want to save the draft?
+document file types	*.pdf
+Documents	Documents
+Does not contain	Does not contain
+Done	Done
+Download	Download
+Download PDF	Download PDF
+Downloading checklist...	Downloading checklist...
+Downloading report...	Downloading report...
+Downloading task {0} of {1}	Downloading task {0} of {1}
+Draft	Draft
+Draft early version, change location	<center>NB!<br/><br/>The draft has been created with an earlier version of Dalux Field. Update the location.<br/><br/>Remeber to keep Dalux Field for mobile up to date</center>
+Drafts	Drafts
+Drawing	Drawing
+Drawing information	Drawing information
+Drawing updated {0}	Drawing updated {0}
+Drawing with tasks	Drawing with tasks
+Drawings	Drawings
+dRofus integration	dRofus integration
+Copy row	Copy row
+Duplicate	Duplicate
+DUT_MILLIMETERS	mm
+DUT_SQUARE_METERS	m²
+DV	DV
+Economy	Economy
+Economy changed	Economy changed
+edit	Edit
+Edit	Edit
+Edit building	Edit building
+Edit building model file	Edit building model file
+Edit persons	Edit persons
+Edit photo	Edit photo
+Edit project data	Edit project data
+Edit properties	Edit properties
+Edit role	Edit role
+Edit site data	Edit site data
+Edit user	Edit user
+Edit zone	Edit zone
+Edit zones	Edit zones
+Edit contract	Edit contract
+element updated?	Building part not found. Repositioning required. Has the drawing material been updated?
+element_properties	Properties
+Elevation	Elevation
+Elevation lower	Elevation, lower
+Elevation upper	Elevation, upper
+ellipse	Ellipse
+email	E-mail
+Email	E-mail
+Email for new tasks	E-mail for new tasks
+Email log	E-mail log
+Email settings	E-mail settings
+Email settings (ribbon)	E-mail settings
+Email with daily summary	E-mail with daily summary
+email:	E-mail:
+empty_list	The list is empty
+Enable	Enable
+Enable checklists	Enable checklists
+Enable photos	Enable photos
+Enabled	Enabled
+EngineeringPlan	Engineering plans
+Enter discpline	Enter discipline
+Enter title	Enter title
+enterprise	Enterprise
+Entire list	Entire list
+Equals	Equals
+error	Error
+Error	Error
+Error	Error
+Error downloading offline data	Error downloading data
+Excel	Excel
+Excel and locations	Excel and locations
+Excel and locations	Excel and locations
+Existing	Existing
+existing	Existing
+existing task restricted to {0}	Existing task: Restricted to '{0}'
+Export	Export
+Export all	Export all
+Export failed	Export failed
+Export overview	Export overview
+Fictive user	Fictive user
+Field definition	Field definition
+Field type	Field type
+Fields	Fields
+File	File
+File could not be downloaded	File could not be downloaded
+File to upload	File to upload
+Filename	Filename
+Files	Files
+Files to upload	File to upload
+Fill in	Fill in
+Filters	Filters
+find	Find
+First levels	First
+First name	First name
+first_name	First name
+Floor	Floor
+Floor name	Floor name
+Floor plan	Floor
+Floor plans	Floor plans
+Floor properties	Floor properties
+floor updated?	Floor plan not found. Repositioning required. Has the drawing material been updated?
+floor_name	Floor name
+Floorplan	Floorplan
+FloorPlan	Floor plans
+floorplans	Floorplans
+Floorplans	Floorplans
+floors	Plans
+Floors	Plans
+flow_configuration	Flow configuration
+flow_configuration_definition	Flow configuration definition:
+Folder	Folder
+Folder tools	Folder tools
+Foreman	Foreman
+found	found
+From camera	From camera
+From drawing	From drawing
+From gallery	From gallery
+General problem	General problem
+Generate report	Generate report
+Generating document	Generating document
+Generating picture	Generating picture
+Generating report	Generating report...
+Generating report {0}	Generating report {0}
+Get Revit plug-in	Get Revit plug-in
+GIS location	GIS location
+GIS placement not chosen	GIS placement not chosen
+Go to location	Show location
+gps accuracy timeout description	Could not activate GPS. Check device settings to make sure GPS is enabled and the signal is ok.
+gps accuracy timeout title	GPS
+gps accuracy too coarse description	GPS precision low (40 meters+)
+gps accuracy too coarse title	GPS
+gps not enabled description	Could not activate GPS. Check device settings to make sure GPS is enabled.
+gps not enabled title	GPS
+Greater than	Greater than
+Greater than equals	Greater than equals
+Green	Green
+Grid	Grid
+Header	Header
+height	Height
+Help text	Help text
+Home	Home
+i_accept	I accept to use this free service &quot;as is&quot;
+ID	ID
+image file types	*.gif;*.png;*.jpg;*.jpeg
+images	Images
+Images	Images
+Import	Import
+Import complete	The project setting import was successfull
+Import from	Import from
+Import from file	Import from file
+Import from filesystem	Import from filesystem
+Import from projects	Import from projects
+Inactive user	Inactive user
+Inbox	Inbox
+Inbox (folder)	Inbox
+Include signing field	Include attachments
+Include attachments	Include attachments
+Include tasks	Include tasks
+Info	Info
+info 500+ options	There are more than 2000 unique options.\nUse the search filter underneath.
+info add building name	Building name may not be empty!
+info admin edits work description	Only administrators may edit the work descriptions.\nAdministrators are listed under Users (underneath Settings in the menu to the left).
+info another user created this task	Another user has created this task. Only this user can view or edit the task.
+info app update	Update Dalux Field<br/><br/>Remember to synchronize unsent data before updating
+info batch deny assign wd	It is only possible to assign multiple tasks at once when all tasks are within the same area and work description.\n\nNarrow down the selection. You might want to apply a filter on the columns Supervision and Work Description.
+info batch deny reply	It is only possible {0} multiple tasks at once as long as the selected tasks can be changed by you.\n\nDo you have write permissions to the selected tasks?\nDid you select the right folder?\n\nRemove selection of tasks you can no longer change.
+info building incomplete	The building was recently updated and is currently being prepared for display on the mobile device. The building is unavailable for a while.
+info building queued analysis	Building is being updated. Try again later.
+info building update failed	Building update failed. Contact Dalux.
+info building updating 3d	Drawings are being updated. Try again later.
+info cannot edit work description	The work description can only be set if the current role's superior does not have any work description. Only administrators can alter work descriptions for themselves.
+info checklist conflict	<p align="center">Checklist was changed elsewhere.<br/>The changes will be overwritten by clicking save.<br/><br/><b>Click to show changes</b></p>
+info checklist not sent retry	The checklist was not saved.<br/><br/>Click save to retry.
+info checklist offline	This checklist is not available offline
+info commit checklist first	<P ALIGN="center">Associated checklist not found.<br/>Upload checklist or delete photo.</P>
+info company has users	Cannot remove a company having users
+info connection lost	No internet connection
+info contract uses company	Company with one or more contracts
+info credetials fail	User credentials don't match
+info demo site	This is a demo project. You are therefore not allowed to edit BIM settings.
+info document ready	The document is ready.
+info document ready download	The document is ready. Download?
+info email not validated	e-mail address has not been confirmed
+info empty list	The list is empty
+info field missing	'{0}' missing
+info image load failed	Image load failed
+info invalid email	The e-mail address you entered is not valid.
+info invalid password	Your password should be at least 6 characters long.
+info invalid roleworkdescription delete	Cannot remove work descriptions that are in use.
+info invited	<p align="center">Invitation to project '{0}'</p>
+info isnan {0}	Value specified for '{0}' is not a number
+info logged in	You are now logged in
+info logged out	You were logged out
+info mail sent {0}	An e-mail was sent to '{0}'
+info must select assignee	A responsible must be selected.
+info must update task	Needs internet connection to update this task.
+info new user added mail sent	An invitation mail is sent to the specified e-mail address.\n\nThe user will be activated when the e-mail is confirmed via the link in the invitation mail and the user is created.
+info no bim	No BIM, CAD or PDF's. Upload from Settings.
+info no company selected	You have not selected a company.
+info no creator role	<p align="center">Project settings have changed<br/>You no longer have permission to create tasks</p>
+info no delete company	Company can not be removed because users are associated with this company.\n\nRemove users from the company first.
+info no delete role	Can not delete role with subordinates.\n\nIf a new person replaces the current person, the role should not be deleted. Click Edit to replace person.
+info no delete user organisation	User can not be deleted since the user is part of the organisation.\n\nRemove user from the organisation in order to delete.
+info no delete user substitute	User can not be removed since the user is standing in for: {0} ({1}) \n \nRemove user from the organization first.
+info no discipline	A discipline must be entered.
+info no permission	You do not have permissions to edit here.
+info no title	A title must be entered.
+info no update role	<p align="center">Report has changed<br/>You can no longer update this report.<br/>Has the case been changed or closed?</p>
+info none selected	No tasks selected
+info non-existing assignee role	<p align="center">Project settings have changed<br/>The task can no longer be assigned to this person</p>
+info non-existing assignee wd	<p align="center">Project settings have changed<br/>The task can no longer be assigned to this person</p>
+info non-existing role	<p align="center">Project settings have changed<br/>Your current role does not give permission to change this task</p>
+info non-existing substitute	<p align="center">Project settings have changed<br/>You no longer have permission to change this task</p>
+info not self superior	It is not possible to specify your superior to be yourself
+info offline finding location	Offline<br/>Using nearest available location
+info offline minimodel	Offline<br/>There is no connection to the internet and the mini model is not available for offline use.
+info offline minimodel frame	Offline<br/>There is no connection to the internet and the current view angle is not available for offline use.
+info offline new visit 2d	There is no connection to the internet and the current floorplan is not available for offline use.
+info offline new visit 3d	There is no connection to the internet and there are no locations available for offline use.
+info open draft	<p align="center">Draft<br/><b>Click to show the report</b></p>
+info password no match	The passwords you entered do not match.
+info picture ready	Download picture
+info picture ready download	The picture is ready for download
+info preview only	Only a preview of the sample model is available.
+info processing 3d	View is being updated. Try again later.
+info program error	<p align="center">Program error occured<br/>Contact Dalux (support@dalux.com)</p>
+info project setting error	<p align="center">Upredicted project settings<br/>Contact Dalux (support@dalux.com)</p>
+info remove company	Are you sure you want to delete this company?
+info remove self	You are about to remove yourself from the project\n\nContinue?
+info remove work description	Be aware that tasks created with this work description can no longer be grouped based on this property.\nThe work description will automatically be removed from the affected roles. \n\nProceed?
+info report has update in folder	<p align="center">Please note!<br/>There is an update to the report in the folder {0}</p>
+info report has updates in folder	<p align="center">Please note!<br/>There are updates to the report in the folder {0}</p>
+info report has updates in folders	<p align="center">Please note!<br/>There are updates to the report in the folders {0}</p>
+info report ready	The report is ready.
+info report ready download	The report is ready. Download?
+info role name not empty	Specify role name
+info server error	An error occured on the server.
+info site manager change	If your role is site manager and you replace yourself, you will no longer be able to manage user toles. \n \n This action can not be undone!
+info synchronizing no open	Not sent messages are being synchronized. Entries cannot be viewed meanwhile.
+info task altered	<p align="center">Task changed<br/>The update was not committed.<br/>Click to open report</p>
+info task not available	<P ALIGN="center">The report is not available</P>
+info task offline	<P ALIGN="center">This report is not available offline</P>
+info task sent update checklist	The task has been sent to the server. Update the checklist to open the resulting report.
+info too many tasks	In this area: {0} tasks
+info unhandled error	An unexpected error occured
+info user added mail sent	The user is now added and an invitation mail is sent to the specified e-mail address.\n\nThe user will be activated when the e-mail address is confirmed via the link in the invitation e-mail.
+info user invitation accepted	User created and invitation accepted
+info user not found create?	User not found. Do you want to create this user?
+info wait synchronizing tasks	The task cannot be opened while the outbox is being synchronized. Try again in a few moments.
+info wizard new user	The person is not set up with your Dalux Field project. An invitation will be sent when you press Create.
+Insert	Insert
+Insert comment	Insert comment
+Insert text	Insert text
+Inspection	Supervision
+Inspection note	Supervision note
+Instant mails	Mail for each new task
+Instructions	Instructions
+Interval	Interval
+Invalid password	Invalid password
+invalid_flow	Invalid Action
+invalid_flow_text	User action not valid (has the task been changed?)
+invalid_user	Invalid User
+invalid_user_text	User credentials or permissions have been changed.
+Invitation	Invitation
+Invitation accepted (date)	Invitation accepted
+Invitation sent (date)	Invitation sent
+Invitation to x from y	Invitation to {0} from {1}
+Invitations	Invitations
+Invite user	Invite user
+Invoice e-mail	Invoice e-mail
+Invoice information	Invoice information
+Invoice note	Invoice note
+Is empty	Is empty
+Is not empty	Is not empty
+is_not_available	 is not available
+IT Administrators	IT Administrators
+Landscape	Landscape
+language	en
+Language	Language
+language (splash screen)	en
+language_code	en-us
+Last editet	Last edited
+Last edited	Last edited
+Last modified	Last modified
+Last modified by	Last modified by
+Last name	Last name
+Last updated	Last updated
+Last updated by	Last updated by
+Last uploaded by	Last uploaded by
+last_name	Last name
+Less than	Less than
+Less than equals	Less than equals
+Less than one minute remaining	Less than one minute remaining
+Let us know	Let us know
+lets_know	Let us know
+Level	Level
+Levels	Levels
+List	List
+loading	Loading
+Loading (from disk)	Loading
+Loading buildings	Loading buildings
+Loading data	Loading data
+Loading drafts...	Loading drafts...
+Loading list data	Loading list data
+Loading list data...	Loading list data...
+located on plan	located on plan
+located on plan and view	Located on plan and view
+location	Location
+Location	Location
+Location changed	Location changed
+location:	Location:
+Location: {0}	Location: {0}
+Log in	Log in
+Log out	Log out
+log_in	Log in
+log_out	Log out
+Logged in as	Logged in as
+logged_in_as	Logged in as
+logged_out	You were logged out
+Login refused text	User/password not found.
+Login refused title	Invalid User
+Login revoked text	User credentials or permissions have been changed.
+Login revoked title	Invalid User
+logo	Logo
+Logo	Logo
+Project photo	Project photo
+logo_editor_text	This logo will be used in printed reports
+Long	Long
+low	Low
+manage_users	Manage users
+Map	Map
+Markers	Markers
+Memo no.	Memo no.
+minute	minute
+minutes	minutes
+Modified	Modified
+modified	Modified
+Month1	January
+Month10	October
+Month11	November
+Month12	December
+Month2	February
+Month3	March
+Month4	April
+Month5	May
+Month6	June
+Month7	July
+Month8	August
+Month9	September
+Move down	Move down
+Move to drafts	Move to drafts
+Move up	Move up
+Multiple	Multiple
+Multiple filters	Many filters
+Multiple responsible	Multiple responsible
+must accept cookies	To use Dalux Field you must allow use of cookies
+must accept terms	To use Dalux Field you must accept our terms and conditions
+name	Name
+Name	Name
+Network failure. Try again	Network failure. Try again
+New	New
+new	New
+New (m)	New
+New assignee	New assignee
+New building	New building
+New building model file	New building model file
+New checklist	New checklist
+New company	New company
+New construction	New construction
+New construction	New contract
+New department	New department
+New discipline	New discipline
+New fictive user	New fictive user
+New floor	New floor
+New inspection	New Supervision Note
+New project	New project
+New registration	New registration
+New site	New site
+New supervisor area	New supervisor area
+new task	new task
+New tasks	New tasks
+New user	New user
+New work description	New work description
+new_building	New building
+new_demo_site	New demo site
+new_demo_site_details	New demo site.\n\nOnly small buildings allowed.
+new_site_details	New site with unlimited size.
+new_status	New status
+new_task_list	New task list
+new_value	New value
+Next	Next
+No	No
+No available sites	No available sites
+No building and floors available for this site. GIS can not be placed	No building and floors available for this site. GIS can not be placed
+No building and floors available for this site. GIS can not be placed	No building and floors available for this site. GIS can not be placed
+No buildings	No buildings
+No checklists	No checklists
+No connection	No connection...
+No drafts	No drafts
+No drawing material available.	No drawing material available.
+No drawing selected	No drawing selected
+No drawings	No drawings
+No permission text	Requested operation denied due to role restrictions
+No permission title	Permission denied
+No picture	No picture
+No registrations	No registrations
+No results	No results
+No room	(No room
+No selection	No selection
+no selection	no selection
+No sorting	No sorting
+No sorting	No sorting
+No tasks	No tasks
+No title	No title
+No.	No.
+no_building	(no building)
+no_connection	No connection...
+no_floor	(no floor)
+no_floors	(no floors)
+no_room	(no room)
+no_selection	No selection
+no_title	(No title)
+none	None
+None	None
+None (filter)	None
+normal	Normal
+Not allowed	Not allowed
+Not created	Not created
+Not deleted	Not deleted
+Not equal	Not equal
+Not logged in	Not logged in
+Not selected	Not selected
+Not sent (singular)	Not sent
+Not set	Not set
+Not signed up	Not signed up
+Not synchronized	Not synchronized
+not_found	Not found
+not_set	(Not set)
+Note field on registrations	Note field on registrations
+Notes	Notes
+notification	Notification
+Notification	Notification
+number	Number
+Number	Number
+Number series	Number series
+object	Object
+Observations	Observations
+Observer	Observer
+Observer (single letter)	O
+Observers	Observers
+Observers:	Observers:
+of	of
+Offline	Offline
+Offline	Offline
+offline_finding_location	Offline<br/>Using nearest available location
+offline_minimodel	Offline<br/>There is no connection to the internet and the mini model is not available for offline use.
+offline_minimodel_frame	Offline<br/>There is no connection to the internet and the current view angle is not available for offline use.
+offline_mode_description	Drawings and tasks in folders Inbox, Rejected and Reported ready are downloaded to be used in offline mode.
+offline_mode_warning	Note that large amounts of data are being downloaded, and it is therefore recommended to use Wi-Fi during the data transfer.
+offline_new_visit_2d	Offline<br/>There is no connection to the internet and the current floorplan is not available for offline use.
+offline_new_visit_3d	Offline<br/>There is no connection to the internet and there are no locations available for offline use.
+ok	OK
+Ok	OK
+OK	OK
+old_value	Old value
+Ongoing (folder)	Ongoing
+Open	Open
+Open (folder)	Open
+Open (singular)	Started
+Open checklist	Open checklist
+Open dRofus report	Open dRofus report
+Open object properties	Open object properties
+Open project	Open project
+Open site	Open project
+Order	Order
+Organization	Organization
+Orientation (print)	Orientation
+Origin	Origin
+Other	Other
+other_users	Other users
+Others	Others
+outbox	Not sent
+Outbox	Not sent
+Outbox failed	Not synchronized
+Outbox images	Unsent images
+Outbox images failed	Unsynchronized images
+outbox_failed	Not synchronized
+Overall assessment	Comment
+overview	overview
+Overview	Overview
+Overview drawing	Overview drawing
+overview on floorplans	overview on floorplans
+overview, printouts	overview, printouts
+Own	Own ongoing
+Own roles	Own
+Page	Page
+parent	Parent
+Passive user	Passive user
+password	Password
+Password	Password
+Password again	Password again
+Permanent task deletion	All tasks will be permanently deleted and can not be restored
+Permissions	Permissions
+Persons	Persons
+Phone	Phone
+Phone (short)	Phn
+photo	Photo
+Photo	Photo
+Photo taken	Photo taken
+photoJpgCompression	60
+photoJpgQuality	60
+photoMaxHeight	1024
+photoMaxWidth	1024
+photos	photos
+Photos	Photos
+picture	Picture
+Pie	Pie
+Place action	Place
+Placement	Placement
+Placement description	Placement description
+Please wait...	Please wait...
+Portrait	Portrait
+Prefix	Prefix
+prefix deficiency	N
+prefix inspection	S
+Prepare project for offline use	Prepare project for offline use
+Preparing file	Preparing file
+Preparing project for offline use	Preparing project for offline use
+Prev. deadline	Prev. deadline
+Prev. subject	Prev. subject
+Preview	Preview
+Previous	Previous
+Print	Export
+Print (print)	Print
+Print all	Export all
+Print selected	Export selected
+Printed	Printed
+Printing	Printing
+printout locations	printout locations
+Printouts	Export
+printouts, list	printouts, list
+priority	Priority
+Priority	Priority
+Priority changed	Priority changed
+project	Project
+Project	Project
+Project access restricted	Project access limited to mobile use.\n\nContact Dalux for full access (support@dalux.com).
+Project configuration	Project configuration
+Project expired	Project expired
+Project info	Project info
+Project information	Project information
+Project name	Project name
+Project no.	Project no.
+Project organisation	Construction management
+Project participant	Project participant
+Project prepared for offline use	Project prepared for offline use
+Projects	Projects
+Properties	Properties
+properties_changed	Properties changed
+property	Property
+psc.	psc.
+Publish	Publish
+Published buildings	Published buildings
+Punch Lists	Dashboard
+q user role	What role does the person you want to create have?
+QA	QA
+Quality Assurance	Quality Control
+Quick subjects	Quick subjects
+Quick titles	Quick titles
+R	R
+Reason	Reason
+Receipt for execution	Execution notes
+Receives tasks	Receives tasks
+Recieves tasks	Responsible for rectification
+Recorded	Created
+Recorded by	Created by
+Red	Red
+Refresh	Refresh
+REG	REG
+Registration	Registration
+Registrations	Registrations
+Registrations (filename)	Registrations
+Reject	Reject
+Rejected	Rejected
+Rejected (folder)	Rejected
+Rejected by	Rejected by
+Related contract	Related contract
+Relation	Relation
+Remaining time	Remaining time
+Remember me	Remember me
+Remind unsubscribed	Send invitations
+remove	Remove
+Remove	Remove
+Remove	Remove
+Remove person	Remove person
+Remove work description	Remove work description
+removed	Removed
+Removed	Removed
+Rename	Rename
+Rename building	Rename building
+rename...	Rename...
+rename_task_list	Rename task list
+Report id	Report id
+Report settings	Report settings
+Reports	Reports
+Required fields	Required fields
+Reset view	Reset columns
+Resp. company	Resp. company
+Resp. email	Resp. email
+Responded date	Responded date
+Responsible	Responsible
+retry	Retry
+Retry	Retry
+Revision	Revision
+role	Role
+Role	Role
+Role has subordinates. Cant delete	Role has subordinates. Cannot delete role.
+Room	Room
+Room ID field	Room ID field
+room updated?	Room not found. Repositioning required. Has the drawing material been updated?
+rooms	Rooms
+rotate	Rotate
+rotate left	Rotate left
+rotate picture save	Rotation only possible when red-lining has been saved.\n\nSave picture and rotate
+rotate right	Rotate right
+S:Substitute, O: Observer	S: Substitute, O:Observer
+Safety report	Safety report
+Save	Save
+Save	Save
+SAVE	SAVE
+Save as Draft	Save as Draft
+Save changes	Save changes
+Save checklist	Save checklist
+Save draft	Save draft
+Save view	Save view
+Saved	Saved
+search	Search
+Search	Search
+Search	Search
+Search (filter)	Search
+Search criteria	Search criteria
+Search for	Search for
+Section	Sections
+Select	Select
+select	Select
+Select all	Select all
+Select all	Select all
+Select assignee	Select assignee
+Select construction	Select contract
+select construction text	Select the contractor in charge
+Select drawing	Select drawing
+Select only one for deletion	Select only one for deletion
+Select supervisor	Select supervisor
+select supervisor text	Select the supervisor of the contract area
+Select user	Select user
+Select user company:	Select or specify user company:
+Select users	Select users
+Select work descriptions	Select work descriptions
+select_a_status	Select a status first
+select_an_assignee	Select an assignee
+Selected	Selected
+selected area	selected area
+Selected first	Selected first
+Selected last	Selected last
+selected tasks	selected tasks
+SelectFilter	Select filter parameter
+Selection only	Selection only
+selection only	selection only
+send	Send
+Send	Send
+Send e-mail	Send e-mail
+Send invitations	Send invitations
+Send password	Send password
+Send to back	Send to back
+Sent (email)	Sent
+Server	Server
+Server Error	Server Error
+server_error	Server Error
+server_error_text	An error occured on the server.
+Set location	Set location
+Set selected responsible	Set selected as responsible
+set_to	set to
+settings	Setup
+Settings	Setup
+Settings (filter)	Settings
+Several contracts	Several contracts
+Shared sites	Sites shared with you
+shared_sites	Sites shared with you
+Short	Short
+Show company	Company
+Show drawings	Show drawings
+Show entire organization	Show entire organization
+Show location	Show location
+Show work descriptions	Show work descriptions
+Signature	Signature
+Signing field	Signing field
+Signing field	Attachments
+Attachments	Attachments
+Simple	Simple
+Single report	Single report
+Single reports	Single reports
+Single users	Single users
+Site data	Site data
+Site is already prepared for offline use	Project is already prepared for offline use
+Site management	Site management
+Site manager assistant	View/edit
+Site name	Project name
+Site number	Project number
+site_data	Site data
+site_name	Site name
+Sites	Projects
+slow app	Certain parts of the application may react slower than usual.
+SorteringAZ	Sorting A-Z
+SorteringZA	Sorting Z-A
+Specify name	Specify name
+Specify number	Specify number
+Specify prefix	Specify Prefix
+Specify subject	Specify subject
+Specify user name	Specify user name
+standard	Standard
+Standard filter	Standard filter
+StandardFilter	Standard filter
+Start drawing	Start drawing
+status	Status
+Status	Status
+Status report	Status report
+Status report (filename)	Status report
+status_changed_from	Status changed from
+Stay here	Stay here
+Stay here	Stay here
+Stop drawing	Stop drawing
+Subcontractor	Subcontractor
+Subject	Subject
+Subject already exists	Subject already exists
+Substitute (single letter)	S
+Substitute for	Substitute for
+Substitutes and observers	Substitutes and observers
+Substitutes and observers	Substitutes and observers
+Substitutes:	Substitutes:
+Summary	Summary
+Summary	Summary
+Superior role:	Superior role:
+Supervisor	Supervisor
+Supervisor role with tasks cant be removed	Supervisor role with tasks can be removed.
+support	Help
+Supported files	Supported files
+Synchronize now	Synchronize now
+Synchronized	Synchronized
+synchronizing	Synchronizing
+Synchronizing	Synchronizing
+Tabel with tasks PDF	Table with tasks (PDF)
+Table (Excel)	Table (Excel)
+Table (PDF)	Table (PDF)
+Table with tasks excel	Table with tasks (Excel)
+Take me to Login	Take me to Login
+Task	Task
+Task count	Number of tasks of this type
+Task flow	Task flow
+Task folders	Task folders
+Task reports (PDF)	Task reports (PDF)
+Task template	Task template
+task_list	Task List
+task_list	Task list
+task_list_setup	Task list setup
+task_lists	Task lists
+tasks	tasks
+Tasks	Tasks
+Tasks and issues	Tasks and issues
+Tasks associated with role. Cant delete	Tasks are associated with role. Cannot delete role.
+Tasks on plan drawings	Tasks on plan drawings
+tasks_open	Open tasks
+tasks_total	Tasks totally
+Templates	Templates
+Text	Text
+text	Text
+The file is ready	The file is ready
+The user will be removed	The user will be removed
+The user will be removed from all aspects of the project.	The user will be removed from all aspects of the project.
+There is an update to the application	An app update is available!
+Time of invitation	Time of invitation
+title	Subject
+Title	Title
+Title (role)	Title
+Title changed	Title changed
+title_changed_from	Title changed from
+to	to
+to approve	to approve
+to assign	to assign
+to report ready	to report ready
+Try Demo Site	Try Demo Site
+Type	Type
+Type password for user	Type password for user
+Type prefix	Type prefix
+Types	Types
+unassigned	(unassigned)
+Unassigned	(unassigned)
+unchanged	Unchanged
+Unchanged	Unchanged
+unhandled_error	An unexpected error occured
+unhandled_error_title	Error
+Unpacking drawings	Unpacking drawings
+Unpublished buildings	Unpublished buildings
+unsent_message	{0} unsent message
+unsent_messages	{0} unsent messages
+Update	Update
+Update checklist	Update checklist
+Update Dalux Field	Update Dalux Field 
+Update now	Update now
+Update user	Update user
+update:	Update: {0}
+update_task	Update
+Updated	Updated
+Updated {0}	Updated {0}
+Updated by	Updated by
+updated_by	Updated by
+updated_date	Updated {0}
+updating	Updating
+Updating	Updating
+Upload DWG	Upload DWG
+Upload DWGs	Upload DWGs
+Upload image	Upload image
+Upload PDF	Upload PDF
+upload_company_logo	Upload company logo
+Uploaded by	Uploaded by
+url:support	http://http://field.dalux.com/manual/
+Use	Use
+Use automatic publishing	Use auto publishing
+Use automatic publishing text	Do you want to change to automatic publishing?\n\nBuildings and drawings will automatically be published when they are ready.
+Use building	Use building
+Use location	Use location
+Use manual publishing	Use manual publishing
+Use manual publishing text	Do you want to change to manual publishing?\n\nYou publish buildings and drawings manually when they are ready.
+Use search field below	Use search field below
+user	User
+User	User
+User active	User active
+User company	User company
+User email settings	Mail settings
+User exists already	User already exists
+User found	User found
+User has signed up	User has signed up
+User name	E-mail
+User not found	User not found
+User not signed up	User not signed up
+User not validated	User not validated
+User removed	User removed
+User rights	Permissions
+user_defined_flow	User defined flow
+Users	Users
+Users removed	Users removed
+users_that_can_be_managed	Users that can be managed
+users_with access	Users with access to this site
+Value	Value
+Values	Values
+VATIN	VAT Reg No
+View	View
+View	View
+View buildings on map	View buildings on map
+View case	View
+View for	View for
+View user	View
+View/Edit	View/edit
+View/Edit (responsible)	View/edit (responsible)
+Views	Views
+wait	Wait...
+Wait	Wait
+Warning	Warning
+warning remove user	Are you sure you want to remove this user?
+Warning!	Warning!
+Web service rejected your request	Web service rejected your request
+Week	Week
+Weekly safety report	Weekly report
+whatis: construction	Contract covers the contract. A contract can span multiple surveillance areas
+whatis: discipline	Supervisors area is the discipline being controlled. Examples of disciplines are for example 'Plumbing', 'Electric' and 'Fitting'.
+whois: building owner	A user that can see all tasks but not edit the tasks
+whois: contractor	A person who is facing the construction management and is responsible for delivery on time and comply with the agreed quality within a particular contract and profession
+whois: fictive	A user who is either not yet known, or later is to be invited to participate in this project
+whois: site manager	The site manager has the daily responsibility for the site and is responsible for all contracts delivered on time and meet the agreed quality
+whois: site manager assistant	A users that can see and edit all tasks
+whois: subcontractor	A person who has committed to a contractual agreement on a specific task with a construction manager
+whois: supervisor	A person who inspects if the contract is performed correctly in his area of responsibility
+With date	With date
+Without date	Without date
+Work description	Work description
+Work descriptions	Work descriptions
+Work.Desc	Work.Desc
+Work.Num	Work.Num
+Worker report	Worker report
+workflow_definition	Workflow definition
+Yellow	Yellow
+Yes	Yes
+You can not delete this control plan because there are tasks associated with it	You can not delete this inspection plan because there are tasks associated with it
+You cannot delete this checklist template because there exists checklists of this type.	You cannot delete this checklist template because there exists checklists of this type.
+You have not been assigned to any projects yet.	You have not been assigned to any projects yet.
+You must accept this	To use Dalux Field you must accept:
+You must be administrator to add buildings	Drawings are linked from another project. You do not have permission to alter the drawings.
+You must be administrator to change publishing settings	Drawings are linked from another project. You do not have permission to change publishing settings.
+You must be administrator to delete buildings	Drawings are linked from another project. You do not have permission to delete buildings.
+You must be administrator to edit buildings	Drawings are linked from another project. You do not have permission to edit buildings.
+You must be administrator to rename buildings	Drawings are linked from another project. You do not have permission to rename buildings.
+You must be online to log in	You must be online to log in
+you_are_logged_in	You are logged in
+Your colleagues drafts	Your colleagues' drafts
+Your column setup is being reset	Your column setup is being reset
+Your drafts	Your drafts
+Your sites	Your sites
+your_current_role_alter_error	Your current role does not allow altering tasks with status:
+your_current_role_create_error	Your current role does not allow creating new task.
+your_sites	Your sites
+Zip code	Zip code
+zip_code	Zip code
+Zone	Zone
+Zone name	Zone name
+Zones	Zones
+Project does not have any checklists	Project does not have any checklists
+Search in e-mail addresses	Search in e-mail addresses
+Enterprise agreement	Enterprise agreement
+Open properties	Open properties
+Enterprise invoicing info	Invoicing information is used for all projects in the company agreement
+Add '{0}' to the list	Add '{0}' to the list
+Sort by last change	Sort by last change
+Sort by deadline	Sort by deadline
+required	required
+Required	Required
+Safety observations	Safety observations
+Safety observation	Safety observation
+Safety inspections	Safety inspections
+Safety inspection	Safety inspection
+Advanced modules	Advanced modules
+Invoicing information	Invoicing information
+Modules	Modules
+Module	Module
+Safety	Safety
+Activate	Activate
+Deactivate	Deactivate
+Active	Active
+Deactivated	Deactivated
+Recovered task	Recovered task
+A task has been recovered after an unexpected shutdown. Do you want to open it and continue editing?	A task has been recovered after an unexpected shutdown. Do you want to open it and continue editing?
+Edit task	Edit task
+Delete task	Delete task
+Description of control plan area	Description of control plan area
+Task type has been deleted	Task type has been deleted<br/><br/>Choose another task type.
+No responsible, draft not shared	No responsible (draft not shared)
+Deadline today	Deadline today
+Continue editing	Continue editing
+Inspection plans unavailable. No task types.	Inspection plans are unavailable because no task types have been added.
+Tasks with inspection plans	Tasks with inspection plans
+Name of duplicate	Name of copy
+Details	Details
+Are you sure you want to delete the image?	Are you sure you want to delete the image?
+Remove location	Remove location
+Cannot delete contract. Attached checklists or inspection plans	Cannot delete contract.\nAttached checklists or inspection plans
+Add attachment	Add attachment
+Send again	Send again
+Max 300 tasks in worker report	Max 300 tasks in worker reports
+Add company	Ajouter compagnie
+Edit company	Modifier compagnie
+Remove company	Retirer entreprise
+Are you sure you want to remove the user {0}?	Are you sure you want to remove the user {0}?
+Prepare for offline	Prepare for offline
+Disciplines (drawing)	Disciplines
+All disciplines	All disciplines
+All buildings	All buildings
+Downloading drawings	Downloading drawings
+Delete all offline drawings	Delete all offline drawings
+Could not get report	Could not get report
+Could not retrieve list	Could not retrieve list
+Create organisation	Create organisation
+Create building	Create building
+Create organisation info	You need to create an organisation.
+Create building info	You must create a building and publish it.
+Save and rotate	Gem og roter
+RGY	Red/Yellow/Green
+WorkDescription	Work description
+info invited project	You have been invited to the project {0}.
+Change password	Change password
+Remove user	Remove user
+Changes	Changes
+Changed by {0}	Changed by {0}
+History for {0}	History for {0}
+Photo added	Photo added
+Value changed	Value changed
+Comment changed	Comment changed
+Comment deleted	Comment deleted
+Value and comment changed	Value and comment changed
+Reply	Reply
+Coordinates	Coordinates
+Activity (report)	Activity
+Not activated	Not activated
+not activated	not activated
+Payment	Payment
+Project data	Project data
+Licenses	Licenses
+Next payment due	Paid for until
+Payer	Payer
+Quick fields	Quick fields
+Quick field	Quick field
+Remove quick field	Remove
+Edit quick field	Edit
+Export quick fields	Export
+Import quick fields	Import
+Person	Person
+Activated	Activated
+Rooms	Rooms
+Draw on map	Draw on map
+3D preview	3D preview
+Log	Log
+Upload	Upload
+File info	File info
+Displayed name	Displayed name
+Subdiscipline	Subdiscipline
+Upload date	Upload date
+Article ID field	Article ID field
+Room report ID	Room report ID
+Article report ID	Article report ID
+Report Server	Report server
+Project ID	Project ID
+Construction site address	Construction site address
+Select checklist	Select checklist
+Change password	Change password
+Change password message	You will need to log in again after the password has been changed.
+Change password ok	You will receive an e-mail with further instructions shortly.
+confirm remove building	Are you sure you want to delete this building?
+Are you sure you want to delete {0}?	Are you sure you want to delete {0}?
+choose file destination alert	You must choose a destination for all files
+uploading file	Uploading file...
+upload error	An error occured while uploading the file
+drawing processing	Drawings are currently being processed. Please wait.
+delete view text	Are you sure you want to delete this view?
+delete view title	Delete view
+no attribute selected text	There is no attribute chosen.
+link copy error	Could not copy link
+link copy text	A link to this comment has been copied to the clipboard.\n\nTo use it, press Ctrl + V.
+download error	Download error.
+From file	From file
+Original elevation	Original elevation
+Visible	Visible
+Level setup	Level setup
+is3DLevel text	Level is drawn to scale
+drawingsAreLevelCuts text	This drawing is a horizontal cut in 3D model
+Place drawing	Place drawing
+modelMustBePlaced text	As this level is drawn to scale, the drawing must be placed in relation to another drawing.
+btnRevit text	This file must be uploaded from within Revit by using a plugin
+cannot update file type	The file type cannot be updated
+Test	Test
+Server OK	Server OK!
+Total area	Total area
+Room name	Room name
+Area	Area
+Add level	Add level
+Edit level	Edit level
+drawings drawn to scale	Drawings on level drawn to scale
+Display 3D on this level	Display 3D on this level
+Generate 2D from 3D	Generate 2D drawing as a cut in the 3D model on this level
+GPS active	GPS active
+Message	Message
+Project person	Project person
+Another email	Another email
+Send link invitation	Send link invitation
+Other project name	Other project name
+Sharing	Sharing
+Upload to	Upload to
+Finish	Finish
+Publish following buildings	Publish following buildings
+Publish	Publish
+Rooms in	Rooms in
+Compare drawings	Compare drawings
+Version	Version
+Drawing information	Drawing information
+File information	File information
+Loading rooms	Loading rooms
+Isometric cut	Isometric cut
+Parallel to the axis	Parallel to the axis
+Legend	Legend
+North east	North east
+South east	South east
+South west	South west
+North west	North west
+Top	Top
+East	East
+North	North
+West	West
+South	South
+Drawing settings	Drawing settings
+DWG settings	DWG settings
+New files	New files
+Updated files	Updated files
+Apply new settings to updated files	Apply new settings to updated files
+DWG scale	DWG scale
+meter	meter
+Use colors	Use colors
+IFC settings	IFC settings
+Retrieving level information	Retrieving level information
+IFC level	IFC level
+Dalux level	Dalux level
+New level name	New level name
+Navigation from 2D to 3D	Navigation from 2D to 3D
+Use 2D drawings as specified in the IFC model	Use 2D drawings as specified in the IFC model (not all IFC models contain these)
+Create cutplanes from the 3D model	Create cutplanes from the 3D model (2D cut through all 3D geometry at the specified levels)
+Only create levels	Only create levels (2D DWG or PDF files must be mapped to enable navigation)
+Placed drawing	Placed drawing
+One or more of the updated drawings from PDFs or images are placed on a level	One or more of the updated drawings from PDFs or images are placed on a level. The updated drawings must have the same positions, or new registrations may not be placed correctly.
+Drawings with placement on levels	Drawings with placement on levels
+I will update the drawings if PDF/Image files have changed scale or position	I will update the drawings if PDF/Image files have changed scale or position
+Choose DWG file and referenced files	Choose DWG file and referenced files
+File Upload	File upload
+The unit scale is not a number	The unit scale is not a number
+ETA	ETA
+Click to set position manually	Click to set position manually
+Current drawing	Current drawing
+Match points for current drawing	Match points for current drawing
+Match drawing	Match drawing
+Match points for place drawing	Match points for place drawing
+Place relative to	Place relative to
+Combined display	Combined display
+Reference points not chosen	Reference points not chosen
+For validation purposes	For validation purposes
+Place this level	Place this level
+Start match point	Start match point
+End match point	End match point
+Rotation	Rotation
+Length	Length
+Match points	Match points
+Click on the drawing to select reference point A	Click on the drawing to select reference point A
+Click on the drawing to select reference point B	Click on the drawing to select reference point B
+This building has been deleted.	This building has been deleted.
+Dalux Field Account Manager	Dalux Field Account Manager
+Start date	Start date
+Expiration date	Expiration date
+Last activity	Last activity
+Price	Price
+Note	Note
+Invoices	Invoices
+Invoice	Invoice
+Are you sure you want to delete this role?	Are you sure you want to delete this role?
+From	De
+Add filter	Add filter
+To	À
+Drawing setup	Drawing setup
+Show on list	Show on list
+Show on drawing	Show on drawing
+The work description number is used to enumerate tasks. It must therefore be unique.	The work description number is used to enumerate tasks. It must therefore be unique.
+You must enter a prefix.	You must enter a prefix.
+Prefix is used for another template. The prefix must be unique.	Prefix is used for another template. The prefix must be unique.
+You must enter a work description number.	You must enter a work description number.
+Get started	Get started
+Action	Action
+Get started	Get started
+Help videos	Help videos
+History	History
+Checklist item	Checklist item
+manual_publish_description	Buildings must <b>manually</b> be made available when they have been processed.
+auto_publish_description	Buildings will <b>automatically</b> be made available when they have been processed.
+All checklists	All checklists
+Downloading checklists	Downloading checklists
+The project has been locked. Contact Dalux.	The project has been locked. Contact Dalux.
+The project has been locked. Contact project administrator.	The project has been locked. Contact project administrator.
+Account expired (admin)	Trial period has expired.
+Account expired (user)	Trial period has expired. Contact project administrator.
+My Dalux Field project has been locked ({0})	My Dalux Field project {0} has been locked
+Best regards	Best regards
+My Dalux Field project {0} has expired	My Dalux Field project {0} has expired
+Trial expired	Trial expired
+Trial expires today	Trial expires today
+Trial expires tomorrow	Trial expires tomorrow
+Trial expires in {0} days	Trial expires in {0} days
+Upgrade	Upgrade
+Project has been archived	Project has been archived
+I would like to upgrade my Dalux Field project {0}	I would like to end the trial period and upgrade my Dalux Field project {0}.
+Attachment added	Attachment added
+Attachment	Attachment
+View (verb)	View
+Create levels from {0}	Create levels from {0}
+Level creation	Level creation
+Create new levels from IFC files	Create new levels from IFC file
+Existing levels	Existing levels
+Units	Units
+Unit price	Unit price
+Billing	Billing
+The building does not exist anymore.	The building does not exist anymore.
+Invoice header {projectname}	Dalux Field for {0}
+Case no {projectnumber}	Case No.: {0}
+Period {start to end date}	Period: {0}
+Invoice Att {note}	Att: {0}
+Invoice Note {note}	Note: {0}
+Do you want to save the changes?	Do you want to save the changes?
+Don't save	Don't save
+Project number	Project number
+Project language	Project language
+Attention to on invoice	Attention to on invoice
+Note on invoice	Note on invoice
+Payment agreement	Company profile
+Company profile	Company profile
+1 license	1 license
+{0} licenses	{0} licenses
+Months	Months
+months	months
+Month	Month
+User licenses	User licenses
+Billing cycle	Billing cycle
+Next invoice	Next invoice
+Project status	Project status
+Payment information	Payment information
+Invoice history	Invoice history
+Company list	Company list
+Invoice email	Invoice email
+Default project language	Default project language
+Unused licenses	Unused licenses
+Administrators	Administrators
+Template project	Template project
+Open invoice	Open invoice
+Delete license	Delete license
+Delete user	Delete user
+Historical data	Historical data
+Project invoice information	Project invoice information
+Company profile invoice information	Company invoice information
+Task creators	Task creators
+Show invoice	Show invoice
+Photo removed	Photo removed
+Information removed	Information removed
+Information added	Information added
+Field added	Field added
+Field removed	Field removed
+Field updated	Field updated
+Information updated	Information updated
+previous value	previous value
+Connecting to Windows viewer	Connecting to Windows viewer
+You can't remove yourself from the project	You can't remove yourself from the project
+Remove association	Remove association
+No organization has been set	No organization has been set
+New trial project	New trial project
+Heading	Heading
+Level name	Level name
+Display 3D	Display 3D
+References	References
+Edit drawing	Edit drawing
+Show photo	Show photo
+No additional licenses required	No additional licenses required
+{0} additional licenses required	{0} additional licenses required
+Usage period	Usage period
+Subscription period	Subscription
+Invoice usage period	Usage period
+Subscriptions	Subscriptions
+License	License
+License discount	Discount, shared company license
+Add to favorites	Add to favorites
+Remove from favorites	Remove from favorites
+One additional license required	One additional license required
+Required field	Required field
+Please fill the required fields	Please fill the required fields
+Show license agreement	Show license agreement
+Accept license agreement	Accept license agreement
+Users to be activated	Users to be activated
+Users to be deleted	Users to be deleted
+You must accept the license agreement in order to proceed	You must accept the license agreement in order to proceed
+Select site manager	Select site manager
+Create project	Create project
+Create a new project	Create a new project
+Enter invoice information	Enter invoice information
+da-dk_LicenseAgreementsURL	http://field.dalux.com/manual/Dalux%20Field%20bruger%20forretningsbetingelser.pdf
+en-us_LicenseAgreementsURL	http://field.dalux.com/manual/Dalux%20Field%20End-user%20License%20Agreement.pdf
+License log	License log
+Standard project	Standard project
+Identification fields	Identification fields
+Edit help text	Edit help text
+Has license	Has license
+Choose standard project	Choose standard project
+DaluxUpdateText	Dalux Field has been updated. \nWe strongly recommend you to press the Refresh button in order to use the newest version.
+Licensed users	Licensed users
+Unlicensed users	Unlicensed users
+New Dalux Field version	New Dalux Field version
+Be aware that non-licensed users will be deleted from the project.	Be aware that non-licensed users will be deleted from the project.
+Are you sure you want to delete these users from the project?	Are you sure you want to delete these users from the project?
+Do not show again	Do not show again
+Dalux Field is updated	Dalux Field is updated
+{0} licenses are requested.	{0} licenses are requested.
+{0} users are chosen to be licensed.	{0} users are chosen to be licensed.
+Move {0} users to the {1} list in order to proceed.	Move {0} users to the '{1}' list in order to proceed.
+I accept	I accept
+the license agreement	the license agreement
+upgradeNotesURL	http://field.dalux.com/manual/newversion.htm
+Only an IT Administrator can upgrade a project.	Only an IT Administrator can upgrade a project.
+Contact IT Administrator	Contact IT Administrator
+Select timezone	Select timezone
+Fixed montly price	Fixed montly price

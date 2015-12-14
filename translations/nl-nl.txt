@@ -1,0 +1,1649 @@
+#	0xc3c3c3
+of	van
+#All	0xc3c3c3
+#all tasks	0xc3c3c3
+#approved	0x24A05B
+#Approved	0x24A05B
+#approved followup	0x6ACE61
+#ApprovedFollowup	0x6ACE61
+#awaiting approval	0xC6E47D
+#AwaitingApproval	0xC6E47D
+#checklist closed	0x24A05B
+#checklist open	0xE83438
+#completed	0xF7EA3E
+#Completed	0xF7EA3E
+#green	0x24A05B
+#inbox	0xE83438
+#Inbox	0xE83438
+#none	0xAAAAAA
+#ongoing	0xEF8235
+#Ongoing	0xEF8235
+#red	0xE83438
+#rejected	0xF7C425
+#Rejected	0xF7C425
+#selectioncolor	0xDAEBBF
+#yellow	0xF7EA3E
+(element ...)	(element ...)
+(multiple)	(meervoudig)
+(no deadline)	(geen deadline)
+(No photo)	Maak foto
+(No superior)	(Geen voorman)
+(No title)	(Geen titel)
+(none)	(geen)
+(Not set)	(Niet ingesteld)
+(Photo)	Opnieuw nemen
+(room ...)	(ruimte ...)
+(unspecified)	(niet nader gespecificeerd)
+{0} of {1}	{0} of {1}
+{0} unsent message	{0} onverzonden bericht
+{0} unsent messages	{0} onverzonden berichten
+0 tasks for {0}	0 tasks for {0}
+A client error occured	A client error occured.\nDalux has been notified.
+A main responsbile cannot be removed	A main responsbile cannot be removed
+Accept	Accepteren
+Accept eula	Accepteer onze <a href='eula.htm' target='_blank'>voorwaarden</a>
+Account expired (admin)	<center><br/><br/>Dalux Field project "{0}" has expired.<br/><br/>Contact Dalux to reactivate your project.<br/><br/>&nbsp;</center>
+Account expired (user)	<center><br/><br/>Dalux Field project "{0}" has expired.<br/><br/>Contact the IT administrator to reactivate your project.<br/><br/>&nbsp;</center>
+accuracy	nauwkeurigheid
+Active user	Actieve gebruiker
+add	Toevoegen
+Add	Toevoegen
+Add building	Add building
+Add criteria	Add criteria
+Add information	Voeg informatie toe
+Add new registration	Add new registration
+Add new role	Voeg nieuwe functie toe
+Add other user	Voeg andere gebruiker toe
+Add other user...	Voeg andere gebruiker toe…
+Add person	Add person
+Add persons	Add persons
+Add photo	Add photo
+Add project user	voeg project gebruiker toe
+Add quick field	Voeg korte titel toe
+add subordinate warning	Je gaat een ondergeschikte toevoegen aan:\n{0} ({1})\n\nDoorgaan?
+add subordinate warning	U staat op het punt om hieronder een functie toe te voegen {1} in het bouwwerk {1}.\n\nVerder gaan?
+Add zone	Add zone
+added	Toegevoegd
+Added	Toegevoegd
+Address	Adres
+Address 1	Adres 1
+Address 2	Adres 2
+Address book	Contacten
+address1	Adres 1
+address2	Adres 2
+administration	Administratie
+Administration	Administratie
+Administrator	Beheerder
+administrators	Beheerder
+administrators	Beheerders
+Advanced	Geavanceerd
+Advanced filter	Advanced
+After	Na
+alert delete role	Weet u zeker dat u deze functie wilt verwijderen?\n\nOpgedragen taken {0} Blijft beschikbaar voor {1} onder "lopende".
+all	Alles
+All	Alles
+All (folder)	Alle taken
+All contracts	Alle contracten
+All tasks	Alle taken
+All tasks (folder)	Alle taken
+All tasks will be deleted	Onverzonden taken en concepten zullen verloren gaan
+All users	Alle gebruikers
+all_users	Alle gebruikers
+all_users	Alle gebruikers
+Allow cookies	cookies toestaan (<a href='cookies.htm' target='_blank'>read more</a>)
+Allow create tasks	Aanmaken taken toestaan
+Allow create tasks colleagues	Aanmaken taken voor collega's toestaan
+Allow create users	Aanmaken gebruikers toestaan
+already created	is al aangemaakt
+already exists	Bestaat al
+Altered	Veranderd
+Annotate	Aantekeningen foto
+Anonymous user	Anonieme gebruiker
+Approve	Goedkeuren, sluiten
+Approve followup	Goedkeuren, vervolgen
+Approved	Goedgekeurd, afgesloten
+Approved (date)	Goedgekeurd
+Approved (folder)	Goedgekeurd
+Approved by	Goedgekeurd, afgesloten door
+Approved closed (folder)	Goedgekeurd, afgesloten
+Approved followup	Goedgekeurd, vervolg
+Approved followup (folder)	Goedgekeurd, vervolg
+Approved, followup by	Goedgekeurd, opvolging door
+ApprovedFollowup (folder)	Goedgekeurd, vervolg
+Architecture (model)	Architectuur
+Archive (folder)	Voltooid
+Are you sure you want to delete building "{0}"?	Are you sure you want to delete the building "{0}"?
+Are you sure you want to delete this checklist?	Are you sure you want to delete this checklist?
+Are you sure you want to delete this control plan?	Are you sure you want to delete this inspection plan?
+area	Oppervlakte
+Area (discipline)	Area
+AreaPlan	Brutto-/nettoplaner
+arrow	Pijl
+Ascending A-Z	Ascending A-Z
+Assign	Toewijzen
+Assign to	Toewijzen aan
+assigned	Toegewezen
+Assigned	Toegewezen
+Assigned by	Toegekend door
+Assigned to	Toegewezen aan
+Assigned to	Toegekend aan
+Assigned to {0}	Toegewezen aan <u>{0}</u>
+assignee	Gevolmachtigde
+Assignee	Gevolmachtigde
+Associate checklist	Associate with checklist
+Associated checklist	Bijbehorende checklist
+Association comment	Comment on association
+Attention to	Att
+Auto	Auto
+Available offline	Offline beschikbaar
+Awaiting approval (folder)	In afwachting van goedkeuring
+AwaitingApproval (folder)	In afwachting van goedkeuring
+back	Terug
+Back	Terug
+Bar	Staaf
+Base data	Basisgegevens
+Before	Voor
+BIM object	Building part
+BIM object type	Building part type
+bottom right	bodemrecht
+box	Doos
+Bring to front	Bring to front
+Building	Gebouw
+Building incomplete	Gebouw niet beschikbaar
+Building is not ready	Bygningen er ikke klar
+Building name	Naam gebouw
+Building overview	Overzicht gebouw
+Building status	Gebouwstatus
+building updated?	Building not found. Repositioning required. Has the drawing material been updated?
+building_incomplete	Gebouw niet beschikbaar
+building_incomplete_text	Het gebouw werd onlangs geüpdate en wordt momenteel voorbereid voor weergave op het mobiele apparaat. Het gebouw is tijdelijk niet beschikbaar
+building_model_analysing	The building is being analysed.
+building_model_not_uploaded	Gebouwmodel nog niet geüpload
+building_model_pending	The building is scheduled for analysis.
+building_model_queued_reanalysis	Building is currently queued for reanalysis.
+building_model_waiting	Building is currently queued for analysis.
+building_name	Naam gebouw
+building_name	Naam gebouw
+building_name_cannot_be_empty	Naam gebouw mag niet leeg zijn!
+building_name_cannot_be_empty	Naam gebouw mag niet leeg zijn!
+building_overview	Overzicht gebouw
+buildings	Gebouwen
+Buildings	Gebouwen
+by	door
+Can be approved upon creation	Kan worden goedgekeurd over creatie
+Can delete when	It is only possible to delete all tasks when there are less than 50 tasks in the project.
+cancel	Annuleren
+Cancel	Annuleren
+CANCEL	ANNULEREN
+Cancel changes	Veranderingen niet opslaan
+Cannot remove project owner	Cannot remove project owner
+Category	Categorie
+Caution	Waarschuwing
+CeilingPlan	Loftsplaner
+change	Veranderen
+Change	Veranderen
+Change location	Change location
+Change to automatic publishing	Change to automatic publishing
+Change to manual publishing	Change to manual publishing
+change...	Veranderen…
+changed	Veranderd
+changed from	Veranderd vanaf
+changed_by	Veranderd door
+changed_from	Veranderd vanaf
+Checklist	Checklist
+Checklist association changed	Checklist association changed
+Checklist changes will be saved	Veranderingen aan de checklist zullen worden opgeslagen.\nDoorgaan?
+Checklist closed	Checklist afgesloten
+Checklist no.	Checklist nr.
+Checklist report	Checklist rapport
+Checklist template	checklist sjabloon
+Checklist template order	Checklist sjabloon rangschrikken
+Checklists	Checklists
+Checklists disabled	Checklists uitgeschakeld
+Checklists enabled	Checklists ingeschakeld
+Choose	Kies
+Choose...	Kies...
+city	Stad
+City	Stad
+City	Stad
+Clear	Clear
+Clear annotations	Aantekeningen wissen
+Click on the map to place origo	Klik op de plattegrond om het referentiepunt te plaatsen
+Click to open	Click to open
+Client error	Client error
+close	Afsluiten
+Close	Afsluiten
+Closed (singular)	Voltooid
+Color	Kleur
+Color code	kleurcode
+Color code changed	kleurcode veranderd
+Combined	Gecombineerd
+Combined report	Gecombineerd rapport
+Comment	Commentaar
+Compact	Compact
+Companies	Bedrijven
+company	Bedrijf
+Company	Bedrijf
+Company name	Bedrijfsnaam
+Complete	Klaar
+Completed	Gemeld als afgerond
+Completed (checklist)	Voltooid
+Completed (folder)	Gemeld als afgerond
+Completed by	verholpen door
+Complexity	Complexiteit
+Compressing image	Comprimeren afbeelding…
+Compressing image	Comprimeren afbeelding…
+Confirm	Bevestigen
+Confirm delete construction	Are you sure you want to delete this contract?
+confirm delete site	Weet u zeker dat u deze omgeving wilt verwijderen?
+Confirm deletion	Confirm deletion
+Confirm password	Wachtwoord bevestigen
+confirm_password	Wachtwoord bevestigen
+Confirmation required	Bevestiging noodzakelijk
+Connection problems	Problemen met verbinding
+Connection problems	Connection problems\n\nTry again...
+Connection problems	Connection problems
+connection_lost	Problemen met verbinding
+connection_lost_text	Geen internet verbinding
+construction	Bouwwerk
+Construction	Bouwwerk
+constructions	Bouwwerken
+Constructions	Bouwwerken
+Contact Dalux	Contact Dalux
+Contact information	Contact informatie
+Contact IT Administrators	Contact IT Administrator
+Contains	Contains
+Continue logout	Uitloggen?
+Contract	Bouwwerk
+Contract management	Contract management
+Contractor	Aannemer
+Control plan	Inspection plan
+Control plan area	Inspection plan area
+Control plans	Inspection plans
+Copy from other project	Copy from other project
+copy_link	Link kopiëren
+Correspondence	correspondentie
+Correspondence report	Samengeperst rapport
+Correspondence report (filename)	Samengeperst rapport
+could not center on gps description	Kan niet centreren op locatie. GPS positie is buiten tekengebied
+could not center on gps title	GPS positie ver weg
+Could not open attachment	Could not open attachment no. {0}.\nIs the file broken?
+Could not reach the server	Could not reach the server. Are you connected to the internet?
+could_not_find_comment	Kon geen commentaar vinden gespecificeerd in link.\n\n Omgeleid naar omgeving gebruiker
+Country	Land
+Craftsman	Vakman
+Create	Aanmaken
+Create Construction	Aanmaken bouwwerk
+Create demo user	Aanmaken demo gebruiker
+Create empty checklist	Create empty checklist
+Create empty control plan	Create empty inspection plan
+Create inspection	Opslaan rapport
+Create new	Nieuw aanmaken
+Create role	Aanmaken bewerken
+Create roles	Create roles
+Create send	Aanmaken, verzenden
+Create user	Aanmaken gebruiker
+Create user	Aanmaken gebruiker
+Create user	Aanmaken gebruiker
+Create user	Aanmaken gebruiker
+Create user	Aanmaken gebruiker
+Create user	Aanmaken gebruiker
+Create user	Aanmaken gebruiker
+create:	Aanmaken: {0}
+created	Gemaakt
+Created	Gemaakt
+Created by	Gemaakt door
+Created by (email)	Gemaakt door (e-mail)
+Created only via checklists	Alleen gemaakt via checklists
+created_by	Aangemaakt door
+Creates tasks	Creates tasks
+credetials_fail	gebruikersgegevens komen niet overeen
+Criteria	Criteria
+custom_filter	Aangepast filter
+Daily summary	Dagsamenvatting
+Dalux administration	Dalux administration
+Dalux daily	Dalux Dagoverzicht
+Dashboard	Grafische presentatie
+Data fields	Terrein gegevens
+Data removed from {0} checklists	Saving changes will <font style="color:#DD0000">delete</font> data from {0} checklists.
+Database	Database
+date	Datum
+Date	Datum
+dateformat	MMM d yyyy, HH:mm tt
+dateformat_air	MMM d yyyy, HH:mm
+dateformat_air_checklist	MMM d yyyy, HH:mm
+dateformat_deadline	MMM d yyyy
+dateformat_short	MMM d
+dateformatDayYear	MMMM d yyyy
+deadline	Deadline
+Deadline	Deadline
+Deadline changed	Deadline veranderd
+Default description	Default description
+Default description	Default description
+Deficiency	Probleem
+Delegated to	Delegated to
+Delete	Verwijderen
+delete	Verwijderen
+Delete all	Delete all
+Delete all tasks	Delete all tasks
+Delete building	Delete building
+Delete checklist	Delete checklist
+Delete control plan	Delete inspection plan
+Delete draft	Verwijder concept
+Delete Draft	Verwijder concept
+Delete draft	Delete draft
+Delete draft (draft)	Verwijder concept
+Delete draft (update)	Verwijder concept
+Delete draft alternative	Verwijder concept
+Delete drawing	Delete drawing
+Delete from outbox	Verwijder uit Outbox
+Delete photo	Delete photo
+Delete selection	Verwijder selectie
+Delete tasks	Delete tasks
+Delete view	Delete view
+Delete x tasks	Taken verwijderen: {0}x {1}
+Delete zone	Delete zone
+Demo user	Demo user
+Descending Z-A	Descending Z-A
+description	Beschrijving
+Description	Beschrijving
+Detail	Detaljetegninger
+Detail reports	Detail rapporten
+Detailed	Uitgebreid
+Deviation	Deviation
+DF	P
+Disabled	Disabled
+Discard changes	Discard changes
+Discipline	Discipline
+Discipline (drawing)	Discipline
+Discipline already exists	Discipline already exist for this contract
+Disciplines	Disciplines
+Displays	Vertonen
+Do you accept the invitation to the project {0}?	Do you accept the invitation to the project {0}?
+Do you want to save changes to the draft?	Do you want to save changes to the draft?
+Do you want to save the draft?	Do you want to save the draft?
+document file types	*.pdf
+Documents	Documenten
+Does not contain	Does not contain
+Done	Klaar
+Download	Download
+Download PDF	Download PDF
+Downloading checklist...	Downloaden checklist…
+Downloading report...	Downloaden rapport.
+Downloading task {0} of {1}	Downloading task {0} of {1}
+Draft	Concept
+Draft early version, change location	<center>NB!<br/><br/>The draft has been created with an earlier version of Dalux Field. Update the location.<br/><br/>Remeber to keep Dalux Field for mobile up to date</center>
+Drafts	Concepten
+Drawing	Tekening
+Drawing information	Drawing information
+Drawing updated {0}	Drawing updated {0}
+Drawing with tasks	Tekening met taken
+Drawings	Tegninger
+dRofus integration	dRofus-integration
+Copy row	Copy row
+Duplicate	Duplicate
+DUT_MILLIMETERS	mm
+DUT_SQUARE_METERS	m²
+DV	DV
+Economy	Besparing
+Economy changed	Besparing veranderd
+edit	Bewerken
+Edit	Bewerken
+Edit building	Edit building
+Edit building model file	Bewerk bestand gebouwmodel 
+Edit persons	Edit persons
+Edit photo	Foto bewerken
+Edit project data	Bewerkt project gegevens
+Edit properties	Eigenschappen bewerken
+Edit role	Functie bewerken
+Edit site data	Bewerkt omgeving gegevens
+Edit user	Bewerk gebruiker
+Edit zone	Edit zone
+Edit zones	Edit zones
+Edit contract	Bewerk bouwwerk
+element updated?	Building part not found. Repositioning required. Has the drawing material been updated?
+element_properties	Opties
+Elevation	Verdieping
+Elevation lower	Elevation, lower
+Elevation upper	Elevation, upper
+ellipse	Ovaal
+email	E-mail
+Email	E-mail
+Email for new tasks	E-mail for new tasks
+Email log	E-mail log
+Email settings	Mail settings
+Email settings (ribbon)	Mail settings
+Email with daily summary	E-mail with daily summary 
+email:	E-mail:
+empty_list	De lijst is leeg
+Enable	Toestaan
+Enable checklists	Inschakelen checklists
+Enable photos	Toestaan foto's
+Enabled	Enabled
+EngineeringPlan	Konstruktionsplaner
+Enter discpline	Enter discipline
+Enter title	Enter title
+enterprise	Onderneming
+Entire list	Volledige lijst
+Equals	Equals
+error	Foutmelding
+Error	Foutmelding
+Error	Fout
+Error downloading offline data	Fout met downloaden gegevens
+Excel	Excel
+Excel and locations	Excel en locaties
+Excel and locations	Excel en locaties
+Existing	Bestaand
+existing	Bestaand
+existing task restricted to {0}	Bestaande taak: Beperkt tot '{0}'
+Export	Exporteer
+Export all	Exporteer alles
+Export failed	Export mislukt
+Export overview	Exporteer overzicht
+Fictive user	Fictieve gebruiker
+Field definition	Terrein definitie
+Field type	Terrein type
+Fields	Velden
+File	Bestand
+File could not be downloaded	The file could not be downloaded
+File to upload	Bestand om te uploaden
+Filename	Filename
+Files	Bestanden
+Files to upload	Bestand om te uploaden
+Fill in	Invullen
+Filters	Filters
+find	Zoeken
+First levels	Eerste
+First name	Voornaam
+first_name	Voornaam
+Floor	Vloer
+Floor name	Naam plattegrond
+Floor plan	plattegrond
+Floor plans	Plattegrond
+Floor properties	Eigenschappen plattegrond
+floor updated?	Floor plan not found. Repositioning required. Has the drawing material been updated?
+floor_name	Verdieping
+Floorplan	Plattegrond
+FloorPlan	Etageplaner
+floorplans	Plattegronden
+Floorplans	Plattegronden
+floors	Plattegronden
+Floors	Plattegronden
+flow_configuration	Continue configuratie
+flow_configuration_definition	Definitie continue configuratie
+Folder	Map
+Folder tools	Map opties
+Foreman	Uitvoerder
+found	found
+From camera	Vanaf Camera
+From drawing	From drawing
+From gallery	Vanaf Galerij
+General problem	General problem
+Generate report	Genereer rapport
+Generating document	Genereren document
+Generating picture	Genereren afbeelding
+Generating report	Genereren rapport…
+Generating report {0}	Genereren rapport {0}
+Get Revit plug-in	Get Revit plug-in
+GIS location	GIS locatie
+GIS placement not chosen	GIS plaatsing niet gekozen
+Go to location	Toon locatie
+gps accuracy timeout description	Kan GPS niet activeren. Controleer de instellingen van het apparaat om zeker te zijn dat GPS is ingeschakeld en het signaal goed is.
+gps accuracy timeout title	GPS
+gps accuracy too coarse description	GPS nauwkeurigheid laag (40 meter+)
+gps accuracy too coarse title	GPS
+gps not enabled description	Kan GPS niet activeren. Controleer de instellingen van het apparaat om zeker te zijn dat GPS is ingeschakeld
+gps not enabled title	GPS
+Greater than	Greater than
+Greater than equals	Greater than equals
+Green	Groen
+Grid	Grid
+Header	Aanhef
+height	Hoogte
+Help text	Help tekst
+Home	Begin
+i_accept	Ik ga akkoord met deze gratis dienst &quot;as is&quot;
+ID	ID
+image file types	*.gif;*.png;*.jpg;*.jpeg
+images	Afbeeldingen
+Images	Afbeeldingen
+Import	importeer
+Import complete	The project setting import was successfull
+Import from	Import from
+Import from file	Import from file
+Import from filesystem	Import from filesystem
+Import from projects	Import from projects
+Inactive user	Inactieve gebruiker
+Inbox	Inbox
+Inbox (folder)	Inbox
+Include signing field	Include attachments
+Include attachments	Include attachments
+Include tasks	Include tasks
+Info	Informatie
+info 500+ options	There are more than 2000 unique options.\nUse the search filter underneath
+info add building name	Naam gebouw mag niet leeg zijn!
+info admin edits work description	Alleen beheerders kunnen de werkbeschrijvingen bewerken.\nBeheerders staan vermeld onder Gebruikers (Onder instellingen aan het menu aan de linkerkant).
+info another user created this task	Een andere gebruiker heeft deze taak aangemaakt. Alleen deze gebruiker kan de taak inzien of bewerken
+info app update	Update Dalux Field<br/><br/>Remember to synchronize unsent data before updating
+info batch deny assign wd	It is only possible to assign multiple tasks at once when all tasks are within the same area and work description.\n\nNarrow down the selection. You might want to apply a filter on the columns Supervision and Work Description.
+info batch deny reply	It is only possible {0} multiple tasks at once as long as the selected tasks can be changed by you.\n\nDo you have write permissions to the selected tasks?\nDid you select the right folder?\n\nRemove selection of tasks you can no longer change.
+info building incomplete	Het gebouw werd onlangs geüpdate en wordt momenteel voorbereid voor weergave op het mobiele apparaat. Het gebouw is tijdelijk niet beschikbaar
+info building queued analysis	Building is being updated. Try again later.
+info building update failed	Building update failed. Contact Dalux.
+info building updating 3d	Drawings are being updated. Try again later.
+info cannot edit work description	De werkbeschrijving kan alleen worden ingesteld als de huidige functie van de voorman geen werkbeschrijving heeft. Alleen beheerders kunnen werkbeschrijvingen wijzigen voor zichzelf.
+info checklist conflict	<p align="center">Checklist werd elders gewijzigd.<br/>De veranderingen zullen worden overschreven door te klikken op opslaan .<br/><br/><b>Klik om veranderingen te zien</b></p>
+info checklist not sent retry	De checklist is niet opgeslagen.<br/><br/>Klik op opslaan om opnieuw te proberen.
+info checklist offline	Deze checklist is niet beschikbaar offline
+info commit checklist first	<P ALIGN="center">Bijbehorende checklist niet gevonden.<br/>Upload checklist of verwijder foto.</P>
+info company has users	Cannot remove a company having users
+info connection lost	Geen internet verbinding
+info contract uses company	Company with one or more contracts
+info credetials fail	gebruikersgegevens komen niet overeen
+info demo site	Dit is een demo project. Daarom is het niet toegestaan BIM instellingen aan te passen
+info document ready	Het document is gereed.
+info document ready download	Het document is gereed. Downloaden?
+info email not validated	e-mail adres is niet bevestigd
+info empty list	De lijst is leeg
+info field missing	{0}' ontbreekt
+info image load failed	Afbeelding laden is mislukt
+info invalid email	Het emailadres dat u heeft ingevoerd is niet geldig.
+info invalid password	Uw wachtwoord moet minstens 6 tekens lang zijn
+info invalid roleworkdescription delete	Cannot remove work descriptions that are in use.
+info invited	<p align="center">Uitnodiging voor project '{0}'</p>
+info isnan {0}	Opgegeven waarde voor '{0}' is geen getal
+info logged in	U bent nu ingelogd
+info logged out	U bent uitgelogd
+info mail sent {0}	Een e-mail is verzonden naar '{0}'
+info must select assignee	A responsible must be selected.
+info must update task	Internetverbinding nodig om taak te updaten
+info new user added mail sent	Een uitnodigingsmail is verzonden naar het gespeciffeerde e-mail adres.\n\nDe gebuiker zal worden geactiveerd wanneer de e-mail bevestigd is via de link in de uitnodigingsmail en de gebruiker is aangemaakt.
+info no bim	No BIM, CAD or PDF's. Upload from Settings.
+info no company selected	You have not selected a company.
+info no creator role	<p align="center">Project instellingen zijn gewijzigd<br/>U heeft geen toegang meer om deze taak te wijzigen</p>
+info no delete company	Bedrijf kan niet  verwijderd worden omdat gebruikers onderdeel van dit bedrijf zijn.\n\n
+info no delete role	Kan de functie niet verwijderen met ondergeschikten.\n\nWanneer een nieuwe persoon de huidige vervangt, mag de huidige functie niet worden verwijderd. Klik Aanpassen om persoon te vervangen
+info no delete user organisation	User van
+info no delete user substitute	Gebruiker
+info no discipline	A discipline must be entered.
+info no permission	You do not have permissions to edit here.
+info no title	A title must be entered.
+info no update role	<p align="center">Rapport is gewijzigd<br/>U kunt het rapport niet meer updaten<br/>is de zaak veranderd of afgesloten?</p>
+info none selected	Geen taak geselecteerd
+info non-existing assignee role	<p align="center">Project instellingen zijn gewijzigd<br/>De taak kan niet meer toegewezen worden naar deze persoon</p>
+info non-existing assignee wd	<p align="center">Project instellingen zijn gewijzigd<br/>De taak kan niet meer toegewezen worden naar deze persoon</p>
+info non-existing role	<p align="center">Project instellingen zijn gewijzigd<br/>Uw huidige functie geeft geen toegang om deze taak te wijzigen</p>
+info non-existing substitute	<p align="center">Project instellingen zijn gewijzigd<br/>U heeft geen toegang meer om deze taak te wijzigen</p>
+info not self superior	Is het mogelijk om
+info offline finding location	Offline<br/>Gebruik maken van dichtsbijzijnde beschikbare locatie
+info offline minimodel	Offline<br/>Er is geen verbinding met het internet en het kleine model is niet beschikbaar voor offline gebruik
+info offline minimodel frame	Offline<br/>Er is geen verbinding met het internet en de huidige kijkhoek is niet beschikbaar voor offline gebruik
+info offline new visit 2d	Er is geen verbinding met het internet en de huidige plattegrond is niet beschikbaar voor offline gebruik
+info offline new visit 3d	Er is geen verbinding met het internet en er zijn geen locaties beschikbaar voor offline gebruik
+info open draft	<p align="center">Concept<br/><b>Klik om het rapport te tonen</b></p>
+info password no match	Ingevoerde wachtwoorden komen niet overeen
+info picture ready	Download afbeelding
+info picture ready download	De afbeelding is klaar om te downloaden
+info preview only	Enkel een voorvertoning van het voorbeeld model is beschikbaar
+info processing 3d	View is being updated. Try again later.
+info program error	<p align="center">Programma fout opgetreden<br/>Neem contact op met Dalux (support@dalux.com)</p>
+info project setting error	<p align="center">Onvoorspelbare project instellingen<br/>Neem contact op met Dalux (support@dalux.com)</p>
+info remove company	Are you sure you want to delete this company?
+info remove self	You are about to remove yourself from the project\n\nContinue?
+info remove work description	Wees ervan bewust dat aangemaakte taken met deze werkbeschrijving niet langer gegroepeerd kunnen worden gebasseerd op dit eigendom.\nDe werkbeschrijving zal automatisch verwijderd worden van de Beïnvloede functies. \n\n doorgaan?
+info report has update in folder	<p align="center">Let op!<br/>Er zijn updates voor het rapport in de mappen {0}</p>
+info report has updates in folder	<p align="center">Let op!<br/>Er zijn updates voor het rapport in de mappen {0}</p>
+info report has updates in folders	<p align="center">Let op!<br/>Er zijn updates voor het rapport in de mappen {0}</p>
+info report ready	Het rapport is klaar.
+info report ready download	Het rapport is klaar. Downloaden?
+info role name not empty	Geef naam functie
+info server error	Er is een fout opgetreden op de server
+info site manager change	Wanneer uw functie omgeving beheerder is en je vervangt jezelf,  zal u niet langer in staat zijn gebruiker tools te beheren. \n \n Deze actie kan niet ongedaan gemaakt worden!
+info synchronizing no open	Niet verzonden berichten worden gesynchroniseerd. Inzendingen kunnen ondertussen niet bekeken worden.
+info task altered	<p align="center">Taken veranderd<br/>De update is niet verplicht.<br/>Klik om het rapport te openen</p>
+info task not available	<P ALIGN="center">Dit rapport is niet beschikbaar</P>
+info task offline	<P ALIGN="center">Dit rapport is niet beschikbaar offline</P>
+info task sent update checklist	De taak is verzonden naar de server. Update de checklist om het rapport resultaat te zien
+info too many tasks	In dit gebied: {0} taken
+info unhandled error	Er is een onverwachte fout opgetreden
+info user added mail sent	De gebruiker is nu toegevoegd en een uitnodigingsmail wordt naar het opgegeven e-mail adres gestuurd.\n\nDe gebruiker wordt geactiveerd wanneer de email wordt bevestigd via de link in de uitnodigingsmail
+info user invitation accepted	Gebruiker aangemaakt en uitnodiging geaccepteerd
+info user not found create?	Gebruiker niet gevonden. Wilt u deze gebruiker aanmaken?
+info wait synchronizing tasks	De taak kan niet worden geopend gedurdende de outbox wordt gesychroniseerd. Probeer het later opnieuw
+info wizard new user	Een persoon die niet deel uit maakt van uw Dalux Field project. Een uitnodiging wordt verzonden wanneer u op creëer klikt.
+Insert	Invoegen
+Insert comment	Voeg opmerking toe
+Insert text	Insert text
+Inspection	Toezicht
+Inspection note	Controle opmerking
+Instant mails	Mail for each new task
+Instructions	Instructies
+Interval	Interval
+Invalid password	Invalid password
+invalid_flow	Ongeldige Actie
+invalid_flow_text	Actie van de gebruiker niet geldig (is de taak veranderd?)
+invalid_user	Ongeldige gebruiker
+invalid_user_text	Gebruikersgegevens of gebruiksrechten zijn gewijzigd
+Invitation	Uitnodiging
+Invitation accepted (date)	Invitation accepted
+Invitation sent (date)	Invitation sent
+Invitation to x from y	Invitation to {0} from {1}
+Invitations	Invitations
+Invite user	Gebruiker uitnodigen
+Invoice e-mail	Invoice e-mail
+Invoice information	Invoice information
+Invoice note	Invoice note
+Is empty	Is empty
+Is not empty	Is not empty
+is_not_available	 is niet beschikbaar
+IT Administrators	IT-administratorer
+Landscape	Landschap
+language	nl
+Language	Taal
+language (splash screen)	nl
+language_code	nl-nl
+Last editet	Laatst gewijzigd
+Last edited	Laatst gewijzigd
+Last modified	Laatst gewijzigd
+Last modified by	Laatst gewijzigd door
+Last name	Achternaam
+Last updated	Laatst bijgewerkt op
+Last updated by	Laatst bijgewerkt door
+Last uploaded by	Laatst geüpload door
+last_name	Achternaam
+Less than	Less than
+Less than equals	Less than equals
+Less than one minute remaining	Less than one minute remaining
+Let us know	Laat het ons weten
+lets_know	Laat het ons weten
+Level	Vloer
+Levels	Levels
+List	Lijst
+loading	Laden
+Loading (from disk)	Loading
+Loading buildings	Loading buildings
+Loading data	Gegevens laden
+Loading drafts...	Laden concepten…
+Loading list data	Laden gegevenslijst
+Loading list data...	Laden gegevens lijst…
+located on plan	Gelegen op plattegrond
+located on plan and view	Gelegen op plattegrond en aanzicht
+location	Locatie
+Location	Locatie
+Location changed	Locatie veranderd
+location:	Locatie:
+Location: {0}	Locatie: {0}
+Log in	Inloggen
+Log out	Uitloggen
+log_in	Inloggen
+log_out	Uitloggen
+Logged in as	Ingelogd als
+logged_in_as	Ingelogd als
+logged_out	U bent uitgelogd
+Login refused text	Gebruiker/wachtwoord niet gevonden.
+Login refused title	Ongeldige gebruiker
+Login revoked text	Gebruikersgegevens of gebruiksrechten zijn gewijzigd
+Login revoked title	Ongeldige gebruiker
+logo	Logo
+Logo	Logo
+Project photo	Project photo
+logo_editor_text	Dit logo zal worden gebruikt in geprinte rapporten
+Long	Uitgebreid
+low	Laag
+manage_users	Gebruikers beheren
+Map	Map
+Markers	Markeringen
+Memo no.	Memo nr.
+minute	minute
+minutes	minutes
+Modified	Gewijzigd
+modified	Gewijzigd
+Month1	januari
+Month10	oktober
+Month11	november
+Month12	december
+Month2	februari
+Month3	maart
+Month4	april
+Month5	mei
+Month6	juni
+Month7	juli
+Month8	augustus
+Month9	september
+Move down	omlaag
+Move to drafts	Verplaats naar concepten
+Move up	Omhoog
+Multiple	Meervoudig
+Multiple filters	Veel filters
+Multiple responsible	meerdere verantwoordelijken
+must accept cookies	Om Dalux Field te gebruiken moet u het gebruik van cookies toestaan
+must accept terms	Om Dalux Field te gebruiken moet u onze algemene voorwaarden accepteren
+name	Naam
+Name	Naam
+Network failure. Try again	Netwerkstoring. Probeer opnieuw
+New	Nieuw
+new	Nieuw
+New (m)	Nieuw
+New assignee	Nieuwe gevolmachtigde
+New building	New building
+New building model file	Nieuw gebouwmodel bestand
+New checklist	Nieuwe checklist
+New company	Nieuw bedrijf
+New construction	Nieuwe bouwwerk
+New construction	Nieuw bouwwerk
+New department	New department
+New discipline	New discipline
+New fictive user	Nieuwe fictieve gebruiker
+New floor	Nieuwe plattegrond
+New inspection	Nieuwe aantekening toezicht
+New project	Nieuw project
+New registration	New registration
+New site	Nieuw bouwterrein
+New supervisor area	Nieuw gebied toezichthouders
+new task	new task
+New tasks	Nieuwe taken
+New user	Nieuwe gebruiker
+New work description	Nieuwe werk beschrijving
+new_building	Nieuw gebouw
+new_demo_site	Nieuwe demo omgeving
+new_demo_site_details	New demo bouwterrein.\n\nAlleen kleine gebouwen toegestaan
+new_site_details	Nieuw bouwterrein met onbeperkte grootte
+new_status	Nieuwe status
+new_task_list	Nieuwe taaklijst
+new_value	Nieuwe waarde
+Next	Volgende
+No	No
+No available sites	Geen beschikbare bouwterreinen
+No building and floors available for this site. GIS can not be placed	Geen gebouw en plattegronden beschikbaar voor deze omgeving. GIS kan niet geplaatst worden
+No building and floors available for this site. GIS can not be placed	Geen gebouw en plattegronden beschikbaar voor deze omgeving. GIS kan niet geplaatst worden
+No buildings	No buildings
+No checklists	No checklists
+No connection	Geen verbinding…
+No drafts	Geen concepten
+No drawing material available.	No drawing material available.
+No drawing selected	No drawing selected
+No drawings	Ingen tegninger
+No permission text	Gevraagde bewerking geweigerd wegens functie beperkingen
+No permission title	Toestemming afgewezen
+No picture	No picture
+No registrations	Geen inschrijvingen
+No results	No results
+No room	(Geen ruimte)
+No selection	Geen selectie
+no selection	Geen selectie
+No sorting	Nee sorteer
+No sorting	No sorting
+No tasks	No tasks
+No title	Geen titel
+No.	Nr.
+no_building	(geen gebouw)
+no_connection	Geen verbinding…
+no_floor	(geen vloer)
+no_floors	(geen vloer)
+no_room	(geen ruimte)
+no_selection	Geen selectie
+no_title	(Geen titel)
+none	Geen
+None	Geen
+None (filter)	Geen
+normal	Normaal
+Not allowed	Niet toegestaan
+Not created	Niet aangemaakt
+Not deleted	Niet verwijderd
+Not equal	Not equal
+Not logged in	Niet ingelogd
+Not selected	Not selected
+Not sent (singular)	Niet verzonden
+Not set	Niet ingesteld
+Not signed up	Not signed up
+Not synchronized	Niet gesynchroniseerd
+not_found	Niet gevonden
+not_set	(Niet ingesteld)
+Note field on registrations	Opmerking veld op registraties
+Notes	Aantekeningen
+notification	Bekendmaking
+Notification	Bekendmaking
+number	Nummer
+Number	Nummer
+Number series	Nummer reeksen
+object	Object
+Observations	Waarnemingen
+Observer	Toeschouwer
+Observer (single letter)	T
+Observers	Toeschouwers
+Observers:	Toeschouwers:
+of	van
+Offline	Offline
+Offline	Offline
+offline_finding_location	Offline<br/>Gebruik maken van dichtsbijzijnde beschikbare locatie
+offline_minimodel	Offline<br/>Er is geen verbinding met het internet en het kleine model is niet beschikbaar voor offline gebruik
+offline_minimodel_frame	Offline<br/>Er is geen verbinding met het internet en de huidige kijkhoek is niet beschikbaar voor offline gebruik
+offline_mode_description	Drawings and tasks in folders Inbox, Rejected and Reported ready are downloaded to be used in offline mode.
+offline_mode_warning	Note that large amounts of data are being downloaded, and it is therefore recommended to use Wi-Fi during the data transfer.
+offline_new_visit_2d	Offline<br/>Er is geen verbinding met het internet en de huidige plattegrond is niet beschikbaar voor offline gebruik
+offline_new_visit_3d	Offline<br/>Er is geen verbinding met het internet en er zijn geen locaties beschikbaar voor offline gebruik
+ok	OK
+Ok	OK
+OK	OK
+old_value	Oude waarde
+Ongoing (folder)	Lopend
+Open	Open
+Open (folder)	Open
+Open (singular)	Begonnen
+Open checklist	Open checklist
+Open dRofus report	Open dRofus report
+Open object properties	Open object properties
+Open project	Open project
+Open site	Open project
+Order	Rangschrikken
+Organization	Organisatie
+Orientation (print)	Oriëntering
+Origin	Oorsprong
+Other	Ander
+other_users	Andere gebruikers
+Others	Others
+outbox	Niet verzonden
+Outbox	Niet verzonden
+Outbox failed	Niet gesynchroniseerd
+Outbox images	Onverzonden afbeeldingen
+Outbox images failed	Ongesynchroniseerde afbeeldingen
+outbox_failed	Niet gesynchroniseerd
+Overall assessment	Commentaar
+overview	overzicht
+Overview	Overzicht
+Overview drawing	Overview drawing
+overview on floorplans	overzicht van plattegronden
+overview, printouts	overzicht, afdrukken
+Own	Eigen lopende
+Own roles	Eigen
+Page	Pagina
+parent	oorzaak
+Passive user	Passieve gebruiker
+password	Wachtwoord
+Password	Wachtwoord
+Password again	Wachtwoord opnieuw
+Permanent task deletion	Alle taken zullen permanent worden verwijderd en kan niet worden hersteld
+Permissions	Machtigingen
+Persons	Personen
+Phone	Telefoon
+Phone (short)	Tel
+photo	Foto
+Photo	Foto
+Photo taken	Genomen foto
+photoJpgCompression	60
+photoJpgQuality	60
+photoMaxHeight	1024
+photoMaxWidth	1024
+photos	Foto's
+Photos	Foto's
+picture	Afbeelding
+Pie	Taart
+Place action	Plaats
+Placement	Plaatsing
+Placement description	Placement description
+Please wait...	Even geduld aub…
+Portrait	Portret
+Prefix	Voorvoegsel
+prefix deficiency	N
+prefix inspection	T
+Prepare project for offline use	Bereid uw bouwterrein voor offline gebruik
+Preparing file	Het bereiden bestand
+Preparing project for offline use	Voorbereiden van het bouwterrein voor offline gebruik
+Prev. deadline	Vorige deadline
+Prev. subject	Vorig onderwerp
+Preview	Voorbeeld
+Previous	Vorige
+Print	Export
+Print (print)	Print
+Print all	Exporteer alles
+Print selected	Exporteer geselecteerde
+Printed	Afgedrukt
+Printing	Printen
+printout locations	afdruk locaties
+Printouts	Exporteer
+printouts, list	afdrukken, lijst
+priority	Prioriteit
+Priority	prioriteit
+Priority changed	prioriteit veranderd
+project	Project
+Project	Project
+Project access restricted	Project access limited to mobile use.\n\nContact Dalux for full access (support@dalux.com).
+Project configuration	Project configuration
+Project expired	Project expired
+Project info	Project info
+Project information	Project information
+Project name	Projectnaam
+Project no.	Project nr.
+Project organisation	Bouwmanagement
+Project participant	Project participant
+Project prepared for offline use	Terrein voorbereid voor offline gebruik
+Projects	Projecten
+Properties	Opties
+properties_changed	Eigenschappen veranderd
+property	Eigendom
+psc.	psc.
+Publish	Publish
+Published buildings	Published buildings
+Punch Lists	Dashboard
+q user role	Welke rol moet de persoon die u wilt aanmaken hebben?
+QA	KB
+Quality Assurance	Kwaliteitsbewaking
+Quick subjects	Onderwerpen kort
+Quick titles	titels kort
+R	R
+Reason	Reden
+Receipt for execution	Aantekeningen uitvoering
+Receives tasks	Receives tasks
+Recieves tasks	Verantwoordelijk voor verbeteringen
+Recorded	Gemaakt
+Recorded by	Gemaakt door
+Red	Rood
+Refresh	Vernieuwen
+REG	INS
+Registration	Inschrijving
+Registrations	Inschrijvingen
+Registrations (filename)	Inschrijvingen
+Reject	Verwerpen
+Rejected	Verworpen
+Rejected (folder)	Verworpen
+Rejected by	Verworpen door
+Related contract	Related contract
+Relation	Relatie
+Remaining time	Remaining time
+Remember me	Onthoud mij
+Remind unsubscribed	Send invitations
+remove	Verwijderen
+Remove	Verwijderen
+Remove	Remove
+Remove person	Remove person
+Remove work description	Verwijder werkbeschrijving
+removed	Verwijderd
+Removed	Verwijderd
+Rename	Hernoemen
+Rename building	Rename building
+rename...	Hernoemen…
+rename_task_list	Hernoem takenlijst
+Report id	Report id
+Report settings	Rapport instellingen
+Reports	Rapporten
+Required fields	Verplichte velden
+Reset view	Reset columns
+Resp. company	Resp. company
+Resp. email	Resp. email
+Responded date	Responded date
+Responsible	Verantwoordelijke
+retry	Opnieuw proberen
+Retry	Opnieuw proberen
+Revision	Herziening
+role	Functie
+Role	Functie
+Role has subordinates. Cant delete	Role has subordinates. Cannot delete role.
+Room	Ruimte
+Room ID field	Room ID field
+room updated?	Room not found. Repositioning required. Has the drawing material been updated?
+rooms	Ruimtes
+rotate	Draaien
+rotate left	Draai linksom
+rotate picture save	Draaien alleen mogelijke wanneer rode-lijnen zijn opgeslagen.\n\nSla afbeelding op en draai
+rotate right	Draai rechtsom
+S:Substitute, O: Observer	V: Vervanger, T:Toeschouwer
+Safety report	Safety report
+Save	Opslaan
+Save	Opslaan
+SAVE	OPSLAAN
+Save as Draft	Opslaan als concept
+Save changes	Save changes
+Save checklist	Sla checklist op
+Save draft	Concept opslaan
+Save view	Save view
+Saved	Opgeslagen
+search	Zoeken
+Search	Zoeken
+Search	Zoeken
+Search (filter)	Search
+Search criteria	Zoekcriteria
+Search for	Search for
+Section	Snittegninger
+Select	KIes
+select	Kiezen
+Select all	Select all
+Select all	Select all
+Select assignee	Kies gevolmachtigde
+Select construction	Kies bouwwerk
+select construction text	Selecteer de aannemer in opdracht
+Select drawing	Kies plattegrond
+Select only one for deletion	Selecteer slechts één voor verwijdering
+Select supervisor	Kies toezichthouder
+select supervisor text	Kies de toezichthouder van het betreffende bouwwerk
+Select user	Kies gebruiker
+Select user company:	Kies of specificeer gebruiker bedrijf
+Select users	Selecteer gebruikers
+Select work descriptions	Kies werk beschrijvingen
+select_a_status	Selecteer eerst een status
+select_an_assignee	Kies een gevolmachtigde
+Selected	Selected
+selected area	geselecteerd gebied
+Selected first	Selected first
+Selected last	Selected last
+selected tasks	geselecteerd taken
+SelectFilter	Kiezen filter
+Selection only	Alleen selectie
+selection only	Alleen selectie
+send	Sturen
+Send	Sturen
+Send e-mail	Send e-mail
+Send invitations	Send invitations
+Send password	Stuur wachtwoord
+Send to back	Send to back
+Sent (email)	Sent
+Server	Server
+Server Error	Server fout
+server_error	Server fout
+server_error_text	Er is een fout opgetreden op de server
+Set location	Set location
+Set selected responsible	Set selected as responsible
+set_to	ingesteld op
+settings	Instellingen
+Settings	Instellingen
+Settings (filter)	Instellingen
+Several contracts	Meerdere bouwwerken
+Shared sites	Met u gedeelde bouwterreinen 
+shared_sites	Met u gedeelde bouwterreinen 
+Short	Beknopt
+Show company	Bedrijf
+Show drawings	Show drawings
+Show entire organization	Toon de gehele organisatie
+Show location	Toon locatie
+Show work descriptions	Toon werk beschrijvingen
+Signature	Handtekening
+Signing field	Ondertekening veld
+Signing field	Attachments
+Attachments	Attachments
+Simple	Eenvoudig
+Single report	Single report
+Single reports	Single reports
+Single users	Single users
+Site data	Bouwterrein gegevens
+Site is already prepared for offline use	Terrein is al voorbereid voor offline gebruik
+Site management	Site management
+Site manager assistant	Zien/Uitgeven
+Site name	Projectnaam
+Site number	Project omgeving
+site_data	Gegevens bouwterrein
+site_name	Bouwterrein naam
+Sites	Projecten
+slow app	Certain parts of the application may react slower than usual.
+SorteringAZ	Sorteren A-Z
+SorteringZA	Sorteren Z-A
+Specify name	Geef de naam op
+Specify number	Geef het aantal op
+Specify prefix	Geef Voorvoegsel
+Specify subject	Benoem onderwerp
+Specify user name	Geef de naam van de gebruiker
+standard	standaard
+Standard filter	Standard filter
+StandardFilter	Standaardfilter
+Start drawing	Start drawing
+status	Status
+Status	Status
+Status report	Status report
+Status report (filename)	Status report
+status_changed_from	Status gewijzigd van
+Stay here	Blijf hier
+Stay here	Blijf hier
+Stop drawing	Stop drawing
+Subcontractor	Onderaannemer
+Subject	Subject
+Subject already exists	Onderwerp bestaat al
+Substitute (single letter)	V
+Substitute for	Vervangen voor
+Substitutes and observers	Plaatsvervangers en waarnemers
+Substitutes and observers	Vervangers en toeschouwers
+Substitutes:	Vervangers:
+Summary	Overzicht
+Summary	Samenvatting
+Superior role:	Voorman functie:
+Supervisor	Opzichter
+Supervisor role with tasks cant be removed	Supervisor role with tasks cannot be removed.
+support	Help
+Supported files	Supported files
+Synchronize now	synchroniseer nu
+Synchronized	Gesynchroniseerd
+synchronizing	Sychroniseren
+Synchronizing	Sychroniseren
+Tabel with tasks PDF	Tabel met taken (PDF)
+Table (Excel)	Tabel (Excel)
+Table (PDF)	Tabel (PDF)
+Table with tasks excel	Tabel met taken (Excel)
+Take me to Login	Ga naar Inloggen
+Task	Taak
+Task count	Number of tasks of this type
+Task flow	Task flow
+Task folders	Task folders
+Task reports (PDF)	Takenrapport (PDF)
+Task template	Taak sjabloon
+task_list	Takenlijst
+task_list	Takenlijst
+task_list_setup	Takenlijst instellingen
+task_lists	Takenlijst
+tasks	Taken
+Tasks	Taken
+Tasks and issues	Tasks and issues
+Tasks associated with role. Cant delete	Tasks are associated with role. Cannot delete role.
+Tasks on plan drawings	Taken op plattegronden
+tasks_open	Open taken
+tasks_total	Alle taken
+Templates	Templates
+Text	Tekst
+text	Tekst
+The file is ready	Het bestand is klaar
+The user will be removed	De gebruiker wordt verwijderd
+The user will be removed from all aspects of the project.	De gebruiker wordt verwijderd uit alle delen van het project.
+There is an update to the application	An app update is available!
+Time of invitation	Tijdstip van de uitnodiging
+title	onderwerp
+Title	Titel
+Title (role)	Title
+Title changed	Titel veranderd
+title_changed_from	Titel veranderd van
+to	naar
+to approve	to approve
+to assign	to assign
+to report ready	to report ready
+Try Demo Site	Probeer demo omgeving
+Type	Type
+Type password for user	Type password for user
+Type prefix	Type voorvoegsel
+Types	Types
+unassigned	(niet toegewezen)
+Unassigned	(niet toegewezen)
+unchanged	Onveranderd
+Unchanged	Onveranderd
+unhandled_error	Er is een onverwachte fout opgetreden
+unhandled_error_title	Fout
+Unpacking drawings	Unpacking drawings
+Unpublished buildings	Unpublished buildings
+unsent_message	{0} onverzonden bericht
+unsent_messages	{0} onverzonden berichten
+Update	Bijwerken
+Update checklist	Update checklist
+Update Dalux Field	Update Dalux Field
+Update now	Update now
+Update user	Bijwerken gebruiker
+update:	Bijwerken: {0}
+update_task	Bijwerken
+Updated	Bijgewerkt
+Updated {0}	Bijgwerkt {0}
+Updated by	Bijgewerkt door
+updated_by	Bijgewerkt door
+updated_date	Bijgwerkt {0}
+updating	Actualisering
+Updating	Actualisering
+Upload DWG	Upload DWG
+Upload DWGs	Upload DWGs
+Upload image	Upload afbeelding
+Upload PDF	Upload PDF
+upload_company_logo	Upload bedrijfslogo
+Uploaded by	Uploaded by
+url:support	http://field.dalux.com/manual/
+Use	Gebruik
+Use automatic publishing	Use auto publishing
+Use automatic publishing text	Do you want to change to automatic publishing?\n\nBuildings and drawings will automatically be published when they are ready.
+Use building	Use building
+Use location	Use location
+Use manual publishing	Use manual publishing
+Use manual publishing text	Do you want to change to manual publishing?\n\nYou publish buildings and drawings manually when they are ready.
+Use search field below	Use search field below
+user	Gebruiker
+User	Gebruiker
+User active	Gebruiker werkzaam
+User company	Gebruiker bedrijf
+User email settings	Mail settings
+User exists already	Gebruiker bestaat al
+User found	Gebruiker gevonden
+User has signed up	User has signed up
+User name	E-mail
+User not found	Gebruiker niet gevonden
+User not signed up	User not signed up
+User not validated	Gebruiker niet geldig
+User removed	Gebruiker verwijderd
+User rights	Gebruikersrechten
+user_defined_flow	Door de gebruiker gedefinieerde continuiteit
+Users	Gebruikers
+Users removed	Gebruikers verwijderd
+users_that_can_be_managed	Gebruikers die kunnen worden beheerd
+users_with access	Gebruikers met toegang tot dit bouwterrein
+Value	Waarde
+Values	Values
+VATIN	Btw-nr
+View	Zien
+View	View
+View buildings on map	View buildings on map
+View case	Bekijk
+View for	Bekijk voor
+View user	Bekijk
+View/Edit	Zien/Uitgeven
+View/Edit (responsible)	Zien/Uitgeven (verantwoordelijke)
+Views	Aanzichten
+wait	Wacht…
+Wait	Wacht
+Warning	Waarschuwing
+warning remove user	Weet u zeker dat u deze gebruiker wilt verwijderen?
+Warning!	Waarschuwing
+Web service rejected your request	Web service rejected your request
+Week	Week
+Weekly safety report	Weekly report
+whatis: construction	Bouwwerk dekt het contract. Een bouwwerk kan uit meerdere surveillance gebieden bestaan
+whatis: discipline	Het gebied van de toezichthouders is de discipline welke wordt gecontrolleerd. Voorbeelden van disciplines zijn bijvoorbeeld 'Plumbing', 'Electric' en 'Fitting'.
+whois: building owner	A user that can see all tasks but not edit the tasks
+whois: contractor	Iemand die zich bezig houdt met het bouwmanagement en verantwoordelijk is voor het op tijd leveren en zorgen dat het bouwwerk voldoet aan de afgesproken kwaliteit binnen de overeenkomst.
+whois: fictive	Een gebruiker die ofwel niet bekend is, of later zal worden uitgenodigd om deel te nemen aan dit project
+whois: site manager	De beheerder van deze omgeving heeft de dagelijkse verantwoordelijkheid voor de omgeving en is er verantwoordelijk voor dat alle contracten op tijd geleverd worden en voldoen aan de overeengekomen kwaliteit
+whois: site manager assistant	A users that can see and edit all tasks
+whois: subcontractor	Een persoon die zicht heeft toegewijd om een contractuele overeenkomst opeen specifieke taak met een gebouwbeheerder
+whois: supervisor	Iemand die controlleerd of het bouwwerk correct is uitgevoerd op zijn gebied van verantwoordelijkheid
+With date	Met datum
+Without date	Zonder datum
+Work description	Werk beschrijving
+Work descriptions	Werk beschrijvingen
+Work.Desc	Work.Desc
+Work.Num	Work.Num
+Worker report	Worker report
+workflow_definition	Workflow definitie
+Yellow	Geel
+Yes	Yes
+You can not delete this control plan because there are tasks associated with it	You can not delete this inspection plan because there are tasks associated with it
+You cannot delete this checklist template because there exists checklists of this type.	You cannot delete this checklist template because there exists checklists of this type.
+You have not been assigned to any projects yet.	You have not been assigned to any projects yet.
+You must accept this	Om Dalux Field te gebruiken moet u accepteren:
+You must be administrator to add buildings	Drawings are linked from another project. You do not have permission to alter the drawings.
+You must be administrator to change publishing settings	Drawings are linked from another project. You do not have permission to change publishing settings.
+You must be administrator to delete buildings	Drawings are linked from another project. You do not have permission to delete buildings.
+You must be administrator to edit buildings	Drawings are linked from another project. You do not have permission to edit buildings.
+You must be administrator to rename buildings	Drawings are linked from another project. You do not have permission to rename buildings.
+You must be online to log in	You must be online to log in
+you_are_logged_in	U bent ingelogd
+Your colleagues drafts	Concept van uw collega's
+Your column setup is being reset	Your column setup is being reset
+Your drafts	Uw concepten
+Your sites	Uw bouwterreinen
+your_current_role_alter_error	Uw huidige functie staat niet toe om taken te veranderen met deze status:
+your_current_role_create_error	Uw huidige functie staat niet toe om nieuwe taken te maken
+your_sites	Uw bouwterreinen
+Zip code	Postcode
+zip_code	Postcode
+Zone	Zone
+Zone name	Zone name
+Zones	Zones
+Project does not have any checklists	Project does not have any checklists
+Search in e-mail addresses	Search in e-mail addresses
+Enterprise agreement	Enterprise agreement
+Open properties	Open properties
+Enterprise invoicing info	Invoicing information is used for all projects in the company agreement
+Add '{0}' to the list	Add '{0}' to the list
+Sort by last change	Sort by last change
+Sort by deadline	Sort by deadline
+required	required
+Required	Required
+Safety observations	Safety observations
+Safety observation	Safety observation
+Safety inspections	Safety inspections
+Safety inspection	Safety inspection
+Advanced modules	Advanced modules
+Invoicing information	Invoicing information
+Modules	Modules
+Module	Module
+Safety	Safety
+Activate	Activate
+Deactivate	Deactivate
+Active	Active
+Deactivated	Deactivated
+Recovered task	Recovered task
+A task has been recovered after an unexpected shutdown. Do you want to open it and continue editing?	A task has been recovered after an unexpected shutdown. Do you want to open it and continue editing?
+Edit task	Edit task
+Delete task	Delete task
+Description of control plan area	Description of control plan area
+Task type has been deleted	Task type has been deleted<br/><br/>Choose another task type.
+No responsible, draft not shared	No responsible (draft not shared)
+Deadline today	Deadline vandaag
+Continue editing	Continue editing
+Inspection plans unavailable. No task types.	Inspection plans are unavailable because no task types have been added.
+Tasks with inspection plans	Tasks with inspection plans
+Name of duplicate	Name of copy
+Details	Details
+Are you sure you want to delete the image?	Are you sure you want to delete the image?
+Remove location	Remove location
+Cannot delete contract. Attached checklists or inspection plans	Cannot delete contract.\nAttached checklists or inspection plans
+Add attachment	Add attachment
+Send again	Send again
+Max 300 tasks in worker report	Max 300 tasks in worker reports
+Add company	Bedrijf toevoegen
+Edit company	Bedrijf aanpassen
+Remove company	Bedrijf verwijderen
+Are you sure you want to remove the user {0}?	Are you sure you want to remove the user {0}?
+Prepare for offline	Prepare for offline
+Disciplines (drawing)	Disciplines
+All disciplines	All disciplines
+All buildings	All buildings
+Downloading drawings	Downloading drawings
+Delete all offline drawings	Delete all offline drawings
+Could not get report	Could not get report
+Could not retrieve list	Could not retrieve list
+Create organisation	Create organisation
+Create building	Create building
+Create organisation info	You need to create an organisation.
+Create building info	You must create a building and publish it.
+Save and rotate	Gem og roter
+RGY	Red/Yellow/Green
+WorkDescription	Work description
+info invited project	You have been invited to the project {0}.
+Change password	Change password
+Remove user	Remove user
+Changes	Changes
+Changed by {0}	Changed by {0}
+History for {0}	History for {0}
+Photo added	Photo added
+Value changed	Value changed
+Comment changed	Comment changed
+Comment deleted	Comment deleted
+Value and comment changed	Value and comment changed
+Reply	Reply
+Coordinates	Coordinates
+Activity (report)	Activity
+Not activated	Not activated
+not activated	not activated
+Payment	Payment
+Project data	Project data
+Licenses	Licenses
+Next payment due	Paid for until
+Payer	Payer
+Quick fields	Quick fields
+Quick field	Quick field
+Remove quick field	Verwijderen
+Edit quick field	Bewerken
+Export quick fields	Exporteer
+Import quick fields	importeer
+Person	Person
+Activated	Activated
+Rooms	Ruimtes
+Draw on map	Draw on map
+3D preview	3D preview
+Log	Log
+Upload	Upload
+File info	File info
+Displayed name	Displayed name
+Subdiscipline	Subdiscipline
+Upload date	Upload date
+Article ID field	Article ID field
+Room report ID	Room report ID
+Article report ID	Article report ID
+Report Server	Report server
+Project ID	Project ID
+Construction site address	Construction site address
+Select checklist	Select checklist
+Change password	Change password
+Change password message	You will need to log in again after the password has been changed.
+Change password ok	You will receive an e-mail with further instructions shortly.
+confirm remove building	Are you sure you want to delete this building?
+Are you sure you want to delete {0}?	Are you sure you want to delete {0}?
+choose file destination alert	You must choose a destination for all files
+uploading file	Uploading file...
+upload error	An error occured while uploading the file
+drawing processing	Drawings are currently being processed. Please wait.
+delete view text	Are you sure you want to delete this view?
+delete view title	Delete view
+no attribute selected text	There is no attribute chosen.
+link copy error	Could not copy link
+link copy text	A link to this comment has been copied to the clipboard.\n\nTo use it, press Ctrl + V.
+download error	Download error.
+From file	From file
+Original elevation	Original elevation
+Visible	Visible
+Level setup	Level setup
+is3DLevel text	Level is drawn to scale
+drawingsAreLevelCuts text	This drawing is a horizontal cut in 3D model
+Place drawing	Place drawing
+modelMustBePlaced text	As this level is drawn to scale, the drawing must be placed in relation to another drawing.
+btnRevit text	This file must be uploaded from within Revit by using a plugin
+cannot update file type	The file type cannot be updated
+Test	Test
+Server OK	Server OK!
+Total area	Total area
+Room name	Room name
+Area	Oppervlakte
+Add level	Add level
+Edit level	Edit level
+drawings drawn to scale	Drawings on level drawn to scale
+Display 3D on this level	Display 3D on this level
+Generate 2D from 3D	Generate 2D drawing as a cut in the 3D model on this level
+GPS active	GPS active
+Message	Message
+Project person	Project person
+Another email	Another email
+Send link invitation	Send link invitation
+Other project name	Other project name
+Sharing	Sharing
+Upload to	Upload to
+Finish	Finish
+Publish following buildings	Publish following buildings
+Publish	Publish
+Rooms in	Rooms in
+Compare drawings	Compare drawings
+Version	Version
+Drawing information	Drawing information
+File information	File information
+Loading rooms	Loading rooms
+Isometric cut	Isometric cut
+Parallel to the axis	Parallel to the axis
+Legend	Legend
+North east	North east
+South east	South east
+South west	South west
+North west	North west
+Top	Top
+East	East
+North	North
+West	West
+South	South
+Drawing settings	Drawing settings
+DWG settings	DWG settings
+New files	New files
+Updated files	Updated files
+Apply new settings to updated files	Apply new settings to updated files
+DWG scale	DWG scale
+meter	meter
+Use colors	Use colors
+IFC settings	IFC settings
+Retrieving level information	Retrieving level information
+IFC level	IFC level
+Dalux level	Dalux level
+New level name	New level name
+Navigation from 2D to 3D	Navigation from 2D to 3D
+Use 2D drawings as specified in the IFC model	Use 2D drawings as specified in the IFC model (not all IFC models contain these)
+Create cutplanes from the 3D model	Create cutplanes from the 3D model (2D cut through all 3D geometry at the specified levels)
+Only create levels	Only create levels (2D DWG or PDF files must be mapped to enable navigation)
+Placed drawing	Placed drawing
+One or more of the updated drawings from PDFs or images are placed on a level	One or more of the updated drawings from PDFs or images are placed on a level. The updated drawings must have the same positions, or new registrations may not be placed correctly.
+Drawings with placement on levels	Drawings with placement on levels
+I will update the drawings if PDF/Image files have changed scale or position	I will update the drawings if PDF/Image files have changed scale or position
+Choose DWG file and referenced files	Choose DWG file and referenced files
+File Upload	File upload
+The unit scale is not a number	The unit scale is not a number
+ETA	ETA
+Click to set position manually	Click to set position manually
+Current drawing	Current drawing
+Match points for current drawing	Match points for current drawing
+Match drawing	Match drawing
+Match points for place drawing	Match points for place drawing
+Place relative to	Place relative to
+Combined display	Combined display
+Reference points not chosen	Reference points not chosen
+For validation purposes	For validation purposes
+Place this level	Place this level
+Start match point	Start match point
+End match point	End match point
+Rotation	Rotation
+Length	Length
+Match points	Match points
+Click on the drawing to select reference point A	Click on the drawing to select reference point A
+Click on the drawing to select reference point B	Click on the drawing to select reference point B
+This building has been deleted.	This building has been deleted.
+Dalux Field Account Manager	Dalux Field Account Manager
+Start date	Start date
+Expiration date	Expiration date
+Last activity	Last activity
+Price	Price
+Note	Note
+Invoices	Invoices
+Invoice	Invoice
+Are you sure you want to delete this role?	Are you sure you want to delete this role?
+From	Van
+Add filter	Add filter
+To	Aan
+Drawing setup	Drawing setup
+Show on list	Show on list
+Show on drawing	Show on drawing
+The work description number is used to enumerate tasks. It must therefore be unique.	The work description number is used to enumerate tasks. It must therefore be unique.
+You must enter a prefix.	You must enter a prefix.
+Prefix is used for another template. The prefix must be unique.	Prefix is used for another template. The prefix must be unique.
+You must enter a work description number.	You must enter a work description number.
+Get started	Get started
+Action	Action
+Get started	Get started
+Help videos	Help videos
+History	History
+Checklist item	Checklist item
+manual_publish_description	Buildings must <b>manually</b> be made available when they have been processed.
+auto_publish_description	Buildings will <b>automatically</b> be made available when they have been processed.
+All checklists	All checklists
+Downloading checklists	Downloading checklists
+The project has been locked. Contact Dalux.	The project has been locked. Contact Dalux.
+The project has been locked. Contact project administrator.	The project has been locked. Contact project administrator.
+Account expired (admin)	Trial period has expired.
+Account expired (user)	Trial period has expired. Contact project administrator.
+My Dalux Field project has been locked ({0})	My Dalux Field project {0} has been locked
+Best regards	Best regards
+My Dalux Field project {0} has expired	My Dalux Field project {0} has expired
+Trial expired	Trial expired
+Trial expires today	Trial expires today
+Trial expires tomorrow	Trial expires tomorrow
+Trial expires in {0} days	Trial expires in {0} days
+Upgrade	Upgrade
+Project has been archived	Project has been archived
+I would like to upgrade my Dalux Field project {0}	I would like to end the trial period and upgrade my Dalux Field project {0}.
+Attachment added	Attachment added
+Attachment	Attachment
+View (verb)	View
+Create levels from {0}	Create levels from {0}
+Level creation	Level creation
+Create new levels from IFC files	Create new levels from IFC file
+Existing levels	Existing levels
+Units	Units
+Unit price	Unit price
+Billing	Billing
+The building does not exist anymore.	The building does not exist anymore.
+Invoice header {projectname}	Dalux Field for {0}
+Case no {projectnumber}	Case No.: {0}
+Period {start to end date}	Period: {0}
+Invoice Att {note}	Att: {0}
+Invoice Note {note}	Note: {0}
+Do you want to save the changes?	Do you want to save the changes?
+Don't save	Don't save
+Project number	Project number
+Project language	Project language
+Attention to on invoice	Attention to on invoice
+Note on invoice	Note on invoice
+Payment agreement	Company profile
+Company profile	Company profile
+1 license	1 license
+{0} licenses	{0} licenses
+Months	Months
+months	months
+Month	Month
+User licenses	User licenses
+Billing cycle	Billing cycle
+Next invoice	Next invoice
+Project status	Project status
+Payment information	Payment information
+Invoice history	Invoice history
+Company list	Company list
+Invoice email	Invoice email
+Default project language	Default project language
+Unused licenses	Unused licenses
+Administrators	Administrators
+Template project	Template project
+Open invoice	Open invoice
+Delete license	Delete license
+Delete user	Delete user
+Historical data	Historical data
+Project invoice information	Project invoice information
+Company profile invoice information	Company invoice information
+Task creators	Task creators
+Show invoice	Show invoice
+Photo removed	Photo removed
+Information removed	Information removed
+Information added	Information added
+Field added	Field added
+Field removed	Field removed
+Field updated	Field updated
+Information updated	Information updated
+previous value	previous value
+Connecting to Windows viewer	Connecting to Windows viewer
+You can't remove yourself from the project	You can't remove yourself from the project
+Remove association	Remove association
+No organization has been set	No organization has been set
+New trial project	New trial project
+Heading	Heading
+Level name	Level name
+Display 3D	Display 3D
+References	References
+Edit drawing	Edit drawing
+Show photo	Show photo
+No additional licenses required	No additional licenses required
+{0} additional licenses required	{0} additional licenses required
+Usage period	Usage period
+Subscription period	Subscription
+Invoice usage period	Usage period
+Subscriptions	Subscriptions
+License	License
+License discount	Discount, shared company license
+Add to favorites	Add to favorites
+Remove from favorites	Remove from favorites
+One additional license required	One additional license required
+Required field	Required field
+Please fill the required fields	Please fill the required fields
+Show license agreement	Show license agreement
+Accept license agreement	Accept license agreement
+Users to be activated	Users to be activated
+Users to be deleted	Users to be deleted
+You must accept the license agreement in order to proceed	You must accept the license agreement in order to proceed
+Select site manager	Select site manager
+Create project	Create project
+Create a new project	Create a new project
+Enter invoice information	Enter invoice information
+da-dk_LicenseAgreementsURL	http://field.dalux.com/manual/Dalux%20Field%20bruger%20forretningsbetingelser.pdf
+en-us_LicenseAgreementsURL	http://field.dalux.com/manual/Dalux%20Field%20End-user%20License%20Agreement.pdf
+License log	License log
+Standard project	Standard project
+Identification fields	Identification fields
+Edit help text	Edit help text
+Has license	Has license
+Choose standard project	Choose standard project
+DaluxUpdateText	Dalux Field has been updated. \nWe strongly recommend you to press the Refresh button in order to use the newest version.
+Licensed users	Licensed users
+Unlicensed users	Unlicensed users
+New Dalux Field version	New Dalux Field version
+Be aware that non-licensed users will be deleted from the project.	Be aware that non-licensed users will be deleted from the project.
+Are you sure you want to delete these users from the project?	Are you sure you want to delete these users from the project?
+Do not show again	Do not show again
+Dalux Field is updated	Dalux Field is updated
+{0} licenses are requested.	{0} licenses are requested.
+{0} users are chosen to be licensed.	{0} users are chosen to be licensed.
+Move {0} users to the {1} list in order to proceed.	Move {0} users to the '{1}' list in order to proceed.
+I accept	I accept
+the license agreement	the license agreement
+upgradeNotesURL	http://field.dalux.com/manual/newversion.htm
+Only an IT Administrator can upgrade a project.	Only an IT Administrator can upgrade a project.
+Contact IT Administrator	Contact IT Administrator
+Select timezone	Select timezone
+Fixed montly price	Fixed montly price

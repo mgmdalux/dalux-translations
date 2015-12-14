@@ -1,0 +1,1649 @@
+#	0xc3c3c3
+of	of
+#All	0xc3c3c3
+#all tasks	0xc3c3c3
+#approved	0x24A05B
+#Approved	0x24A05B
+#approved followup	0x6ACE61
+#ApprovedFollowup	0x6ACE61
+#awaiting approval	0xC6E47D
+#AwaitingApproval	0xC6E47D
+#checklist closed	0x24A05B
+#checklist open	0xE83438
+#completed	0xF7EA3E
+#Completed	0xF7EA3E
+#green	0x24A05B
+#inbox	0xE83438
+#Inbox	0xE83438
+#none	0xAAAAAA
+#ongoing	0xEF8235
+#Ongoing	0xEF8235
+#red	0xE83438
+#rejected	0xF7C425
+#Rejected	0xF7C425
+#selectioncolor	0xDAEBBF
+#yellow	0xF7EA3E
+(element ...)	(elemento...)
+(multiple)	(múltiplos)
+(no deadline)	(sem deadline)
+(No photo)	Tirar foto
+(No superior)	(Sem superior)
+(No title)	(Sem título)
+(none)	(nenhum)
+(Not set)	(Não configurado)
+(Photo)	Retomar
+(room ...)	(cômodo...)
+(unspecified)	(não especificado)
+{0} of {1}	{0} of {1}
+{0} unsent message	{0} mensagem não enviada
+{0} unsent messages	{0} mensagens não enviadas
+0 tasks for {0}	0 tasks for {0}
+A client error occured	A client error occured.\nDalux has been notified.
+A main responsbile cannot be removed	Um responsável principal não pode ser removido
+Accept	Aceitar
+Accept eula	Aceitar nossos <a href='eula.htm' target='_blank'>termos e condições</a>
+Account expired (admin)	<center><br/><br/>Dalux Field project "{0}" has expired.<br/><br/>Contact Dalux to reactivate your project.<br/><br/>&nbsp;</center>
+Account expired (user)	<center><br/><br/>Dalux Field project "{0}" has expired.<br/><br/>Contact the IT administrator to reactivate your project.<br/><br/>&nbsp;</center>
+accuracy	precisão
+Active user	Usuário ativo
+add	Adicionar
+Add	Adicionar
+Add building	Add building
+Add criteria	Add criteria
+Add information	Adicionar informação
+Add new registration	Add new registration
+Add new role	Adicionar nova função
+Add other user	Adicionar outro usuário
+Add other user...	Adicionar outro usuário...
+Add person	Adicionar pessoa
+Add persons	Add persons
+Add photo	Add photo
+Add project user	Adicionar usuário de empreendimento
+Add quick field	Adicionar título rápido
+add subordinate warning	Você está prestes a adicionar um subordinado a:\n{0} ({1})\n\nProceder?
+add subordinate warning	Você está prestes a adicionar uma função sob {1} no contrato {1}.\n\nContinuar?
+Add zone	Add zone
+added	Adicionado
+Added	Adicionado
+Address	Endereço
+Address 1	Endereço 1
+Address 2	Endereço 2
+Address book	Contacts
+address1	Endereço 1
+address2	Endereço 2
+administration	Administração
+Administration	Administração
+Administrator	Administrador
+administrators	Administrador
+administrators	Administradores
+Advanced	Avançado
+Advanced filter	Advanced
+After	Depois
+alert delete role	Tem certeza de que deseja deletar esta função?\n\nTarefas atribuídas a {0} permanece disponível para {1} sob “em curso”.
+all	Tudo
+All	Tudo
+All (folder)	Todas as tarefas
+All contracts	Todos os contratos
+All tasks	Todas as tarefas
+All tasks (folder)	Todas as tarefas
+All tasks will be deleted	Tarefas e rascunhos não enviados serão perdidos
+All users	Todos os usuários
+all_users	Todos os usuários
+all_users	Todos os usuários
+Allow cookies	Permitir cookies  (<a href='cookies.htm' target='_blank'>read more</a>)
+Allow create tasks	Permitir criar tarefas
+Allow create tasks colleagues	Permitir criar tarefas para colegas
+Allow create users	Permitir criar usuários
+already created	já criado
+already exists	já existe
+Altered	Alterado
+Annotate	Anotar na foto
+Anonymous user	Usuário anônimo
+Approve	Aprovar, fechar
+Approve followup	Aprovar, acompanhar
+Approved	Aprovado, fechado
+Approved (date)	Aprovado
+Approved (folder)	Aprovado
+Approved by	Aprovado, fechado por
+Approved closed (folder)	Aprovado, fechado
+Approved followup	Aprovado, acompanhar
+Approved followup (folder)	Aprovado, acompanhar
+Approved, followup by	Aprovado, acompanhar por
+ApprovedFollowup (folder)	Aprovado, acompanhar
+Architecture (model)	Arquitetura
+Archive (folder)	Completo
+Are you sure you want to delete building "{0}"?	Are you sure you want to delete the building "{0}"?
+Are you sure you want to delete this checklist?	Are you sure you want to delete this checklist?
+Are you sure you want to delete this control plan?	Are you sure you want to delete this inspection plan?
+area	Área
+Area (discipline)	Área
+AreaPlan	Areal plans
+arrow	Seta
+Ascending A-Z	Ascending A-Z
+Assign	Designar
+Assign to	Designar a
+assigned	Designado
+Assigned	Designado
+Assigned by	Designado por
+Assigned to	Designado a
+Assigned to	Designado a
+Assigned to {0}	Designado a <u>{0}</u>
+assignee	Atribuído
+Assignee	Atribuído
+Associate checklist	Associate with checklist
+Associated checklist	Checklist associada
+Association comment	Comment on association
+Attention to	Att
+Auto	Auto
+Available offline	Disponível offline
+Awaiting approval (folder)	Aguardando aprovação
+AwaitingApproval (folder)	Aguardando aprovação
+back	Voltar
+Back	Voltar
+Bar	Barra
+Base data	Dados de base
+Before	Antes
+BIM object	Parte do edifício
+BIM object type	Tipo de parte do edifício
+bottom right	inferior direita
+box	Caixa
+Bring to front	Bring to front
+Building	Edifício
+Building incomplete	Edifício indisponível
+Building is not ready	Building is not ready
+Building name	Nome do edifício
+Building overview	Vista geral do edifício
+Building status	Status do edifício
+building updated?	Edifício não encontrado. Reposicionamento requisitado. O material de desenho foi atualizado?
+building_incomplete	Edifício indisponível
+building_incomplete_text	O edifício foi atualizado recentemente e está sendo preparado para ser exibido no dispositivo móvel. O edifício está temporariamente indisponível
+building_model_analysing	O edifício está sendo analisado.
+building_model_not_uploaded	O upload do modelo do edifício ainda não foi feito.
+building_model_pending	O edifício está agendado para análise.
+building_model_queued_reanalysis	No momento o edifício está na fila para reanálise
+building_model_waiting	No momento o edifício está na fila para análise
+building_name	Nome do edifício
+building_name	Nome do edifício
+building_name_cannot_be_empty	O nome do edifício não pode ficar vazio!
+building_name_cannot_be_empty	O nome do edifício não pode ficar vazio!
+building_overview	Vista geral do edifício
+buildings	Edifícios
+Buildings	Edifícios
+by	por
+Can be approved upon creation	Pode ser aprovado depois da criação
+Can delete when	It is only possible to delete all tasks when there are less than 50 tasks in the project.
+cancel	Cancelar
+Cancel	Cancelar
+CANCEL	CANCELAR
+Cancel changes	Descartar mudanças
+Cannot remove project owner	Não pode remover o dono do empreendimento
+Category	Categoria
+Caution	Cuidado
+CeilingPlan	Ceiling plans
+change	Mudar
+Change	Mudar
+Change location	Change location
+Change to automatic publishing	Change to automatic publishing
+Change to manual publishing	Change to manual publishing
+change...	Mudar...
+changed	modificado
+changed from	modificado de
+changed_by	Modificado por
+changed_from	modificado de
+Checklist	Checklists
+Checklist association changed	Checklist association changed
+Checklist changes will be saved	Mudanças na checklist serão salvar.\nContinuar?
+Checklist closed	Checklist fechada
+Checklist no.	Checklist nr.
+Checklist report	Relatório da checklist
+Checklist template	Template da checklist
+Checklist template order	Ordem do template da checklist
+Checklists	Checklists
+Checklists disabled	Checklists desabilitadas
+Checklists enabled	Checklistas habilitadas
+Choose	Selecionar
+Choose...	Selecionar...
+city	Cidade
+City	Cidade
+City	Cidade
+Clear	Limpar
+Clear annotations	Limpar anotações
+Click on the map to place origo	Clique no mapa para localizar origem
+Click to open	Clique para abrir
+Client error	Client error
+close	Fechar
+Close	Fechar
+Closed (singular)	Completo
+Color	Colorir
+Color code	Colorir código
+Color code changed	Cor do código modificada
+Combined	Combinado
+Combined report	Relatório combinado
+Comment	Comentário
+Compact	Compactar
+Companies	Empresas
+company	Empresa
+Company	Empresa
+Company name	Nome da empresa
+Complete	Pronto
+Completed	Relatado como pronto
+Completed (checklist)	Completo
+Completed (folder)	Relatado como pronto
+Completed by	Retificado por
+Complexity	Complexidade
+Compressing image	Comprimindo imagem...
+Compressing image	Comprimindo imagem
+Confirm	Confirmar
+Confirm delete construction	Tem certeza de que deseja deletar este contrato?
+confirm delete site	Tem certeza de que deseja deletar este local?
+Confirm deletion	Confirm deletion
+Confirm password	Confirmar senha
+confirm_password	Confirmar senha
+Confirmation required	Necessita de confirmação
+Connection problems	Problemas de conexão
+Connection problems	Problemas de conexão\n\nTente novamente...
+Connection problems	Connection problems
+connection_lost	Problemas de conexão
+connection_lost_text	Sem conexão com a internet
+construction	Contrato
+Construction	Contrato
+constructions	Contratos
+Constructions	Contratos
+Contact Dalux	Contact Dalux
+Contact information	Informação de contrato
+Contact IT Administrators	Contact IT Administrator
+Contains	Contains
+Continue logout	Sair?
+Contract	Contrato
+Contract management	Gerenciamento do contrato
+Contractor	Empreiteiro
+Control plan	Inspection plan
+Control plan area	Inspection plan area
+Control plans	Inspection plans
+Copy from other project	Copiar de outro empreendimento
+copy_link	Copiar link
+Correspondence	Correspondência
+Correspondence report	Relatório resumido
+Correspondence report (filename)	Relatório resumido
+could not center on gps description	Não pôde centrar na localização. A posição do GPS está fora da área de desenho.
+could not center on gps title	Posição do GPS muito longe
+Could not open attachment	Could not open attachment no. {0}.\nIs the file broken?
+Could not reach the server	Could not reach the server. Are you connected to the internet?
+could_not_find_comment	Não pôde encontrar o comentário especificado no link.\n\n Redirecionando para locais do usuário.
+Country	País
+Craftsman	Artesão
+Create	Criar
+Create Construction	Criar contrato
+Create demo user	Criar usuário demo
+Create empty checklist	Criar checklist vazia
+Create empty control plan	Create empty inspection plan
+Create inspection	Salvar relatório
+Create new	Criar novo
+Create role	Criar função
+Create roles	Criar funções
+Create send	Criar, enviar
+Create user	Criar usuário
+Create user	Criar usuário
+Create user	Criar usuário
+Create user	Criar usuário
+Create user	Criar usuário
+Create user	Criar usuário
+Create user	Criar usuário
+create:	Criar: {0}
+created	Criado
+Created	Criado
+Created by	Criado por
+Created by (email)	Criado por (e-mail)
+Created only via checklists	Criado somente via checklists
+created_by	Criado por
+Creates tasks	Cria tarefas
+credetials_fail	Credenciais do usuário não correspondem
+Criteria	Criteria
+custom_filter	Customizar filtro
+Daily summary	Resumo diário
+Dalux administration	Dalux administration
+Dalux daily	Dalux Diário
+Dashboard	Dashboard
+Data fields	Campos de dados
+Data removed from {0} checklists	Salvar as mudanças irá <font style="color:#DD0000">deletar</font> dados de {0} checklists.
+Database	Database
+date	Data
+Date	Data
+dateformat	d MMM yyyy, h:mm tt
+dateformat_air	d MMM yyyy, HH:mm
+dateformat_air_checklist	d MMM yyyy, h:mm
+dateformat_deadline	d MMM yyyy
+dateformat_short	d MMM
+dateformatDayYear	d MMMM yyyy
+deadline	Deadline
+Deadline	Deadline
+Deadline changed	Deadline modificada
+Default description	Descrição default
+Default description	Descrição default
+Deficiency	Deficiency
+Delegated to	Delegar a
+Delete	Deletar
+delete	Deletar
+Delete all	Delete all
+Delete all tasks	Delete all tasks
+Delete building	Delete building
+Delete checklist	Delete checklist
+Delete control plan	Delete inspection plan
+Delete draft	Deletar rascunho
+Delete Draft	Deletar rascunho
+Delete draft	Delete draft
+Delete draft (draft)	Deletar rascunho
+Delete draft (update)	Deletar rascunho
+Delete draft alternative	Deletar rascunho
+Delete drawing	Deletar desenho
+Delete from outbox	Deletar da caixa de saída
+Delete photo	Deletar foto
+Delete selection	Deletar seleção
+Delete tasks	Delete tasks
+Delete view	Delete view
+Delete x tasks	Delete tasks: {0}x {1}
+Delete zone	Delete zone
+Demo user	Demo user
+Descending Z-A	Descending Z-A
+description	Descrição
+Description	Descrição
+Detail	Detail
+Detail reports	Detalhar relatórios
+Detailed	Detalhado
+Deviation	Deviation
+DF	DF
+Disabled	Disabled
+Discard changes	Discard changes
+Discipline	Disciplina
+Discipline (drawing)	Discipline
+Discipline already exists	A disciplina já existe para este contrato
+Disciplines	Disciplinas
+Displays	Exibições
+Do you accept the invitation to the project {0}?	Do you accept the invitation to the project {0}?
+Do you want to save changes to the draft?	Do you want to save changes to the draft?
+Do you want to save the draft?	Do you want to save the draft?
+document file types	*.pdf
+Documents	Documentos
+Does not contain	Does not contain
+Done	Feito
+Download	Download
+Download PDF	Baixar PDF
+Downloading checklist...	Baixando checklist...
+Downloading report...	Baixando relatório...
+Downloading task {0} of {1}	Baixando tarefa {0} de {1}
+Draft	Rascunho
+Draft early version, change location	<center>NB!<br/><br/>O rascunho foi criado com uma versão anterior do Campo DaluxQA. Atualizar a localização.<br/><br/>Lembrar de manter o Campo DaluxQA para mobil atualizado</center>
+Drafts	Rascunhos
+Drawing	Desenho
+Drawing information	Drawing information
+Drawing updated {0}	Drawing updated {0}
+Drawing with tasks	Desenho com tarefas
+Drawings	Drawings
+dRofus integration	dRofus integration
+Copy row	Copy row
+Duplicate	Duplicate
+DUT_MILLIMETERS	mm
+DUT_SQUARE_METERS	m²
+DV	DV
+Economy	Economia
+Economy changed	Economia modificada
+edit	Editar
+Edit	Editar
+Edit building	Edit building
+Edit building model file	Editar arquivo do modelo do edifício
+Edit persons	Editar pessoas
+Edit photo	Editar foto
+Edit project data	Edit project data
+Edit properties	Editar propriedades
+Edit role	Editar função
+Edit site data	Editar dados do local
+Edit user	Editar usuário
+Edit zone	Edit zone
+Edit zones	Edit zones
+Edit contract	Editar contrato
+element updated?	Parte do edifício não encontrada. Reposicionamento requisitado. O material de desenho foi atualizado?
+element_properties	Propriedades
+Elevation	Elevação
+Elevation lower	Elevação, inferior
+Elevation upper	Elevação, superior
+ellipse	Elipse
+email	E-mail
+Email	E-mail
+Email for new tasks	E-mail para novas tarefas
+Email log	E-mail log
+Email settings	Configurações de mensagem
+Email settings (ribbon)	Configurações de mensagem
+Email with daily summary	E-mail com resumo diário
+email:	E-mail:
+empty_list	A lista está vazia
+Enable	Habilitar
+Enable checklists	Habilitar checklists
+Enable photos	Habilitar fotos
+Enabled	Enabled
+EngineeringPlan	Engineering plans
+Enter discpline	Inserir disciplina
+Enter title	Inserir título
+enterprise	Empreendimento
+Entire list	Lista inteira
+Equals	Equals
+error	Erro
+Error	Erro
+Error	Erro
+Error downloading offline data	Erro ao baixar dados
+Excel	Excel
+Excel and locations	Excel e localizações
+Excel and locations	Excel e localizações
+Existing	Existente
+existing	Existente
+existing task restricted to {0}	Tarefas existente: Restrita a '{0}'
+Export	Exportar
+Export all	Exportar tudo
+Export failed	Exportação falhou
+Export overview	Exportar visão geral
+Fictive user	Usuário fictício
+Field definition	Definição de campo
+Field type	Tipo de campo
+Fields	Campos
+File	Arquivo
+File could not be downloaded	Arquivo não pôde ser baixado
+File to upload	Arquivo para subir
+Filename	Filename
+Files	Arquivos
+Files to upload	Arquivo para subir
+Fill in	Preencher
+Filters	Filtros
+find	Localizar
+First levels	Primeiro
+First name	Primeiro nome
+first_name	Primeiro nome
+Floor	Pavimento
+Floor name	Nome do pavimento
+Floor plan	Pavimento
+Floor plans	Pavimentos
+Floor properties	Propriedades do pavimento
+floor updated?	Planta do pavimento não encontrada. Reposicionamento requisitado. O material de desenho foi atualizado?
+floor_name	Nome do pavimento
+Floorplan	Planta do pavimento
+FloorPlan	Floor plans
+floorplans	Plantas do pavimento
+Floorplans	Plantas do pavimento
+floors	Plantas
+Floors	Plantas
+flow_configuration	Configuração do fluxo
+flow_configuration_definition	Definição da configuração do fluxo:
+Folder	Pasta
+Folder tools	Ferramentas da pasta
+Foreman	Mestre de obras
+found	localizado
+From camera	da câmera
+From drawing	do desenho
+From gallery	da galeria
+General problem	General problem
+Generate report	Gerar relatório
+Generating document	Gerando documento
+Generating picture	Gerando imagem
+Generating report	Gerando relatório...
+Generating report {0}	Gerando relatório {0}
+Get Revit plug-in	Get Revit plug-in
+GIS location	Localização do GIS
+GIS placement not chosen	Localização do GIS não escolhida
+Go to location	Mostrar localização
+gps accuracy timeout description	Não pôde ativar GPS. Verifique as configurações do dispositivo para se certificar de que o GPS está habilitado e o sinal ok.
+gps accuracy timeout title	GPS
+gps accuracy too coarse description	Precisão do GPS baixa (40 metros+)
+gps accuracy too coarse title	GPS
+gps not enabled description	Não pôde ativar GPS. Verifique as configurações do dispositivo para se certificar de que o GPS está habilitado.
+gps not enabled title	GPS
+Greater than	Greater than
+Greater than equals	Greater than equals
+Green	Verde
+Grid	Grid
+Header	Cabeçalho
+height	Altura
+Help text	Texto de ajuda
+Home	Home
+i_accept	Aceito usar este serviço grátis &quot;como&quot;
+ID	ID
+image file types	*.gif;*.png;*.jpg;*.jpeg
+images	Imagens
+Images	Imagens
+Import	Importar
+Import complete	The project setting import was successfull
+Import from	Importar do
+Import from file	Importar do arquivo
+Import from filesystem	Importar do sistema de arquivo
+Import from projects	Importar de empreendimentos
+Inactive user	Usuário inativo
+Inbox	Caixa de entrada
+Inbox (folder)	Caixa de entrada
+Include signing field	Include attachments
+Include attachments	Include attachments
+Include tasks	Include tasks
+Info	Informação
+info 500+ options	Há mais de 2000 opções únicas.\nUsar o filtro de busca abaixo.
+info add building name	O nome do edifício não pode ficar vazio!
+info admin edits work description	Só administradores podem editar as descrições de trabalho.\nAdministradores estão listados em Usuários (abaixo de Configurações no menu à esquerda).
+info another user created this task	Outro usuário criou estar tarefa. Só esse usuário pode visualizar ou editar a tarefa.
+info app update	Atualizar Campo DaluxQA<br/><br/>Lembrar de sincronizar dados não enviados antes de atualizar
+info batch deny assign wd	Só é possível atribuir tarefas múltiplas de uma vez quando todas as tarefas estão na mesma área e descrição de trabalho.\n\nLimite a seleção. Talvez você queira aplicar um filtro nas colunas Supervisão e Descrição de Trabalho
+info batch deny reply	Só são possíveis {0} tarefas múltiplas de uma vez desde que as tarefas selecionadas possam ser modificadas por você. \n\nVocê tem permissões de escrita para as tarefas selecionadas?\nSelecionou a pasta certa?\n\nRemover seleção de tarefas que você não pode mais modificar.
+info building incomplete	O edifício foi atualizado recentemente e está sendo preparado para ser exibido no dispositivo móvel. O edifício está temporariamente indisponível
+info building queued analysis	O edifício está sendo atualizado. Tente novamente mais tarde.
+info building update failed	A atualização do edifício falhou. Contate Dalux.
+info building updating 3d	Os desenhos estão sendo atualizados. Tente novamente mais tarde.
+info cannot edit work description	A descrição de trabalho só pode ser usada se o atual superior da função não tem nenhuma descrição de trabalho. Apenas administradores podem alterar descrições de trabalho para eles mesmos.
+info checklist conflict	<p align="center">Checklist foi modificada em outro lugar.<br/>As mudanças serão sobrescritas ao clicar em salvar.<br/><br/><b>.Clique para mostrar mudanças</b></p>
+info checklist not sent retry	A checklist não foi salva.<br/><br/>Clique em salvar para tentar novamente.
+info checklist offline	A checklist não está disponível offline
+info commit checklist first	<P ALIGN="center">Checklist associada não encontrada.<br/>Subir checklist ou deletar foto.</P>
+info company has users	Cannot remove a company having users
+info connection lost	Sem conexão com a internet
+info contract uses company	Company with one or more contracts
+info credetials fail	Credenciais do usuário não correspondem
+info demo site	Este é um projeto demo. Você não tem permissão para editar configurações de BIM.
+info document ready	O documento está pronto.
+info document ready download	O documento está pronto. Baixar?
+info email not validated	O endereço de e-mail não foi confirmado.
+info empty list	A lista está vazia
+info field missing	'{0}'faltando
+info image load failed	Carregamento da imagem falhou
+info invalid email	O endereço de e-mail que você inseriu não é válido.
+info invalid password	A senha deve ter pelo menos 6 caracteres.
+info invalid roleworkdescription delete	Não é possível remover descrições de trabalho em uso.
+info invited	<p align=”center”>Convite para projeto '{0}'</p>
+info isnan {0}	Valor especificado para '{0}'não é um número
+info logged in	Você está logado
+info logged out	Você foi deslogado
+info mail sent {0}	Um e-mail foi enviado para '{0}'
+info must select assignee	Um responsável deve ser selecionado.
+info must update task	É necessária conexão à internet para atualizar esta tarefa.
+info new user added mail sent	Uma mensagem de convite foi enviada ao endereço de e-mail especificado.\n\nO usuário será ativado quando o e-mail for confirmado pelo link na mensagem de convite e o usuário for confirmado.
+info no bim	Sem BIM, CAD ou PDF's. Fazer Upload a partir das Configurações.
+info no company selected	Você não selecionou uma empresa.
+info no creator role	<p align="center">Configurações de projeto foram modificadas<br/>Você não tem mais permissão para criar tarefas</p>
+info no delete company	A empresa não pode ser removida porque há usuários associados a esta empresa.\n\nRemova os usuários da empresa primeiro.
+info no delete role	Não é possível deletar função com subordinados.\n\nSe uma nova pessoa substituir a pessoa atual, a função não deve ser deletada. Clique em Editar para substituir a pessoa.
+info no delete user organisation	O usuário não pode ser deletado pois é parte da organização.\n\nRemova o usuário da organização para deletá-lo.
+info no delete user substitute	Usuário não pode ser removido pois está no lugar de: {0} ({1}) \n \nRemova o usuário da organização primeiro.
+info no discipline	Uma disciplina deve ser inserida.
+info no permission	Você não tem permissões para editar aqui.
+info no title	Um título deve ser inserido.
+info no update role	<p align="center">O relatório mudou<br/>Você não pode mais atualizar este relatório.<br/>O caso foi modificado ou fechado?</p>
+info none selected	Nenhuma tarefa selecionada
+info non-existing assignee role	<p align="center">Configurações do projeto mudaram<br/>A tarefa não pode mais ser atribuída a esta pessoa</p>
+info non-existing assignee wd	<p align="center">Configurações do projeto mudaram<br/>A tarefa não pode mais ser atribuída a esta pessoa</p>
+info non-existing role	<p align="center">Configurações do projeto mudaram<br/>Sua função atual não dá permissão para mudar esta tarefa</p>
+info non-existing substitute	<p align="center">Configurações do projeto mudaram<br/>Você não tem mais permissão para mudar esta tarefa</p>
+info not self superior	Não é possível especificar seu superior para ser você mesmo.
+info offline finding location	Offline<br/>Usando a localização disponível mais próxima
+info offline minimodel	Offline<br/>Não há conexão com a internet e o mini modelo não está disponível para uso offline.
+info offline minimodel frame	Offline<br/>Não há conexão com a internet o ângulo atual de visão não está disponível para uso offline.
+info offline new visit 2d	Não há conexão com a internet e a atual planta do pavimento não está disponível para uso offline.
+info offline new visit 3d	Não há conexão com a internet e não há locais disponíveis para uso offline.
+info open draft	<p align="center">Rascunho<br/><b>Clique para mostrar o relatório</b><br/>&nbsp;</p>
+info password no match	As senhas que você inseriu não correspondem.
+info picture ready	Baixar imagem
+info picture ready download	A imagem está pronta para download
+info preview only	Apenas uma pré-visualização do modelo de amostra está disponível.
+info processing 3d	A visão está sendo atualizada. Tente novamente mais tarde.
+info program error	<p align="center">Ocorreu um erro no programa<br/>Contate Dalux (support@dalux.com)</p>
+info project setting error	<p align="center">Configurações de projeto imprevistas<br/>Contate Dalux (support@dalux.com)</p>
+info remove company	Tem certeza de que deseja deletar esta empresa?
+info remove self	Você está prestes a se remover do projeto\n\nContinuar?
+info remove work description	Esteja ciente de que as tarefas criadas com esta descrição de trabalho não podem mais ser agrupadas com base nesta propriedade.\nA descrição de trabalho será automaticamente removida das funções afetadas. \n\n proceder?
+info report has update in folder	<p align="center">Favor notar!<br/>Há uma atualização para o relatório na pasta {0}</p>
+info report has updates in folder	<p align="center">Favor notar!<br/>Há atualizações para o relatório na pasta {0}</p>
+info report has updates in folders	<p align="center">Favor notar!<br/>Há atualizações para o relatório na pasta {0}</p>
+info report ready	O relatório está pronto.
+info report ready download	O relatório está pronto. Baixar?
+info role name not empty	Especificar nome da função
+info server error	Um erro ocorreu no servidor.
+info site manager change	Se sua função é de gerente da obra e se você se substituir, você não poderá mais gerenciar funções de usuário. \n \n Esta ação não pode ser desfeita!
+info synchronizing no open	Mensagens não enviadas estão sendo sincronizadas. Enquanto isso as entradas não podem ser vistas.
+info task altered	<p align="center">Tarefa modificada<br/>A atualização não foi efetuada.<br/>Clique para abrir o relatório</p>
+info task not available	<P ALIGN="center">Este relatório não está disponível</P>
+info task offline	<P ALIGN="center">Este relatório não está disponível offline</P>
+info task sent update checklist	A tarefa foi enviada ao servidor. Atualize a checklist para abrir o relatório de resultados.
+info too many tasks	Nesta área: {0} tarefas
+info unhandled error	Um erro inesperado ocorreu
+info user added mail sent	O usuário agora está adicionado e uma mensagem de convite foi enviada ao endereço de e-mail especificado.\n\nO usuário será ativado quando o endereço de e-mail for confirmado pelo link na mensagem de convite.
+info user invitation accepted	Usuário criado e convite aceito
+info user not found create?	Usuário não encontrado. Deseja criar este usuário?
+info wait synchronizing tasks	A tarefa não pode ser aberta enquanto a caixa de saída é sincronizada. Tente novamente em alguns minutos.
+info wizard new user	A pessoa não está configurada com seu empreendimento DaluxQA. Um convite será enviado quando você pressionar Criar.
+Insert	Inserir
+Insert comment	Inserir comentário
+Insert text	Inserir texto
+Inspection	Supervisão
+Inspection note	Nota de supervisão
+Instant mails	Mensagem para cada nova tarefa
+Instructions	Instruções
+Interval	Intervalo
+Invalid password	Invalid password
+invalid_flow	Ação inválida
+invalid_flow_text	Ação do usuário não é válida (a tarefa foi modificada?)
+invalid_user	Usuário inválido
+invalid_user_text	As credenciais ou permissões do usuário mudaram.
+Invitation	Convite
+Invitation accepted (date)	Invitation accepted
+Invitation sent (date)	Invitation sent
+Invitation to x from y	Invitation to {0} from {1}
+Invitations	Invitations
+Invite user	Convidar usuário
+Invoice e-mail	Invoice e-mail
+Invoice information	Invoice information
+Invoice note	Invoice note
+Is empty	Is empty
+Is not empty	Is not empty
+is_not_available	não está disponível
+IT Administrators	Administradores de TI
+Landscape	Paisagem
+language	en
+Language	Idioma
+language (splash screen)	en
+language_code	en-us
+Last editet	Editado pela última vez
+Last edited	Editado pela última vez
+Last modified	Modificado pela última vez
+Last modified by	Modificado pela última vez por
+Last name	Último nome
+Last updated	Atualizado pela última vez
+Last updated by	Atualizado pela última vez por
+Last uploaded by	Enviado pela última vez por
+last_name	Último nome
+Less than	Less than
+Less than equals	Less than equals
+Less than one minute remaining	Less than one minute remaining
+Let us know	Diga-nos
+lets_know	Diga-nos
+Level	Pavimento
+Levels	Níveis
+List	Lista
+loading	Carregando
+Loading (from disk)	Carregando
+Loading buildings	Loading buildings
+Loading data	Carregando dados
+Loading drafts...	Carregando rascunhos...
+Loading list data	Carregando lista de dados
+Loading list data...	Carregando lista de dados...
+located on plan	localizado na planta
+located on plan and view	Localizado na planta e visão
+location	Localização
+Location	Localização
+Location changed	Localização modificada
+location:	Localização:
+Location: {0}	Localixação: {0}
+Log in	Logar
+Log out	Deslogar
+log_in	Logar
+log_out	Deslogar
+Logged in as	Logado como
+logged_in_as	Logado como
+logged_out	Você foi deslogado
+Login refused text	Usuário/senha não encontrado(a).
+Login refused title	Usuário inválido
+Login revoked text	Credenciais ou permissões do usuário foram modificadas
+Login revoked title	Usuário inválido
+logo	Logo
+Logo	Logo
+Project photo	Project photo
+logo_editor_text	Este logo será usado em relatórios impressos
+Long	Longo
+low	Baixo
+manage_users	Administrar usuários
+Map	Mapa
+Markers	Marcadores
+Memo no.	Memo nr.
+minute	minuto
+minutes	minutos
+Modified	Modificado
+modified	Modificado
+Month1	Janeiro
+Month10	Outubro
+Month11	Novembro
+Month12	Dezembro
+Month2	Fevereiro
+Month3	Março
+Month4	Abril
+Month5	Maio
+Month6	Junho
+Month7	Julho
+Month8	Agosto
+Month9	Setembro
+Move down	Mover para baixo
+Move to drafts	Mover para rascunhos
+Move up	Mover para cima
+Multiple	Múltiplos
+Multiple filters	Vários filtros
+Multiple responsible	Responsáveis múltiplos
+must accept cookies	Para usar DaluxQA você deve permitir o uso de cookies
+must accept terms	Para usar DaluxQA você deve aceitar nossos termos e condições
+name	Nome
+Name	Nome
+Network failure. Try again	Falha de rede. Tente novamente
+New	Novo
+new	Novo
+New (m)	Novo
+New assignee	Novo atribuído
+New building	New building
+New building model file	Novo arquivo de modelo de edifício
+New checklist	Nova checklist
+New company	Nova empresa
+New construction	Nova construção
+New construction	Novo contrato
+New department	Novo departamento
+New discipline	Nova disciplina
+New fictive user	Novo usuário fictício
+New floor	Novo pavimento
+New inspection	Nova Nota de Supervisão
+New project	Novo projeto
+New registration	Novo registro
+New site	Novo local
+New supervisor area	Nova área de supervisor
+new task	new task
+New tasks	Novas tarefas
+New user	Novo usuário
+New work description	Nova descrição de trabalho
+new_building	Novo edifício
+new_demo_site	Novo local demo
+new_demo_site_details	Novo local demo.\n\nSó edifícios pequenos são permitidos.
+new_site_details	Novo local com tamanho ilimitado.
+new_status	Novo status
+new_task_list	Nova lista de tarefas
+new_value	Novo valor
+Next	Próximo
+No	No
+No available sites	Sem locais disponíveis
+No building and floors available for this site. GIS can not be placed	Sem edifícios e locais disponíveis para este local. O GIS não pode ser localizado
+No building and floors available for this site. GIS can not be placed	Sem edifícios e locais disponíveis para este local. O GIS não pode ser localizado
+No buildings	No buildings
+No checklists	No checklists
+No connection	Sem conexão...
+No drafts	Não rascunhos
+No drawing material available.	No drawing material available.
+No drawing selected	No drawing selected
+No drawings	No drawings
+No permission text	Operação requisitada negada devido a restrições de função
+No permission title	Permissão negada
+No picture	Sem imagem
+No registrations	Sem registros
+No results	No results
+No room	(Sem espaço
+No selection	Sem seleção
+no selection	sem seleção
+No sorting	Sem ordenação
+No sorting	No sorting
+No tasks	No tasks
+No title	Sem título
+No.	Nr.
+no_building	(sem edifício)
+no_connection	Sem conexão...
+no_floor	(sem pavimento)
+no_floors	(sem pavimentos)
+no_room	(sem espaço)
+no_selection	Sem seleção
+no_title	(Sem título)
+none	Nenhum
+None	Nenhum
+None (filter)	Nenhum
+normal	Normal
+Not allowed	Não permitido
+Not created	Não criado
+Not deleted	Não deletado
+Not equal	Not equal
+Not logged in	Não logado
+Not selected	Not selected
+Not sent (singular)	Não enviado
+Not set	Não configurado
+Not signed up	Não registrado
+Not synchronized	Não sincronizado
+not_found	Não encontrado
+not_set	(Não configurado)
+Note field on registrations	Campo de nota em registros
+Notes	Notas
+notification	Notificação
+Notification	Notificação
+number	Número
+Number	Número
+Number series	Série de número
+object	Objeto
+Observations	Observações
+Observer	Observador
+Observer (single letter)	Observadores:
+Observers	de
+Observers:	Observadores
+of	Offline
+Offline	Offline
+Offline	Offline<br/>Usando localização disponível mais próxima
+offline_finding_location	Offline<br/>Using nearest available location
+offline_minimodel	Offline<br/>Não há conexão com a internet e o mini modelo não está disponível para uso offline.
+offline_minimodel_frame	Offline<br/>Não há conexão com a internet e o atual ângulo de visão não está disponível pra uso offline.
+offline_mode_description	Desenhos e tarefas em pastas na caixa de entrada, Rejeitados e Relatados prontos estão baixados para serem usados em modo offline.
+offline_mode_warning	Note que grandes quantidades de dados estão sendo baixadas, portanto é recomendável o uso de Wi-Fi durante a transferência de dados.
+offline_new_visit_2d	Offline<br/>Não há conexão com a internet e a atual planta do pavimento não está disponível para uso offline.
+offline_new_visit_3d	Offline<br/>Não há conexão com a internet e não há locais disponíveis para uso offline.
+ok	OK
+Ok	OK
+OK	OK
+old_value	Valor antigo
+Ongoing (folder)	Em curso
+Open	Abrir
+Open (folder)	Abrir
+Open (singular)	Started
+Open checklist	Abrir checklist
+Open dRofus report	Open dRofus report
+Open object properties	Open object properties
+Open project	Abrir empreendimento
+Open site	Abrir empreendimento
+Order	Ordenar
+Organization	Organização
+Orientation (print)	Orientação
+Origin	Origem
+Other	Outra
+other_users	Outros usuários
+Others	Others
+outbox	Não enviado
+Outbox	Não enviado
+Outbox failed	Não sincronizado
+Outbox images	Imagens não enviadas
+Outbox images failed	Imagens não sincronizadas
+outbox_failed	Não sincronizado
+Overall assessment	Comentário
+overview	visão geral
+Overview	Visão geral
+Overview drawing	Vista geral do desenho
+overview on floorplans	visão geral nas plantas de pavimento
+overview, printouts	visão geral, impressões
+Own	Andamento próprio
+Own roles	Próprio
+Page	Página
+parent	Pai
+Passive user	Usuário passivo
+password	Senha
+Password	Senha
+Password again	Senha novamente
+Permanent task deletion	Todas as tarefas serão excluídos permanentemente e não pode ser restaurado
+Permissions	Permissões
+Persons	Pessoas
+Phone	Telefone
+Phone (short)	Phn
+photo	Foto
+Photo	Foto
+Photo taken	Foto tirada
+photoJpgCompression	60
+photoJpgQuality	60
+photoMaxHeight	1024
+photoMaxWidth	1024
+photos	fotos
+Photos	Fotos
+picture	Imagem
+Pie	Gráfico de pizza
+Place action	Local
+Placement	Localização
+Placement description	Placement description
+Please wait...	Por favor, aguarde...
+Portrait	Retrato
+Prefix	Prefixo
+prefix deficiency	O
+prefix inspection	NS
+Prepare project for offline use	Preparar empreendimento para uso offline
+Preparing file	Preparando arquivo
+Preparing project for offline use	Preparando empreendimento para uso offline
+Prev. deadline	Deadline anterior
+Prev. subject	Assunto anterior
+Preview	Pré-visualização
+Previous	Anterior
+Print	Exportar
+Print (print)	Imprimir
+Print all	Exportar tudo
+Print selected	Exportar selecionado
+Printed	Impresso
+Printing	Imprimindo
+printout locations	Localizações impressas
+Printouts	Exportar
+printouts, list	Impressões, lista
+priority	Prioridade
+Priority	Prioridade
+Priority changed	Prioridade modificada
+project	Projeto
+Project	Projeto
+Project access restricted	Project access limited to mobile use.\n\nContact Dalux for full access (support@dalux.com).
+Project configuration	Configuração de projeto
+Project expired	Project expired
+Project info	Project info
+Project information	Project information
+Project name	Nome do empreendimento
+Project no.	Projeto nr.
+Project organisation	Gestão de construção
+Project participant	Project participant
+Project prepared for offline use	Projeto preparado para uso offline
+Projects	Projetos
+Properties	Propriedades
+properties_changed	Propriedades modificadas
+property	Propriedade
+psc.	psc.
+Publish	Publish
+Published buildings	Published buildings
+Punch Lists	Ocorrências
+q user role	Que função tem a pessoa que você quer criar?
+QA	QA
+Quality Assurance	Quality Control
+Quick subjects	Assuntos rápidos
+Quick titles	Títulos rápidos
+R	R
+Reason	Motivo
+Receipt for execution	Notas de execução
+Receives tasks	Tarefas recebidas
+Recieves tasks	Recebe tarefas
+Recorded	Criado
+Recorded by	Criado por
+Red	Vermelho
+Refresh	Atualizar
+REG	REG
+Registration	Registro
+Registrations	Registros
+Registrations (filename)	Registros
+Reject	Rejeitar
+Rejected	Rejeitado
+Rejected (folder)	Rejeitado
+Rejected by	Rejeitado por
+Related contract	Related contract
+Relation	Relação
+Remaining time	Tempo restante
+Remember me	Lembre-me
+Remind unsubscribed	Send invitations
+remove	Remover
+Remove	Remover
+Remove	Remove
+Remove person	Remover pessoa
+Remove work description	Remover descrição de trabalho
+removed	Removido
+Removed	Removido
+Rename	Renomear
+Rename building	Rename building
+rename...	Renomear...
+rename_task_list	Renomear lista de tarefas
+Report id	Report id
+Report settings	Configurações de relatório
+Reports	Relatórios
+Required fields	Campos requisitados
+Reset view	Reset columns
+Resp. company	Empresa responsável
+Resp. email	E-mail responsável
+Responded date	Responded date
+Responsible	Responsável
+retry	Tentar novamente
+Retry	Tentar novamente
+Revision	Revisão
+role	Função
+Role	Função
+Role has subordinates. Cant delete	Role has subordinates. Cannot delete role.
+Room	Cômodo
+Room ID field	Room ID field
+room updated?	Cômodo não encontrado. Reposicionamento requisitado. O material de desenho foi atualizado?
+rooms	Cômodos
+rotate	Girar
+rotate left	Girar para esquerda
+rotate picture save	Rotation only possible when red-lining has been saved.\n\nSave picture and rotate
+rotate right	Girar para direita
+S:Substitute, O: Observer	S: Substituir, O: Observador
+Safety report	Safety report
+Save	Salvar
+Save	Salvar
+SAVE	SALVAR
+Save as Draft	Salvar como rascunho
+Save changes	Save changes
+Save checklist	Salvar checklist
+Save draft	Salvar rascunho
+Save view	Save view
+Saved	Salvo
+search	Buscar
+Search	Buscar
+Search	Buscar
+Search (filter)	Buscar
+Search criteria	Critérios de busca
+Search for	Search for
+Section	Sections
+Select	Selecionar
+select	Selecionar
+Select all	Selecionar tudo
+Select all	Select all
+Select assignee	Selecionar atribuído
+Select construction	Selecionar contrato
+select construction text	Selecionar empreiteiro encarregado
+Select drawing	Selecionar planta de pavimento
+Select only one for deletion	Selecionar só um para supressão
+Select supervisor	Selecionar supervisor
+select supervisor text	Selecionar o supervisor da área de conrato
+Select user	Selecionar usuário
+Select user company:	Selecionar ou especificar empresa usuária
+Select users	Selecionar usuários
+Select work descriptions	Selecionar descrições de trabalho
+select_a_status	Selecionar um status primeiro
+select_an_assignee	Selecionar um atribuído
+Selected	Selected
+selected area	área selecionada
+Selected first	Selected first
+Selected last	Selected last
+selected tasks	tarefas selecionadas
+SelectFilter	Selecionar parâmetro de filtro
+Selection only	Apenas seleção
+selection only	apenas seleção
+send	Enviar
+Send	Enviar
+Send e-mail	Enviar e-mail
+Send invitations	Send invitations
+Send password	Enviar senha
+Send to back	Send to back
+Sent (email)	Sent
+Server	Server
+Server Error	Erro do servidor
+server_error	Erro do servidor
+server_error_text	Ocorreu um erro no servidor
+Set location	Set location
+Set selected responsible	Configurar selecionado como responsável
+set_to	configurar para
+settings	Setup
+Settings	Setup
+Settings (filter)	Configurações
+Several contracts	Contratos múltiplas
+Shared sites	Locais compartilhados com você
+shared_sites	Locais compartilhados com você
+Short	Curto
+Show company	Empresa
+Show drawings	Show drawings
+Show entire organization	Mostrar organização inteira
+Show location	Mostrar localização
+Show work descriptions	Mostrar descrições de trabalho
+Signature	Assinatura
+Signing field	Campo de assinatura
+Signing field	Attachments
+Attachments	Attachments
+Simple	Simples
+Single report	Relatório simples
+Single reports	Relatórios simples
+Single users	Usuários simples
+Site data	Dados do local
+Site is already prepared for offline use	O empreendimento já está preparado para uso offline
+Site management	Gerenciamento da obra
+Site manager assistant	Ver/Editar
+Site name	Nome do empreendimento
+Site number	Project number
+site_data	Dados do local
+site_name	Nome do local
+Sites	Projetos
+slow app	Certas partes da aplicação podem reagir mais devagar que o normal
+SorteringAZ	Ordenando de A-Z
+SorteringZA	Ordenando de Z-A
+Specify name	Especificar nome
+Specify number	Especificar número
+Specify prefix	Specify prefix
+Specify subject	Especificar assunto
+Specify user name	Especificar nome do usuário
+standard	Padrão
+Standard filter	Standard filter
+StandardFilter	Filtro padrão
+Start drawing	Iniciar desenho
+status	Status
+Status	Status
+Status report	Status report
+Status report (filename)	Status report
+status_changed_from	Status alterado de
+Stay here	Permanecer aqui
+Stay here	Permanecer aqui
+Stop drawing	Parar desenho
+Subcontractor	Subempreiteiro
+Subject	Subject
+Subject already exists	O assunto já existe
+Substitute (single letter)	S
+Substitute for	Substituir para
+Substitutes and observers	Substitutos e observadores
+Substitutes and observers	Substitutos e observadores
+Substitutes:	Substitutos:
+Summary	Resumo
+Summary	Resumo
+Superior role:	Função superior:
+Supervisor	Supervisor
+Supervisor role with tasks cant be removed	Supervisor role with tasks cannot be removed.
+support	Ajuda
+Supported files	Arquivos suportados
+Synchronize now	Sincronizar agora
+Synchronized	Sincronizado
+synchronizing	Sincronizando
+Synchronizing	Sincronizando
+Tabel with tasks PDF	Tabela com tarefas (PDF)
+Table (Excel)	Tabela (Excel)
+Table (PDF)	Tabela (PDF)
+Table with tasks excel	Tabela com tarefas (Excel)
+Take me to Login	Leve-me ao login
+Task	Tarea
+Task count	Number of tasks of this type
+Task flow	Fluxo de tarefas
+Task folders	Pastas de tarefas
+Task reports (PDF)	Relatórios de tarefas (PDF)
+Task template	Template de tarefas
+task_list	Lista de tarefas
+task_list	Lista de tarefas
+task_list_setup	Setup de lista de tarefas
+task_lists	Listas de tarefas
+tasks	Tarefas
+Tasks	Tarefas
+Tasks and issues	Tarefas e ocorrências
+Tasks associated with role. Cant delete	Tasks are associated with role. Cannot delete role.
+Tasks on plan drawings	Tarefas em desenhos de plantas
+tasks_open	Tarefas abertas
+tasks_total	Tarefas totalmente
+Templates	Templates
+Text	Texto
+text	Texto
+The file is ready	O arquivo está pronto
+The user will be removed	O usuário é removido
+The user will be removed from all aspects of the project.	The user will be removed from all aspects of the project.
+There is an update to the application	Há uma atualização para a aplicação
+Time of invitation	Hora do convite
+title	Assunto
+Title	Título
+Title (role)	Título
+Title changed	Título modificado
+title_changed_from	Título modificado de
+to	para
+to approve	Aprovar
+to assign	Atribuir
+to report ready	Reportar como pronto
+Try Demo Site	Experimente o site demo
+Type	Tipo
+Type password for user	Type password for user
+Type prefix	Prefixo do tipo
+Types	Tipos
+unassigned	(não atribuído)
+Unassigned	(não atribuído)
+unchanged	Não modificado
+Unchanged	Não modificado
+unhandled_error	Ocorreu um erro inesperado
+unhandled_error_title	Erro
+Unpacking drawings	Desempacotando desenhos
+Unpublished buildings	Unpublished buildings
+unsent_message	{0} mensagem não enviada
+unsent_messages	{0} mensagens não enviadas
+Update	Atualizar
+Update checklist	Atualizar checklist
+Update Dalux Field	Atualizar campo DaluxQA
+Update now	Atualizar agora
+Update user	Atualizar usuário
+update:	Atualizar: {0}
+update_task	Atualizar
+Updated	Atualizado
+Updated {0}	Atualizado {0}
+Updated by	Atualizado por
+updated_by	Atualizado por
+updated_date	Atualizado {0}
+updating	Atualizando
+Updating	Atualizando
+Upload DWG	Subir DWG
+Upload DWGs	Subir DWGs
+Upload image	Subir imagem
+Upload PDF	Subir PDF
+upload_company_logo	Subir logo da empresa
+Uploaded by	Uploaded by
+url:support	http://field.dalux.com/manual/
+Use	Usar
+Use automatic publishing	Use auto publishing
+Use automatic publishing text	Do you want to change to automatic publishing?\n\nBuildings and drawings will automatically be published when they are ready.
+Use building	Use building
+Use location	Usar localização
+Use manual publishing	Use manual publishing
+Use manual publishing text	Do you want to change to manual publishing?\n\nYou publish buildings and drawings manually when they are ready.
+Use search field below	Use search field below
+user	Usuário
+User	Usuário
+User active	Usuário ativo
+User company	Empresa usuária
+User email settings	Configurações de mensagem
+User exists already	O usuário já existe
+User found	Usuário encontrado
+User has signed up	User has signed up
+User name	E-mail
+User not found	Usuário não encontrado
+User not signed up	User not signed up
+User not validated	Usuário não validado
+User removed	Usuário removido
+User rights	Permissões
+user_defined_flow	Fluxo definido pelo usuário
+Users	Usuários
+Users removed	Usuários removidos
+users_that_can_be_managed	Usuários que podem ser geridos
+users_with access	Usuários com acesso a este local
+Value	Valor
+Values	Values
+VATIN	CNPJ
+View	Vista
+View	Vista
+View buildings on map	Ver edifícios no mapa
+View case	Ver caso
+View for	Ver para
+View user	View user
+View/Edit	Ver/Editar
+View/Edit (responsible)	Ver/Editar (responsável)
+Views	Vistas
+wait	Aguarde...
+Wait	Aguarde
+Warning	Aviso
+warning remove user	Tem certeza de que deseja remover este usuário?
+Warning!	Aviso!
+Web service rejected your request	Web service rejected your request
+Week	Week
+Weekly safety report	Weekly report
+whatis: construction	Contract covers the contract. A contract can span multiple surveillance areas
+whatis: discipline	A disciplina que está sendo controlada é a área de supervisores. Exemplos de disciplinas são 'Encanamento', 'Elétrica' e 'Acessórios'
+whois: building owner	Um usuário que pode ver todas as tarefas mas não pode editá-las
+whois: contractor	Uma pessoa no gerenciamento da obra e que é responsável pela entrega no prazo e cumprimento da qualidade combinada em um contrato e em uma profissão particulares.
+whois: fictive	Um usuário que ou ainda é desconhecido, ou será convidado mais tarde para participar deste projeto
+whois: site manager	O gerente da obra tem a responsabilidade diária pela obra e é responsável por todas as obras serem entregues no prazo e estarem de acordo com a qualidade combinada
+whois: site manager assistant	Um usuário que pode ver e editar todas as tarefas
+whois: subcontractor	Uma pessoa que se comprometeu com um acordo contratual sobre uma tarefa específica com um gerente de obra
+whois: supervisor	Uma pessoa que inspeciona se o contrato é executado corretamente na sua área de responsabilidade
+With date	Com data
+Without date	Sem data
+Work description	Descrição de trabalho
+Work descriptions	Descrições de trabalho
+Work.Desc	Descr.Trabalho
+Work.Num	Nr.Trabalho
+Worker report	Relatório do operário
+workflow_definition	Definição do fluxo de trabalho
+Yellow	Amarelo
+Yes	Yes
+You can not delete this control plan because there are tasks associated with it	You can not delete this inspection plan because there are tasks associated with it
+You cannot delete this checklist template because there exists checklists of this type.	You cannot delete this checklist template because there exists checklists of this type.
+You have not been assigned to any projects yet.	You have not been assigned to any projects yet.
+You must accept this	Para usar DaluxQA você deve aceitar:
+You must be administrator to add buildings	Drawings are linked from another project. You do not have permission to alter the drawings.
+You must be administrator to change publishing settings	Drawings are linked from another project. You do not have permission to change publishing settings.
+You must be administrator to delete buildings	Drawings are linked from another project. You do not have permission to delete buildings.
+You must be administrator to edit buildings	Drawings are linked from another project. You do not have permission to edit buildings.
+You must be administrator to rename buildings	Drawings are linked from another project. You do not have permission to rename buildings.
+You must be online to log in	You must be online to log in
+you_are_logged_in	Você está logado
+Your colleagues drafts	Rascunhos de seus colegas
+Your column setup is being reset	Your column setup is being reset
+Your drafts	Seus rascunhos
+Your sites	Seus locais
+your_current_role_alter_error	Sua função atual não permite alterar tarefas com o status:
+your_current_role_create_error	Sua função atual não permite criar uma nova tarefa.
+your_sites	Seus locais
+Zip code	CEP
+zip_code	CEP
+Zone	Zone
+Zone name	Zone name
+Zones	Zones
+Project does not have any checklists	Project does not have any checklists
+Search in e-mail addresses	Search in e-mail addresses
+Enterprise agreement	Enterprise agreement
+Open properties	Open properties
+Enterprise invoicing info	Invoicing information is used for all projects in the company agreement
+Add '{0}' to the list	Add '{0}' to the list
+Sort by last change	Sort by last change
+Sort by deadline	Sort by deadline
+required	required
+Required	Required
+Safety observations	Safety observations
+Safety observation	Safety observation
+Safety inspections	Safety inspections
+Safety inspection	Safety inspection
+Advanced modules	Advanced modules
+Invoicing information	Invoicing information
+Modules	Modules
+Module	Module
+Safety	Safety
+Activate	Activate
+Deactivate	Deactivate
+Active	Active
+Deactivated	Deactivated
+Recovered task	Recovered task
+A task has been recovered after an unexpected shutdown. Do you want to open it and continue editing?	A task has been recovered after an unexpected shutdown. Do you want to open it and continue editing?
+Edit task	Edit task
+Delete task	Delete task
+Description of control plan area	Description of control plan area
+Task type has been deleted	Task type has been deleted<br/><br/>Choose another task type.
+No responsible, draft not shared	No responsible (draft not shared)
+Deadline today	Deadline hoje
+Continue editing	Continue editing
+Inspection plans unavailable. No task types.	Inspection plans are unavailable because no task types have been added.
+Tasks with inspection plans	Tasks with inspection plans
+Name of duplicate	Name of copy
+Details	Details
+Are you sure you want to delete the image?	Are you sure you want to delete the image?
+Remove location	Remove location
+Cannot delete contract. Attached checklists or inspection plans	Cannot delete contract.\nAttached checklists or inspection plans
+Add attachment	Add attachment
+Send again	Send again
+Max 300 tasks in worker report	Max 300 tasks in worker reports
+Add company	Adicionar empresa
+Edit company	Editar empresa
+Remove company	Retirar empresa
+Are you sure you want to remove the user {0}?	Are you sure you want to remove the user {0}?
+Prepare for offline	Prepare for offline
+Disciplines (drawing)	Disciplines
+All disciplines	All disciplines
+All buildings	All buildings
+Downloading drawings	Downloading drawings
+Delete all offline drawings	Delete all offline drawings
+Could not get report	Could not get report
+Could not retrieve list	Could not retrieve list
+Create organisation	Create organisation
+Create building	Create building
+Create organisation info	You need to create an organisation.
+Create building info	You must create a building and publish it.
+Save and rotate	Gem og roter
+RGY	Red/Yellow/Green
+WorkDescription	Work description
+info invited project	You have been invited to the project {0}.
+Change password	Change password
+Remove user	Remove user
+Changes	Changes
+Changed by {0}	Changed by {0}
+History for {0}	History for {0}
+Photo added	Photo added
+Value changed	Value changed
+Comment changed	Comment changed
+Comment deleted	Comment deleted
+Value and comment changed	Value and comment changed
+Reply	Reply
+Coordinates	Coordinates
+Activity (report)	Activity
+Not activated	Not activated
+not activated	not activated
+Payment	Payment
+Project data	Project data
+Licenses	Licenses
+Next payment due	Paid for until
+Payer	Payer
+Quick fields	Quick fields
+Quick field	Quick field
+Remove quick field	Remover
+Edit quick field	Editar
+Export quick fields	Exportar
+Import quick fields	Importar
+Person	Person
+Activated	Activated
+Rooms	Cômodos
+Draw on map	Draw on map
+3D preview	3D preview
+Log	Log
+Upload	Subir
+File info	File info
+Displayed name	Displayed name
+Subdiscipline	Subdiscipline
+Upload date	Upload date
+Article ID field	Article ID field
+Room report ID	Room report ID
+Article report ID	Article report ID
+Report Server	Report server
+Project ID	Project ID
+Construction site address	Construction site address
+Select checklist	Select checklist
+Change password	Change password
+Change password message	You will need to log in again after the password has been changed.
+Change password ok	You will receive an e-mail with further instructions shortly.
+confirm remove building	Are you sure you want to delete this building?
+Are you sure you want to delete {0}?	Are you sure you want to delete {0}?
+choose file destination alert	You must choose a destination for all files
+uploading file	Uploading file...
+upload error	An error occured while uploading the file
+drawing processing	Drawings are currently being processed. Please wait.
+delete view text	Are you sure you want to delete this view?
+delete view title	Delete view
+no attribute selected text	There is no attribute chosen.
+link copy error	Could not copy link
+link copy text	A link to this comment has been copied to the clipboard.\n\nTo use it, press Ctrl + V.
+download error	Download error.
+From file	From file
+Original elevation	Original elevation
+Visible	Visible
+Level setup	Level setup
+is3DLevel text	Level is drawn to scale
+drawingsAreLevelCuts text	This drawing is a horizontal cut in 3D model
+Place drawing	Place drawing
+modelMustBePlaced text	As this level is drawn to scale, the drawing must be placed in relation to another drawing.
+btnRevit text	This file must be uploaded from within Revit by using a plugin
+cannot update file type	The file type cannot be updated
+Test	Test
+Server OK	Server OK!
+Total area	Total area
+Room name	Room name
+Area	Área
+Add level	Add level
+Edit level	Edit level
+drawings drawn to scale	Drawings on level drawn to scale
+Display 3D on this level	Display 3D on this level
+Generate 2D from 3D	Generate 2D drawing as a cut in the 3D model on this level
+GPS active	GPS active
+Message	Message
+Project person	Project person
+Another email	Another email
+Send link invitation	Send link invitation
+Other project name	Other project name
+Sharing	Sharing
+Upload to	Upload to
+Finish	Finish
+Publish following buildings	Publish following buildings
+Publish	Publish
+Rooms in	Rooms in
+Compare drawings	Compare drawings
+Version	Version
+Drawing information	Drawing information
+File information	File information
+Loading rooms	Loading rooms
+Isometric cut	Isometric cut
+Parallel to the axis	Parallel to the axis
+Legend	Legend
+North east	North east
+South east	South east
+South west	South west
+North west	North west
+Top	Top
+East	East
+North	North
+West	West
+South	South
+Drawing settings	Drawing settings
+DWG settings	DWG settings
+New files	New files
+Updated files	Updated files
+Apply new settings to updated files	Apply new settings to updated files
+DWG scale	DWG scale
+meter	meter
+Use colors	Use colors
+IFC settings	IFC settings
+Retrieving level information	Retrieving level information
+IFC level	IFC level
+Dalux level	Dalux level
+New level name	New level name
+Navigation from 2D to 3D	Navigation from 2D to 3D
+Use 2D drawings as specified in the IFC model	Use 2D drawings as specified in the IFC model (not all IFC models contain these)
+Create cutplanes from the 3D model	Create cutplanes from the 3D model (2D cut through all 3D geometry at the specified levels)
+Only create levels	Only create levels (2D DWG or PDF files must be mapped to enable navigation)
+Placed drawing	Placed drawing
+One or more of the updated drawings from PDFs or images are placed on a level	One or more of the updated drawings from PDFs or images are placed on a level. The updated drawings must have the same positions, or new registrations may not be placed correctly.
+Drawings with placement on levels	Drawings with placement on levels
+I will update the drawings if PDF/Image files have changed scale or position	I will update the drawings if PDF/Image files have changed scale or position
+Choose DWG file and referenced files	Choose DWG file and referenced files
+File Upload	File upload
+The unit scale is not a number	The unit scale is not a number
+ETA	ETA
+Click to set position manually	Click to set position manually
+Current drawing	Current drawing
+Match points for current drawing	Match points for current drawing
+Match drawing	Match drawing
+Match points for place drawing	Match points for place drawing
+Place relative to	Place relative to
+Combined display	Combined display
+Reference points not chosen	Reference points not chosen
+For validation purposes	For validation purposes
+Place this level	Place this level
+Start match point	Start match point
+End match point	End match point
+Rotation	Rotation
+Length	Length
+Match points	Match points
+Click on the drawing to select reference point A	Click on the drawing to select reference point A
+Click on the drawing to select reference point B	Click on the drawing to select reference point B
+This building has been deleted.	This building has been deleted.
+Dalux Field Account Manager	Dalux Field Account Manager
+Start date	Start date
+Expiration date	Expiration date
+Last activity	Last activity
+Price	Price
+Note	Note
+Invoices	Invoices
+Invoice	Invoice
+Are you sure you want to delete this role?	Are you sure you want to delete this role?
+From	A partir da
+Add filter	Add filter
+To	Para
+Drawing setup	Drawing setup
+Show on list	Show on list
+Show on drawing	Show on drawing
+The work description number is used to enumerate tasks. It must therefore be unique.	The work description number is used to enumerate tasks. It must therefore be unique.
+You must enter a prefix.	You must enter a prefix.
+Prefix is used for another template. The prefix must be unique.	Prefix is used for another template. The prefix must be unique.
+You must enter a work description number.	You must enter a work description number.
+Get started	Get started
+Action	Action
+Get started	Get started
+Help videos	Help videos
+History	History
+Checklist item	Checklist item
+manual_publish_description	Buildings must <b>manually</b> be made available when they have been processed.
+auto_publish_description	Buildings will <b>automatically</b> be made available when they have been processed.
+All checklists	All checklists
+Downloading checklists	Downloading checklists
+The project has been locked. Contact Dalux.	The project has been locked. Contact Dalux.
+The project has been locked. Contact project administrator.	The project has been locked. Contact project administrator.
+Account expired (admin)	Trial period has expired.
+Account expired (user)	Trial period has expired. Contact project administrator.
+My Dalux Field project has been locked ({0})	My Dalux Field project {0} has been locked
+Best regards	Best regards
+My Dalux Field project {0} has expired	My Dalux Field project {0} has expired
+Trial expired	Trial expired
+Trial expires today	Trial expires today
+Trial expires tomorrow	Trial expires tomorrow
+Trial expires in {0} days	Trial expires in {0} days
+Upgrade	Upgrade
+Project has been archived	Project has been archived
+I would like to upgrade my Dalux Field project {0}	I would like to end the trial period and upgrade my Dalux Field project {0}.
+Attachment added	Attachment added
+Attachment	Attachment
+View (verb)	View
+Create levels from {0}	Create levels from {0}
+Level creation	Level creation
+Create new levels from IFC files	Create new levels from IFC file
+Existing levels	Existing levels
+Units	Units
+Unit price	Unit price
+Billing	Billing
+The building does not exist anymore.	The building does not exist anymore.
+Invoice header {projectname}	Dalux Field for {0}
+Case no {projectnumber}	Case No.: {0}
+Period {start to end date}	Period: {0}
+Invoice Att {note}	Att: {0}
+Invoice Note {note}	Note: {0}
+Do you want to save the changes?	Do you want to save the changes?
+Don't save	Don't save
+Project number	Project number
+Project language	Project language
+Attention to on invoice	Attention to on invoice
+Note on invoice	Note on invoice
+Payment agreement	Company profile
+Company profile	Company profile
+1 license	1 license
+{0} licenses	{0} licenses
+Months	Months
+months	months
+Month	Month
+User licenses	User licenses
+Billing cycle	Billing cycle
+Next invoice	Next invoice
+Project status	Project status
+Payment information	Payment information
+Invoice history	Invoice history
+Company list	Company list
+Invoice email	Invoice email
+Default project language	Default project language
+Unused licenses	Unused licenses
+Administrators	Administrators
+Template project	Template project
+Open invoice	Open invoice
+Delete license	Delete license
+Delete user	Delete user
+Historical data	Historical data
+Project invoice information	Project invoice information
+Company profile invoice information	Company invoice information
+Task creators	Task creators
+Show invoice	Show invoice
+Photo removed	Photo removed
+Information removed	Information removed
+Information added	Information added
+Field added	Field added
+Field removed	Field removed
+Field updated	Field updated
+Information updated	Information updated
+previous value	previous value
+Connecting to Windows viewer	Connecting to Windows viewer
+You can't remove yourself from the project	You can't remove yourself from the project
+Remove association	Remove association
+No organization has been set	No organization has been set
+New trial project	New trial project
+Heading	Heading
+Level name	Level name
+Display 3D	Display 3D
+References	References
+Edit drawing	Edit drawing
+Show photo	Show photo
+No additional licenses required	No additional licenses required
+{0} additional licenses required	{0} additional licenses required
+Usage period	Usage period
+Subscription period	Subscription
+Invoice usage period	Usage period
+Subscriptions	Subscriptions
+License	License
+License discount	Discount, shared company license
+Add to favorites	Add to favorites
+Remove from favorites	Remove from favorites
+One additional license required	One additional license required
+Required field	Required field
+Please fill the required fields	Please fill the required fields
+Show license agreement	Show license agreement
+Accept license agreement	Accept license agreement
+Users to be activated	Users to be activated
+Users to be deleted	Users to be deleted
+You must accept the license agreement in order to proceed	You must accept the license agreement in order to proceed
+Select site manager	Select site manager
+Create project	Create project
+Create a new project	Create a new project
+Enter invoice information	Enter invoice information
+da-dk_LicenseAgreementsURL	http://field.dalux.com/manual/Dalux%20Field%20bruger%20forretningsbetingelser.pdf
+en-us_LicenseAgreementsURL	http://field.dalux.com/manual/Dalux%20Field%20End-user%20License%20Agreement.pdf
+License log	License log
+Standard project	Standard project
+Identification fields	Identification fields
+Edit help text	Edit help text
+Has license	Has license
+Choose standard project	Choose standard project
+DaluxUpdateText	Dalux Field has been updated. \nWe strongly recommend you to press the Refresh button in order to use the newest version.
+Licensed users	Licensed users
+Unlicensed users	Unlicensed users
+New Dalux Field version	New Dalux Field version
+Be aware that non-licensed users will be deleted from the project.	Be aware that non-licensed users will be deleted from the project.
+Are you sure you want to delete these users from the project?	Are you sure you want to delete these users from the project?
+Do not show again	Do not show again
+Dalux Field is updated	Dalux Field is updated
+{0} licenses are requested.	{0} licenses are requested.
+{0} users are chosen to be licensed.	{0} users are chosen to be licensed.
+Move {0} users to the {1} list in order to proceed.	Move {0} users to the '{1}' list in order to proceed.
+I accept	I accept
+the license agreement	the license agreement
+upgradeNotesURL	http://field.dalux.com/manual/newversion.htm
+Only an IT Administrator can upgrade a project.	Only an IT Administrator can upgrade a project.
+Contact IT Administrator	Contact IT Administrator
+Select timezone	Select timezone
+Fixed montly price	Fixed montly price
