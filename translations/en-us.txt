@@ -360,7 +360,7 @@
 "Copy row","Copy row"
 "Duplicate","Duplicate"
 "DUT_MILLIMETERS","mm"
-"DUT_SQUARE_METERS","m²"
+"DUT_SQUARE_METERS","mÂ²"
 "DV","DV"
 "Economy","Economy"
 "Economy changed","Economy changed"
