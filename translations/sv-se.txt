@@ -1,1649 +1,1244 @@
-#	0xc3c3c3
-of	av
-#All	0xc3c3c3
-#all tasks	0xc3c3c3
-#approved	0x24A05B
-#Approved	0x24A05B
-#approved followup	0x6ACE61
-#ApprovedFollowup	0x6ACE61
-#awaiting approval	0xC6E47D
-#AwaitingApproval	0xC6E47D
-#checklist closed	0x24A05B
-#checklist open	0xE83438
-#completed	0xF7EA3E
-#Completed	0xF7EA3E
-#green	0x24A05B
-#inbox	0xE83438
-#Inbox	0xE83438
-#none	0xAAAAAA
-#ongoing	0xEF8235
-#Ongoing	0xEF8235
-#red	0xE83438
-#rejected	0xF7C425
-#Rejected	0xF7C425
-#selectioncolor	0xDAEBBF
-#yellow	0xF7EA3E
-(element ...)	(element ...)
-(multiple)	(flera)
-(no deadline)	(ingen tidsgrÃ¤ns)
-(No photo)	Ta foto
-(No superior)	(Ingen Ã¶verordnad)
-(No title)	(Ingen titel)
-(none)	(ingen)
-(Not set)	(inte specifierad)
-(Photo)	Ta om
-(room ...)	(rum ...)
-(unspecified)	(inte specifierad)
-{0} of {1}	{0} av {1}
-{0} unsent message	{0} osÃ¤nt meddelande
-{0} unsent messages	{0} osÃ¤nda meddelanden
-0 tasks for {0}	0 uppgifter fÃ¶r {0}
-A client error occured	Ett kundfel har uppstÃ¥tt.\nDalux har blivit informerad.
-A main responsbile cannot be removed	En huvudansvarig kan inte tas bort
-Accept	GodkÃ¤nn
-Accept eula	GodkÃ¤nn vÃ¥ra <a href='eula.htm' target='_blank'>villkor</a>
-Account expired (admin)	<center><br/><br/>Dalux Field projektet "{0}" har lÃ¶pt ut.<br/><br/>Kontakta Dalux fÃ¶r att Ã¥teraktivera ditt projekt.<br/><br/>&nbsp;</center>
-Account expired (user)	<center><br/><br/>Dalux Field projektet "{0}" har lÃ¶pt ut.<br/><br/>Kontakta IT administratÃ¶ren fÃ¶r att Ã¥teraktivera ditt projekt.<br/><br/>&nbsp;</center>
-accuracy	noggranhet
-Active user	Aktiv anvÃ¤ndare
-add	LÃ¤gg till
-Add	LÃ¤gg till
-Add building	LÃ¤gg till byggnad
-Add criteria	LÃ¤gg till kriterier
-Add information	LÃ¤gg till information
-Add new registration	LÃ¤gg till ny registrering
-Add new role	LÃ¤gg till ny roll
-Add other user	LÃ¤gg till andra anvÃ¤ndare
-Add other user...	LÃ¤gg till andra anvÃ¤ndareÂ…
-Add person	LÃ¤gg till person
-Add persons	LÃ¤gg till personer
-Add photo	LÃ¤gg till bild
-Add project user	LÃ¤gg till projektanvÃ¤ndare
-Add quick field	LÃ¤gg till snabb Ã¤mne
-add subordinate warning	Du hÃ¥ller pÃ¥ att lÃ¤gga till en underordnad till:\n{0} ({1})\n\nFortsÃ¤tt?
-add subordinate warning	Du hÃ¥ller pÃ¥ att lÃ¤gga till en roll under {1} pÃ¥ kontraktet {1}.\n\nVill du fortsÃ¤tta?
-Add zone	LÃ¤gg till zon
-added	Tillagd
-Added	Tillagd
-Address	Adress
-Address 1	Adress 1
-Address 2	Adress 2
-Address book	Kontakter
-address1	Adress 1
-address2	Adress 2
-administration	Administration
-Administration	Administration
-Administrator	AdministratÃ¶r
-administrators	AdministratÃ¶r
-administrators	AdministratÃ¶rer
-Advanced	Avancerad
-Advanced filter	Avancerad
-After	Efter
-alert delete role	Ã„r du sÃ¤ker pÃ¥ att du vill radera denna roll?\n\nUppgifter som tilldelats {0} fÃ¶rblir tillgÃ¤nglig fÃ¶r {1} under "PÃ¥gÃ¥ende".
-all	Alla
-All	Alla
-All (folder)	Alla uppgifter
-All contracts	Alla kontrakt
-All tasks	Alla uppgifter
-All tasks (folder)	Alla uppgifter
-All tasks will be deleted	Oskickade uppgifter och utkast kommer att gÃ¥ fÃ¶rlorade
-All users	Alla anvÃ¤ndare
-all_users	Alla anvÃ¤ndare
-all_users	Alla anvÃ¤ndare
-Allow cookies	Acceptera cookies (<a href='cookies.htm' target='_blank'>lÃ¤s mera</a>)
-Allow create tasks	Kan skapa uppgifter
-Allow create tasks colleagues	Kan skapa uppgifter Ã¥t kollegorna
-Allow create users	Kan skapa anvÃ¤ndare
-already created	redan skapat
-already exists	finns redan
-Altered	Ã„ndrad
-Annotate	markera pÃ¥ foto
-Anonymous user	anonym anvÃ¤ndare
-Approve	GodkÃ¤nn, stÃ¤ng
-Approve followup	GodkÃ¤nn, uppfÃ¶ljning
-Approved	GodkÃ¤nd, stÃ¤ngt
-Approved (date)	GodkÃ¤nda
-Approved (folder)	GodkÃ¤nda
-Approved by	GodkÃ¤nd, stÃ¤ngt av
-Approved closed (folder)	GodkÃ¤nda, stÃ¤ngda
-Approved followup	GodkÃ¤nd, uppfÃ¶ljning
-Approved followup (folder)	GodkÃ¤nda, uppfÃ¶ljning
-Approved, followup by	GodkÃ¤nd, uppfÃ¶ljning av
-ApprovedFollowup (folder)	GodkÃ¤nda, uppfÃ¶ljning
-Architecture (model)	Arkitektur
-Archive (folder)	Avslutat
-Are you sure you want to delete building "{0}"?	Ã„r du sÃ¤ker pÃ¥ att du vill radera byggnad "{0}"?
-Are you sure you want to delete this checklist?	Ã„r du sÃ¤ker pÃ¥ att du vill radera denna checklista?
-Are you sure you want to delete this control plan?	Ã„r du sÃ¤ker pÃ¥ att du vill radera denna kontrollplan?
-area	OmrÃ¥de
-Area (discipline)	OmrÃ¥de
-AreaPlan	OmrÃ¥desplaner
-arrow	Pil
-Ascending A-Z	Stigande A-Ã–
-Assign	Tilldela
-Assign to	Tilldela till
-assigned	Tilldelad
-Assigned	Tilldelad
-Assigned by	Tilldelad av
-Assigned to	Tilldelad till
-Assigned to	Tilldelad till
-Assigned to {0}	Tilldelad till <u>{0}</u>
-assignee	Tilldelade
-Assignee	Tilldelade
-Associate checklist	Associate with checklist
-Associated checklist	Checklista anknytning
-Association comment	Comment on association
-Attention to	Att
-Auto	Auto
-Available offline	TillgÃ¤nglig offline
-Awaiting approval (folder)	VÃ¤ntar pÃ¥ godkÃ¤nnande
-AwaitingApproval (folder)	VÃ¤ntar pÃ¥ godkÃ¤nnande
-back	Tillbaka
-Back	Tillbaka
-Bar	Kolonn
-Base data	Stamdata
-Before	FÃ¶re
-BIM object	Byggnadsdel
-BIM object type	Byggnadsdelstyp
-bottom right	nederst till hÃ¶ger
-box	LÃ¥da
-Bring to front	FÃ¶r framÃ¥t
-Building	Byggnad
-Building incomplete	Byggnad otillgÃ¤nglig
-Building is not ready	Byggnaden Ã¤r inte redo
-Building name	Byggnadsnamn
-Building overview	ByggnadsÃ¶versigt
-Building status	Byggnadsstatus
-building updated?	Byggnaden blev inte hittad. Platsen skall uppdateras.<br/><br/>Har ritningsmaterialet uppdaterats?
-building_incomplete	Byggnad otillgÃ¤nglig
-building_incomplete_text	yggnaden har nyligen uppdaterats och fÃ¶rbereds fÃ¶r visning pÃ¥ den mobila enheten. Byggnaden Ã¤r inte tillgÃ¤nglig fÃ¶r en stund.
-building_model_analysing	Byggnaden uppdateras
-building_model_not_uploaded	Byggningsmodellen Ã¤r inte laddad upp Ã¤n
-building_model_pending	Byggnaden Ã¤r planerad fÃ¶r uppdatering
-building_model_queued_reanalysis	Byggnaden Ã¤r fÃ¶r nuvarande i kÃ¶ fÃ¶r ny analys
-building_model_waiting	Byggnaden Ã¤r fÃ¶r nuvarande i kÃ¶ fÃ¶r analys
-building_name	Byggnadsnamn
-building_name	Byggnadsnamn
-building_name_cannot_be_empty	Byggnadsnamn fÃ¥r inte vara tomt!
-building_name_cannot_be_empty	Byggnadsnamn fÃ¥r inte vara tomt!
-building_overview	ByggnadsÃ¶versigt
-buildings	Byggnader
-Buildings	Byggnader
-by	av
-Can be approved upon creation	Kan godkÃ¤nnas nÃ¤r den skapas
-Can delete when	Det Ã¤r endast mÃ¶jligt att radera alla uppgifter nÃ¤r det finns mindre Ã¤n 50 uppgifter i projektet.
-cancel	Avbryt
-Cancel	Avbryt
-CANCEL	AVBRYT
-Cancel changes	Radera Ã¤ndringar
-Cannot remove project owner	ProjektÃ¤gare kan inte tas bort
-Category	Kategori
-Caution	Varning
-CeilingPlan	Innertak
-change	Ã„ndra
-Change	Ã„ndra
-Change location	Byt plats
-Change to automatic publishing	Byt till automatisk publicering
-Change to manual publishing	Byt till manuell publicering
-change...	Ã„ndra
-changed	Ã„ndrad
-changed from	Ã„ndrad frÃ¥n
-changed_by	Ã„ndrad av
-changed_from	Ã„ndrad frÃ¥n
-Checklist	Checklista
-Checklist association changed	Checklist association changed
-Checklist changes will be saved	Ã„ndringar i checklistan kommer att sparas.\n Vill du fortsÃ¤tta?
-Checklist closed	Checklistan klar
-Checklist no.	Checklista nr.
-Checklist report	Checklista rapport
-Checklist template	Checklista mall
-Checklist template order	Checklista mall ordningsfÃ¶ljd
-Checklists	Checklistor
-Checklists disabled	Checklistor inaktiverat
-Checklists enabled	Checklistor aktiverat
-Choose	VÃ¤lj
-Choose...	VÃ¤lj
-city	Stad
-City	Stad
-City	Stad
-Clear	Ã…terstÃ¤ll
-Clear annotations	Ã…terstÃ¤ll markering
-Click on the map to place origo	Klicka pÃ¥ kartan fÃ¶r att placera origo
-Click to open	Klicka fÃ¶r att Ã¶ppna
-Client error	Kundfel
-close	StÃ¤ng
-Close	StÃ¤ng
-Closed (singular)	Avslutat
-Color	FÃ¤rg
-Color code	FÃ¤rgkodning
-Color code changed	FÃ¤rgkodning Ã¤ndrad
-Combined	Kombinerad
-Combined report	Kombinerad rapport
-Comment	Kommentar
-Compact	Kompakt
-Companies	FÃ¶retag
-company	FÃ¶retag
-Company	FÃ¶retag
-Company name	FÃ¶retagsnamn
-Complete	FÃ¤rdig
-Completed	FÃ¤rdigrapporterad
-Completed (checklist)	Avslutat
-Completed (folder)	FÃ¤rdigrapporterad
-Completed by	RÃ¤ttat av
-Complexity	Komplexitet
-Compressing image	Komprimerar bildenÂ…
-Compressing image	Komprimerar bildenÂ…
-Confirm	BekrÃ¤fta
-Confirm delete construction	Ã„r du sÃ¤ker pÃ¥ att du vill radera denna entreprenad?
-confirm delete site	Ã„r du sÃ¤ker pÃ¥ att du vill ta bort den hÃ¤r sidan?
-Confirm deletion	BekrÃ¤fta radering
-Confirm password	BekrÃ¤fta lÃ¶senord
-confirm_password	BekrÃ¤fta lÃ¶senord
-Confirmation required	BekrÃ¤ftelse krÃ¤vs
-Connection problems	Anslutningsproblem
-Connection problems	Anslutningsproblem\n\nFÃ¶rsÃ¶k igen...
-Connection problems	Anslutningsproblem
-connection_lost	Anslutningsproblem
-connection_lost_text	Ingen internetuppkoppling
-construction	Entreprenad
-Construction	Entreprenad
-constructions	Entreprenadsavtal
-Constructions	Entreprenadsavtal
-Contact Dalux	Kontakta Dalux
-Contact information	Kontaktinformation
-Contact IT Administrators	Kontakta IT adminstratÃ¶ren
-Contains	InnehÃ¥ller
-Continue logout	Logga ut?
-Contract	Entreprenad
-Contract management	Hantering av entreprenad
-Contractor	EntreprenÃ¶r
-Control plan	Kontrollplan
-Control plan area	Kontrollplan fÃ¶r omrÃ¥det
-Control plans	Kontrollplaner
-Copy from other project	Kopiera frÃ¥n ett annat projekt
-copy_link	Kopiera lÃ¤nk
-Correspondence	Korrespondens
-Correspondence report	Komprimerad rapport
-Correspondence report (filename)	Komprimerad rapport
-could not center on gps description	Det gick inte att fokusera pÃ¥ GPS-platsen, dÃ¥ den ligger utanfÃ¶r ritningen.
-could not center on gps title	GPS-position lÃ¥ngt borta
-Could not open attachment	Kunde inte Ã¶ppna bifogad fil nr. {0}.\n Ã¤r filen trasig?
-Could not reach the server	Kan inte nÃ¥ servern. Ã„r du ansluten till internet?
-could_not_find_comment	Det gick inte att hitta kommentarer som anges i lÃ¤nken.\n\n  Omdirigerar till anvÃ¤ndarplatsen.
-Country	Land
-Craftsman	Hantverkare
-Create	Skapa
-Create Construction	Skapa entreprenad
-Create demo user	Skapa demo anvÃ¤ndare
-Create empty checklist	Skapa tom checklista
-Create empty control plan	Skapa tom kontrollplan
-Create inspection	Spara rapport
-Create new	Skapa ny
-Create role	Skapa roll
-Create roles	Skapa roller
-Create send	Skapa, sÃ¤nd
-Create user	Skapa anvÃ¤ndare
-Create user	Skapa anvÃ¤ndare
-Create user	Skapa anvÃ¤ndare
-Create user	Skapa anvÃ¤ndare
-Create user	Skapa anvÃ¤ndare
-Create user	Skapa anvÃ¤ndare
-Create user	Skapa anvÃ¤ndare
-create:	Skapa: {0}
-created	Skapad
-Created	Skapad
-Created by	Skapad av
-Created by (email)	Skapad av  (e-mail)
-Created only via checklists	Skapas endast via checklistor
-created_by	Skapad av
-Creates tasks	Skapar uppgifter
-credetials_fail	AnvÃ¤ndarnamn och kod kunde inte verifieras
-Criteria	Kriterier
-custom_filter	AnvÃ¤ndarfilter
-Daily summary	Daglig sammanfattning
-Dalux administration	Dalux administration
-Dalux daily	Dalux Dagligt
-Dashboard	Dashboard
-Data fields	datafÃ¤lt
-Data removed from {0} checklists	Sparas Ã¤ndringarna, kommer det att <font color="#DD0000">avlÃ¤gsnas</font> data frÃ¥n {0} checklistor
-Database	Database
-date	Datum
-Date	Datum
-dateformat	d. MMM yyyy, HH:mm
-dateformat_air	d. MMM yyyy, HH:mm
-dateformat_air_checklist	d. MMM yyyy, HH:mm
-dateformat_deadline	d. MMM yyyy
-dateformat_short	d. MMM
-dateformatDayYear	d. MMMM yyyy
-deadline	Deadline
-Deadline	Deadline
-Deadline changed	Deadline Ã¤ndrad
-Default description	Standardbeskrivning
-Default description	Standardbeskrivning
-Deficiency	Brist
-Delegated to	Delegeras till
-Delete	Radera
-delete	Radera
-Delete all	Radera allt
-Delete all tasks	Radera alla uppgifter
-Delete building	Radera byggnad
-Delete checklist	Radera checklista
-Delete control plan	Radera kontrollplan
-Delete draft	Radera utkast
-Delete Draft	Radera utkast
-Delete draft	Radera utkast
-Delete draft (draft)	Radera utkast
-Delete draft (update)	Radera utkast
-Delete draft alternative	Radera utkast
-Delete drawing	Radera ritning
-Delete from outbox	Radera frÃ¥n utkorgen
-Delete photo	Radera bild
-Delete selection	Radera valda
-Delete tasks	Radera uppgifter
-Delete view	Radera vy
-Delete x tasks	Radera uppgifter: {0}x {1}
-Delete zone	Radera zon
-Demo user	Demo anvÃ¤ndare
-Descending Z-A	Fallande Z-A
-description	Beskrivning 
-Description	Beskrivning 
-Detail	Detalj
-Detail reports	Detaljrapporter
-Detailed	Detaljerad
-Deviation	Avvikelse
-DF	DF
-Disabled	Disabled
-Discard changes	Ignorera Ã¤ndringar
-Discipline	Ã–vervakningsomrÃ¥de
-Discipline (drawing)	Ã–vervakningsomrÃ¥de
-Discipline already exists	Ã–vervakningsomrÃ¥de finns redan fÃ¶r denna entreprenad
-Disciplines	Ã–vervakningsomrÃ¥den
-Displays	Visar
-Do you accept the invitation to the project {0}?	Accepterar du inbjudan till projektet {0}?
-Do you want to save changes to the draft?	Vill du spara Ã¤ndringar i utkastet?
-Do you want to save the draft?	Vill du spara utkastet?
-document file types	*.pdf
-Documents	Dokumenter
-Does not contain	InnehÃ¥ller inte
-Done	FÃ¤rdig
-Download	Ladda ner
-Download PDF	Ladda ner PDF
-Downloading checklist...	Ladda ner checklistaÂ…
-Downloading report...	Laddar ner rapportÂ…
-Downloading task {0} of {1}	Laddar ner uppgift {0} av {1}
-Draft	Utkast
-Draft early version, change location	<center>OBS!<br/><br/>Utkastet Ã¤r skapat med en tidigare version av Dalux Field. Uppdatera platsen.<br/><br/>Kom ihÃ¥g att uppdatera din Dalux Field till den senaste versionen</center>
-Drafts	Utkast
-Drawing	Ritning
-Drawing information	Ritningsinformation
-Drawing updated {0}	Drawing updated {0}
-Drawing with tasks	Ritning med uppgifter
-Drawings	Ritningar
-dRofus integration	dRofus integration
-Copy row	Kopiera rad
-Duplicate	Duplicate
-DUT_MILLIMETERS	mm
-DUT_SQUARE_METERS	mÂ²
-DV	DV
-Economy	Ekonomi
-Economy changed	Ekonomin fÃ¶rÃ¤ndrad
-edit	Redigera
-Edit	Redigera
-Edit building	Redigera byggnad
-Edit building model file	Redigera byggnadsmodellen
-Edit persons	Redigera personer
-Edit photo	Redigera foto
-Edit project data	Redigera projektdata
-Edit properties	Redigera egenskaper
-Edit role	Redigera roller
-Edit site data	Redigera siddata
-Edit user	Redigera anvÃ¤ndare
-Edit zone	Redigera zon
-Edit zones	Redigera zoner
-Edit contract	Redigera entreprenad
-element updated?	Byggnadsdelen blev inte hittad.Platsen skall uppdateras.<br/><br/>Har ritningsmaterialet uppdaterats?
-element_properties	Egenskaper
-Elevation	HÃ¶jd
-Elevation lower	HÃ¶jd, lÃ¤gre
-Elevation upper	HÃ¶jd, Ã¶vre
-ellipse	Ellips
-email	E-post
-Email	E-post
-Email for new tasks	E-post fÃ¶r nya uppgifter
-Email log	E-post logg
-Email settings	E-post instÃ¤llningar
-Email settings (ribbon)	E-post instÃ¤llningar
-Email with daily summary	E-post med daglig sammandrag
-email:	E-post
-empty_list	Listan Ã¤r tom
-Enable	MÃ¶jliggÃ¶r
-Enable checklists	MÃ¶jliggÃ¶r checklistor
-Enable photos	MÃ¶jliggÃ¶r fotos
-Enabled	Enabled
-EngineeringPlan	IngenjÃ¶rsplaner
-Enter discpline	Ange Ã¶vervakningsomrÃ¥de
-Enter title	Ange titel
-enterprise	FÃ¶retag
-Entire list	Hela listan
-Equals	Lika med
-error	Fel
-Error	Fel
-Error	Fel
-Error downloading offline data	Fel vid hÃ¤mtning av uppgifter
-Excel	Excel
-Excel and locations	Excel och platser
-Excel and locations	Excel och platser
-Existing	Existerande
-existing	Existerande
-existing task restricted to {0}	Existerande uppgift: BegrÃ¤nsad till '{0}'
-Export	Exportera
-Export all	Exportera alla
-Export failed	Export misslyckades
-Export overview	Exportera Ã¶versikt
-Fictive user	Fiktiv anvÃ¤ndare
-Field definition	FÃ¤lt definition
-Field type	FÃ¤lt typ
-Fields	FÃ¤lt
-File	Fil
-File could not be downloaded	Filen kunde inte laddas ner
-File to upload	Fil att ladda upp
-Filename	Filnamn
-Files	Filer
-Files to upload	Fil att ladda upp
-Fill in	Utfyll
-Filters	Filter
-find	Hitta
-First levels	FÃ¶rsta
-First name	FÃ¶rnamn
-first_name	FÃ¶rnamn
-Floor	VÃ¥ning
-Floor name	VÃ¥ningsnamn
-Floor plan	VÃ¥ning
-Floor plans	VÃ¥ningar
-Floor properties	Egenskaper fÃ¶r vÃ¥ning
-floor updated?	Planritningen blev inte hittad.Platsen skall uppdateras.<br/><br/>Har ritningsmaterialet uppdaterats?
-floor_name	VÃ¥ningsnamn
-Floorplan	Planritning
-FloorPlan	Planritningar
-floorplans	Planritningar
-Floorplans	Planritningar
-floors	Planer
-Floors	Planer
-flow_configuration	TillÃ¤mpat flow
-flow_configuration_definition	Definition av flow
-Folder	Mapp
-Folder tools	Mappverktyg
-Foreman	FÃ¶rman
-found	funnen
-From camera	FrÃ¥n kamera
-From drawing	FrÃ¥n ritning
-From gallery	FrÃ¥n galleri
-General problem	AllmÃ¤n problem
-Generate report	Generera rapport
-Generating document	Genererar dokument
-Generating picture	Genererar bild
-Generating report	Genererar rapportÂ…
-Generating report {0}	Genererar rapport {0}
-Get Revit plug-in	FÃ¥ Revit plug-in
-GIS location	GIS placering
-GIS placement not chosen	GIS placering inte vald
-Go to location	Visa lÃ¤ge
-gps accuracy timeout description	Det gick inte att aktivera GPS. Kontrollera enhetens instÃ¤llningar fÃ¶r att se till att GPS Ã¤r aktiverad och signalen Ã¤r ok.
-gps accuracy timeout title	GPS
-gps accuracy too coarse description	Noggrannheten pÃ¥ GPS Ã¤r alltfÃ¶r oprecis fÃ¶r att visas (Ã¶ver 40 meter)
-gps accuracy too coarse title	GPS
-gps not enabled description	Det gick inte att aktivera GPS. Kontrollera enhetens instÃ¤llningar fÃ¶r att se till att GPS Ã¤r aktiverad
-gps not enabled title	GPS
-Greater than	StÃ¶rre Ã¤n
-Greater than equals	StÃ¶rre Ã¤n Ã¤r lika med
-Green	GrÃ¶n
-Grid	RutnÃ¤t
-Header	Rubrik
-height	HÃ¶jd
-Help text	HjÃ¤lptext
-Home	Hem
-i_accept	Jag accepterar att anvÃ¤nda denna gratistjÃ¤nst &quot;som Ã¤r&quot;
-ID	ID
-image file types	*.gif;*.png;*.jpg;*.jpeg
-images	bilder
-Images	bilder
-Import	Importera
-Import complete	HÃ¤mtning av projektinstÃ¤llningar var lyckat
-Import from	Importera frÃ¥n
-Import from file	Importera frÃ¥n fil
-Import from filesystem	Importera frÃ¥n filsystemet
-Import from projects	Importera frÃ¥n projekt
-Inactive user	Inaktiv anvÃ¤ndare
-Inbox	Inbox
-Inbox (folder)	Inbox
-Include signing field	Include attachments
-Include attachments	Include attachments
-Include tasks	Include tasks
-Info	Info
-info 500+ options	Det finns mer Ã¤n 2000 unika alternativ.\n AnvÃ¤nd sÃ¶kfiltret under.
-info add building name	Byggnadsnamn fÃ¥r inte vara tomt!
-info admin edits work description	Endast administratÃ¶rer kan redigera arbetsbeskrivningar. \n AdministratÃ¶rer listas under AnvÃ¤ndare (under InstÃ¤llningar i menyn till vÃ¤nster).
-info another user created this task	En annan anvÃ¤ndare har skapat denna uppgift. Endast denna anvÃ¤ndare kan se eller redigera uppgiften.
-info app update	Uppdatera Dalux Field<br/><br/>Kom ihÃ¥g att sykronisera oskickat data innan du uppdaterar
-info batch deny assign wd	Det Ã¤r endast mÃ¶jligt att tilldela flera uppgifter pÃ¥ en gÃ¥ng nÃ¤r alla uppgifter Ã¤r inom samma omrÃ¥de och arbetsbeskrivning. \n \n BegrÃ¤nsa urvalet. Du kanske vill anvÃ¤nda ett filter pÃ¥ kolumner Tillsyn och Arbetsbeskrivning.
-info batch deny reply	Det Ã¤r endast mÃ¶jligt {0} flera uppgifter pÃ¥ en gÃ¥ng, sÃ¥ lÃ¤nge som de utvalda uppgifterna kan Ã¤ndras av dig.\n\nHar du skrivrÃ¤ttigheter till de valda uppgifterna? \n Valde du rÃ¤tt mapp?\n\nTa bort urval av uppgifter du inte lÃ¤ngre kan Ã¤ndra.
-info building incomplete	Byggnaden har nyligen uppdaterats och fÃ¶rbereds fÃ¶r nÃ¤rvarande fÃ¶r visning pÃ¥ den mobila enheten. Byggnaden Ã¤r inte tillgÃ¤nglig fÃ¶r en stund.
-info building queued analysis	Byggnaden uppdateras. FÃ¶rsÃ¶k igen senare.
-info building update failed	Byggnadens uppdatering misslyckades. Kontakta Dalux.
-info building updating 3d	Ritningar uppdateras. FÃ¶rsÃ¶k igen senare.
-info cannot edit work description	Arbetsbeskrivningen kan endast stÃ¤llas in om den nuvarande rollens fÃ¶rman inte har nÃ¥gon arbetsbeskrivning. Endast administratÃ¶rer kan Ã¤ndra arbetsbeskrivningar fÃ¶r sig sjÃ¤lva.
-info checklist conflict	<p align="center"> Checklista Ã¤ndrades pÃ¥ annat hÃ¥ll. <br/> FÃ¶rÃ¤ndringarna kommer att skrivas Ã¶ver genom att klicka pÃ¥ Spara. <br/> <b> Klicka fÃ¶r att visa Ã¤ndringar </ b> </ p>
-info checklist not sent retry	Checklistan sparades inte. <br/><br/> Klicka spara fÃ¶r att fÃ¶rsÃ¶ka igen.
-info checklist offline	Denna checklista Ã¤r inte tillgÃ¤nglig offline
-info commit checklist first	<P ALIGN="center">Foto kunde inte kopplas till checklista. <br/> Ladda upp checklista eller ta bort foton. </ P>
-info company has users	Kan ej radera ett fÃ¶retag med anvÃ¤ndare
-info connection lost	Ingen internetuppkoppling
-info contract uses company	FÃ¶retag med ett eller flera entreprenader
-info credetials fail	AnvÃ¤ndarnamn och lÃ¶senord kunde inte verifieras
-info demo site	Detta Ã¤r en demoprojekt. Du Ã¤r dÃ¤rfÃ¶r inte tillÃ¥tet att Ã¤ndra BIM instÃ¤llningar.
-info document ready	Dokumentet Ã¤r redo.
-info document ready download	Dokumentet Ã¤r redo.Ladda ner?
-info email not validated	e-postadress har inte bekrÃ¤ftats
-info empty list	Listan Ã¤r tom
-info field missing	 '{0}' saknas
-info image load failed	Uppladdning av bild misslyckades
-info invalid email	E-postadressen Ã¤r ogiltig
-info invalid password	Ditt lÃ¶senord bÃ¶r innehÃ¥lla minst 6 tecken.
-info invalid roleworkdescription delete	Kan inte ta bort arbetsbeskrivningar som Ã¤r i bruk.
-info invited	<p align="center">Inbjudan till projekt '{0}'</p>
-info isnan {0}	VÃ¤rdet fÃ¶r "{0}" Ã¤r inte ett nummer
-info logged in	Du Ã¤r nu inloggad
-info logged out	Du har loggat ut
-info mail sent {0}	Ett e-postmeddelande skickades till '{0}'
-info must select assignee	En ansvarig mÃ¥ste vÃ¤ljas.
-info must update task	BehÃ¶ver internetuppkoppling fÃ¶r att uppdatera denna uppgift.
-info new user added mail sent	Vi har skickat en inbjudan via mail. \n\n AnvÃ¤ndaren aktiveras nÃ¤r e-postadressen har bekrÃ¤ftats via lÃ¤nken i e-postinbjudan och anvÃ¤ndaren skapats i systemet.
-info no bim	Ingen BIM, CAD-eller PDF-filer. Ladda upp frÃ¥n InstÃ¤llningar.
-info no company selected	Du har inte valt ett fÃ¶retag.
-info no creator role	<p align="center"> ProjektinstÃ¤llningar har Ã¤ndrats <br/> Du har inte lÃ¤ngre tillstÃ¥nd att skapa uppgifter </ p>
-info no delete company	FÃ¶retaget kan inte tas bort eftersom anvÃ¤ndare Ã¤r fÃ¶rknippade med detta fÃ¶retag. \n\n Ta bort anvÃ¤ndare frÃ¥n fÃ¶retaget fÃ¶rst.
-info no delete role	Kan inte ta bort roll med underordnade. \n\nOm en ny person ersÃ¤tter nuvarande personen, bÃ¶r den roll inte tas bort. Klicka pÃ¥ Redigera fÃ¶r att ersÃ¤tta personen.
-info no delete user organisation	AnvÃ¤ndaren kan inte tas bort eftersom anvÃ¤ndaren Ã¤r en del av organisationen. \n\nRadera anvÃ¤ndare frÃ¥n organisationen fÃ¶r att ta bort.
-info no delete user substitute	AnvÃ¤ndaren kan inte tas bort eftersom anvÃ¤ndaren stÃ¥r fÃ¶r: {0} ({1}) \n \n Ta bort anvÃ¤ndare frÃ¥n organisationen fÃ¶rst.
-info no discipline	Du mÃ¥ste ange ett Ã¶vervakningsomrÃ¥de.
-info no permission	Du har inte tillstÃ¥nd att redigera hÃ¤r.
-info no title	En titel mÃ¥ste anges.
-info no update role	<p align="center"> Rapporten har fÃ¶rÃ¤ndrats <br/> Du kan inte lÃ¤ngre uppdatera denna rapport. <br/> Har fallet Ã¤ndrats eller stÃ¤ngts? </ p>
-info none selected	Inga uppgifter valda
-info non-existing assignee role	<p align="center"> ProjektinstÃ¤llningar har Ã¤ndrats <br/> Uppgiften kan inte lÃ¤ngre tilldelas denna person </ p>
-info non-existing assignee wd	<p align="center"> ProjektinstÃ¤llningar har Ã¤ndrats <br/> Uppgiften kan inte lÃ¤ngre tilldelas denna person </ p>
-info non-existing role	<p align="center"> ProjektinstÃ¤llningar har Ã¤ndrats <br/>Din nuvarande roll ger inte behÃ¶righet att Ã¤ndra denna uppgift </ p>
-info non-existing substitute	<p align="center"> ProjektinstÃ¤llningar har Ã¤ndrats <br/>Din har inte lÃ¤ngre behÃ¶righet att Ã¤ndra denna uppgift </ p>
-info not self superior	Det Ã¤r inte mÃ¶jligt att ange din chef fÃ¶r att vara dig sjÃ¤lv
-info offline finding location	Offline <br/> AnvÃ¤nder nÃ¤rmast tillgÃ¤ngliga platsen
-info offline minimodel	Offline<br/>Det finns ingen anslutning till internet och mini-modellen Ã¤r inte tillgÃ¤nglig fÃ¶r anvÃ¤ndning offline.
-info offline minimodel frame	Offline<br/>Det finns ingen anslutning till Internet och den aktuella bildvinkeln Ã¤r inte tillgÃ¤nglig fÃ¶r anvÃ¤ndning offline.
-info offline new visit 2d	Offline<br/>Det finns ingen anslutning till Internet och den aktuella planritningen Ã¤r inte tillgÃ¤nglig fÃ¶r anvÃ¤ndning offline.
-info offline new visit 3d	Offline<br/>Det finns ingen anslutning till Internet och inga platser pÃ¥ denna vÃ¥ning Ã¤r tillgÃ¤ngliga fÃ¶r anvÃ¤ndning offline.
-info open draft	<p align="center">Utkast<br/><b>Klicka fÃ¶r att visa rapporten</b></p>
-info password no match	LÃ¶senorden matchar inte.
-info picture ready	Ladda ner bild
-info picture ready download	Bilden Ã¤r klar fÃ¶r nedladdning
-info preview only	Endast en fÃ¶rhandsvisning av prov modellen finns.
-info processing 3d	Visning uppdateras. FÃ¶rsÃ¶k igen senare.
-info program error	<p align="center"> Programfel uppstod <br/> Kontakta Dalux (support@daluxqa.com) </ p>
-info project setting error	<p align="center"> OfÃ¶rutsedda projektinstÃ¤llningar <br/> Kontakta Dalux (support@daluxqa.com) </ p>
-info remove company	Ã„r du sÃ¤ker pÃ¥ att du vill ta bort det hÃ¤r fÃ¶retaget?
-info remove self	Du hÃ¥ller pÃ¥ att ta bort dig sjÃ¤lv frÃ¥n projektet \n \nVill du fortsÃ¤tta?
-info remove work description	Var medveten om att uppgifter som skapats med den hÃ¤r arbetsbeskrivning inte lÃ¤ngre kan grupperas baserat pÃ¥ denna fastighet. \NArbetsbeskrivningen kommer automatiskt att tas bort frÃ¥n de pÃ¥verkade roller. \n\n Vil du fortsÃ¤tta?
-info report has update in folder	<p align="center"> Observera! <br/> Det finns en uppdatering av rapporten i mappen {0} </ p>
-info report has updates in folder	<p align="center"> Observera! <br/> Det finns uppdateringar till rapporten i mappen  {0} </ p>
-info report has updates in folders	<p align="center"> Observera! <br/> Det finns uppdateringar till rapporten i mapparna  {0} </ p>
-info report ready	Rapporten Ã¤r redo.
-info report ready download	Rapporten Ã¤r redo.Ladda ner?
-info role name not empty	Ange rollnamn
-info server error	Ett fel uppstod pÃ¥ servern.
-info site manager change	Om du som byggledare ersÃ¤tter dig sjÃ¤lv kommer du inte lÃ¤ngre att se nÃ¥gra anvÃ¤ndare. \n\nDenna Ã¥tgÃ¤rd kan inte Ã¥ngras!
-info synchronizing no open	Oskickade meddelanden synkroniseras. InlÃ¤gg kan inte visas under tiden.
-info task altered	<p align="center">Uppgiften Ã¤ndrad<br/>Uppdateringen Ã¤r inte gjord.<br/>Klicka fÃ¶r att Ã¶ppna rapporten</p>
-info task not available	<P ALIGN="center">Denna rapport Ã¤r inte tillgÃ¤nglig</P>
-info task offline	<P ALIGN="center">Denna rapport Ã¤r inte tillgÃ¤nglig offline</P>
-info task sent update checklist	Uppgiften har skickats till servern. Uppdatera checklistan fÃ¶r att Ã¶ppna den resulterande rapporten.
-info too many tasks	I detta omrÃ¥de: {0} uppgifter
-info unhandled error	Ett ovÃ¤ntat fel uppstod
-info user added mail sent	AnvÃ¤ndaren Ã¤r nu skapad.Vi har skickat en inbjudan via mail. \n\n AnvÃ¤ndaren aktiveras nÃ¤r e-postadressen har bekrÃ¤ftats via lÃ¤nken i e-postinbjudan.
-info user invitation accepted	AnvÃ¤ndare skapad och inbjudan accepterad
-info user not found create?	AnvÃ¤ndaren hittades inte. Vill du skapa den hÃ¤r anvÃ¤ndaren?
-info wait synchronizing tasks	Kan inte Ã¶ppna uppgiften medan utkorgen synkroniseras. FÃ¶rsÃ¶k igen om en liten stund.
-info wizard new user	Personen Ã¤r inte upprÃ¤ttad med ditt DaluxQA projekt. Inbjudan kommer att skickas nÃ¤r du trycker pÃ¥ Skapa.
-Insert	Infoga
-Insert comment	Infoga kommentar
-Insert text	Infoga text
-Inspection	Tillsyn
-Inspection note	Tillsynsanteckning
-Instant mails	E-post fÃ¶r varje ny uppgift
-Instructions	Instruktioner
-Interval	Intervall
-Invalid password	Felaktigt lÃ¶senord
-invalid_flow	Ogiltig handling
-invalid_flow_text	AnvÃ¤ndarens Ã¥tgÃ¤rd inte giltigt (har uppgiften Ã¤ndrats?)
-invalid_user	Ogiltig anvÃ¤ndare
-invalid_user_text	AnvÃ¤ndaruppgifter eller tillstÃ¥nd har Ã¤ndrats.
-Invitation	Inbjudan
-Invitation accepted (date)	Inbjudan accepterad
-Invitation sent (date)	Inbjudan skickad
-Invitation to x from y	Inbjudan till {0} frÃ¥n {1}
-Invitations	Inbjudningar
-Invite user	Invitera anvÃ¤ndare
-Invoice e-mail	Fakturerings e-post
-Invoice information	Faktureringsinformation
-Invoice note	Faktura
-Is empty	Ã„r tom
-Is not empty	Ã„r inte tom
-is_not_available	Ã¤r inte tillgÃ¤nglig
-IT Administrators	IT administratÃ¶r
-Landscape	liggande
-language	sv
-Language	SprÃ¥k
-language (splash screen)	sv
-language_code	sv-se
-Last editet	Senast redigerad
-Last edited	Senast redigerad
-Last modified	Senast Ã¤ndrad
-Last modified by	Senast Ã¤ndrad av
-Last name	Efternamn
-Last updated	Senast uppdaterad
-Last updated by	Senast uppdaterad av
-Last uploaded by	Senast uppladdat av
-last_name	Efternamn
-Less than	Mindre Ã¤n
-Less than equals	Mindre Ã¤n Ã¤r lika med
-Less than one minute remaining	Mindre Ã¤n en minut kvar
-Let us know	BerÃ¤tta fÃ¶r oss
-lets_know	BerÃ¤tta fÃ¶r oss
-Level	VÃ¥ning
-Levels	NivÃ¥er
-List	Lista
-loading	Laddar
-Loading (from disk)	Laddar
-Loading buildings	Laddar byggnader
-Loading data	Laddar data
-Loading drafts...	Laddar utkastÂ…
-Loading list data	Laddar listdata
-Loading list data...	Laddar listdataÂ…
-located on plan	Ligger pÃ¥ planen
-located on plan and view	Ligger pÃ¥ plan och vy
-location	Plats
-Location	Plats
-Location changed	Plats Ã¤ndrad
-location:	Plats:
-Location: {0}	Plats: {0}
-Log in	Logga in
-Log out	Logga ut
-log_in	Logga in
-log_out	Logga ut
-Logged in as	Inloggad som
-logged_in_as	Inloggad som
-logged_out	Du har loggat ut
-Login refused text	AnvÃ¤ndare / lÃ¶senord hittades inte
-Login refused title	Ogiltig anvÃ¤ndare
-Login revoked text	AnvÃ¤ndaruppgifter eller tillstÃ¥nd har Ã¤ndrats.
-Login revoked title	Ogiltig anvÃ¤ndare
-logo	Logo
-Logo	Logo
-Project photo	Project photo
-logo_editor_text	Denna logotyp kommer att anvÃ¤ndas i utskrivna rapporter
-Long	LÃ¥ng
-low	LÃ¥g
-manage_users	Administrera anvÃ¤ndare
-Map	Karta
-Markers	MarkÃ¶rer
-Memo no.	Memo nr.
-minute	minut
-minutes	minuter
-Modified	Modifierad
-modified	Modifierad
-Month1	januari
-Month10	oktober
-Month11	november
-Month12	december
-Month2	februari
-Month3	mars
-Month4	april
-Month5	maj
-Month6	juni
-Month7	juli
-Month8	augusti
-Month9	september
-Move down	Flytta ner
-Move to drafts	Flytta till utkast
-Move up	Flytta upp
-Multiple	Flera
-Multiple filters	MÃ¥nga filter
-Multiple responsible	Flera ansvariga
-must accept cookies	FÃ¶r att anvÃ¤nda DaluxQA mÃ¥ste du tillÃ¥ta anvÃ¤ndning av cookies
-must accept terms	FÃ¶r att anvÃ¤nda DaluxQA du mÃ¥ste acceptera vÃ¥ra villkor
-name	Namn
-Name	Namn
-Network failure. Try again	NÃ¤tverksfel. Prova igen
-New	Ny
-new	Ny
-New (m)	Nytt
-New assignee	Ny ansvarig
-New building	Ny byggnad
-New building model file	Ny byggnadsmodell fil
-New checklist	Ny checklista
-New company	Nytt fÃ¶retag
-New construction	Ny uppbyggnad
-New construction	Ny entreprenad
-New department	Ny avdelning
-New discipline	Ny Ã¶vervakningsomrÃ¥de
-New fictive user	Ny fiktiv anvÃ¤ndare
-New floor	Ny vÃ¥ning
-New inspection	Ny tillsynsnotat
-New project	Nytt projekt
-New registration	Ny registrering
-New site	Ny sida
-New supervisor area	Ny tillsynsomrÃ¥de
-new task	Ny uppgift
-New tasks	Nya uppgifter
-New user	Ny anvÃ¤ndare
-New work description	Ny arbetsbeskrivning
-new_building	Ny byggnad
-new_demo_site	Ny demo sida
-new_demo_site_details	Ny demo sida\n\n Endast smÃ¥ byggnader tillÃ¥tna.
-new_site_details	Ny sida med obegrÃ¤nsad  storlek.
-new_status	Ny status
-new_task_list	Ny uppgiftslista
-new_value	Nytt vÃ¤rde
-Next	NÃ¤sta
-No	Nej
-No available sites	Inga projekt
-No building and floors available for this site. GIS can not be placed	Ingen byggnad och vÃ¥ningar tillgÃ¤ngliga fÃ¶r den hÃ¤r sidan. GIS kan inte placeras.
-No building and floors available for this site. GIS can not be placed	Ingen byggnad och vÃ¥ningar tillgÃ¤ngliga fÃ¶r den hÃ¤r sidan. GIS kan inte placeras.
-No buildings	No buildings
-No checklists	No checklists
-No connection	Ingen fÃ¶rbindelseÂ…
-No drafts	inget utkast
-No drawing material available.	Ingen ritningsmaterial tillgÃ¤nglig
-No drawing selected	Ingen ritning vald
-No drawings	Inga ritningar
-No permission text	Den begÃ¤rda Ã¥tgÃ¤rden kunde inte utfÃ¶ras
-No permission title	Ã…tgÃ¤rden Ã¤r inte tillÃ¥ten
-No picture	Ingen bild
-No registrations	Inga registreringar
-No results	Inga resultat
-No room	(inget utrymme)
-No selection	Inget val
-no selection	Inget val
-No sorting	Ingen sortering
-No sorting	Ingen sortering
-No tasks	Inga uppgifter
-No title	Ingen titel
-No.	Nr.
-no_building	(ingen byggnad)
-no_connection	Ingen fÃ¶rbindelseÂ…
-no_floor	(ingen vÃ¥ning)
-no_floors	(inga vÃ¥ningar)
-no_room	(ingen lokal)
-no_selection	Inget val
-no_title	Ingen titel
-none	Inget
-None	Inget
-None (filter)	Inget
-normal	Normal
-Not allowed	Inte tillÃ¥tet
-Not created	Inte skapat
-Not deleted	Inte raderad
-Not equal	Inte lika med
-Not logged in	Inte loggad in
-Not selected	Inte vald
-Not sent (singular)	Inte skickat
-Not set	Inte satt
-Not signed up	Inte anmÃ¤ld
-Not synchronized	Inte synkroniserad
-not_found	Hittades inte
-not_set	(Inte satt)
-Note field on registrations	AnmÃ¤rkningsfÃ¤lt pÃ¥ registreringar
-Notes	AnmÃ¤rkning
-notification	Meddelande
-Notification	Meddelande
-number	Nummer
-Number	Nummer
-Number series	Nummerserie
-object	Byggnadsdel
-Observations	Observationer
-Observer	ObservatÃ¶r
-Observer (single letter)	O
-Observers	ObservatÃ¶rer
-Observers:	ObservatÃ¶rer:
-of	av
-Offline	Offline
-Offline	Offline
-offline_finding_location	Offline <br/> AnvÃ¤nder nÃ¤rmast tillgÃ¤ngliga platsen
-offline_minimodel	Offline<br/>Det finns ingen anslutning till internet och mini-modellen Ã¤r inte tillgÃ¤nglig fÃ¶r anvÃ¤ndning offline.
-offline_minimodel_frame	Offline<br/>Det finns ingen anslutning till Internet och den aktuella bildvinkeln Ã¤r inte tillgÃ¤nglig fÃ¶r anvÃ¤ndning offline.
-offline_mode_description	<b>Ritningar</b> och uppgifter i mapparna <b>Inkorg</b>, <b>Avslagna</b> och <b>FÃ¤rdigrapporterade</b> Ã¤r nerladdade fÃ¶r anvÃ¤ndning offline
-offline_mode_warning	Observera att det laddas ner stora mÃ¤nder data, och det Ã¤r rekommenderat att anvÃ¤nda Wi-Fi under dataÃ¶verfÃ¶rseln.
-offline_new_visit_2d	Offline<br/>Det finns ingen anslutning till Internet och den aktuella planritningen Ã¤r inte tillgÃ¤nglig fÃ¶r anvÃ¤ndning offline.
-offline_new_visit_3d	Offline<br/>Det finns ingen anslutning till Internet och inga platser pÃ¥ denna vÃ¥ning Ã¤r tillgÃ¤ngliga fÃ¶r anvÃ¤ndning offline.
-ok	OK
-Ok	OK
-OK	OK
-old_value	FÃ¶regÃ¥ende vÃ¤rde
-Ongoing (folder)	PÃ¥gÃ¥ende
-Open	Ã–ppna
-Open (folder)	Ã–ppna
-Open (singular)	BÃ¶rjat
-Open checklist	Ã–pnna checklista
-Open dRofus report	Ã–ppna dRofus rapport
-Open object properties	Ã–ppna objektegenskaper
-Open project	Ã–ppna projekt
-Open site	Ã–ppna projekt
-Order	Order
-Organization	Organisation
-Orientation (print)	Riktning
-Origin	Ursprung
-Other	Annan
-other_users	Andra anvÃ¤ndare
-Others	Others
-outbox	Inte skickat
-Outbox	Inte skickat
-Outbox failed	Inte synkroniserad
-Outbox images	OsÃ¤nda bilder
-Outbox images failed	Osynkroniserade bilder
-outbox_failed	Inte synkroniserad
-Overall assessment	Kommentar
-overview	Ã–versikt
-Overview	Ã–versikt
-Overview drawing	Ã–versiktsplan
-overview on floorplans	Ã–versikt pÃ¥ planlÃ¶sning
-overview, printouts	Ã–versikt, utskrift
-Own	Egna pÃ¥gÃ¥ende
-Own roles	Egna
-Page	Sida
-parent	Huvud-
-Passive user	Passiv anvÃ¤ndare
-password	LÃ¶senord
-Password	LÃ¶senord
-Password again	LÃ¶senord igen
-Permanent task deletion	Alla uppgifter kommer att tas bort permanent och kan inte Ã¥terstÃ¤llas
-Permissions	RÃ¤ttigheter
-Persons	Personer
-Phone	Telefon
-Phone (short)	tfn.
-photo	Bild
-Photo	Bild
-Photo taken	Bild tagen
-photoJpgCompression	60
-photoJpgQuality	60
-photoMaxHeight	1024
-photoMaxWidth	1024
-photos	bilder
-Photos	Bilder
-picture	Bild
-Pie	Kaka
-Place action	Placera
-Placement	Placering
-Placement description	Placeringsbeskrivning
-Please wait...	Var god vÃ¤ntaÂ…
-Portrait	StÃ¥ende
-Prefix	Prefix
-prefix deficiency	?
-prefix inspection	?
-Prepare project for offline use	FÃ¶rbered projekt fÃ¶r anvÃ¤ndning offline
-Preparing file	FÃ¶rbereder fil
-Preparing project for offline use	FÃ¶rbereerd projekt fÃ¶r anvÃ¤ndning offline
-Prev. deadline	Tid. deadline
-Prev. subject	Tid. Ã„mne
-Preview	FÃ¶rhandsvisning
-Previous	Tidigare
-Print	Exportera
-Print (print)	Skriv ut
-Print all	Exportera alla
-Print selected	Exportera valda
-Printed	Utskriven
-Printing	Utskiver
-printout locations	plats av utprint
-Printouts	Exportera
-printouts, list	utprint, lista
-priority	Prioritet
-Priority	Prioritet
-Priority changed	Prioritet Ã¤ndrad
-project	Projekt
-Project	Projekt
-Project access restricted	TillgÃ¥ng till projekt begrÃ¤nsad till mobil anvÃ¤ndning.\n\nKontakta Dalux fÃ¶r full tillgÃ¥ng (support@daluxqa.com).
-Project configuration	Projekt konfiguration
-Project expired	Projektet har lÃ¶pt ut
-Project info	Projektinfo
-Project information	Projektinformation
-Project name	Projektnamn
-Project no.	Projektnr.
-Project organisation	Byggnadsledning
-Project participant	Projektdeltagare
-Project prepared for offline use	Projekt fÃ¤rdigt till anvÃ¤nding offline
-Projects	Projekt
-Properties	Egenskaper
-properties_changed	Ã„ndrade egenskaper
-property	Egenskap
-psc.	stk.
-Publish	Publicera
-Published buildings	Publicerade byggnader
-Punch Lists	Dashboard
-q user role	Vilken roll har den person som du Ã¶nskar att skapa?
-QA	QA
-Quality Assurance	KvalitetssÃ¤kring
-Quick subjects	Snabb-Ã¤mnen
-Quick titles	Snabb-titlar
-R	R
-Reason	Orsak
-Receipt for execution	Kvitto fÃ¶r utfÃ¶rande
-Receives tasks	Mottar uppgifter
-Recieves tasks	Ansvarig fÃ¶r rÃ¤ttelse
-Recorded	Skapad
-Recorded by	Skapad av
-Red	RÃ¶d
-Refresh	Uppdatera
-REG	REG
-Registration	Registrering
-Registrations	Registreringar
-Registrations (filename)	Registreringar
-Reject	Avvisa
-Rejected	Avvisad
-Rejected (folder)	Avvisad
-Rejected by	Avvisad av
-Related contract	Relaterade kontrakt
-Relation	Relation
-Remaining time	Ã…terstÃ¥ende tid
-Remember me	Kom ihÃ¥g mig
-Remind unsubscribed	Skicka inbjudningar
-remove	AvlÃ¤gsna
-Remove	AvlÃ¤gsna
-Remove	Ta bort
-Remove person	AvlÃ¤gsna person
-Remove work description	AvlÃ¤gsna arbetsbeskrivning
-removed	AvlÃ¤gsnad
-Removed	AvlÃ¤gsnad
-Rename	DÃ¶p om
-Rename building	DÃ¶p om byggnad
-rename...	DÃ¶p om
-rename_task_list	DÃ¶p om uppgiftslista
-Report id	Report id
-Report settings	Rapport instÃ¤llningar
-Reports	Rapporter
-Required fields	Obligatoriska fÃ¤lt
-Reset view	Ã…terstÃ¤ll kolumner
-Resp. company	Ansv. fÃ¶retag
-Resp. email	Ansv. e-mail
-Responded date	Svarade datum
-Responsible	Ansvarig
-retry	Prova igen
-Retry	Prova igen
-Revision	Revision
-role	Roll
-Role	Roll
-Role has subordinates. Cant delete	Rollen har underordnade. Kan inte radera rollen.
-Room	Rum
-Room ID field	Room ID field
-room updated?	Rummet blev inte hittad. Platsen skall uppdateras.<br/><br/>Har ritningsmaterialet uppdaterats?
-rooms	Rum
-rotate	Rotera
-rotate left	Rotera Ã¥t vÃ¤nster
-rotate picture save	Kan endast rotera dÃ¥ red-lining Ã¤r sparad. \n\nSpara bild och rotera.
-rotate right	Rotera Ã¥t hÃ¶ger
-S:Substitute, O: Observer	S: Substitut, O: Observerare
-Safety report	SÃ¤kerhetsrapport
-Save	Spara
-Save	Spara
-SAVE	SPARA
-Save as Draft	Spara som utkast
-Save changes	Spara Ã¤ndringar
-Save checklist	Spara checklista
-Save draft	Spara utkast
-Save view	Spara vy
-Saved	Sparad
-search	SÃ¶k
-Search	SÃ¶k
-Search	SÃ¶k
-Search (filter)	SÃ¶k
-Search criteria	SÃ¶kkriteria
-Search for	SÃ¶ka efter
-Section	Sektioner
-Select	VÃ¤lj
-select	VÃ¤lj
-Select all	VÃ¤lj alla
-Select all	VÃ¤lj alla
-Select assignee	VÃ¤lj ansvarig
-Select construction	VÃ¤lj entreprenad
-select construction text	VÃ¤lj entreprenaden som personen skall lÃ¤ggas till under
-Select drawing	VÃ¤lj planritning
-Select only one for deletion	Kan endast radera en Ã¥t gÃ¥ngen
-Select supervisor	VÃ¤lj Ã¶vervakniningsomrÃ¥de
-select supervisor text	VÃ¤lj Ã¶vervakniningsomrÃ¥de som personen skall lÃ¤ggas till under
-Select user	VÃ¤lj anvÃ¤ndare
-Select user company:	VÃ¤lj eller specifiera fÃ¶retag fÃ¶r denna anvÃ¤ndare:
-Select users	VÃ¤lj anvÃ¤ndare
-Select work descriptions	VÃ¤lj arbetsbeskrivning
-select_a_status	VÃ¤lj en status fÃ¶rst
-select_an_assignee	VÃ¤lj en ansvarig
-Selected	Vald
-selected area	valt omrÃ¥de
-Selected first	Valda fÃ¶rst
-Selected last	Vald sist
-selected tasks	valda uppgifter
-SelectFilter	VÃ¤lj filter parameter
-Selection only	Endast valda
-selection only	Endast valda
-send	Skicka
-Send	Skicka
-Send e-mail	Skicka e-post
-Send invitations	Skicka inbjudningar
-Send password	Skicka lÃ¶senord
-Send to back	Flytta bakÃ¥t
-Sent (email)	Skickat
-Server	Server
-Server Error	Serverfel
-server_error	Serverfel
-server_error_text	Det uppstod ett fel pÃ¥ servern
-Set location	StÃ¤ll plats
-Set selected responsible	SÃ¤tt vald som ansvarig
-set_to	satt till
-settings	InstÃ¤llning
-Settings	InstÃ¤llning
-Settings (filter)	InstÃ¤llingar
-Several contracts	Flera entreprenadsavtal
-Shared sites	Delade sidor
-shared_sites	Delade sidor
-Short	Kort
-Show company	FÃ¶retag
-Show drawings	Visa ritningar
-Show entire organization	Visa hela organisationen
-Show location	Visa lÃ¤ge
-Show work descriptions	Visa arbetsbeskrivning
-Signature	Signatur
-Signing field	RapporteringsfÃ¤lt
-Signing field	Attachments
-Attachments	Attachments
-Simple	Enkel
-Single report	Enkel rapport
-Single reports	Enstaka rapporter
-Single users	Enkel anvÃ¤ndare
-Site data	Siddata
-Site is already prepared for offline use	Projektet Ã¤r redan fÃ¶rberett fÃ¶r anvÃ¤ndning offline
-Site management	Byggledning
-Site manager assistant	Se/redigera
-Site name	Projektnamn
-Site number	Projekt nr.
-site_data	Siddata
-site_name	Sidnamn
-Sites	Projekt
-slow app	Delar av programmet kan vara lÃ¥ngsammare
-SorteringAZ	Sorterar A-Z
-SorteringZA	Sorterar Z-A
-Specify name	Ange namn
-Specify number	Ange nummer
-Specify prefix	Specifiera prefix
-Specify subject	Ange Ã¤mne
-Specify user name	Ange anvÃ¤ndarnamn
-standard	Standard
-Standard filter	standardfilter
-StandardFilter	Standardfiltrering
-Start drawing	BÃ¶rja rita
-status	Status
-Status	Status
-Status report	Statusrapport
-Status report (filename)	Statusrapport
-status_changed_from	Status Ã¤ndrad frÃ¥n
-Stay here	Bli hÃ¤r
-Stay here	Bli hÃ¤r
-Stop drawing	Sluta rita
-Subcontractor	UndeleverantÃ¶r
-Subject	Ã„mne
-Subject already exists	Texten finns redan
-Substitute (single letter)	S
-Substitute for	Substitut fÃ¶r
-Substitutes and observers	Substitut och observerare
-Substitutes and observers	Substitut och observerare
-Substitutes:	Substitut:
-Summary	Sammanfattning
-Summary	Sammanfattning
-Superior role:	Ã–verordnad roll:
-Supervisor	FÃ¶rman
-Supervisor role with tasks cant be removed	Ã–vervakningsroll med uppgifter kan tas bort
-support	HjÃ¤lp
-Supported files	UnderstÃ¶dda filer
-Synchronize now	Synkronisera nu
-Synchronized	Synkroniserad
-synchronizing	Synkroniserar
-Synchronizing	Synkroniserar
-Tabel with tasks PDF	Tabell med uppgifter (PDF)
-Table (Excel)	Tabell (Excel)
-Table (PDF)	Tabell (PDF)
-Table with tasks excel	Tabell med uppgifter (Excel)
-Take me to Login	GÃ¥ till login
-Task	Brist
-Task count	Antal uppgifter av denna typ
-Task flow	Uppgiftsflow
-Task folders	Uppgiftsmapp
-Task reports (PDF)	Uppgiftsrapport (PDF)
-Task template	Uppgiftsmall
-task_list	Uppgiftslista
-task_list	Uppgiftslista
-task_list_setup	Uppgiftslista instÃ¤llning
-task_lists	Uppgiftslistor
-tasks	Uppgifter
-Tasks	Uppgifter
-Tasks and issues	Uppgifter
-Tasks associated with role. Cant delete	Uppgifterna tillhÃ¶r en roll. Kan ej radera roll.
-Tasks on plan drawings	Uppgifter pÃ¥ planritningen
-tasks_open	Ã–ppna uppgifter
-tasks_total	Totala antalet uppgifter
-Templates	Mallar
-Text	Text
-text	Text
-The file is ready	Filen Ã¤r klar
-The user will be removed	AnvÃ¤ndaren tas bort
-The user will be removed from all aspects of the project.	AnvÃ¤ndaren kommer att tas bort frÃ¥n alla delar av projektet.
-There is an update to the application	Det finns en uppdatering till applikationen
-Time of invitation	Inbjudningstidspunkt
-title	Ã„mne
-Title	Ã„mne
-Title (role)	Rubrik
-Title changed	Rubrik Ã¤ndrad
-title_changed_from	Rubrik Ã¤ndrad frÃ¥n
-to	till
-to approve	att godkÃ¤nna
-to assign	att tilldela
-to report ready	att rapportera klar
-Try Demo Site	Prova demo
-Type	Typ
-Type password for user	Skriv lÃ¶senordet fÃ¶r anvÃ¤ndaren
-Type prefix	Typprefix
-Types	Typer
-unassigned	(inte tilldelats)
-Unassigned	(inte tilldelats)
-unchanged	OÃ¤ndrad
-Unchanged	OÃ¤ndrad
-unhandled_error	Ett ovÃ¤ntat fel uppstod
-unhandled_error_title	Fel
-Unpacking drawings	Packar upp ritningar
-Unpublished buildings	Opublicerade byggnader
-unsent_message	{0} oskickat meddelande
-unsent_messages	{0} oskickade meddelanden
-Update	Uppdatera
-Update checklist	Uppdatera checklista
-Update Dalux Field	Uppdatera Dalux Field 
-Update now	Uppdatera nu
-Update user	Uppdatera anvÃ¤ndare
-update:	Uppdatera:  {0}
-update_task	Uppdatera
-Updated	Uppdaterad
-Updated {0}	Uppdaterad {0}
-Updated by	Uppdaterad av
-updated_by	Uppdaterad av
-updated_date	Uppdaterad {0}
-updating	Uppdaterar
-Updating	Uppdaterar
-Upload DWG	Ladda upp DWG
-Upload DWGs	Ladda upp DWGna
-Upload image	Ladda upp bild
-Upload PDF	Ladda upp PDF
-upload_company_logo	Ladda upp fÃ¶retagets logo
-Uploaded by	Uppladdad av
-url:support	http://www.daluxqa.com/support/
-Use	AnvÃ¤nd
-Use automatic publishing	AnvÃ¤nd automatisk publicering
-Use automatic publishing text	Byt till automatisk publicering? \n\n Byggnader och ritningar publiceras automatiskt nÃ¤r de Ã¤r klara.
-Use building	AnvÃ¤nd byggnad
-Use location	AnvÃ¤nd plats
-Use manual publishing	AnvÃ¤nd manuell publicering
-Use manual publishing text	Byt till manuell publicering? \n\n Du kan publicera byggnader och ritningar manuellt nÃ¤r de Ã¤r klara.
-Use search field below	AnvÃ¤nd sÃ¶kfÃ¤ltet nedan
-user	AnvÃ¤ndare
-User	AnvÃ¤ndare
-User active	AnvÃ¤ndare validerat
-User company	AnvÃ¤ndarens fÃ¶retag
-User email settings	E-post instÃ¤llningar
-User exists already	AnvÃ¤ndaren finns redan
-User found	AnvÃ¤ndare hittad
-User has signed up	AnvÃ¤ndaren har registrerat sig
-User name	E-post
-User not found	AnvÃ¤ndare hittades inte
-User not signed up	AnvÃ¤ndaren har inte registrerat sig
-User not validated	AnvÃ¤ndare inte validerat
-User removed	AnvÃ¤ndare avlÃ¤gsnad
-User rights	AnvÃ¤ndarrÃ¤ttigheter
-user_defined_flow	AnvÃ¤ndardefinierad flow
-Users	AnvÃ¤ndare
-Users removed	AnvÃ¤ndare avlÃ¤gsnade
-users_that_can_be_managed	AnvÃ¤ndare som kan administeras
-users_with access	AnvÃ¤ndare med tillgÃ¥ng till denna sida
-Value	VÃ¤rde
-Values	VÃ¤rden
-VATIN	Momsnr.
-View	Se
-View	Vy
-View buildings on map	Visa byggnader pÃ¥ karta
-View case	Visa
-View for	Visa fÃ¶r
-View user	Vy
-View/Edit	Se/redigera
-View/Edit (responsible)	Se/Redigera (ansvarig)
-Views	Visningar
-wait	VÃ¤ntaÂ…
-Wait	VÃ¤nta
-Warning	Varning
-warning remove user	Ã„r du sÃ¤ker att du vill avlÃ¤gsna denna anvÃ¤ndare?
-Warning!	Varning
-Web service rejected your request	WebbtjÃ¤nsten avvisade fÃ¶rfrÃ¥gan
-Week	Vecka
-Weekly safety report	Veckorapport
-whatis: construction	Entreprenaden Ã¤r den kontraktet som ingÃ¥s. En entreprenad kan spana Ã¶ver fler Ã¶vervakningsomrÃ¥den.
-whatis: discipline	Ã–vervakningsomrÃ¥det genomgÃ¥s av kontroll. Exempel av omrÃ¥den Ã¤r ' VVS', 'Elektricitet', 'Montering'
-whois: building owner	En anvÃ¤ndare kan se alla uppgifter med inte redigera dem
-whois: contractor	En person som Ã¤r ansvarig att uppgifterna levereras till byggnadsledningen i tid och uppfyller avtalad kvalitet inom en viss yrkesgrupp
-whois: fictive	En anvÃ¤ndare som inte Ã¤r kÃ¤nd Ã¤nnu, eller som senare skall inviteras att delta i denna projekt
-whois: site manager	Byggledaren har det dagliga ansvaret fÃ¶r platsen och har ansvaret att alla entreprenader levereras i tid och uppfyller avtalad kvalitet.
-whois: site manager assistant	En anvÃ¤ndare kan se alla uppgifter och redigera dem
-whois: subcontractor	En person som har ingÃ¥tt en kontraktmÃ¤ssig avtal pÃ¥ en bestÃ¤md uppgift med en entreprenadledare
-whois: supervisor	En person som inom olika Ã¤mnesomrÃ¥den inspekterar att byggandet har utfÃ¶rts korrekt 
-With date	Med datum
-Without date	Utan datum
-Work description	Arbetsbeskrivning
-Work descriptions	Arbetsbeskrivningar
-Work.Desc	Arb.Besk
-Work.Num	Arb. Nr
-Worker report	Arbetarrapport
-workflow_definition	Definiton av arbetsflow
-Yellow	Gul
-Yes	Ja
-You can not delete this control plan because there are tasks associated with it	Du kan inte radera denna kontrollplan eftersom det finns uppgifter i samband med den.
-You cannot delete this checklist template because there exists checklists of this type.	Du kan inte radera denna checklista mall eftersom det finns checklistor av denna typ
-You have not been assigned to any projects yet.	Du har inte tilldelats nÃ¥got projekt Ã¤nnu.
-You must accept this	FÃ¶r att anvÃ¤nda Dalux Field mÃ¥ste du:
-You must be administrator to add buildings	Drawings are linked from another project. You do not have permission to alter the drawings.
-You must be administrator to change publishing settings	Drawings are linked from another project. You do not have permission to change publishing settings.
-You must be administrator to delete buildings	Drawings are linked from another project. You do not have permission to delete buildings.
-You must be administrator to edit buildings	Drawings are linked from another project. You do not have permission to edit buildings.
-You must be administrator to rename buildings	Drawings are linked from another project. You do not have permission to rename buildings.
-You must be online to log in	Du mÃ¥ste vara online fÃ¶r att logga in
-you_are_logged_in	Du Ã¤r nu inloggad
-Your colleagues drafts	Dina kollegors utkast
-Your column setup is being reset	Dina kolumninstÃ¤llningar Ã¥terstÃ¤lls
-Your drafts	Dina utkast
-Your sites	Dina sidor
-your_current_role_alter_error	Din nuvarande roll tilllÃ¥ter inte att Ã¤ndra uppgifter med status
-your_current_role_create_error	Din nuvarande roll tilllÃ¥ter inte att skapa nya uppgifter
-your_sites	Dina sidor
-Zip code	Postnr
-zip_code	Postnr
-Zone	Zon
-Zone name	Zon namn
-Zones	Zoner
-Project does not have any checklists	Project does not have any checklists
-Search in e-mail addresses	Search in e-mail addresses
-Enterprise agreement	Enterprise agreement
-Open properties	Open properties
-Enterprise invoicing info	Invoicing information is used for all projects in the company agreement
-Add '{0}' to the list	Add '{0}' to the list
-Sort by last change	Sort by last change
-Sort by deadline	Sort by deadline
-required	required
-Required	Required
-Safety observations	Safety observations
-Safety observation	Safety observation
-Safety inspections	Safety inspections
-Safety inspection	Safety inspection
-Advanced modules	Advanced modules
-Invoicing information	Invoicing information
-Modules	Modules
-Module	Module
-Safety	Safety
-Activate	Activate
-Deactivate	Deactivate
-Active	Active
-Deactivated	Deactivated
-Recovered task	Recovered task
-A task has been recovered after an unexpected shutdown. Do you want to open it and continue editing?	A task has been recovered after an unexpected shutdown. Do you want to open it and continue editing?
-Edit task	Edit task
-Delete task	Delete task
-Description of control plan area	Description of control plan area
-Task type has been deleted	Task type has been deleted<br/><br/>Choose another task type.
-No responsible, draft not shared	No responsible (draft not shared)
-Deadline today	Deadline i dag
-Continue editing	Continue editing
-Inspection plans unavailable. No task types.	Inspection plans are unavailable because no task types have been added.
-Tasks with inspection plans	Tasks with inspection plans
-Name of duplicate	Name of copy
-Details	Details
-Are you sure you want to delete the image?	Are you sure you want to delete the image?
-Remove location	Remove location
-Cannot delete contract. Attached checklists or inspection plans	Cannot delete contract.\nAttached checklists or inspection plans
-Add attachment	Add attachment
-Send again	Send again
-Max 300 tasks in worker report	Max 300 tasks in worker reports
-Add company	LÃ¤gg fÃ¶retag
-Edit company	Redigera fÃ¶retag
-Remove company	Ta bort fÃ¶retag
-Are you sure you want to remove the user {0}?	Are you sure you want to remove the user {0}?
-Prepare for offline	Prepare for offline
-Disciplines (drawing)	Disciplines
-All disciplines	All disciplines
-All buildings	All buildings
-Downloading drawings	Downloading drawings
-Delete all offline drawings	Delete all offline drawings
-Could not get report	Could not get report
-Could not retrieve list	Could not retrieve list
-Create organisation	Create organisation
-Create building	Create building
-Create organisation info	You need to create an organisation.
-Create building info	You must create a building and publish it.
-Save and rotate	Gem og roter
-RGY	Red/Yellow/Green
-WorkDescription	Work description
-info invited project	You have been invited to the project {0}.
-Change password	Change password
-Remove user	Remove user
-Changes	Changes
-Changed by {0}	Changed by {0}
-History for {0}	History for {0}
-Photo added	Photo added
-Value changed	Value changed
-Comment changed	Comment changed
-Comment deleted	Comment deleted
-Value and comment changed	Value and comment changed
-Reply	Reply
-Coordinates	Coordinates
-Activity (report)	Activity
-Not activated	Not activated
-not activated	not activated
-Payment	Payment
-Project data	Project data
-Licenses	Licenses
-Next payment due	Paid for until
-Payer	Payer
-Quick fields	Quick fields
-Quick field	Quick field
-Remove quick field	AvlÃ¤gsna
-Edit quick field	Redigera
-Export quick fields	Exportera
-Import quick fields	Importera
-Person	Person
-Activated	Activated
-Rooms	Rum
-Draw on map	Draw on map
-3D preview	3D preview
-Log	Log
-Upload	Ladda upp PDF
-File info	File info
-Displayed name	Displayed name
-Subdiscipline	Subdiscipline
-Upload date	Upload date
-Article ID field	Article ID field
-Room report ID	Room report ID
-Article report ID	Article report ID
-Report Server	Report server
-Project ID	Project ID
-Construction site address	Construction site address
-Select checklist	Select checklist
-Change password	Change password
-Change password message	You will need to log in again after the password has been changed.
-Change password ok	You will receive an e-mail with further instructions shortly.
-confirm remove building	Are you sure you want to delete this building?
-Are you sure you want to delete {0}?	Are you sure you want to delete {0}?
-choose file destination alert	You must choose a destination for all files
-uploading file	Uploading file...
-upload error	An error occured while uploading the file
-drawing processing	Drawings are currently being processed. Please wait.
-delete view text	Are you sure you want to delete this view?
-delete view title	Delete view
-no attribute selected text	There is no attribute chosen.
-link copy error	Could not copy link
-link copy text	A link to this comment has been copied to the clipboard.\n\nTo use it, press Ctrl + V.
-download error	Download error.
-From file	From file
-Original elevation	Original elevation
-Visible	Visible
-Level setup	Level setup
-is3DLevel text	Level is drawn to scale
-drawingsAreLevelCuts text	This drawing is a horizontal cut in 3D model
-Place drawing	Place drawing
-modelMustBePlaced text	As this level is drawn to scale, the drawing must be placed in relation to another drawing.
-btnRevit text	This file must be uploaded from within Revit by using a plugin
-cannot update file type	The file type cannot be updated
-Test	Test
-Server OK	Server OK!
-Total area	Total area
-Room name	Room name
-Area	OmrÃ¥de
-Add level	Add level
-Edit level	Edit level
-drawings drawn to scale	Drawings on level drawn to scale
-Display 3D on this level	Display 3D on this level
-Generate 2D from 3D	Generate 2D drawing as a cut in the 3D model on this level
-GPS active	GPS active
-Message	Message
-Project person	Project person
-Another email	Another email
-Send link invitation	Send link invitation
-Other project name	Other project name
-Sharing	Sharing
-Upload to	Upload to
-Finish	Finish
-Publish following buildings	Publish following buildings
-Publish	Publish
-Rooms in	Rooms in
-Compare drawings	Compare drawings
-Version	Version
-Drawing information	Drawing information
-File information	File information
-Loading rooms	Loading rooms
-Isometric cut	Isometric cut
-Parallel to the axis	Parallel to the axis
-Legend	Legend
-North east	North east
-South east	South east
-South west	South west
-North west	North west
-Top	Top
-East	East
-North	North
-West	West
-South	South
-Drawing settings	Drawing settings
-DWG settings	DWG settings
-New files	New files
-Updated files	Updated files
-Apply new settings to updated files	Apply new settings to updated files
-DWG scale	DWG scale
-meter	meter
-Use colors	Use colors
-IFC settings	IFC settings
-Retrieving level information	Retrieving level information
-IFC level	IFC level
-Dalux level	Dalux level
-New level name	New level name
-Navigation from 2D to 3D	Navigation from 2D to 3D
-Use 2D drawings as specified in the IFC model	Use 2D drawings as specified in the IFC model (not all IFC models contain these)
-Create cutplanes from the 3D model	Create cutplanes from the 3D model (2D cut through all 3D geometry at the specified levels)
-Only create levels	Only create levels (2D DWG or PDF files must be mapped to enable navigation)
-Placed drawing	Placed drawing
-One or more of the updated drawings from PDFs or images are placed on a level	One or more of the updated drawings from PDFs or images are placed on a level. The updated drawings must have the same positions, or new registrations may not be placed correctly.
-Drawings with placement on levels	Drawings with placement on levels
-I will update the drawings if PDF/Image files have changed scale or position	I will update the drawings if PDF/Image files have changed scale or position
-Choose DWG file and referenced files	Choose DWG file and referenced files
-File Upload	File upload
-The unit scale is not a number	The unit scale is not a number
-ETA	ETA
-Click to set position manually	Click to set position manually
-Current drawing	Current drawing
-Match points for current drawing	Match points for current drawing
-Match drawing	Match drawing
-Match points for place drawing	Match points for place drawing
-Place relative to	Place relative to
-Combined display	Combined display
-Reference points not chosen	Reference points not chosen
-For validation purposes	For validation purposes
-Place this level	Place this level
-Start match point	Start match point
-End match point	End match point
-Rotation	Rotation
-Length	Length
-Match points	Match points
-Click on the drawing to select reference point A	Click on the drawing to select reference point A
-Click on the drawing to select reference point B	Click on the drawing to select reference point B
-This building has been deleted.	This building has been deleted.
-Dalux Field Account Manager	Dalux Field Account Manager
-Start date	Start date
-Expiration date	Expiration date
-Last activity	Last activity
-Price	Price
-Note	Note
-Invoices	Invoices
-Invoice	Invoice
-Are you sure you want to delete this role?	Are you sure you want to delete this role?
-From	FrÃ¥n
-Add filter	Add filter
-To	Till
-Drawing setup	Drawing setup
-Show on list	Show on list
-Show on drawing	Show on drawing
-The work description number is used to enumerate tasks. It must therefore be unique.	The work description number is used to enumerate tasks. It must therefore be unique.
-You must enter a prefix.	You must enter a prefix.
-Prefix is used for another template. The prefix must be unique.	Prefix is used for another template. The prefix must be unique.
-You must enter a work description number.	You must enter a work description number.
-Get started	Get started
-Action	Action
-Get started	Get started
-Help videos	Help videos
-History	History
-Checklist item	Checklist item
-manual_publish_description	Buildings must <b>manually</b> be made available when they have been processed.
-auto_publish_description	Buildings will <b>automatically</b> be made available when they have been processed.
-All checklists	All checklists
-Downloading checklists	Downloading checklists
-The project has been locked. Contact Dalux.	The project has been locked. Contact Dalux.
-The project has been locked. Contact project administrator.	The project has been locked. Contact project administrator.
-Account expired (admin)	Trial period has expired.
-Account expired (user)	Trial period has expired. Contact project administrator.
-My Dalux Field project has been locked ({0})	My Dalux Field project {0} has been locked
-Best regards	Best regards
-My Dalux Field project {0} has expired	My Dalux Field project {0} has expired
-Trial expired	Trial expired
-Trial expires today	Trial expires today
-Trial expires tomorrow	Trial expires tomorrow
-Trial expires in {0} days	Trial expires in {0} days
-Upgrade	Upgrade
-Project has been archived	Project has been archived
-I would like to upgrade my Dalux Field project {0}	I would like to end the trial period and upgrade my Dalux Field project {0}.
-Attachment added	Attachment added
-Attachment	Attachment
-View (verb)	View
-Create levels from {0}	Create levels from {0}
-Level creation	Level creation
-Create new levels from IFC files	Create new levels from IFC file
-Existing levels	Existing levels
-Units	Units
-Unit price	Unit price
-Billing	Billing
-The building does not exist anymore.	The building does not exist anymore.
-Invoice header {projectname}	Dalux Field for {0}
-Case no {projectnumber}	Case No.: {0}
-Period {start to end date}	Period: {0}
-Invoice Att {note}	Att: {0}
-Invoice Note {note}	Note: {0}
-Do you want to save the changes?	Do you want to save the changes?
-Don't save	Don't save
-Project number	Project number
-Project language	Project language
-Attention to on invoice	Attention to on invoice
-Note on invoice	Note on invoice
-Payment agreement	Company profile
-Company profile	Company profile
-1 license	1 license
-{0} licenses	{0} licenses
-Months	Months
-months	months
-Month	Month
-User licenses	User licenses
-Billing cycle	Billing cycle
-Next invoice	Next invoice
-Project status	Project status
-Payment information	Payment information
-Invoice history	Invoice history
-Company list	Company list
-Invoice email	Invoice email
-Default project language	Default project language
-Unused licenses	Unused licenses
-Administrators	Administrators
-Template project	Template project
-Open invoice	Open invoice
-Delete license	Delete license
-Delete user	Delete user
-Historical data	Historical data
-Project invoice information	Project invoice information
-Company profile invoice information	Company invoice information
-Task creators	Task creators
-Show invoice	Show invoice
-Photo removed	Photo removed
-Information removed	Information removed
-Information added	Information added
-Field added	Field added
-Field removed	Field removed
-Field updated	Field updated
-Information updated	Information updated
-previous value	previous value
-Connecting to Windows viewer	Connecting to Windows viewer
-You can't remove yourself from the project	You can't remove yourself from the project
-Remove association	Remove association
-No organization has been set	No organization has been set
-New trial project	New trial project
-Heading	Heading
-Level name	Level name
-Display 3D	Display 3D
-References	References
-Edit drawing	Edit drawing
-Show photo	Show photo
-No additional licenses required	No additional licenses required
-{0} additional licenses required	{0} additional licenses required
-Usage period	Usage period
-Subscription period	Subscription
-Invoice usage period	Usage period
-Subscriptions	Subscriptions
-License	License
-License discount	Discount, shared company license
-Add to favorites	Add to favorites
-Remove from favorites	Remove from favorites
-One additional license required	One additional license required
-Required field	Required field
-Please fill the required fields	Please fill the required fields
-Show license agreement	Show license agreement
-Accept license agreement	Accept license agreement
-Users to be activated	Users to be activated
-Users to be deleted	Users to be deleted
-You must accept the license agreement in order to proceed	You must accept the license agreement in order to proceed
-Select site manager	Select site manager
-Create project	Create project
-Create a new project	Create a new project
-Enter invoice information	Enter invoice information
-da-dk_LicenseAgreementsURL	http://field.dalux.com/manual/Dalux%20Field%20bruger%20forretningsbetingelser.pdf
-en-us_LicenseAgreementsURL	http://field.dalux.com/manual/Dalux%20Field%20End-user%20License%20Agreement.pdf
-License log	License log
-Standard project	Standard project
-Identification fields	Identification fields
-Edit help text	Edit help text
-Has license	Has license
-Choose standard project	Choose standard project
-DaluxUpdateText	Dalux Field has been updated. \nWe strongly recommend you to press the Refresh button in order to use the newest version.
-Licensed users	Licensed users
-Unlicensed users	Unlicensed users
-New Dalux Field version	New Dalux Field version
-Be aware that non-licensed users will be deleted from the project.	Be aware that non-licensed users will be deleted from the project.
-Are you sure you want to delete these users from the project?	Are you sure you want to delete these users from the project?
-Do not show again	Do not show again
-Dalux Field is updated	Dalux Field is updated
-{0} licenses are requested.	{0} licenses are requested.
-{0} users are chosen to be licensed.	{0} users are chosen to be licensed.
-Move {0} users to the {1} list in order to proceed.	Move {0} users to the '{1}' list in order to proceed.
-I accept	I accept
-the license agreement	the license agreement
-upgradeNotesURL	http://field.dalux.com/manual/newversion_da.htm
-Only an IT Administrator can upgrade a project.	Only an IT Administrator can upgrade a project.
-Contact IT Administrator	Contact IT Administrator
-Select timezone	Select timezone
-Fixed montly price	Fixed montly price
+"","sv-se"
+"of","av"
+"(element ...)","(element ...)"
+"(multiple)","(flera)"
+"(no deadline)","(ingen tidsgräns)"
+"(No photo)","Ta foto"
+"(No superior)","(Ingen överordnad)"
+"(No title)","(Ingen titel)"
+"(none)","(ingen)"
+"(Not set)","(inte specifierad)"
+"(Photo)","Ta om"
+"(room ...)","(rum ...)"
+"(unspecified)","(inte specifierad)"
+"{0} of {1}","{0} av {1}"
+"{0} unsent message","{0} osänt meddelande"
+"{0} unsent messages","{0} osända meddelanden"
+"0 tasks for {0}","0 uppgifter för {0}"
+"A client error occured","Ett kundfel har uppstått.\nDalux har blivit informerad."
+"A main responsbile cannot be removed","En huvudansvarig kan inte tas bort"
+"Accept","Godkänn"
+"Accept eula","Godkänn våra <a href='eula.htm' target='_blank'>villkor</a>"
+"Account expired (admin)","<center><br/><br/>Dalux Field projektet ""{0}"" har löpt ut.<br/><br/>Kontakta Dalux för att återaktivera ditt projekt.<br/><br/>&nbsp;</center>"
+"Account expired (user)","<center><br/><br/>Dalux Field projektet ""{0}"" har löpt ut.<br/><br/>Kontakta IT administratören för att återaktivera ditt projekt.<br/><br/>&nbsp;</center>"
+"accuracy","noggranhet"
+"Active user","Aktiv användare"
+"add","Lägg till"
+"Add","Lägg till"
+"Add building","Lägg till byggnad"
+"Add criteria","Lägg till kriterier"
+"Add information","Lägg till information"
+"Add new registration","Lägg till ny registrering"
+"Add new role","Lägg till ny roll"
+"Add other user","Lägg till andra användare"
+"Add other user...","Lägg till andra användare…"
+"Add person","Lägg till person"
+"Add persons","Lägg till personer"
+"Add photo","Lägg till bild"
+"Add project user","Lägg till projektanvändare"
+"Add quick field","Lägg till snabb ämne"
+"add subordinate warning","Du håller på att lägga till en underordnad till:\n{0} ({1})\n\nFortsätt?"
+"add subordinate warning","Du håller på att lägga till en roll under {1} på kontraktet {1}.\n\nVill du fortsätta?"
+"Add zone","Lägg till zon"
+"added","Tillagd"
+"Added","Tillagd"
+"Address","Adress"
+"Address 1","Adress 1"
+"Address 2","Adress 2"
+"Address book","Kontakter"
+"address1","Adress 1"
+"address2","Adress 2"
+"administration","Administration"
+"Administration","Administration"
+"Administrator","Administratör"
+"administrators","Administratör"
+"administrators","Administratörer"
+"Advanced","Avancerad"
+"Advanced filter","Avancerad"
+"After","Efter"
+"alert delete role","Är du säker på att du vill radera denna roll?\n\nUppgifter som tilldelats {0} förblir tillgänglig för {1} under ""Pågående""."
+"all","Alla"
+"All","Alla"
+"All (folder)","Alla uppgifter"
+"All contracts","Alla kontrakt"
+"All tasks","Alla uppgifter"
+"All tasks (folder)","Alla uppgifter"
+"All tasks will be deleted","Oskickade uppgifter och utkast kommer att gå förlorade"
+"All users","Alla användare"
+"all_users","Alla användare"
+"all_users","Alla användare"
+"Allow cookies","Acceptera cookies (<a href='cookies.htm' target='_blank'>läs mera</a>)"
+"Allow create tasks","Kan skapa uppgifter"
+"Allow create tasks colleagues","Kan skapa uppgifter åt kollegorna"
+"Allow create users","Kan skapa användare"
+"already created","redan skapat"
+"already exists","finns redan"
+"Altered","Ändrad"
+"Annotate","markera på foto"
+"Anonymous user","anonym användare"
+"Approve","Godkänn, stäng"
+"Approve followup","Godkänn, uppföljning"
+"Approved","Godkänd, stängt"
+"Approved (date)","Godkända"
+"Approved (folder)","Godkända"
+"Approved by","Godkänd, stängt av"
+"Approved closed (folder)","Godkända, stängda"
+"Approved followup","Godkänd, uppföljning"
+"Approved followup (folder)","Godkända, uppföljning"
+"Approved, followup by","Godkänd, uppföljning av"
+"ApprovedFollowup (folder)","Godkända, uppföljning"
+"Architecture (model)","Arkitektur"
+"Archive (folder)","Avslutat"
+"Are you sure you want to delete building ""{0}""?","Är du säker på att du vill radera byggnad ""{0}""?"
+"Are you sure you want to delete this checklist?","Är du säker på att du vill radera denna checklista?"
+"Are you sure you want to delete this control plan?","Är du säker på att du vill radera denna kontrollplan?"
+"area","Område"
+"Area (discipline)","Område"
+"AreaPlan","Områdesplaner"
+"arrow","Pil"
+"Ascending A-Z","Stigande A-Ö"
+"Assign","Tilldela"
+"Assign to","Tilldela till"
+"assigned","Tilldelad"
+"Assigned","Tilldelad"
+"Assigned by","Tilldelad av"
+"Assigned to","Tilldelad till"
+"Assigned to","Tilldelad till"
+"Assigned to {0}","Tilldelad till <u>{0}</u>"
+"assignee","Tilldelade"
+"Assignee","Tilldelade"
+"Associate checklist","Associate with checklist"
+"Associated checklist","Checklista anknytning"
+"Association comment","Comment on association"
+"Auto","Auto"
+"Available offline","Tillgänglig offline"
+"Awaiting approval (folder)","Väntar på godkännande"
+"AwaitingApproval (folder)","Väntar på godkännande"
+"back","Tillbaka"
+"Back","Tillbaka"
+"Bar","Kolonn"
+"Base data","Stamdata"
+"Before","Före"
+"BIM object","Byggnadsdel"
+"BIM object type","Byggnadsdelstyp"
+"bottom right","nederst till höger"
+"box","Låda"
+"Bring to front","För framåt"
+"Building","Byggnad"
+"Building incomplete","Byggnad otillgänglig"
+"Building is not ready","Byggnaden är inte redo"
+"Building name","Byggnadsnamn"
+"Building overview","Byggnadsöversigt"
+"Building status","Byggnadsstatus"
+"building updated?","Byggnaden blev inte hittad. Platsen skall uppdateras.<br/><br/>Har ritningsmaterialet uppdaterats?"
+"building_incomplete","Byggnad otillgänglig"
+"building_incomplete_text","yggnaden har nyligen uppdaterats och förbereds för visning på den mobila enheten. Byggnaden är inte tillgänglig för en stund."
+"building_model_analysing","Byggnaden uppdateras"
+"building_model_not_uploaded","Byggningsmodellen är inte laddad upp än"
+"building_model_pending","Byggnaden är planerad för uppdatering"
+"building_model_queued_reanalysis","Byggnaden är för nuvarande i kö för ny analys"
+"building_model_waiting","Byggnaden är för nuvarande i kö för analys"
+"building_name","Byggnadsnamn"
+"building_name","Byggnadsnamn"
+"building_name_cannot_be_empty","Byggnadsnamn får inte vara tomt!"
+"building_name_cannot_be_empty","Byggnadsnamn får inte vara tomt!"
+"building_overview","Byggnadsöversigt"
+"buildings","Byggnader"
+"Buildings","Byggnader"
+"by","av"
+"Can be approved upon creation","Kan godkännas när den skapas"
+"Can delete when","Det är endast möjligt att radera alla uppgifter när det finns mindre än 50 uppgifter i projektet."
+"cancel","Avbryt"
+"Cancel","Avbryt"
+"CANCEL","AVBRYT"
+"Cancel changes","Radera ändringar"
+"Cannot remove project owner","Projektägare kan inte tas bort"
+"Category","Kategori"
+"Caution","Varning"
+"CeilingPlan","Innertak"
+"change","Ändra"
+"Change","Ändra"
+"Change location","Byt plats"
+"Change to automatic publishing","Byt till automatisk publicering"
+"Change to manual publishing","Byt till manuell publicering"
+"change...","Ändra"
+"changed","Ändrad"
+"changed from","Ändrad från"
+"changed_by","Ändrad av"
+"changed_from","Ändrad från"
+"Checklist","Checklista"
+"Checklist association changed","Checklist association changed"
+"Checklist changes will be saved","Ändringar i checklistan kommer att sparas.\n Vill du fortsätta?"
+"Checklist closed","Checklistan klar"
+"Checklist no.","Checklista nr."
+"Checklist report","Checklista rapport"
+"Checklist template","Checklista mall"
+"Checklist template order","Checklista mall ordningsföljd"
+"Checklists","Checklistor"
+"Checklists disabled","Checklistor inaktiverat"
+"Checklists enabled","Checklistor aktiverat"
+"Choose","Välj"
+"Choose...","Välj"
+"city","Stad"
+"City","Stad"
+"City","Stad"
+"Clear","Återställ"
+"Clear annotations","Återställ markering"
+"Click on the map to place origo","Klicka på kartan för att placera origo"
+"Click to open","Klicka för att öppna"
+"Client error","Kundfel"
+"close","Stäng"
+"Close","Stäng"
+"Closed (singular)","Avslutat"
+"Color","Färg"
+"Color code","Färgkodning"
+"Color code changed","Färgkodning ändrad"
+"Combined","Kombinerad"
+"Combined report","Kombinerad rapport"
+"Comment","Kommentar"
+"Compact","Kompakt"
+"Companies","Företag"
+"company","Företag"
+"Company","Företag"
+"Company name","Företagsnamn"
+"Complete","Färdig"
+"Completed","Färdigrapporterad"
+"Completed (checklist)","Avslutat"
+"Completed (folder)","Färdigrapporterad"
+"Completed by","Rättat av"
+"Complexity","Komplexitet"
+"Compressing image","Komprimerar bilden…"
+"Compressing image","Komprimerar bilden…"
+"Confirm","Bekräfta"
+"Confirm delete construction","Är du säker på att du vill radera denna entreprenad?"
+"confirm delete site","Är du säker på att du vill ta bort den här sidan?"
+"Confirm deletion","Bekräfta radering"
+"Confirm password","Bekräfta lösenord"
+"confirm_password","Bekräfta lösenord"
+"Confirmation required","Bekräftelse krävs"
+"Connection problems","Anslutningsproblem"
+"Connection problems","Anslutningsproblem\n\nFörsök igen..."
+"Connection problems","Anslutningsproblem"
+"connection_lost","Anslutningsproblem"
+"connection_lost_text","Ingen internetuppkoppling"
+"construction","Entreprenad"
+"Construction","Entreprenad"
+"constructions","Entreprenadsavtal"
+"Constructions","Entreprenadsavtal"
+"Contact Dalux","Kontakta Dalux"
+"Contact information","Kontaktinformation"
+"Contact IT Administrators","Kontakta IT adminstratören"
+"Contains","Innehåller"
+"Continue logout","Logga ut?"
+"Contract","Entreprenad"
+"Contract management","Hantering av entreprenad"
+"Contractor","Entreprenör"
+"Control plan","Kontrollplan"
+"Control plan area","Kontrollplan för området"
+"Control plans","Kontrollplaner"
+"Copy from other project","Kopiera från ett annat projekt"
+"copy_link","Kopiera länk"
+"Correspondence","Korrespondens"
+"Correspondence report","Komprimerad rapport"
+"Correspondence report (filename)","Komprimerad rapport"
+"could not center on gps description","Det gick inte att fokusera på GPS-platsen, då den ligger utanför ritningen."
+"could not center on gps title","GPS-position långt borta"
+"Could not open attachment","Kunde inte öppna bifogad fil nr. {0}.\n är filen trasig?"
+"Could not reach the server","Kan inte nå servern. Är du ansluten till internet?"
+"could_not_find_comment","Det gick inte att hitta kommentarer som anges i länken.\n\n  Omdirigerar till användarplatsen."
+"Country","Land"
+"Craftsman","Hantverkare"
+"Create","Skapa"
+"Create Construction","Skapa entreprenad"
+"Create demo user","Skapa demo användare"
+"Create empty checklist","Skapa tom checklista"
+"Create empty control plan","Skapa tom kontrollplan"
+"Create inspection","Spara rapport"
+"Create new","Skapa ny"
+"Create role","Skapa roll"
+"Create roles","Skapa roller"
+"Create send","Skapa, sänd"
+"Create user","Skapa användare"
+"Create user","Skapa användare"
+"Create user","Skapa användare"
+"Create user","Skapa användare"
+"Create user","Skapa användare"
+"Create user","Skapa användare"
+"Create user","Skapa användare"
+"create:","Skapa: {0}"
+"created","Skapad"
+"Created","Skapad"
+"Created by","Skapad av"
+"Created by (email)","Skapad av  (e-mail)"
+"Created only via checklists","Skapas endast via checklistor"
+"created_by","Skapad av"
+"Creates tasks","Skapar uppgifter"
+"credetials_fail","Användarnamn och kod kunde inte verifieras"
+"Criteria","Kriterier"
+"custom_filter","Användarfilter"
+"Daily summary","Daglig sammanfattning"
+"Dalux administration","Dalux administration"
+"Dalux daily","Dalux Dagligt"
+"Dashboard","Dashboard"
+"Data fields","datafält"
+"Data removed from {0} checklists","Sparas ändringarna, kommer det att <font color=""#DD0000"">avlägsnas</font> data från {0} checklistor"
+"Database","Database"
+"date","Datum"
+"Date","Datum"
+"dateformat","d. MMM yyyy, HH:mm"
+"dateformat_air","d. MMM yyyy, HH:mm"
+"dateformat_air_checklist","d. MMM yyyy, HH:mm"
+"dateformat_deadline","d. MMM yyyy"
+"dateformat_short","d. MMM"
+"dateformatDayYear","d. MMMM yyyy"
+"deadline","Deadline"
+"Deadline","Deadline"
+"Deadline changed","Deadline ändrad"
+"Default description","Standardbeskrivning"
+"Default description","Standardbeskrivning"
+"Deficiency","Brist"
+"Delegated to","Delegeras till"
+"Delete","Radera"
+"delete","Radera"
+"Delete all","Radera allt"
+"Delete all tasks","Radera alla uppgifter"
+"Delete building","Radera byggnad"
+"Delete checklist","Radera checklista"
+"Delete control plan","Radera kontrollplan"
+"Delete draft","Radera utkast"
+"Delete Draft","Radera utkast"
+"Delete draft","Radera utkast"
+"Delete draft (draft)","Radera utkast"
+"Delete draft (update)","Radera utkast"
+"Delete draft alternative","Radera utkast"
+"Delete drawing","Radera ritning"
+"Delete from outbox","Radera från utkorgen"
+"Delete photo","Radera bild"
+"Delete selection","Radera valda"
+"Delete tasks","Radera uppgifter"
+"Delete view","Radera vy"
+"Delete x tasks","Radera uppgifter: {0}x {1}"
+"Delete zone","Radera zon"
+"Demo user","Demo användare"
+"Descending Z-A","Fallande Z-A"
+"description","Beskrivning "
+"Description","Beskrivning "
+"Detail","Detalj"
+"Detail reports","Detaljrapporter"
+"Detailed","Detaljerad"
+"Deviation","Avvikelse"
+"Disabled","Disabled"
+"Discard changes","Ignorera ändringar"
+"Discipline","Övervakningsområde"
+"Discipline (drawing)","Övervakningsområde"
+"Discipline already exists","Övervakningsområde finns redan för denna entreprenad"
+"Disciplines","Övervakningsområden"
+"Displays","Visar"
+"Do you accept the invitation to the project {0}?","Accepterar du inbjudan till projektet {0}?"
+"Do you want to save changes to the draft?","Vill du spara ändringar i utkastet?"
+"Do you want to save the draft?","Vill du spara utkastet?"
+"document file types","*.pdf"
+"Documents","Dokumenter"
+"Does not contain","Innehåller inte"
+"Done","Färdig"
+"Download","Ladda ner"
+"Download PDF","Ladda ner PDF"
+"Downloading checklist...","Ladda ner checklista…"
+"Downloading report...","Laddar ner rapport…"
+"Downloading task {0} of {1}","Laddar ner uppgift {0} av {1}"
+"Draft","Utkast"
+"Draft early version, change location","<center>OBS!<br/><br/>Utkastet är skapat med en tidigare version av Dalux Field. Uppdatera platsen.<br/><br/>Kom ihåg att uppdatera din Dalux Field till den senaste versionen</center>"
+"Drafts","Utkast"
+"Drawing","Ritning"
+"Drawing information","Ritningsinformation"
+"Drawing updated {0}","Drawing updated {0}"
+"Drawing with tasks","Ritning med uppgifter"
+"Drawings","Ritningar"
+"dRofus integration","dRofus integration"
+"Copy row","Kopiera rad"
+"DUT_MILLIMETERS","mm"
+"DUT_SQUARE_METERS","m²"
+"Economy","Ekonomi"
+"Economy changed","Ekonomin förändrad"
+"edit","Redigera"
+"Edit","Redigera"
+"Edit building","Redigera byggnad"
+"Edit building model file","Redigera byggnadsmodellen"
+"Edit persons","Redigera personer"
+"Edit photo","Redigera foto"
+"Edit project data","Redigera projektdata"
+"Edit properties","Redigera egenskaper"
+"Edit role","Redigera roller"
+"Edit site data","Redigera siddata"
+"Edit user","Redigera användare"
+"Edit zone","Redigera zon"
+"Edit zones","Redigera zoner"
+"Edit contract","Redigera entreprenad"
+"element updated?","Byggnadsdelen blev inte hittad.Platsen skall uppdateras.<br/><br/>Har ritningsmaterialet uppdaterats?"
+"element_properties","Egenskaper"
+"Elevation","Höjd"
+"Elevation lower","Höjd, lägre"
+"Elevation upper","Höjd, övre"
+"ellipse","Ellips"
+"email","E-post"
+"Email","E-post"
+"Email for new tasks","E-post för nya uppgifter"
+"Email log","E-post logg"
+"Email settings","E-post inställningar"
+"Email settings (ribbon)","E-post inställningar"
+"Email with daily summary","E-post med daglig sammandrag"
+"email:","E-post"
+"empty_list","Listan är tom"
+"Enable","Möjliggör"
+"Enable checklists","Möjliggör checklistor"
+"Enable photos","Möjliggör fotos"
+"Enabled","Enabled"
+"EngineeringPlan","Ingenjörsplaner"
+"Enter discpline","Ange övervakningsområde"
+"Enter title","Ange titel"
+"enterprise","Företag"
+"Entire list","Hela listan"
+"Equals","Lika med"
+"error","Fel"
+"Error","Fel"
+"Error","Fel"
+"Error downloading offline data","Fel vid hämtning av uppgifter"
+"Excel","Excel"
+"Excel and locations","Excel och platser"
+"Excel and locations","Excel och platser"
+"Existing","Existerande"
+"existing","Existerande"
+"existing task restricted to {0}","Existerande uppgift: Begränsad till '{0}'"
+"Export","Exportera"
+"Export all","Exportera alla"
+"Export failed","Export misslyckades"
+"Export overview","Exportera översikt"
+"Fictive user","Fiktiv användare"
+"Field definition","Fält definition"
+"Field type","Fält typ"
+"Fields","Fält"
+"File","Fil"
+"File could not be downloaded","Filen kunde inte laddas ner"
+"File to upload","Fil att ladda upp"
+"Filename","Filnamn"
+"Files","Filer"
+"Files to upload","Fil att ladda upp"
+"Fill in","Utfyll"
+"Filters","Filter"
+"find","Hitta"
+"First levels","Första"
+"First name","Förnamn"
+"first_name","Förnamn"
+"Floor","Våning"
+"Floor name","Våningsnamn"
+"Floor plan","Våning"
+"Floor plans","Våningar"
+"Floor properties","Egenskaper för våning"
+"floor updated?","Planritningen blev inte hittad.Platsen skall uppdateras.<br/><br/>Har ritningsmaterialet uppdaterats?"
+"floor_name","Våningsnamn"
+"Floorplan","Planritning"
+"FloorPlan","Planritningar"
+"floorplans","Planritningar"
+"Floorplans","Planritningar"
+"floors","Planer"
+"Floors","Planer"
+"flow_configuration","Tillämpat flow"
+"flow_configuration_definition","Definition av flow"
+"Folder","Mapp"
+"Folder tools","Mappverktyg"
+"Foreman","Förman"
+"found","funnen"
+"From camera","Från kamera"
+"From drawing","Från ritning"
+"From gallery","Från galleri"
+"General problem","Allmän problem"
+"Generate report","Generera rapport"
+"Generating document","Genererar dokument"
+"Generating picture","Genererar bild"
+"Generating report","Genererar rapport…"
+"Generating report {0}","Genererar rapport {0}"
+"Get Revit plug-in","Få Revit plug-in"
+"GIS location","GIS placering"
+"GIS placement not chosen","GIS placering inte vald"
+"Go to location","Visa läge"
+"gps accuracy timeout description","Det gick inte att aktivera GPS. Kontrollera enhetens inställningar för att se till att GPS är aktiverad och signalen är ok."
+"gps accuracy timeout title","GPS"
+"gps accuracy too coarse description","Noggrannheten på GPS är alltför oprecis för att visas (över 40 meter)"
+"gps accuracy too coarse title","GPS"
+"gps not enabled description","Det gick inte att aktivera GPS. Kontrollera enhetens inställningar för att se till att GPS är aktiverad"
+"gps not enabled title","GPS"
+"Greater than","Större än"
+"Greater than equals","Större än är lika med"
+"Green","Grön"
+"Grid","Rutnät"
+"Header","Rubrik"
+"height","Höjd"
+"Help text","Hjälptext"
+"Home","Hem"
+"i_accept","Jag accepterar att använda denna gratistjänst &quot;som är&quot;"
+"ID","ID"
+"image file types","*.gif;*.png;*.jpg;*.jpeg"
+"images","bilder"
+"Images","bilder"
+"Import","Importera"
+"Import complete","Hämtning av projektinställningar var lyckat"
+"Import from","Importera från"
+"Import from file","Importera från fil"
+"Import from filesystem","Importera från filsystemet"
+"Import from projects","Importera från projekt"
+"Inactive user","Inaktiv användare"
+"Inbox","Inbox"
+"Inbox (folder)","Inbox"
+"Info","Info"
+"info 500+ options","Det finns mer än 2000 unika alternativ.\n Använd sökfiltret under."
+"info add building name","Byggnadsnamn får inte vara tomt!"
+"info admin edits work description","Endast administratörer kan redigera arbetsbeskrivningar. \n Administratörer listas under Användare (under Inställningar i menyn till vänster)."
+"info another user created this task","En annan användare har skapat denna uppgift. Endast denna användare kan se eller redigera uppgiften."
+"info app update","Uppdatera Dalux Field<br/><br/>Kom ihåg att sykronisera oskickat data innan du uppdaterar"
+"info batch deny assign wd","Det är endast möjligt att tilldela flera uppgifter på en gång när alla uppgifter är inom samma område och arbetsbeskrivning. \n \n Begränsa urvalet. Du kanske vill använda ett filter på kolumner Tillsyn och Arbetsbeskrivning."
+"info batch deny reply","Det är endast möjligt {0} flera uppgifter på en gång, så länge som de utvalda uppgifterna kan ändras av dig.\n\nHar du skrivrättigheter till de valda uppgifterna? \n Valde du rätt mapp?\n\nTa bort urval av uppgifter du inte längre kan ändra."
+"info building incomplete","Byggnaden har nyligen uppdaterats och förbereds för närvarande för visning på den mobila enheten. Byggnaden är inte tillgänglig för en stund."
+"info building queued analysis","Byggnaden uppdateras. Försök igen senare."
+"info building update failed","Byggnadens uppdatering misslyckades. Kontakta Dalux."
+"info building updating 3d","Ritningar uppdateras. Försök igen senare."
+"info cannot edit work description","Arbetsbeskrivningen kan endast ställas in om den nuvarande rollens förman inte har någon arbetsbeskrivning. Endast administratörer kan ändra arbetsbeskrivningar för sig själva."
+"info checklist conflict","<p align=""center""> Checklista ändrades på annat håll. <br/> Förändringarna kommer att skrivas över genom att klicka på Spara. <br/> <b> Klicka för att visa ändringar </ b> </ p>"
+"info checklist not sent retry","Checklistan sparades inte. <br/><br/> Klicka spara för att försöka igen."
+"info checklist offline","Denna checklista är inte tillgänglig offline"
+"info commit checklist first","<P ALIGN=""center"">Foto kunde inte kopplas till checklista. <br/> Ladda upp checklista eller ta bort foton. </ P>"
+"info company has users","Kan ej radera ett företag med användare"
+"info connection lost","Ingen internetuppkoppling"
+"info contract uses company","Företag med ett eller flera entreprenader"
+"info credetials fail","Användarnamn och lösenord kunde inte verifieras"
+"info demo site","Detta är en demoprojekt. Du är därför inte tillåtet att ändra BIM inställningar."
+"info document ready","Dokumentet är redo."
+"info document ready download","Dokumentet är redo.Ladda ner?"
+"info email not validated","e-postadress har inte bekräftats"
+"info empty list","Listan är tom"
+"info field missing"," '{0}' saknas"
+"info image load failed","Uppladdning av bild misslyckades"
+"info invalid email","E-postadressen är ogiltig"
+"info invalid password","Ditt lösenord bör innehålla minst 6 tecken."
+"info invalid roleworkdescription delete","Kan inte ta bort arbetsbeskrivningar som är i bruk."
+"info invited","<p align=""center"">Inbjudan till projekt '{0}'</p>"
+"info isnan {0}","Värdet för ""{0}"" är inte ett nummer"
+"info logged in","Du är nu inloggad"
+"info logged out","Du har loggat ut"
+"info mail sent {0}","Ett e-postmeddelande skickades till '{0}'"
+"info must select assignee","En ansvarig måste väljas."
+"info must update task","Behöver internetuppkoppling för att uppdatera denna uppgift."
+"info new user added mail sent","Vi har skickat en inbjudan via mail. \n\n Användaren aktiveras när e-postadressen har bekräftats via länken i e-postinbjudan och användaren skapats i systemet."
+"info no bim","Ingen BIM, CAD-eller PDF-filer. Ladda upp från Inställningar."
+"info no company selected","Du har inte valt ett företag."
+"info no creator role","<p align=""center""> Projektinställningar har ändrats <br/> Du har inte längre tillstånd att skapa uppgifter </ p>"
+"info no delete company","Företaget kan inte tas bort eftersom användare är förknippade med detta företag. \n\n Ta bort användare från företaget först."
+"info no delete role","Kan inte ta bort roll med underordnade. \n\nOm en ny person ersätter nuvarande personen, bör den roll inte tas bort. Klicka på Redigera för att ersätta personen."
+"info no delete user organisation","Användaren kan inte tas bort eftersom användaren är en del av organisationen. \n\nRadera användare från organisationen för att ta bort."
+"info no delete user substitute","Användaren kan inte tas bort eftersom användaren står för: {0} ({1}) \n \n Ta bort användare från organisationen först."
+"info no discipline","Du måste ange ett övervakningsområde."
+"info no permission","Du har inte tillstånd att redigera här."
+"info no title","En titel måste anges."
+"info no update role","<p align=""center""> Rapporten har förändrats <br/> Du kan inte längre uppdatera denna rapport. <br/> Har fallet ändrats eller stängts? </ p>"
+"info none selected","Inga uppgifter valda"
+"info non-existing assignee role","<p align=""center""> Projektinställningar har ändrats <br/> Uppgiften kan inte längre tilldelas denna person </ p>"
+"info non-existing assignee wd","<p align=""center""> Projektinställningar har ändrats <br/> Uppgiften kan inte längre tilldelas denna person </ p>"
+"info non-existing role","<p align=""center""> Projektinställningar har ändrats <br/>Din nuvarande roll ger inte behörighet att ändra denna uppgift </ p>"
+"info non-existing substitute","<p align=""center""> Projektinställningar har ändrats <br/>Din har inte längre behörighet att ändra denna uppgift </ p>"
+"info not self superior","Det är inte möjligt att ange din chef för att vara dig själv"
+"info offline finding location","Offline <br/> Använder närmast tillgängliga platsen"
+"info offline minimodel","Offline<br/>Det finns ingen anslutning till internet och mini-modellen är inte tillgänglig för användning offline."
+"info offline minimodel frame","Offline<br/>Det finns ingen anslutning till Internet och den aktuella bildvinkeln är inte tillgänglig för användning offline."
+"info offline new visit 2d","Offline<br/>Det finns ingen anslutning till Internet och den aktuella planritningen är inte tillgänglig för användning offline."
+"info offline new visit 3d","Offline<br/>Det finns ingen anslutning till Internet och inga platser på denna våning är tillgängliga för användning offline."
+"info open draft","<p align=""center"">Utkast<br/><b>Klicka för att visa rapporten</b></p>"
+"info password no match","Lösenorden matchar inte."
+"info picture ready","Ladda ner bild"
+"info picture ready download","Bilden är klar för nedladdning"
+"info preview only","Endast en förhandsvisning av prov modellen finns."
+"info processing 3d","Visning uppdateras. Försök igen senare."
+"info program error","<p align=""center""> Programfel uppstod <br/> Kontakta Dalux (support@daluxqa.com) </ p>"
+"info project setting error","<p align=""center""> Oförutsedda projektinställningar <br/> Kontakta Dalux (support@daluxqa.com) </ p>"
+"info remove company","Är du säker på att du vill ta bort det här företaget?"
+"info remove self","Du håller på att ta bort dig själv från projektet \n \nVill du fortsätta?"
+"info remove work description","Var medveten om att uppgifter som skapats med den här arbetsbeskrivning inte längre kan grupperas baserat på denna fastighet. \NArbetsbeskrivningen kommer automatiskt att tas bort från de påverkade roller. \n\n Vil du fortsätta?"
+"info report has update in folder","<p align=""center""> Observera! <br/> Det finns en uppdatering av rapporten i mappen {0} </ p>"
+"info report has updates in folder","<p align=""center""> Observera! <br/> Det finns uppdateringar till rapporten i mappen  {0} </ p>"
+"info report has updates in folders","<p align=""center""> Observera! <br/> Det finns uppdateringar till rapporten i mapparna  {0} </ p>"
+"info report ready","Rapporten är redo."
+"info report ready download","Rapporten är redo.Ladda ner?"
+"info role name not empty","Ange rollnamn"
+"info server error","Ett fel uppstod på servern."
+"info site manager change","Om du som byggledare ersätter dig själv kommer du inte längre att se några användare. \n\nDenna åtgärd kan inte ångras!"
+"info synchronizing no open","Oskickade meddelanden synkroniseras. Inlägg kan inte visas under tiden."
+"info task altered","<p align=""center"">Uppgiften ändrad<br/>Uppdateringen är inte gjord.<br/>Klicka för att öppna rapporten</p>"
+"info task not available","<P ALIGN=""center"">Denna rapport är inte tillgänglig</P>"
+"info task offline","<P ALIGN=""center"">Denna rapport är inte tillgänglig offline</P>"
+"info task sent update checklist","Uppgiften har skickats till servern. Uppdatera checklistan för att öppna den resulterande rapporten."
+"info too many tasks","I detta område: {0} uppgifter"
+"info unhandled error","Ett oväntat fel uppstod"
+"info user added mail sent","Användaren är nu skapad.Vi har skickat en inbjudan via mail. \n\n Användaren aktiveras när e-postadressen har bekräftats via länken i e-postinbjudan."
+"info user invitation accepted","Användare skapad och inbjudan accepterad"
+"info user not found create?","Användaren hittades inte. Vill du skapa den här användaren?"
+"info wait synchronizing tasks","Kan inte öppna uppgiften medan utkorgen synkroniseras. Försök igen om en liten stund."
+"info wizard new user","Personen är inte upprättad med ditt DaluxQA projekt. Inbjudan kommer att skickas när du trycker på Skapa."
+"Insert","Infoga"
+"Insert comment","Infoga kommentar"
+"Insert text","Infoga text"
+"Inspection","Tillsyn"
+"Inspection note","Tillsynsanteckning"
+"Instant mails","E-post för varje ny uppgift"
+"Instructions","Instruktioner"
+"Interval","Intervall"
+"Invalid password","Felaktigt lösenord"
+"invalid_flow","Ogiltig handling"
+"invalid_flow_text","Användarens åtgärd inte giltigt (har uppgiften ändrats?)"
+"invalid_user","Ogiltig användare"
+"invalid_user_text","Användaruppgifter eller tillstånd har ändrats."
+"Invitation","Inbjudan"
+"Invitation accepted (date)","Inbjudan accepterad"
+"Invitation sent (date)","Inbjudan skickad"
+"Invitation to x from y","Inbjudan till {0} från {1}"
+"Invitations","Inbjudningar"
+"Invite user","Invitera användare"
+"Invoice e-mail","Fakturerings e-post"
+"Invoice information","Faktureringsinformation"
+"Invoice note","Faktura"
+"Is empty","Är tom"
+"Is not empty","Är inte tom"
+"is_not_available","är inte tillgänglig"
+"IT Administrators","IT administratör"
+"Landscape","liggande"
+"language","sv"
+"Language","Språk"
+"language (splash screen)","sv"
+"language_code","sv-se"
+"Last editet","Senast redigerad"
+"Last edited","Senast redigerad"
+"Last modified","Senast ändrad"
+"Last modified by","Senast ändrad av"
+"Last name","Efternamn"
+"Last updated","Senast uppdaterad"
+"Last updated by","Senast uppdaterad av"
+"Last uploaded by","Senast uppladdat av"
+"last_name","Efternamn"
+"Less than","Mindre än"
+"Less than equals","Mindre än är lika med"
+"Less than one minute remaining","Mindre än en minut kvar"
+"Let us know","Berätta för oss"
+"lets_know","Berätta för oss"
+"Level","Våning"
+"Levels","Nivåer"
+"List","Lista"
+"loading","Laddar"
+"Loading (from disk)","Laddar"
+"Loading buildings","Laddar byggnader"
+"Loading data","Laddar data"
+"Loading drafts...","Laddar utkast…"
+"Loading list data","Laddar listdata"
+"Loading list data...","Laddar listdata…"
+"located on plan","Ligger på planen"
+"located on plan and view","Ligger på plan och vy"
+"location","Plats"
+"Location","Plats"
+"Location changed","Plats ändrad"
+"location:","Plats:"
+"Location: {0}","Plats: {0}"
+"Log in","Logga in"
+"Log out","Logga ut"
+"log_in","Logga in"
+"log_out","Logga ut"
+"Logged in as","Inloggad som"
+"logged_in_as","Inloggad som"
+"logged_out","Du har loggat ut"
+"Login refused text","Användare / lösenord hittades inte"
+"Login refused title","Ogiltig användare"
+"Login revoked text","Användaruppgifter eller tillstånd har ändrats."
+"Login revoked title","Ogiltig användare"
+"logo","Logo"
+"Logo","Logo"
+"logo_editor_text","Denna logotyp kommer att användas i utskrivna rapporter"
+"Long","Lång"
+"low","Låg"
+"manage_users","Administrera användare"
+"Map","Karta"
+"Markers","Markörer"
+"Memo no.","Memo nr."
+"minute","minut"
+"minutes","minuter"
+"Modified","Modifierad"
+"modified","Modifierad"
+"Month1","januari"
+"Month10","oktober"
+"Month11","november"
+"Month12","december"
+"Month2","februari"
+"Month3","mars"
+"Month4","april"
+"Month5","maj"
+"Month6","juni"
+"Month7","juli"
+"Month8","augusti"
+"Month9","september"
+"Move down","Flytta ner"
+"Move to drafts","Flytta till utkast"
+"Move up","Flytta upp"
+"Multiple","Flera"
+"Multiple filters","Många filter"
+"Multiple responsible","Flera ansvariga"
+"must accept cookies","För att använda DaluxQA måste du tillåta användning av cookies"
+"must accept terms","För att använda DaluxQA du måste acceptera våra villkor"
+"name","Namn"
+"Name","Namn"
+"Network failure. Try again","Nätverksfel. Prova igen"
+"New","Ny"
+"new","Ny"
+"New (m)","Nytt"
+"New assignee","Ny ansvarig"
+"New building","Ny byggnad"
+"New building model file","Ny byggnadsmodell fil"
+"New checklist","Ny checklista"
+"New company","Nytt företag"
+"New construction","Ny uppbyggnad"
+"New construction","Ny entreprenad"
+"New department","Ny avdelning"
+"New discipline","Ny övervakningsområde"
+"New fictive user","Ny fiktiv användare"
+"New floor","Ny våning"
+"New inspection","Ny tillsynsnotat"
+"New project","Nytt projekt"
+"New registration","Ny registrering"
+"New site","Ny sida"
+"New supervisor area","Ny tillsynsområde"
+"new task","Ny uppgift"
+"New tasks","Nya uppgifter"
+"New user","Ny användare"
+"New work description","Ny arbetsbeskrivning"
+"new_building","Ny byggnad"
+"new_demo_site","Ny demo sida"
+"new_demo_site_details","Ny demo sida\n\n Endast små byggnader tillåtna."
+"new_site_details","Ny sida med obegränsad  storlek."
+"new_status","Ny status"
+"new_task_list","Ny uppgiftslista"
+"new_value","Nytt värde"
+"Next","Nästa"
+"No","Nej"
+"No available sites","Inga projekt"
+"No building and floors available for this site. GIS can not be placed","Ingen byggnad och våningar tillgängliga för den här sidan. GIS kan inte placeras."
+"No building and floors available for this site. GIS can not be placed","Ingen byggnad och våningar tillgängliga för den här sidan. GIS kan inte placeras."
+"No buildings","No buildings"
+"No checklists","No checklists"
+"No connection","Ingen förbindelse…"
+"No drafts","inget utkast"
+"No drawing material available.","Ingen ritningsmaterial tillgänglig"
+"No drawing selected","Ingen ritning vald"
+"No drawings","Inga ritningar"
+"No permission text","Den begärda åtgärden kunde inte utföras"
+"No permission title","Åtgärden är inte tillåten"
+"No picture","Ingen bild"
+"No registrations","Inga registreringar"
+"No results","Inga resultat"
+"No room","(inget utrymme)"
+"No selection","Inget val"
+"no selection","Inget val"
+"No sorting","Ingen sortering"
+"No sorting","Ingen sortering"
+"No tasks","Inga uppgifter"
+"No title","Ingen titel"
+"No.","Nr."
+"no_building","(ingen byggnad)"
+"no_connection","Ingen förbindelse…"
+"no_floor","(ingen våning)"
+"no_floors","(inga våningar)"
+"no_room","(ingen lokal)"
+"no_selection","Inget val"
+"no_title","Ingen titel"
+"none","Inget"
+"None","Inget"
+"None (filter)","Inget"
+"normal","Normal"
+"Not allowed","Inte tillåtet"
+"Not created","Inte skapat"
+"Not deleted","Inte raderad"
+"Not equal","Inte lika med"
+"Not logged in","Inte loggad in"
+"Not selected","Inte vald"
+"Not sent (singular)","Inte skickat"
+"Not set","Inte satt"
+"Not signed up","Inte anmäld"
+"Not synchronized","Inte synkroniserad"
+"not_found","Hittades inte"
+"not_set","(Inte satt)"
+"Note field on registrations","Anmärkningsfält på registreringar"
+"Notes","Anmärkning"
+"notification","Meddelande"
+"Notification","Meddelande"
+"number","Nummer"
+"Number","Nummer"
+"Number series","Nummerserie"
+"object","Byggnadsdel"
+"Observations","Observationer"
+"Observer","Observatör"
+"Observer (single letter)","O"
+"Observers","Observatörer"
+"Observers:","Observatörer:"
+"of","av"
+"Offline","Offline"
+"Offline","Offline"
+"offline_finding_location","Offline <br/> Använder närmast tillgängliga platsen"
+"offline_minimodel","Offline<br/>Det finns ingen anslutning till internet och mini-modellen är inte tillgänglig för användning offline."
+"offline_minimodel_frame","Offline<br/>Det finns ingen anslutning till Internet och den aktuella bildvinkeln är inte tillgänglig för användning offline."
+"offline_mode_description","<b>Ritningar</b> och uppgifter i mapparna <b>Inkorg</b>, <b>Avslagna</b> och <b>Färdigrapporterade</b> är nerladdade för användning offline"
+"offline_mode_warning","Observera att det laddas ner stora mänder data, och det är rekommenderat att använda Wi-Fi under dataöverförseln."
+"offline_new_visit_2d","Offline<br/>Det finns ingen anslutning till Internet och den aktuella planritningen är inte tillgänglig för användning offline."
+"offline_new_visit_3d","Offline<br/>Det finns ingen anslutning till Internet och inga platser på denna våning är tillgängliga för användning offline."
+"ok","OK"
+"Ok","OK"
+"OK","OK"
+"old_value","Föregående värde"
+"Ongoing (folder)","Pågående"
+"Open","Öppna"
+"Open (folder)","Öppna"
+"Open (singular)","Börjat"
+"Open checklist","Öpnna checklista"
+"Open dRofus report","Öppna dRofus rapport"
+"Open object properties","Öppna objektegenskaper"
+"Open project","Öppna projekt"
+"Open site","Öppna projekt"
+"Order","Order"
+"Organization","Organisation"
+"Orientation (print)","Riktning"
+"Origin","Ursprung"
+"Other","Annan"
+"other_users","Andra användare"
+"Others","Others"
+"outbox","Inte skickat"
+"Outbox","Inte skickat"
+"Outbox failed","Inte synkroniserad"
+"Outbox images","Osända bilder"
+"Outbox images failed","Osynkroniserade bilder"
+"outbox_failed","Inte synkroniserad"
+"Overall assessment","Kommentar"
+"overview","Översikt"
+"Overview","Översikt"
+"Overview drawing","Översiktsplan"
+"overview on floorplans","Översikt på planlösning"
+"overview, printouts","Översikt, utskrift"
+"Own","Egna pågående"
+"Own roles","Egna"
+"Page","Sida"
+"parent","Huvud-"
+"Passive user","Passiv användare"
+"password","Lösenord"
+"Password","Lösenord"
+"Password again","Lösenord igen"
+"Permanent task deletion","Alla uppgifter kommer att tas bort permanent och kan inte återställas"
+"Permissions","Rättigheter"
+"Persons","Personer"
+"Phone","Telefon"
+"Phone (short)","tfn."
+"photo","Bild"
+"Photo","Bild"
+"Photo taken","Bild tagen"
+"photos","bilder"
+"Photos","Bilder"
+"picture","Bild"
+"Pie","Kaka"
+"Place action","Placera"
+"Placement","Placering"
+"Placement description","Placeringsbeskrivning"
+"Please wait...","Var god vänta…"
+"Portrait","Stående"
+"Prefix","Prefix"
+"prefix deficiency","?"
+"prefix inspection","?"
+"Prepare project for offline use","Förbered projekt för användning offline"
+"Preparing file","Förbereder fil"
+"Preparing project for offline use","Förbereerd projekt för användning offline"
+"Prev. deadline","Tid. deadline"
+"Prev. subject","Tid. Ämne"
+"Preview","Förhandsvisning"
+"Previous","Tidigare"
+"Print","Exportera"
+"Print (print)","Skriv ut"
+"Print all","Exportera alla"
+"Print selected","Exportera valda"
+"Printed","Utskriven"
+"Printing","Utskiver"
+"printout locations","plats av utprint"
+"Printouts","Exportera"
+"printouts, list","utprint, lista"
+"priority","Prioritet"
+"Priority","Prioritet"
+"Priority changed","Prioritet ändrad"
+"project","Projekt"
+"Project","Projekt"
+"Project access restricted","Tillgång till projekt begränsad till mobil användning.\n\nKontakta Dalux för full tillgång (support@daluxqa.com)."
+"Project configuration","Projekt konfiguration"
+"Project expired","Projektet har löpt ut"
+"Project info","Projektinfo"
+"Project information","Projektinformation"
+"Project name","Projektnamn"
+"Project no.","Projektnr."
+"Project organisation","Byggnadsledning"
+"Project participant","Projektdeltagare"
+"Project prepared for offline use","Projekt färdigt till använding offline"
+"Projects","Projekt"
+"Properties","Egenskaper"
+"properties_changed","Ändrade egenskaper"
+"property","Egenskap"
+"psc.","stk."
+"Publish","Publicera"
+"Published buildings","Publicerade byggnader"
+"Punch Lists","Dashboard"
+"q user role","Vilken roll har den person som du önskar att skapa?"
+"Quality Assurance","Kvalitetssäkring"
+"Quick subjects","Snabb-ämnen"
+"Quick titles","Snabb-titlar"
+"Reason","Orsak"
+"Receipt for execution","Kvitto för utförande"
+"Receives tasks","Mottar uppgifter"
+"Recieves tasks","Ansvarig för rättelse"
+"Recorded","Skapad"
+"Recorded by","Skapad av"
+"Red","Röd"
+"Refresh","Uppdatera"
+"Registration","Registrering"
+"Registrations","Registreringar"
+"Registrations (filename)","Registreringar"
+"Reject","Avvisa"
+"Rejected","Avvisad"
+"Rejected (folder)","Avvisad"
+"Rejected by","Avvisad av"
+"Related contract","Relaterade kontrakt"
+"Relation","Relation"
+"Remaining time","Återstående tid"
+"Remember me","Kom ihåg mig"
+"Remind unsubscribed","Skicka inbjudningar"
+"remove","Avlägsna"
+"Remove","Avlägsna"
+"Remove","Ta bort"
+"Remove person","Avlägsna person"
+"Remove work description","Avlägsna arbetsbeskrivning"
+"removed","Avlägsnad"
+"Removed","Avlägsnad"
+"Rename","Döp om"
+"Rename building","Döp om byggnad"
+"rename...","Döp om"
+"rename_task_list","Döp om uppgiftslista"
+"Report id","Report id"
+"Report settings","Rapport inställningar"
+"Reports","Rapporter"
+"Required fields","Obligatoriska fält"
+"Reset view","Återställ kolumner"
+"Resp. company","Ansv. företag"
+"Resp. email","Ansv. e-mail"
+"Responded date","Svarade datum"
+"Responsible","Ansvarig"
+"retry","Prova igen"
+"Retry","Prova igen"
+"Revision","Revision"
+"role","Roll"
+"Role","Roll"
+"Role has subordinates. Cant delete","Rollen har underordnade. Kan inte radera rollen."
+"Room","Rum"
+"Room ID field","Room ID field"
+"room updated?","Rummet blev inte hittad. Platsen skall uppdateras.<br/><br/>Har ritningsmaterialet uppdaterats?"
+"rooms","Rum"
+"rotate","Rotera"
+"rotate left","Rotera åt vänster"
+"rotate picture save","Kan endast rotera då red-lining är sparad. \n\nSpara bild och rotera."
+"rotate right","Rotera åt höger"
+"S:Substitute, O: Observer","S: Substitut, O: Observerare"
+"Safety report","Säkerhetsrapport"
+"Save","Spara"
+"Save","Spara"
+"SAVE","SPARA"
+"Save as Draft","Spara som utkast"
+"Save changes","Spara ändringar"
+"Save checklist","Spara checklista"
+"Save draft","Spara utkast"
+"Save view","Spara vy"
+"Saved","Sparad"
+"search","Sök"
+"Search","Sök"
+"Search","Sök"
+"Search (filter)","Sök"
+"Search criteria","Sökkriteria"
+"Search for","Söka efter"
+"Section","Sektioner"
+"Select","Välj"
+"select","Välj"
+"Select all","Välj alla"
+"Select all","Välj alla"
+"Select assignee","Välj ansvarig"
+"Select construction","Välj entreprenad"
+"select construction text","Välj entreprenaden som personen skall läggas till under"
+"Select drawing","Välj planritning"
+"Select only one for deletion","Kan endast radera en åt gången"
+"Select supervisor","Välj övervakniningsområde"
+"select supervisor text","Välj övervakniningsområde som personen skall läggas till under"
+"Select user","Välj användare"
+"Select user company:","Välj eller specifiera företag för denna användare:"
+"Select users","Välj användare"
+"Select work descriptions","Välj arbetsbeskrivning"
+"select_a_status","Välj en status först"
+"select_an_assignee","Välj en ansvarig"
+"Selected","Vald"
+"selected area","valt område"
+"Selected first","Valda först"
+"Selected last","Vald sist"
+"selected tasks","valda uppgifter"
+"SelectFilter","Välj filter parameter"
+"Selection only","Endast valda"
+"selection only","Endast valda"
+"send","Skicka"
+"Send","Skicka"
+"Send e-mail","Skicka e-post"
+"Send invitations","Skicka inbjudningar"
+"Send password","Skicka lösenord"
+"Send to back","Flytta bakåt"
+"Sent (email)","Skickat"
+"Server","Server"
+"Server Error","Serverfel"
+"server_error","Serverfel"
+"server_error_text","Det uppstod ett fel på servern"
+"Set location","Ställ plats"
+"Set selected responsible","Sätt vald som ansvarig"
+"set_to","satt till"
+"settings","Inställning"
+"Settings","Inställning"
+"Settings (filter)","Inställingar"
+"Several contracts","Flera entreprenadsavtal"
+"Shared sites","Delade sidor"
+"shared_sites","Delade sidor"
+"Short","Kort"
+"Show company","Företag"
+"Show drawings","Visa ritningar"
+"Show entire organization","Visa hela organisationen"
+"Show location","Visa läge"
+"Show work descriptions","Visa arbetsbeskrivning"
+"Signature","Signatur"
+"Signing field","Rapporteringsfält"
+"Simple","Enkel"
+"Single report","Enkel rapport"
+"Single reports","Enstaka rapporter"
+"Single users","Enkel användare"
+"Site data","Siddata"
+"Site is already prepared for offline use","Projektet är redan förberett för användning offline"
+"Site management","Byggledning"
+"Site manager assistant","Se/redigera"
+"Site name","Projektnamn"
+"Site number","Projekt nr."
+"site_data","Siddata"
+"site_name","Sidnamn"
+"Sites","Projekt"
+"slow app","Delar av programmet kan vara långsammare"
+"SorteringAZ","Sorterar A-Z"
+"SorteringZA","Sorterar Z-A"
+"Specify name","Ange namn"
+"Specify number","Ange nummer"
+"Specify prefix","Specifiera prefix"
+"Specify subject","Ange ämne"
+"Specify user name","Ange användarnamn"
+"standard","Standard"
+"Standard filter","standardfilter"
+"StandardFilter","Standardfiltrering"
+"Start drawing","Börja rita"
+"status","Status"
+"Status","Status"
+"Status report","Statusrapport"
+"Status report (filename)","Statusrapport"
+"status_changed_from","Status ändrad från"
+"Stay here","Bli här"
+"Stay here","Bli här"
+"Stop drawing","Sluta rita"
+"Subcontractor","Undeleverantör"
+"Subject","Ämne"
+"Subject already exists","Texten finns redan"
+"Substitute (single letter)","S"
+"Substitute for","Substitut för"
+"Substitutes and observers","Substitut och observerare"
+"Substitutes and observers","Substitut och observerare"
+"Substitutes:","Substitut:"
+"Summary","Sammanfattning"
+"Summary","Sammanfattning"
+"Superior role:","Överordnad roll:"
+"Supervisor","Förman"
+"Supervisor role with tasks cant be removed","Övervakningsroll med uppgifter kan tas bort"
+"support","Hjälp"
+"Supported files","Understödda filer"
+"Synchronize now","Synkronisera nu"
+"Synchronized","Synkroniserad"
+"synchronizing","Synkroniserar"
+"Synchronizing","Synkroniserar"
+"Tabel with tasks PDF","Tabell med uppgifter (PDF)"
+"Table (Excel)","Tabell (Excel)"
+"Table (PDF)","Tabell (PDF)"
+"Table with tasks excel","Tabell med uppgifter (Excel)"
+"Take me to Login","Gå till login"
+"Task","Brist"
+"Task count","Antal uppgifter av denna typ"
+"Task flow","Uppgiftsflow"
+"Task folders","Uppgiftsmapp"
+"Task reports (PDF)","Uppgiftsrapport (PDF)"
+"Task template","Uppgiftsmall"
+"task_list","Uppgiftslista"
+"task_list","Uppgiftslista"
+"task_list_setup","Uppgiftslista inställning"
+"task_lists","Uppgiftslistor"
+"tasks","Uppgifter"
+"Tasks","Uppgifter"
+"Tasks and issues","Uppgifter"
+"Tasks associated with role. Cant delete","Uppgifterna tillhör en roll. Kan ej radera roll."
+"Tasks on plan drawings","Uppgifter på planritningen"
+"tasks_open","Öppna uppgifter"
+"tasks_total","Totala antalet uppgifter"
+"Templates","Mallar"
+"Text","Text"
+"text","Text"
+"The file is ready","Filen är klar"
+"The user will be removed","Användaren tas bort"
+"The user will be removed from all aspects of the project.","Användaren kommer att tas bort från alla delar av projektet."
+"There is an update to the application","Det finns en uppdatering till applikationen"
+"Time of invitation","Inbjudningstidspunkt"
+"title","Ämne"
+"Title","Ämne"
+"Title (role)","Rubrik"
+"Title changed","Rubrik ändrad"
+"title_changed_from","Rubrik ändrad från"
+"to","till"
+"to approve","att godkänna"
+"to assign","att tilldela"
+"to report ready","att rapportera klar"
+"Try Demo Site","Prova demo"
+"Type","Typ"
+"Type password for user","Skriv lösenordet för användaren"
+"Type prefix","Typprefix"
+"Types","Typer"
+"unassigned","(inte tilldelats)"
+"Unassigned","(inte tilldelats)"
+"unchanged","Oändrad"
+"Unchanged","Oändrad"
+"unhandled_error","Ett oväntat fel uppstod"
+"unhandled_error_title","Fel"
+"Unpacking drawings","Packar upp ritningar"
+"Unpublished buildings","Opublicerade byggnader"
+"unsent_message","{0} oskickat meddelande"
+"unsent_messages","{0} oskickade meddelanden"
+"Update","Uppdatera"
+"Update checklist","Uppdatera checklista"
+"Update Dalux Field","Uppdatera Dalux Field "
+"Update now","Uppdatera nu"
+"Update user","Uppdatera användare"
+"update:","Uppdatera:  {0}"
+"update_task","Uppdatera"
+"Updated","Uppdaterad"
+"Updated {0}","Uppdaterad {0}"
+"Updated by","Uppdaterad av"
+"updated_by","Uppdaterad av"
+"updated_date","Uppdaterad {0}"
+"updating","Uppdaterar"
+"Updating","Uppdaterar"
+"Upload DWG","Ladda upp DWG"
+"Upload DWGs","Ladda upp DWGna"
+"Upload image","Ladda upp bild"
+"Upload PDF","Ladda upp PDF"
+"upload_company_logo","Ladda upp företagets logo"
+"Uploaded by","Uppladdad av"
+"Use","Använd"
+"Use automatic publishing","Använd automatisk publicering"
+"Use automatic publishing text","Byt till automatisk publicering? \n\n Byggnader och ritningar publiceras automatiskt när de är klara."
+"Use building","Använd byggnad"
+"Use location","Använd plats"
+"Use manual publishing","Använd manuell publicering"
+"Use manual publishing text","Byt till manuell publicering? \n\n Du kan publicera byggnader och ritningar manuellt när de är klara."
+"Use search field below","Använd sökfältet nedan"
+"user","Användare"
+"User","Användare"
+"User active","Användare validerat"
+"User company","Användarens företag"
+"User email settings","E-post inställningar"
+"User exists already","Användaren finns redan"
+"User found","Användare hittad"
+"User has signed up","Användaren har registrerat sig"
+"User name","E-post"
+"User not found","Användare hittades inte"
+"User not signed up","Användaren har inte registrerat sig"
+"User not validated","Användare inte validerat"
+"User removed","Användare avlägsnad"
+"User rights","Användarrättigheter"
+"user_defined_flow","Användardefinierad flow"
+"Users","Användare"
+"Users removed","Användare avlägsnade"
+"users_that_can_be_managed","Användare som kan administeras"
+"users_with access","Användare med tillgång till denna sida"
+"Value","Värde"
+"Values","Värden"
+"VATIN","Momsnr."
+"View","Se"
+"View","Vy"
+"View buildings on map","Visa byggnader på karta"
+"View case","Visa"
+"View for","Visa för"
+"View user","Vy"
+"View/Edit","Se/redigera"
+"View/Edit (responsible)","Se/Redigera (ansvarig)"
+"Views","Visningar"
+"wait","Vänta…"
+"Wait","Vänta"
+"Warning","Varning"
+"warning remove user","Är du säker att du vill avlägsna denna användare?"
+"Warning!","Varning"
+"Web service rejected your request","Webbtjänsten avvisade förfrågan"
+"Week","Vecka"
+"Weekly safety report","Veckorapport"
+"whatis: construction","Entreprenaden är den kontraktet som ingås. En entreprenad kan spana över fler övervakningsområden."
+"whatis: discipline","Övervakningsområdet genomgås av kontroll. Exempel av områden är ' VVS', 'Elektricitet', 'Montering'"
+"whois: building owner","En användare kan se alla uppgifter med inte redigera dem"
+"whois: contractor","En person som är ansvarig att uppgifterna levereras till byggnadsledningen i tid och uppfyller avtalad kvalitet inom en viss yrkesgrupp"
+"whois: fictive","En användare som inte är känd ännu, eller som senare skall inviteras att delta i denna projekt"
+"whois: site manager","Byggledaren har det dagliga ansvaret för platsen och har ansvaret att alla entreprenader levereras i tid och uppfyller avtalad kvalitet."
+"whois: site manager assistant","En användare kan se alla uppgifter och redigera dem"
+"whois: subcontractor","En person som har ingått en kontraktmässig avtal på en bestämd uppgift med en entreprenadledare"
+"whois: supervisor","En person som inom olika ämnesområden inspekterar att byggandet har utförts korrekt "
+"With date","Med datum"
+"Without date","Utan datum"
+"Work description","Arbetsbeskrivning"
+"Work descriptions","Arbetsbeskrivningar"
+"Work.Desc","Arb.Besk"
+"Work.Num","Arb. Nr"
+"Worker report","Arbetarrapport"
+"workflow_definition","Definiton av arbetsflow"
+"Yellow","Gul"
+"Yes","Ja"
+"You can not delete this control plan because there are tasks associated with it","Du kan inte radera denna kontrollplan eftersom det finns uppgifter i samband med den."
+"You cannot delete this checklist template because there exists checklists of this type.","Du kan inte radera denna checklista mall eftersom det finns checklistor av denna typ"
+"You have not been assigned to any projects yet.","Du har inte tilldelats något projekt ännu."
+"You must accept this","För att använda Dalux Field måste du:"
+"You must be online to log in","Du måste vara online för att logga in"
+"you_are_logged_in","Du är nu inloggad"
+"Your colleagues drafts","Dina kollegors utkast"
+"Your column setup is being reset","Dina kolumninställningar återställs"
+"Your drafts","Dina utkast"
+"Your sites","Dina sidor"
+"your_current_role_alter_error","Din nuvarande roll tilllåter inte att ändra uppgifter med status"
+"your_current_role_create_error","Din nuvarande roll tilllåter inte att skapa nya uppgifter"
+"your_sites","Dina sidor"
+"Zip code","Postnr"
+"zip_code","Postnr"
+"Zone","Zon"
+"Zone name","Zon namn"
+"Zones","Zoner"
+"Deadline today","Deadline i dag"
+"Add company","Lägg företag"
+"Edit company","Redigera företag"
+"Remove company","Ta bort företag"
+"Remove quick field","Avlägsna"
+"Edit quick field","Redigera"
+"Export quick fields","Exportera"
+"Import quick fields","Importera"
+"Rooms","Rum"
+"Upload","Ladda upp PDF"
+"Area","Område"
+"From","Från"
+"To","Till"
