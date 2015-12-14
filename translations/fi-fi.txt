@@ -25,46 +25,46 @@ of	/
 #yellow	0xF7EA3E
 (element ...)	(elementti ...)
 (multiple)	(useita)
-(no deadline)	(ei m‰‰r‰aikaa)
+(no deadline)	(ei m√§√§r√§aikaa)
 (No photo)	Ota kuva
-(No superior)	(ei ylemp‰‰)
+(No superior)	(ei ylemp√§√§)
 (No title)	(Ei otsikkoa)
-(none)	(ei mit‰‰n)
-(Not set)	(ei m‰‰ritelty)
+(none)	(ei mit√§√§n)
+(Not set)	(ei m√§√§ritelty)
 (Photo)	Ota uusiksi
 (room ...)	(huone ...)
-(unspecified)	(ei m‰‰ritelty)
+(unspecified)	(ei m√§√§ritelty)
 {0} of {1}	{0}/{1}
-{0} unsent message	{0} l‰hett‰m‰tˆn viesti
-{0} unsent messages	{0} l‰hett‰m‰ttˆmi‰ viestej‰
-0 tasks for {0}	0 teht‰v‰‰ {0}
+{0} unsent message	{0} l√§hett√§m√§t√∂n viesti
+{0} unsent messages	{0} l√§hett√§m√§tt√∂mi√§ viestej√§
+0 tasks for {0}	0 teht√§v√§√§ {0}
 A client error occured	Tapahtui asiakasvirhe.\nDaluxia on informoitu.
-A main responsbile cannot be removed	P‰‰vastuullista ei voida poistaa
-Accept	Hyv‰ksy
-Accept eula	Hyv‰ksy <a href='eula.htm' target='_blank'>k‰yttˆehdot</a>
-Account expired (admin)	<center><br/><br/>Dalux Field projekti "{0}" on vanhentunut.<br/><br/>Ota yhteytt‰ Daluxiin aktivoidaksesi projektin uudelleen.<br/><br/>&nbsp;</center>
-Account expired (user)	<center><br/><br/>Dalux Field projekti "{0}" on vanhentunut.<br/><br/>Ota yhteytt‰ yll‰pit‰j‰‰n aktivoidaksesi projektin uudelleen.<br/><br/>&nbsp;</center>
+A main responsbile cannot be removed	P√§√§vastuullista ei voida poistaa
+Accept	Hyv√§ksy
+Accept eula	Hyv√§ksy <a href='eula.htm' target='_blank'>k√§ytt√∂ehdot</a>
+Account expired (admin)	<center><br/><br/>Dalux Field projekti "{0}" on vanhentunut.<br/><br/>Ota yhteytt√§ Daluxiin aktivoidaksesi projektin uudelleen.<br/><br/>&nbsp;</center>
+Account expired (user)	<center><br/><br/>Dalux Field projekti "{0}" on vanhentunut.<br/><br/>Ota yhteytt√§ yll√§pit√§j√§√§n aktivoidaksesi projektin uudelleen.<br/><br/>&nbsp;</center>
 accuracy	tarkkuus
-Active user	Aktiivinen k‰ytt‰j‰
-add	Lis‰‰
-Add	Lis‰‰
-Add building	Lis‰‰ rakennus
-Add criteria	Lis‰‰ kriteeri
-Add information	Lis‰‰ tietoja
-Add new registration	Lis‰‰ uusi rekisterˆinti
-Add new role	Lis‰‰ uusi rooli
-Add other user	Lis‰‰ muita k‰ytt‰ji‰
-Add other user...	Lis‰‰ muita k‰ytt‰ji‰Ö
-Add person	Lis‰‰ henkilˆ
-Add persons	Lis‰‰ henkilˆit‰
-Add photo	Lis‰‰ kuva
-Add project user	Lis‰‰ projektik‰ytt‰j‰
-Add quick field	Lis‰‰ nopea otsikko
-add subordinate warning	Olet lis‰‰m‰ss‰ alaisen:\n{0} ({1})\n\nJatka?
-add subordinate warning	Olet lis‰‰m‰ss‰ roolia {1} alle sopimuksessa{1}.\n\nHaluatko jatkaa?
-Add zone	Lis‰‰ vyˆhyke
-added	Lis‰tty
-Added	Lis‰tty
+Active user	Aktiivinen k√§ytt√§j√§
+add	Lis√§√§
+Add	Lis√§√§
+Add building	Lis√§√§ rakennus
+Add criteria	Lis√§√§ kriteeri
+Add information	Lis√§√§ tietoja
+Add new registration	Lis√§√§ uusi rekister√∂inti
+Add new role	Lis√§√§ uusi rooli
+Add other user	Lis√§√§ muita k√§ytt√§ji√§
+Add other user...	Lis√§√§ muita k√§ytt√§ji√§¬Ö
+Add person	Lis√§√§ henkil√∂
+Add persons	Lis√§√§ henkil√∂it√§
+Add photo	Lis√§√§ kuva
+Add project user	Lis√§√§ projektik√§ytt√§j√§
+Add quick field	Lis√§√§ nopea otsikko
+add subordinate warning	Olet lis√§√§m√§ss√§ alaisen:\n{0} ({1})\n\nJatka?
+add subordinate warning	Olet lis√§√§m√§ss√§ roolia {1} alle sopimuksessa{1}.\n\nHaluatko jatkaa?
+Add zone	Lis√§√§ vy√∂hyke
+added	Lis√§tty
+Added	Lis√§tty
 Address	Osoite
 Address 1	Osoite 1
 Address 2	Osoite 2
@@ -73,71 +73,71 @@ address1	Osoite 1
 address2	Osoite 2
 administration	Hallinto
 Administration	Hallinto
-Administrator	Yll‰pit‰j‰
-administrators	Yll‰pit‰j‰
-administrators	Yll‰pit‰j‰t
+Administrator	Yll√§pit√§j√§
+administrators	Yll√§pit√§j√§
+administrators	Yll√§pit√§j√§t
 Advanced	Kokenut
 Advanced filter	Edistynyt
-After	J‰lkeen
-alert delete role	Oletko varma, ett‰ haluat poistaa t‰m‰n roolin?\n\nValitut teht‰v‰t {0} j‰‰v‰t saataville {1} "K‰ynniss‰ olevat" alle.
+After	J√§lkeen
+alert delete role	Oletko varma, ett√§ haluat poistaa t√§m√§n roolin?\n\nValitut teht√§v√§t {0} j√§√§v√§t saataville {1} "K√§ynniss√§ olevat" alle.
 all	Kaikki
 All	Kaikki
-All (folder)	Kaikki teht‰v‰t
+All (folder)	Kaikki teht√§v√§t
 All contracts	Kaikki sopimukset
-All tasks	Kaikki teht‰v‰t
-All tasks (folder)	Kaikki teht‰v‰t
-All tasks will be deleted	L‰hett‰m‰ttˆm‰t teht‰v‰t ja luonnokset tulevat katoamaan
-All users	Kaikki k‰ytt‰j‰t
-all_users	Kaikki k‰ytt‰j‰t
-all_users	Kaikki k‰ytt‰j‰t
-Allow cookies	Hyv‰ksy ev‰steet (<a href='cookies.htm' target='_blank'>lue lis‰‰</a>)
-Allow create tasks	Voi luoda teht‰vi‰
-Allow create tasks colleagues	Voi luoda teht‰vi‰ tyˆtovereille
-Allow create users	Voi luoda k‰ytt‰ji‰
+All tasks	Kaikki teht√§v√§t
+All tasks (folder)	Kaikki teht√§v√§t
+All tasks will be deleted	L√§hett√§m√§tt√∂m√§t teht√§v√§t ja luonnokset tulevat katoamaan
+All users	Kaikki k√§ytt√§j√§t
+all_users	Kaikki k√§ytt√§j√§t
+all_users	Kaikki k√§ytt√§j√§t
+Allow cookies	Hyv√§ksy ev√§steet (<a href='cookies.htm' target='_blank'>lue lis√§√§</a>)
+Allow create tasks	Voi luoda teht√§vi√§
+Allow create tasks colleagues	Voi luoda teht√§vi√§ ty√∂tovereille
+Allow create users	Voi luoda k√§ytt√§ji√§
 already created	jo luotu
 already exists	jo olemassa
 Altered	Muutettu
 Annotate	merkkaa kuva
-Anonymous user	anonyymi k‰ytt‰j‰
-Approve	Hyv‰ksy, sulje
-Approve followup	Hyv‰ksy, seuraa
-Approved	Hyv‰ksytty, suljettu
-Approved (date)	Hyv‰ksytyt
-Approved (folder)	Hyv‰ksytyt
-Approved by	Hyv‰ksytty, suljettu
-Approved closed (folder)	Hyv‰ksytyt, suljetut
-Approved followup	Hyv‰ksytty, seuraa
-Approved followup (folder)	Hyv‰ksytyt, seuraa
-Approved, followup by	Hyv‰ksytty, seurattu 
-ApprovedFollowup (folder)	Hyv‰ksytyt, seuraa
+Anonymous user	anonyymi k√§ytt√§j√§
+Approve	Hyv√§ksy, sulje
+Approve followup	Hyv√§ksy, seuraa
+Approved	Hyv√§ksytty, suljettu
+Approved (date)	Hyv√§ksytyt
+Approved (folder)	Hyv√§ksytyt
+Approved by	Hyv√§ksytty, suljettu
+Approved closed (folder)	Hyv√§ksytyt, suljetut
+Approved followup	Hyv√§ksytty, seuraa
+Approved followup (folder)	Hyv√§ksytyt, seuraa
+Approved, followup by	Hyv√§ksytty, seurattu 
+ApprovedFollowup (folder)	Hyv√§ksytyt, seuraa
 Architecture (model)	Arkkitehtuuri
 Archive (folder)	Valmistunut
-Are you sure you want to delete building "{0}"?	Oletko varma, ett‰ haluat poistaa rakennuksen "{0}"?
-Are you sure you want to delete this checklist?	Oletko varma, ett‰ haluat poistaa t‰m‰n tarkistuslistan?
-Are you sure you want to delete this control plan?	Oletko varma, ett‰ haluat poistaa t‰m‰n valvontasuunnitelman?
+Are you sure you want to delete building "{0}"?	Oletko varma, ett√§ haluat poistaa rakennuksen "{0}"?
+Are you sure you want to delete this checklist?	Oletko varma, ett√§ haluat poistaa t√§m√§n tarkistuslistan?
+Are you sure you want to delete this control plan?	Oletko varma, ett√§ haluat poistaa t√§m√§n valvontasuunnitelman?
 area	Alue
 Area (discipline)	Alue
 AreaPlan	Aluesuunnitelmat
 arrow	Nuoli
-Ascending A-Z	Nouseva A-÷
-Assign	V‰lit‰
-Assign to	V‰lit‰
-assigned	V‰litti
-Assigned	V‰litti
-Assigned by	V‰litt‰nyt
-Assigned to	V‰litti
-Assigned to	V‰litti
-Assigned to {0}	V‰litti <u>{0}</u>
+Ascending A-Z	Nouseva A-√ñ
+Assign	V√§lit√§
+Assign to	V√§lit√§
+assigned	V√§litti
+Assigned	V√§litti
+Assigned by	V√§litt√§nyt
+Assigned to	V√§litti
+Assigned to	V√§litti
+Assigned to {0}	V√§litti <u>{0}</u>
 assignee	Valtuutettu
 Assignee	Valtuutettu
 Associate checklist	Associate with checklist
-Associated checklist	Liittyv‰ tarkistuslista
+Associated checklist	Liittyv√§ tarkistuslista
 Association comment	Comment on association
 Attention to	Att
 Auto	Auto
 Available offline	Saatavissa offline
-Awaiting approval (folder)	Odottaa hyv‰ksynt‰‰
-AwaitingApproval (folder)	Odottaa hyv‰ksynt‰‰
+Awaiting approval (folder)	Odottaa hyv√§ksynt√§√§
+AwaitingApproval (folder)	Odottaa hyv√§ksynt√§√§
 back	Takaisin
 Back	Takaisin
 Bar	Sarake
@@ -149,29 +149,29 @@ bottom right	alhaalla oikealla
 box	Laatikko
 Bring to front	Tuo eteen
 Building	Rakennus
-Building incomplete	Rakennus ei k‰ytett‰viss‰
+Building incomplete	Rakennus ei k√§ytett√§viss√§
 Building is not ready	Rakennus ei ole valmis
 Building name	Rakennusnimi
 Building overview	Rakennus yleiskatsaus
 Building status	Rakennus tila
-building updated?	Rakennusta ei lˆytynyt. Sijainti on p‰ivitett‰v‰.<br/><br/> Onko piirrustusmateriaalit p‰ivitetty?
-building_incomplete	Rakennus ei k‰ytett‰viss‰
-building_incomplete_text	Rakennus on ‰skett‰in p‰ivitetty ja sit‰ valmistellaan parhaillaan n‰ytett‰v‰ksi mobiililaitteessa.Rakennus ei ole saatavilla jonkin aikaa.
-building_model_analysing	Rakennusta p‰ivitet‰‰n
-building_model_not_uploaded	Rakennusmallia ei ole viel‰ ladattu
-building_model_pending	Rakennusta on suunniteltu p‰ivitett‰v‰ksi
-building_model_queued_reanalysis	Rakennus on t‰ll‰ hetkell‰ jonossa uudelleenanalysointiin
-building_model_waiting	Rakennus on t‰ll‰ hetkell‰ jonossa analysointiin
+building updated?	Rakennusta ei l√∂ytynyt. Sijainti on p√§ivitett√§v√§.<br/><br/> Onko piirrustusmateriaalit p√§ivitetty?
+building_incomplete	Rakennus ei k√§ytett√§viss√§
+building_incomplete_text	Rakennus on √§skett√§in p√§ivitetty ja sit√§ valmistellaan parhaillaan n√§ytett√§v√§ksi mobiililaitteessa.Rakennus ei ole saatavilla jonkin aikaa.
+building_model_analysing	Rakennusta p√§ivitet√§√§n
+building_model_not_uploaded	Rakennusmallia ei ole viel√§ ladattu
+building_model_pending	Rakennusta on suunniteltu p√§ivitett√§v√§ksi
+building_model_queued_reanalysis	Rakennus on t√§ll√§ hetkell√§ jonossa uudelleenanalysointiin
+building_model_waiting	Rakennus on t√§ll√§ hetkell√§ jonossa analysointiin
 building_name	Rakennusnimi
 building_name	Rakennusnimi
-building_name_cannot_be_empty	Rakennusnimi ei saa olla tyhj‰!
-building_name_cannot_be_empty	Rakennusnimi ei saa olla tyhj‰!
+building_name_cannot_be_empty	Rakennusnimi ei saa olla tyhj√§!
+building_name_cannot_be_empty	Rakennusnimi ei saa olla tyhj√§!
 building_overview	Rakennus yleiskatsaus
 buildings	Rakennukset
 Buildings	Rakennukset
 by	by
-Can be approved upon creation	Voidaan hyv‰ksy‰ luomisen yhteydess‰
-Can delete when	On ainoastaan mahdollista poistaa kaikki teht‰v‰t, jos projektissa on alle 50 teht‰v‰‰.
+Can be approved upon creation	Voidaan hyv√§ksy√§ luomisen yhteydess√§
+Can delete when	On ainoastaan mahdollista poistaa kaikki teht√§v√§t, jos projektissa on alle 50 teht√§v√§√§.
 cancel	Peruuta
 Cancel	Peruuta
 CANCEL	PERUUTA
@@ -179,7 +179,7 @@ Cancel changes	Poista muutokset
 Cannot remove project owner	Projektiomistajaa ei voida poistaa
 Category	Luokka
 Caution	Varoitus
-CeilingPlan	Sis‰katto
+CeilingPlan	Sis√§katto
 change	Muuta
 Change	Muuta
 Change location	Muuta sijainti
@@ -197,26 +197,26 @@ Checklist closed	Tarkistuslista suljettu
 Checklist no.	Tarkistuslista no.
 Checklist report	Tarkistuslista raportti
 Checklist template	Tarkistuslista malli
-Checklist template order	Tarkistuslista malli j‰rjestys
+Checklist template order	Tarkistuslista malli j√§rjestys
 Checklists	Tarkistuslistat
-Checklists disabled	Tarkistuslistat ei k‰ytˆss‰
-Checklists enabled	Tarkistuslistat k‰ytˆss‰
+Checklists disabled	Tarkistuslistat ei k√§yt√∂ss√§
+Checklists enabled	Tarkistuslistat k√§yt√∂ss√§
 Choose	Valitse
 Choose...	Valitse
 city	Kaupunki
 City	Kaupunki
 City	Kaupunki
 Clear	Poista
-Clear annotations	Poista merkinn‰t
+Clear annotations	Poista merkinn√§t
 Click on the map to place origo	Klikkaa karttaa sijoittaaksesi origo
 Click to open	Klikkaa avataksesi
 Client error	Asiakasvirhe
 close	Sulje
 Close	Sulje
 Closed (singular)	Valmistunut
-Color	V‰ri
-Color code	V‰rikoodaus
-Color code changed	V‰rikoodaus muutettu
+Color	V√§ri
+Color code	V√§rikoodaus
+Color code changed	V√§rikoodaus muutettu
 Combined	Yhdistetty
 Combined report	Yhdistetty raportti
 Comment	Kommentti
@@ -231,28 +231,28 @@ Completed (checklist)	Valmistunut
 Completed (folder)	Valmiiksi raportoitu
 Completed by	Oikaistu
 Complexity	Monimutkaisuus
-Compressing image	Pakataan kuvaaÖ
-Compressing image	Pakataan kuvaaÖ
+Compressing image	Pakataan kuvaa¬Ö
+Compressing image	Pakataan kuvaa¬Ö
 Confirm	Vahvista
-Confirm delete construction	Oletko varma, ett‰ haluat poistaa t‰m‰n urakan?
-confirm delete site	Oletko varma, ett‰ haluat poistaa t‰m‰n sivuston?
+Confirm delete construction	Oletko varma, ett√§ haluat poistaa t√§m√§n urakan?
+confirm delete site	Oletko varma, ett√§ haluat poistaa t√§m√§n sivuston?
 Confirm deletion	Vahvista poisto
 Confirm password	Vahvista salasana
 confirm_password	Vahvista salasana
 Confirmation required	Vahvistus tarvitaan
 Connection problems	Yhteysongelmia
-Connection problems	Yhteysongelmia\n\nYrit‰ uudelleen...
+Connection problems	Yhteysongelmia\n\nYrit√§ uudelleen...
 Connection problems	Yhteysongelmia
 connection_lost	Yhteysongelmia
-connection_lost_text	Ei internet-yhteytt‰
+connection_lost_text	Ei internet-yhteytt√§
 construction	Urakka
 Construction	Urakka
 constructions	Urakkasopimukset
 Constructions	Urakat
-Contact Dalux	Ota yhteytt‰ Daluxiin
+Contact Dalux	Ota yhteytt√§ Daluxiin
 Contact information	Yhteystiedot
-Contact IT Administrators	Ota yhteytt‰ yll‰pitoon
-Contains	Sis‰lt‰‰
+Contact IT Administrators	Ota yhteytt√§ yll√§pitoon
+Contains	Sis√§lt√§√§
 Continue logout	Kirjaudu ulos?
 Contract	Urakka
 Contract management	Urakka hallinta
@@ -265,59 +265,59 @@ copy_link	Kopioi linkki
 Correspondence	Kirjeenvaihto
 Correspondence report	Pakattu raportti
 Correspondence report (filename)	Pakattu raportti
-could not center on gps description	GPS-sijainnin keskitt‰minen ei onnistunut, sill‰ piste sijaitsee piirrustuksen ulkopuolella.
+could not center on gps description	GPS-sijainnin keskitt√§minen ei onnistunut, sill√§ piste sijaitsee piirrustuksen ulkopuolella.
 could not center on gps title	GPS-sijainti kaukana
-Could not open attachment	Ei voitu avata liitett‰. {0}.\n Onko tiedosto viallinen?
-Could not reach the server	Palvelimeen ei saatu yhteytt‰. Oletko yhteydess‰ internetiin?
-could_not_find_comment	Ei lˆyt‰nyt linkiss‰ m‰‰ritelty‰ kommenttia. n\n Uudelleenohjataan k‰ytt‰j‰n sivustolle.
+Could not open attachment	Ei voitu avata liitett√§. {0}.\n Onko tiedosto viallinen?
+Could not reach the server	Palvelimeen ei saatu yhteytt√§. Oletko yhteydess√§ internetiin?
+could_not_find_comment	Ei l√∂yt√§nyt linkiss√§ m√§√§ritelty√§ kommenttia. n\n Uudelleenohjataan k√§ytt√§j√§n sivustolle.
 Country	Maa
 Craftsman	Rakennusmies
 Create	Luo
 Create Construction	Luo urakka
-Create demo user	Luo demo k‰ytt‰j‰
-Create empty checklist	Luo tyhj‰ tarkistuslista
-Create empty control plan	Luo tyhj‰ valvontasuunnitelma
+Create demo user	Luo demo k√§ytt√§j√§
+Create empty checklist	Luo tyhj√§ tarkistuslista
+Create empty control plan	Luo tyhj√§ valvontasuunnitelma
 Create inspection	Tallenna raportti
 Create new	Luo uusi
 Create role	Luo rooli
 Create roles	Luo rooleja
-Create send	Luo, l‰het‰
-Create user	Luo k‰ytt‰j‰
-Create user	Luo k‰ytt‰j‰
-Create user	Luo k‰ytt‰j‰
-Create user	Luo k‰ytt‰j‰
-Create user	Luo k‰ytt‰j‰
-Create user	Luo k‰ytt‰j‰
-Create user	Luo k‰ytt‰j‰
+Create send	Luo, l√§het√§
+Create user	Luo k√§ytt√§j√§
+Create user	Luo k√§ytt√§j√§
+Create user	Luo k√§ytt√§j√§
+Create user	Luo k√§ytt√§j√§
+Create user	Luo k√§ytt√§j√§
+Create user	Luo k√§ytt√§j√§
+Create user	Luo k√§ytt√§j√§
 create:	Luo: {0}
 created	Luotu
 Created	Luotu
 Created by	Luotu
-Created by (email)	Luotu (s‰hkˆposti)
+Created by (email)	Luotu (s√§hk√∂posti)
 Created only via checklists	Luodaan vain tarkistuslistojen kautta
 created_by	Luotu
-Creates tasks	Luo teht‰vi‰
-credetials_fail	K‰ytt‰j‰tunnusta ja salasanaa ei voitu vahvistaa
+Creates tasks	Luo teht√§vi√§
+credetials_fail	K√§ytt√§j√§tunnusta ja salasanaa ei voitu vahvistaa
 Criteria	Kriteerit
-custom_filter	K‰ytt‰j‰suodatin
-Daily summary	P‰ivitt‰inen yhteenveto
-Dalux administration	Dalux yll‰pito
-Dalux daily	Dalux p‰ivitt‰in
+custom_filter	K√§ytt√§j√§suodatin
+Daily summary	P√§ivitt√§inen yhteenveto
+Dalux administration	Dalux yll√§pito
+Dalux daily	Dalux p√§ivitt√§in
 Dashboard	Dashboard
-Data fields	tietokent‰t
-Data removed from {0} checklists	Tallennuksen j‰lkeen tulee <font color="#DD0000">poistumaan</font> tietoja {0} tarkistuslistasta.
+Data fields	tietokent√§t
+Data removed from {0} checklists	Tallennuksen j√§lkeen tulee <font color="#DD0000">poistumaan</font> tietoja {0} tarkistuslistasta.
 Database	Database
-date	P‰iv‰m‰‰r‰
-Date	P‰iv‰m‰‰r‰
+date	P√§iv√§m√§√§r√§
+Date	P√§iv√§m√§√§r√§
 dateformat	d. MMM yyyy, HH:mm
 dateformat_air	d. MMM yyyy, HH:mm
 dateformat_air_checklist	d. MMM yyyy, HH:mm
 dateformat_deadline	d. MMM yyyy
 dateformat_short	d. MMM
 dateformatDayYear	d. MMMM yyyy
-deadline	M‰‰r‰aika
-Deadline	M‰‰r‰aika
-Deadline changed	M‰‰raika muutettu
+deadline	M√§√§r√§aika
+Deadline	M√§√§r√§aika
+Deadline changed	M√§√§raika muutettu
 Default description	Oletuskuvaus
 Default description	Oletuskuvaus
 Deficiency	Puute
@@ -325,7 +325,7 @@ Delegated to	Delegoitu
 Delete	Poista
 delete	Poista
 Delete all	Poista kaikki
-Delete all tasks	Poista kaikki teht‰v‰t
+Delete all tasks	Poista kaikki teht√§v√§t
 Delete building	Poista rakennus
 Delete checklist	Poista tarkistuslista
 Delete control plan	Poista valvontasuunnitelma
@@ -336,14 +336,14 @@ Delete draft (draft)	Poista luonnos
 Delete draft (update)	Poista luonnos
 Delete draft alternative	Poista luonnos
 Delete drawing	Poista piirustus
-Delete from outbox	Poista l‰htevist‰
+Delete from outbox	Poista l√§htevist√§
 Delete photo	Poista kuva
 Delete selection	Poista valitut
-Delete tasks	Poista teht‰vi‰
-Delete view	Poista n‰kym‰
-Delete x tasks	Poista teht‰v‰t: {0}x {1}
-Delete zone	Poista vyˆhyke
-Demo user	Demo k‰ytt‰j‰
+Delete tasks	Poista teht√§vi√§
+Delete view	Poista n√§kym√§
+Delete x tasks	Poista teht√§v√§t: {0}x {1}
+Delete zone	Poista vy√∂hyke
+Demo user	Demo k√§ytt√§j√§
 Descending Z-A	Laskeva Z-A
 description	Kuvaus
 Description	Kuvaus
@@ -353,37 +353,37 @@ Detailed	Yksityiskohtainen
 Deviation	Poikkeama
 DF	DF
 Disabled	Disabled
-Discard changes	Hylk‰‰ muutokset
+Discard changes	Hylk√§√§ muutokset
 Discipline	Valvonta-alue
 Discipline (drawing)	Valvonta-alue
-Discipline already exists	Valvonta-alue on jo olemassa t‰ss‰ urakassa
+Discipline already exists	Valvonta-alue on jo olemassa t√§ss√§ urakassa
 Disciplines	Valvonta-alueet
-Displays	N‰ytet‰‰n
-Do you accept the invitation to the project {0}?	Hyv‰ksytkˆ kutsun projektiin {0}?
+Displays	N√§ytet√§√§n
+Do you accept the invitation to the project {0}?	Hyv√§ksytk√∂ kutsun projektiin {0}?
 Do you want to save changes to the draft?	Haluatko tallentaa luonnoksen muutokset?
 Do you want to save the draft?	Haluatko tallentaa luonnoksen?
 document file types	*.pdf
 Documents	Asiakirjat
-Does not contain	Ei sis‰ll‰
+Does not contain	Ei sis√§ll√§
 Done	Valmis
 Download	Lataa
 Download PDF	Lataa PDF
-Downloading checklist...	Lataa tarkistuslistaÖ
-Downloading report...	Lataa raporttiaÖ
-Downloading task {0} of {1}	Lataa teht‰v‰‰ {0}/{1}
+Downloading checklist...	Lataa tarkistuslista¬Ö
+Downloading report...	Lataa raporttia¬Ö
+Downloading task {0} of {1}	Lataa teht√§v√§√§ {0}/{1}
 Draft	Luonnos
-Draft early version, change location	<center>Huom!<br/><br/>Luonnos on luotu aikaisemmalla Dalux Field versiolla. P‰ivit‰ sijainti. <br/><br/>Muista p‰ivitt‰‰ Dalux Field viimeisimp‰‰n versioon.</center>
+Draft early version, change location	<center>Huom!<br/><br/>Luonnos on luotu aikaisemmalla Dalux Field versiolla. P√§ivit√§ sijainti. <br/><br/>Muista p√§ivitt√§√§ Dalux Field viimeisimp√§√§n versioon.</center>
 Drafts	Luonnokset
 Drawing	Piirrustus
 Drawing information	Piirrustuksen tietoja
 Drawing updated {0}	Drawing updated {0}
-Drawing with tasks	Piirrustus teht‰vill‰
+Drawing with tasks	Piirrustus teht√§vill√§
 Drawings	Piirrustukset
 dRofus integration	dRofus integration
 Copy row	Kopioi rivi
 Duplicate	Duplicate
 DUT_MILLIMETERS	mm
-DUT_SQUARE_METERS	m≤
+DUT_SQUARE_METERS	m¬≤
 DV	DV
 Economy	Talous
 Economy changed	Talous muuttunut
@@ -391,31 +391,31 @@ edit	Muokkaa
 Edit	Muokkaa
 Edit building	Muokkaa rakennusta
 Edit building model file	Muokkaa rakennusmallia
-Edit persons	Muokkaa henkilˆit‰
+Edit persons	Muokkaa henkil√∂it√§
 Edit photo	Muokkaa kuvaa
 Edit project data	Muokkaa projektin tietoja
 Edit properties	Muokkaa ominaisuuksia
 Edit role	Muokkaa rooleja
 Edit site data	Muokkaa sivuston tietoja
-Edit user	Muokkaa k‰ytt‰j‰‰
-Edit zone	Muokkaa vyˆhyke
-Edit zones	Muokkaa vyˆhykkeit‰
+Edit user	Muokkaa k√§ytt√§j√§√§
+Edit zone	Muokkaa vy√∂hyke
+Edit zones	Muokkaa vy√∂hykkeit√§
 Edit contract	Muokkaa urakkaa
-element updated?	Rakennusosaa ei lˆytynyt. Sijainti on p‰ivitett‰v‰.<br/><br/> Onko piirrustusmateriaalit p‰ivitetty?
+element updated?	Rakennusosaa ei l√∂ytynyt. Sijainti on p√§ivitett√§v√§.<br/><br/> Onko piirrustusmateriaalit p√§ivitetty?
 element_properties	Ominaisuudet
 Elevation	Korkeus
 Elevation lower	Korkeus, alempi
 Elevation upper	Korkeus, ylempi
 ellipse	Ellipsi
-email	s‰hkˆposti
-Email	s‰hkˆposti
-Email for new tasks	S‰hkˆposti uusiin teht‰viin
-Email log	S‰hkˆpostiloki
-Email settings	S‰hkˆpostiasetukset
-Email settings (ribbon)	S‰hkˆpostiasetukset
-Email with daily summary	S‰hkˆposti p‰ivitt‰isell‰ yhteenvedolla
-email:	s‰hkˆposti
-empty_list	Lista on tyhj‰
+email	s√§hk√∂posti
+Email	s√§hk√∂posti
+Email for new tasks	S√§hk√∂posti uusiin teht√§viin
+Email log	S√§hk√∂postiloki
+Email settings	S√§hk√∂postiasetukset
+Email settings (ribbon)	S√§hk√∂postiasetukset
+Email with daily summary	S√§hk√∂posti p√§ivitt√§isell√§ yhteenvedolla
+email:	s√§hk√∂posti
+empty_list	Lista on tyhj√§
 Enable	Mahdollista
 Enable checklists	Mahdollista tarkistuslistat
 Enable photos	Mahdollista kuvat
@@ -425,7 +425,7 @@ Enter discpline	Anna valvonta-alue
 Enter title	Kirjoita otsikko
 enterprise	Yritys
 Entire list	Koko lista
-Equals	Yht‰ kuin
+Equals	Yht√§ kuin
 error	Virhe
 Error	Virhe
 Error	Virhe
@@ -435,25 +435,25 @@ Excel and locations	Excel ja sijainnit
 Excel and locations	Excel ja sijainnit
 Existing	Nykyinen
 existing	Nykyinen
-existing task restricted to {0}	Nykyinen teht‰v‰: Rajoitettu '{0}'
+existing task restricted to {0}	Nykyinen teht√§v√§: Rajoitettu '{0}'
 Export	Vie
 Export all	Vie kaikki
-Export failed	Vienti ep‰onnistui
+Export failed	Vienti ep√§onnistui
 Export overview	Vie yleiskatsaus
-Fictive user	Kuvitteellinen k‰ytt‰j‰
-Field definition	Kent‰n m‰‰ritelm‰
-Field type	Kent‰n tyyppi
-Fields	Kent‰t
+Fictive user	Kuvitteellinen k√§ytt√§j√§
+Field definition	Kent√§n m√§√§ritelm√§
+Field type	Kent√§n tyyppi
+Fields	Kent√§t
 File	Tiedosto
 File could not be downloaded	Tiedostoa ei voitu ladata
 File to upload	Ladattava tiedosto
 Filename	Tiedostonimi
 Files	Tiedostot
 Files to upload	Ladattava tiedosto
-Fill in	T‰yt‰
+Fill in	T√§yt√§
 Filters	Filtterit
-find	Lˆyd‰
-First levels	Ensimm‰inen
+find	L√∂yd√§
+First levels	Ensimm√§inen
 First name	Etunimi
 first_name	Etunimi
 Floor	Kerros
@@ -461,7 +461,7 @@ Floor name	Kerroksen nimi
 Floor plan	Kerros
 Floor plans	Kerrosten
 Floor properties	Kerroksen ominaisuudet
-floor updated?	Pohjapiirrosta ei lˆytynyt. Sijainti on p‰ivitett‰v‰.<br/><br/> Onko piirrustusmateriaalit p‰ivitetty?
+floor updated?	Pohjapiirrosta ei l√∂ytynyt. Sijainti on p√§ivitett√§v√§.<br/><br/> Onko piirrustusmateriaalit p√§ivitetty?
 floor_name	Kerroksen nimi
 Floorplan	Pohjapiirros
 FloorPlan	Pohjapiirrustukset
@@ -470,11 +470,11 @@ Floorplans	Pohjapiirrokset
 floors	Suunnitelmat
 Floors	Suunnitelmat
 flow_configuration	Sovellettu flow
-flow_configuration_definition	M‰‰ritelty flow
+flow_configuration_definition	M√§√§ritelty flow
 Folder	Kansio
-Folder tools	Kansion tyˆkalut
-Foreman	Tyˆnjohtaja
-found	lˆydetty
+Folder tools	Kansion ty√∂kalut
+Foreman	Ty√∂njohtaja
+found	l√∂ydetty
 From camera	Kamerasta
 From drawing	Piirrustuksesta
 From gallery	Albumista
@@ -482,27 +482,27 @@ General problem	Yleinen ongelma
 Generate report	Luo raportti
 Generating document	Luo dokumenttia
 Generating picture	Luo kuvaa
-Generating report	Luo raporttiaÖ
+Generating report	Luo raporttia¬Ö
 Generating report {0}	Luo raporttia {0}
-Get Revit plug-in	Hae Revit liit‰nt‰
+Get Revit plug-in	Hae Revit liit√§nt√§
 GIS location	GIS sijainti
 GIS placement not chosen	GIS sijaintia ei valittu
-Go to location	N‰yt‰ sijainti
-gps accuracy timeout description	GPS aktivointi ep‰onnistui. Tarkista laitteen asetuksista, ett‰ GPS on k‰ytˆss‰ ja signaali on ok.
+Go to location	N√§yt√§ sijainti
+gps accuracy timeout description	GPS aktivointi ep√§onnistui. Tarkista laitteen asetuksista, ett√§ GPS on k√§yt√∂ss√§ ja signaali on ok.
 gps accuracy timeout title	GPS
-gps accuracy too coarse description	GPS tarkkuus on liian ep‰selv‰ n‰ytett‰v‰ksi (yli 40 metri‰)
+gps accuracy too coarse description	GPS tarkkuus on liian ep√§selv√§ n√§ytett√§v√§ksi (yli 40 metri√§)
 gps accuracy too coarse title	GPS
-gps not enabled description	GPS aktivointi ep‰onnistui. Tarkista laitteen asetuksista, ett‰ GPS on k‰ytˆss‰.
+gps not enabled description	GPS aktivointi ep√§onnistui. Tarkista laitteen asetuksista, ett√§ GPS on k√§yt√∂ss√§.
 gps not enabled title	GPS
 Greater than	Suurempi kuin
-Greater than equals	Suurempi kuin on yht‰ kuin
-Green	Vihre‰
+Greater than equals	Suurempi kuin on yht√§ kuin
+Green	Vihre√§
 Grid	Ruudukko
 Header	Otsikko
 height	Korkeus
 Help text	Ohjeteksti
 Home	Koti
-i_accept	Hyv‰ksyn k‰ytt‰‰ t‰t‰ ilmaista palvelua &quot;sellaisenaan&quot;
+i_accept	Hyv√§ksyn k√§ytt√§√§ t√§t√§ ilmaista palvelua &quot;sellaisenaan&quot;
 ID	ID
 image file types	*.gif;*.png;*.jpg;*.jpeg
 images	kuvat
@@ -511,131 +511,131 @@ Import	Tuo
 Import complete	Projektiasetusten tuonti onnistui
 Import from	Tuo
 Import from file	Tuo tiedostosta
-Import from filesystem	Tuo tiedostoj‰rjestelm‰st‰
+Import from filesystem	Tuo tiedostoj√§rjestelm√§st√§
 Import from projects	Tuo projekteista
-Inactive user	Passiivinen k‰ytt‰j‰
+Inactive user	Passiivinen k√§ytt√§j√§
 Inbox	Saapuneet
 Inbox (folder)	Saapuneet
 Include signing field	Include attachments
 Include attachments	Include attachments
 Include tasks	Include tasks
 Info	Tiedot
-info 500+ options	Lˆytyy yli 2000 ainutlaatuista vaihtoehtoa.\n K‰yt‰ hakusuodatinta alla.
-info add building name	Rakennusnimi ei saa olla tyhj‰!
-info admin edits work description	Vain yll‰pit‰j‰t voivat muokata toimenkuvia. \n Yll‰pit‰j‰t ovat lueteltu 'K‰ytt‰j‰t' valikon alla (Asetukset-vasemmassa valikossa).
-info another user created this task	Toinen k‰ytt‰j‰ on luonut t‰m‰n teht‰v‰n. Vain t‰m‰ k‰ytt‰j‰ voi tarkastella tai muokata teht‰v‰‰.
-info app update	P‰ivit‰ Dalux Field <br/><br/>Muista synkronoida l‰hett‰m‰ttˆm‰t tiedot inna p‰ivityst‰
-info batch deny assign wd	e on mahdollista vain m‰‰ritt‰‰ useita teht‰vi‰ kerralla, kun kaikki tiedot on samaa aluetta ja tyˆnkuvaa. \n \nRajoita valintaa. Voit halutessasi k‰ytt‰‰ suodatinta sarakkeessa Valvonta ja tyˆnkuva.
-info batch deny reply	Se on mahdollista vain {0} useita teht‰vi‰ kerralla, kunhan sinulla on mahdollisuus muuttaa valitut tiedot. \n \n Onko sinulla kirjoitusoikeudet valittuihin tietoihin? \nOletko valinnut oikean kansion?\n\n Poista valitut teht‰v‰t joita et voi en‰‰ muuttaa.
-info building incomplete	Rakennus on ‰skett‰in p‰ivitetty ja valmistellaan parhaillaan n‰ytett‰v‰ksi mobiililaitteessa.Rakennus ei ole saatavilla jonkin aikaa.
-info building queued analysis	Rakennusta p‰ivitet‰‰n. Yrit‰ myˆhemmin uudelleen.
-info building update failed	Rakennuksen p‰ivitys ep‰onnistui. Ota yhteytta Daluxiin.
-info building updating 3d	Piirustuksia p‰ivitet‰‰n. Yrit‰ myˆhemmin uudelleen.
-info cannot edit work description	Tyˆnkuva voidaan asettaa vain, jos nykyisen roolin tyˆnjohtajalla ei ole tyˆnkuva. Vain j‰rjestelm‰nvalvoja voi muokata toimenkuvia itselleen.
-info checklist conflict	<p align="center"> Tarkistuslista muutettiin muualla. <br/> Tallenna muutokset valitsemalla 'Tallenna'. <br/> <b> Klikkaa n‰ytt‰‰ksesi muutokset </ b> </ p>
-info checklist not sent retry	Tarkistuslistaa ei tallennettu. <br/> <br/>  Yrit‰ uudelleen valitsemalla 'Tallenna'.
-info checklist offline	T‰m‰ tarkastuslista ei ole k‰ytett‰viss‰ offline-tilassa
-info commit checklist first	<P ALIGN="center">Kuvaa ei voitu yhdist‰‰ tarkistuslistaan.<br/> Lataa tarkistuslista tai poista kuva. <br/>
-info company has users	Ei voida poistaa yrityst‰ jolla on k‰ytt‰ji‰
-info connection lost	Ei internet-yhteytt‰
+info 500+ options	L√∂ytyy yli 2000 ainutlaatuista vaihtoehtoa.\n K√§yt√§ hakusuodatinta alla.
+info add building name	Rakennusnimi ei saa olla tyhj√§!
+info admin edits work description	Vain yll√§pit√§j√§t voivat muokata toimenkuvia. \n Yll√§pit√§j√§t ovat lueteltu 'K√§ytt√§j√§t' valikon alla (Asetukset-vasemmassa valikossa).
+info another user created this task	Toinen k√§ytt√§j√§ on luonut t√§m√§n teht√§v√§n. Vain t√§m√§ k√§ytt√§j√§ voi tarkastella tai muokata teht√§v√§√§.
+info app update	P√§ivit√§ Dalux Field <br/><br/>Muista synkronoida l√§hett√§m√§tt√∂m√§t tiedot inna p√§ivityst√§
+info batch deny assign wd	e on mahdollista vain m√§√§ritt√§√§ useita teht√§vi√§ kerralla, kun kaikki tiedot on samaa aluetta ja ty√∂nkuvaa. \n \nRajoita valintaa. Voit halutessasi k√§ytt√§√§ suodatinta sarakkeessa Valvonta ja ty√∂nkuva.
+info batch deny reply	Se on mahdollista vain {0} useita teht√§vi√§ kerralla, kunhan sinulla on mahdollisuus muuttaa valitut tiedot. \n \n Onko sinulla kirjoitusoikeudet valittuihin tietoihin? \nOletko valinnut oikean kansion?\n\n Poista valitut teht√§v√§t joita et voi en√§√§ muuttaa.
+info building incomplete	Rakennus on √§skett√§in p√§ivitetty ja valmistellaan parhaillaan n√§ytett√§v√§ksi mobiililaitteessa.Rakennus ei ole saatavilla jonkin aikaa.
+info building queued analysis	Rakennusta p√§ivitet√§√§n. Yrit√§ my√∂hemmin uudelleen.
+info building update failed	Rakennuksen p√§ivitys ep√§onnistui. Ota yhteytta Daluxiin.
+info building updating 3d	Piirustuksia p√§ivitet√§√§n. Yrit√§ my√∂hemmin uudelleen.
+info cannot edit work description	Ty√∂nkuva voidaan asettaa vain, jos nykyisen roolin ty√∂njohtajalla ei ole ty√∂nkuva. Vain j√§rjestelm√§nvalvoja voi muokata toimenkuvia itselleen.
+info checklist conflict	<p align="center"> Tarkistuslista muutettiin muualla. <br/> Tallenna muutokset valitsemalla 'Tallenna'. <br/> <b> Klikkaa n√§ytt√§√§ksesi muutokset </ b> </ p>
+info checklist not sent retry	Tarkistuslistaa ei tallennettu. <br/> <br/>  Yrit√§ uudelleen valitsemalla 'Tallenna'.
+info checklist offline	T√§m√§ tarkastuslista ei ole k√§ytett√§viss√§ offline-tilassa
+info commit checklist first	<P ALIGN="center">Kuvaa ei voitu yhdist√§√§ tarkistuslistaan.<br/> Lataa tarkistuslista tai poista kuva. <br/>
+info company has users	Ei voida poistaa yrityst√§ jolla on k√§ytt√§ji√§
+info connection lost	Ei internet-yhteytt√§
 info contract uses company	Yritys jolla on yksi tai useampi urakka
-info credetials fail	K‰ytt‰j‰tunnusta ja salasanaa ei voitu todentaa
-info demo site	T‰m‰ on demo projekti. Sinulla ole oikeutta muokata BIM asetuksia.
+info credetials fail	K√§ytt√§j√§tunnusta ja salasanaa ei voitu todentaa
+info demo site	T√§m√§ on demo projekti. Sinulla ole oikeutta muokata BIM asetuksia.
 info document ready	Asiakirja on valmis.
 info document ready download	Asiakirja on valmis. Lataa?
-info email not validated	s‰hkˆpostiosoitetta ei ole vahvistettu
-info empty list	Lista on tyhj‰
+info email not validated	s√§hk√∂postiosoitetta ei ole vahvistettu
+info empty list	Lista on tyhj√§
 info field missing	{0}' puuttuu
-info image load failed	Kuvan lataus ep‰onnistui
-info invalid email	S‰hkˆpostiosoite ei kelpaa
-info invalid password	Salasanan on oltava v‰hint‰‰n 6 merkki‰.
-info invalid roleworkdescription delete	Ei voi poistaa toimenkuvia, jotka ovat k‰ytˆss‰.
+info image load failed	Kuvan lataus ep√§onnistui
+info invalid email	S√§hk√∂postiosoite ei kelpaa
+info invalid password	Salasanan on oltava v√§hint√§√§n 6 merkki√§.
+info invalid roleworkdescription delete	Ei voi poistaa toimenkuvia, jotka ovat k√§yt√∂ss√§.
 info invited	<p align="center">Kutsu hankkeeseen '{0}'</p>
-info isnan {0}	M‰‰ritetty arvo '{0}' ei ole numero
-info logged in	Olet kirjautunut sis‰‰n
+info isnan {0}	M√§√§ritetty arvo '{0}' ei ole numero
+info logged in	Olet kirjautunut sis√§√§n
 info logged out	Olet kirjautunut ulos
-info mail sent {0}	S‰hkˆposti l‰hetettiin '{0}'
-info must select assignee	Vastuuhenkilˆ on valittava.
-info must update task	Internet-yhteys tarvitaan p‰ivitt‰‰kseen t‰m‰n teht‰v‰n.
-info new user added mail sent	Olemme l‰hett‰neet kutsun s‰hkˆpostitse. \n \n K‰ytt‰j‰ aktivoituu kun s‰hkˆpostiosoite on vahvistettu kutsussa olevan s‰hkˆpostilinkin kautta ja k‰ytt‰j‰ luotu j‰rjestelm‰‰n.
+info mail sent {0}	S√§hk√∂posti l√§hetettiin '{0}'
+info must select assignee	Vastuuhenkil√∂ on valittava.
+info must update task	Internet-yhteys tarvitaan p√§ivitt√§√§kseen t√§m√§n teht√§v√§n.
+info new user added mail sent	Olemme l√§hett√§neet kutsun s√§hk√∂postitse. \n \n K√§ytt√§j√§ aktivoituu kun s√§hk√∂postiosoite on vahvistettu kutsussa olevan s√§hk√∂postilinkin kautta ja k√§ytt√§j√§ luotu j√§rjestelm√§√§n.
 info no bim	Ei BIM, CAD-tai PDF-tiedostoja. Lataa asetuksista.
-info no company selected	Et ole valinnut yrityst‰.
-info no creator role	<p align="center"> Projektiasetukset ovat muuttuneet <br/> Sinulla ei en‰‰ ole oikeutta luoda teht‰vi‰ </ p>
-info no delete company	Yrityst‰ ei voida poistaa sill‰ k‰ytt‰ji‰ liittyy yritykseen.\n\n Poista ensin k‰ytt‰j‰t yrityksest‰.
-info no delete role	Ei voi poistaa roolia jolla on alaisia. \n\n Jos uusi henkilˆ korvaa nykyisen henkilˆn, ei roolia pid‰ poistaa. Valitse Muokkaa korvaaksesi henkilˆn.
-info no delete user organisation	K‰ytt‰j‰‰ ei voi poistaa, koska k‰ytt‰j‰ on osa organisaatiota. \n\nPoista k‰ytt‰ji‰ organisaatiosta poistamiseksi.
-info no delete user substitute	K‰ytt‰j‰‰ ei voi poistaa, koska k‰ytt‰j‰: {0} ({1}) \n \n Poista k‰ytt‰j‰ ensin organisaatiosta.
-info no discipline	Sinun on m‰‰ritett‰v‰ valvonta-alue.
-info no permission	Sinulla ei ole oikeuksia muokata t‰t‰.
+info no company selected	Et ole valinnut yrityst√§.
+info no creator role	<p align="center"> Projektiasetukset ovat muuttuneet <br/> Sinulla ei en√§√§ ole oikeutta luoda teht√§vi√§ </ p>
+info no delete company	Yrityst√§ ei voida poistaa sill√§ k√§ytt√§ji√§ liittyy yritykseen.\n\n Poista ensin k√§ytt√§j√§t yrityksest√§.
+info no delete role	Ei voi poistaa roolia jolla on alaisia. \n\n Jos uusi henkil√∂ korvaa nykyisen henkil√∂n, ei roolia pid√§ poistaa. Valitse Muokkaa korvaaksesi henkil√∂n.
+info no delete user organisation	K√§ytt√§j√§√§ ei voi poistaa, koska k√§ytt√§j√§ on osa organisaatiota. \n\nPoista k√§ytt√§ji√§ organisaatiosta poistamiseksi.
+info no delete user substitute	K√§ytt√§j√§√§ ei voi poistaa, koska k√§ytt√§j√§: {0} ({1}) \n \n Poista k√§ytt√§j√§ ensin organisaatiosta.
+info no discipline	Sinun on m√§√§ritett√§v√§ valvonta-alue.
+info no permission	Sinulla ei ole oikeuksia muokata t√§t√§.
 info no title	Otsikko on annettava.
-info no update role	<p align="center"> Rapportti on muokattu <br/> Et voi en‰‰ p‰ivitt‰‰ raporttia. <br/> Onko asia muuttunut vai suljettu? </ p>
-info none selected	Ei valittuja teht‰vi‰.
-info non-existing assignee role	<p align="center"> Projektiasetukset ovat muuttuneet <br/>Teht‰v‰‰ ei voida en‰‰ antaa t‰lle henkilˆlle</ p>
-info non-existing assignee wd	<p align="center"> Projektiasetukset ovat muuttuneet <br/>Teht‰v‰‰ ei voida en‰‰ antaa t‰lle henkilˆlle</ p>
-info non-existing role	<p align="center"> Projektiasetukset ovat muuttuneet <br/> Nykyinen roolisi ei anna oikeutta muokata t‰t‰ teht‰v‰‰.</ p>
-info non-existing substitute	<p align="center"> Projektiasetukset ovat muuttuneet <br/> Sinulla ei ole en‰‰ oikeutta muokata t‰t‰ teht‰v‰‰.</ p>
-info not self superior	Ei ole mahdollista m‰‰ritell‰ oma itsens‰ esimieheksi 
-info offline finding location	Offline <br/> K‰ytt‰‰ l‰hint‰ mahdollista sijaintia
-info offline minimodel	Offline<br/> Internet-yhteytt‰ ei ole ja mini-malli ei ole k‰ytett‰viss‰ offline-tilassa.
-info offline minimodel frame	Offline<br/> Internet-yhteytt‰ ei ole ja nykyinen kuvakulma ei ole k‰ytett‰viss‰ offline-tilassa.
-info offline new visit 2d	Offline<br/> Internet-yhteytt‰ ei ole ja nykyinen pohjapiirros ei ole k‰ytett‰viss‰ offline-tilassa.
-info offline new visit 3d	Offline<br/> Internet-yhteytt‰ ei ole ja kerroksen sijainnit eiv‰t ole k‰ytett‰viss‰ offline-tilassa.
-info open draft	<p align="center">Luonnos<br/><b>Klikkaa n‰hd‰ksesi raportin</b></p>
-info password no match	Salasanat eiv‰t t‰sm‰‰
+info no update role	<p align="center"> Rapportti on muokattu <br/> Et voi en√§√§ p√§ivitt√§√§ raporttia. <br/> Onko asia muuttunut vai suljettu? </ p>
+info none selected	Ei valittuja teht√§vi√§.
+info non-existing assignee role	<p align="center"> Projektiasetukset ovat muuttuneet <br/>Teht√§v√§√§ ei voida en√§√§ antaa t√§lle henkil√∂lle</ p>
+info non-existing assignee wd	<p align="center"> Projektiasetukset ovat muuttuneet <br/>Teht√§v√§√§ ei voida en√§√§ antaa t√§lle henkil√∂lle</ p>
+info non-existing role	<p align="center"> Projektiasetukset ovat muuttuneet <br/> Nykyinen roolisi ei anna oikeutta muokata t√§t√§ teht√§v√§√§.</ p>
+info non-existing substitute	<p align="center"> Projektiasetukset ovat muuttuneet <br/> Sinulla ei ole en√§√§ oikeutta muokata t√§t√§ teht√§v√§√§.</ p>
+info not self superior	Ei ole mahdollista m√§√§ritell√§ oma itsens√§ esimieheksi 
+info offline finding location	Offline <br/> K√§ytt√§√§ l√§hint√§ mahdollista sijaintia
+info offline minimodel	Offline<br/> Internet-yhteytt√§ ei ole ja mini-malli ei ole k√§ytett√§viss√§ offline-tilassa.
+info offline minimodel frame	Offline<br/> Internet-yhteytt√§ ei ole ja nykyinen kuvakulma ei ole k√§ytett√§viss√§ offline-tilassa.
+info offline new visit 2d	Offline<br/> Internet-yhteytt√§ ei ole ja nykyinen pohjapiirros ei ole k√§ytett√§viss√§ offline-tilassa.
+info offline new visit 3d	Offline<br/> Internet-yhteytt√§ ei ole ja kerroksen sijainnit eiv√§t ole k√§ytett√§viss√§ offline-tilassa.
+info open draft	<p align="center">Luonnos<br/><b>Klikkaa n√§hd√§ksesi raportin</b></p>
+info password no match	Salasanat eiv√§t t√§sm√§√§
 info picture ready	Lataa kuva
 info picture ready download	Kuva on valmis ladattavaksi
-info preview only	Vain esikatselu on mahdollista n‰ytemallista
-info processing 3d	N‰kym‰‰ p‰ivitet‰‰n. Yrit‰ myˆhemmin uudelleen.
-info program error	<p align="center">Ohjelmistovirhe<br/>Ota yhteytt‰ Daluxiin (support@daluxqa.com)</p>
-info project setting error	<p align="center">Arvaamaton projektiasetus<br/>Ota yhteytt‰ Daluxiin (support@daluxqa.com)</p>
-info remove company	Oletko varma, ett‰ haluat poistaa t‰m‰n yrityksen?
+info preview only	Vain esikatselu on mahdollista n√§ytemallista
+info processing 3d	N√§kym√§√§ p√§ivitet√§√§n. Yrit√§ my√∂hemmin uudelleen.
+info program error	<p align="center">Ohjelmistovirhe<br/>Ota yhteytt√§ Daluxiin (support@daluxqa.com)</p>
+info project setting error	<p align="center">Arvaamaton projektiasetus<br/>Ota yhteytt√§ Daluxiin (support@daluxqa.com)</p>
+info remove company	Oletko varma, ett√§ haluat poistaa t√§m√§n yrityksen?
 info remove self	Olet aikeissa poistaa itsesi projektista \n\nHaluatko jatkaa?
-info remove work description	Ole tietoinen siit‰, ett‰ t‰ll‰ tyˆnkuvalla luotuja teht‰vi‰ ei voida en‰‰ ryhmitell‰ t‰m‰n kiinteistˆn perusteella. \nTyˆnkuva poistetaan automaattisesti kyseisist‰ rooleista. \n\nHaluatko jatkaa?
-info report has update in folder	<p align="center"> Huomio! <br/> P‰ivitetty raportti lˆytyy kansiosta {0} </ p>
-info report has updates in folder	<p align="center"> Huomio! <br/> P‰ivityksi‰ raporttiin lˆytyy kansiosta {0} </ p>
-info report has updates in folders	<p align="center"> Huomio! <br/> P‰ivityksi‰ raporttiin lˆytyy kansioista {0} </ p>
+info remove work description	Ole tietoinen siit√§, ett√§ t√§ll√§ ty√∂nkuvalla luotuja teht√§vi√§ ei voida en√§√§ ryhmitell√§ t√§m√§n kiinteist√∂n perusteella. \nTy√∂nkuva poistetaan automaattisesti kyseisist√§ rooleista. \n\nHaluatko jatkaa?
+info report has update in folder	<p align="center"> Huomio! <br/> P√§ivitetty raportti l√∂ytyy kansiosta {0} </ p>
+info report has updates in folder	<p align="center"> Huomio! <br/> P√§ivityksi√§ raporttiin l√∂ytyy kansiosta {0} </ p>
+info report has updates in folders	<p align="center"> Huomio! <br/> P√§ivityksi√§ raporttiin l√∂ytyy kansioista {0} </ p>
 info report ready	Raportti on valmis.
 info report ready download	Raportti on valmis. Lataa?
 info role name not empty	Anna roolin nimi
 info server error	Palvelinvirhe
-info site manager change	Jos rakennusp‰‰llikkˆn‰ korvaat itsesi toisella henkilˆll‰, et pysty en‰‰ n‰kem‰‰n k‰ytt‰ji‰. \n\n T‰m‰ toimintoa ei voi peruuttaa!
-info synchronizing no open	L‰hett‰m‰ttˆmi‰ viestej‰ synkronoidaan. Viestej‰ ei voida n‰ytt‰‰ t‰n‰ aikana.
-info task altered	<p align="center">Teht‰v‰ muuttunut<br/>P‰ivityst‰ ei ole tehty.<br/>Klikkaa avataksesi raportin</p>
-info task not available	<P ALIGN="center">T‰m‰ raportti ei ole k‰ytett‰viss‰</P>
-info task offline	<P ALIGN="center">T‰m‰ raportti ei ole k‰ytett‰viss‰ offline-tilassa</P>
-info task sent update checklist	Teht‰v‰ on l‰hetetty palvelimelle. P‰ivit‰ tarkistuslista avaaksesi syntyneen raportin. 
-info too many tasks	T‰ll‰ alueella: {0} teht‰vi‰
+info site manager change	Jos rakennusp√§√§llikk√∂n√§ korvaat itsesi toisella henkil√∂ll√§, et pysty en√§√§ n√§kem√§√§n k√§ytt√§ji√§. \n\n T√§m√§ toimintoa ei voi peruuttaa!
+info synchronizing no open	L√§hett√§m√§tt√∂mi√§ viestej√§ synkronoidaan. Viestej√§ ei voida n√§ytt√§√§ t√§n√§ aikana.
+info task altered	<p align="center">Teht√§v√§ muuttunut<br/>P√§ivityst√§ ei ole tehty.<br/>Klikkaa avataksesi raportin</p>
+info task not available	<P ALIGN="center">T√§m√§ raportti ei ole k√§ytett√§viss√§</P>
+info task offline	<P ALIGN="center">T√§m√§ raportti ei ole k√§ytett√§viss√§ offline-tilassa</P>
+info task sent update checklist	Teht√§v√§ on l√§hetetty palvelimelle. P√§ivit√§ tarkistuslista avaaksesi syntyneen raportin. 
+info too many tasks	T√§ll√§ alueella: {0} teht√§vi√§
 info unhandled error	Odottamaton virhe
-info user added mail sent	K‰ytt‰j‰ on nyt luotu.Olemme l‰hett‰neet kutsun s‰hkˆpostitse. \n \n K‰ytt‰j‰ aktivoituu kun s‰hkˆpostiosoite on vahvistettu kutsussa olevan s‰hkˆpostilinkin kautta..
-info user invitation accepted	K‰ytt‰j‰ luotu ja kutsu hyv‰ksytty
-info user not found create?	K‰ytt‰j‰‰ ei lˆytynyt. Haluatko luoda t‰m‰n k‰ytt‰j‰n?
-info wait synchronizing tasks	Teht‰v‰‰ ei voi avata, kun L‰htev‰t-kansiota synkronoidaan. Yrit‰ uudelleen hetken kuluttua.
-info wizard new user	Henkilˆ‰ ei ole liitetty teid‰n DaluxQA projektiin. Kutsu l‰hetet‰‰n, kun painat Luo.
-Insert	Lis‰‰
-Insert comment	Lis‰‰ kommentti
-Insert text	Lis‰‰ teksti‰
+info user added mail sent	K√§ytt√§j√§ on nyt luotu.Olemme l√§hett√§neet kutsun s√§hk√∂postitse. \n \n K√§ytt√§j√§ aktivoituu kun s√§hk√∂postiosoite on vahvistettu kutsussa olevan s√§hk√∂postilinkin kautta..
+info user invitation accepted	K√§ytt√§j√§ luotu ja kutsu hyv√§ksytty
+info user not found create?	K√§ytt√§j√§√§ ei l√∂ytynyt. Haluatko luoda t√§m√§n k√§ytt√§j√§n?
+info wait synchronizing tasks	Teht√§v√§√§ ei voi avata, kun L√§htev√§t-kansiota synkronoidaan. Yrit√§ uudelleen hetken kuluttua.
+info wizard new user	Henkil√∂√§ ei ole liitetty teid√§n DaluxQA projektiin. Kutsu l√§hetet√§√§n, kun painat Luo.
+Insert	Lis√§√§
+Insert comment	Lis√§√§ kommentti
+Insert text	Lis√§√§ teksti√§
 Inspection	Valvonta
 Inspection note	Valvontamuistiinpano
-Instant mails	S‰hkˆposti jokaiselle uudelle teht‰v‰lle
+Instant mails	S√§hk√∂posti jokaiselle uudelle teht√§v√§lle
 Instructions	Ohjeet
 Interval	Intervalli
 Invalid password	Virheellinen salasana
 invalid_flow	Virheellinen toiminta
-invalid_flow_text	K‰ytt‰j‰n toiminta on virheellinen (onko teht‰v‰‰ muutettu?)
-invalid_user	Virheellinen k‰ytt‰j‰
-invalid_user_text	K‰ytt‰j‰tiedot tai k‰yttˆoikeudet ovat muuttuneet.
+invalid_flow_text	K√§ytt√§j√§n toiminta on virheellinen (onko teht√§v√§√§ muutettu?)
+invalid_user	Virheellinen k√§ytt√§j√§
+invalid_user_text	K√§ytt√§j√§tiedot tai k√§ytt√∂oikeudet ovat muuttuneet.
 Invitation	Kutsu
-Invitation accepted (date)	Kutsu hyv‰ksytty
-Invitation sent (date)	Kutsu l‰hetetty
+Invitation accepted (date)	Kutsu hyv√§ksytty
+Invitation sent (date)	Kutsu l√§hetetty
 Invitation to x from y	Kutsu {0} :lle {1} :lta
 Invitations	Kutsut
-Invite user	Kutsu k‰ytt‰j‰
-Invoice e-mail	Laskutuss‰hkˆposti
+Invite user	Kutsu k√§ytt√§j√§
+Invoice e-mail	Laskutuss√§hk√∂posti
 Invoice information	Laskutustiedot
 Invoice note	Lasku
-Is empty	On tyhj‰
-Is not empty	Ei ole tyhj‰
-is_not_available	ei ole k‰ytett‰viss‰
+Is empty	On tyhj√§
+Is not empty	Ei ole tyhj√§
+is_not_available	ei ole k√§ytett√§viss√§
 IT Administrators	hallinto
 Landscape	makaava
 language	fi
@@ -647,13 +647,13 @@ Last edited	Viimeksi muokattu
 Last modified	Viimeksi muokattu
 Last modified by	Viimeksi muokattu
 Last name	Sukunimi
-Last updated	Viimeksi p‰ivitetty
-Last updated by	Viimeksi p‰ivitetty
+Last updated	Viimeksi p√§ivitetty
+Last updated by	Viimeksi p√§ivitetty
 Last uploaded by	Viimeksi ladattu
 last_name	Sukunimi
-Less than	V‰hemm‰n kuin
-Less than equals	V‰hemm‰n kuin on yhteens‰
-Less than one minute remaining	Alle minuutti j‰ljell‰
+Less than	V√§hemm√§n kuin
+Less than equals	V√§hemm√§n kuin on yhteens√§
+Less than one minute remaining	Alle minuutti j√§ljell√§
 Let us know	Kerro meille
 lets_know	Kerro meille
 Level	Kerros
@@ -663,34 +663,34 @@ loading	Lataa
 Loading (from disk)	Lataa
 Loading buildings	Lataa rakennuksia
 Loading data	Lataa tietoja
-Loading drafts...	Lataa luonnoksiaÖ
+Loading drafts...	Lataa luonnoksia¬Ö
 Loading list data	Lataa listatietoja
-Loading list data...	Lataa listatietojaÖ
+Loading list data...	Lataa listatietoja¬Ö
 located on plan	Sijainti suunnitelmassa
-located on plan and view	Sijainti suunnitelmassa ja n‰kym‰ss‰
+located on plan and view	Sijainti suunnitelmassa ja n√§kym√§ss√§
 location	Sijainti
 Location	Sijainti
 Location changed	Sijaintia muutettu
 location:	Sijainti:
 Location: {0}	Sijainti: {0}
-Log in	Kirjaudu sis‰‰n
+Log in	Kirjaudu sis√§√§n
 Log out	Kirjaudu ulos
-log_in	Kirjaudu sis‰‰n
+log_in	Kirjaudu sis√§√§n
 log_out	Kirjaudu ulos
-Logged in as	Kirjautunut sis‰‰n
-logged_in_as	Kirjautunut sis‰‰n
+Logged in as	Kirjautunut sis√§√§n
+logged_in_as	Kirjautunut sis√§√§n
 logged_out	Kirjautunut ulos
-Login refused text	K‰ytt‰j‰ / salasana ei lˆytynyt.
-Login refused title	Virheellinen k‰ytt‰j‰
-Login revoked text	K‰ytt‰j‰tiedot tai k‰yttˆoikeudet ovat muuttuneet.
-Login revoked title	Virheellinen k‰ytt‰j‰
+Login refused text	K√§ytt√§j√§ / salasana ei l√∂ytynyt.
+Login refused title	Virheellinen k√§ytt√§j√§
+Login revoked text	K√§ytt√§j√§tiedot tai k√§ytt√∂oikeudet ovat muuttuneet.
+Login revoked title	Virheellinen k√§ytt√§j√§
 logo	Logo
 Logo	Logo
 Project photo	Project photo
-logo_editor_text	T‰t‰ logoa k‰ytet‰‰n tulostetuiissa raporteissa
-Long	Pitk‰
+logo_editor_text	T√§t√§ logoa k√§ytet√§√§n tulostetuiissa raporteissa
+Long	Pitk√§
 low	Matala
-manage_users	Hallitse k‰ytt‰ji‰
+manage_users	Hallitse k√§ytt√§ji√§
 Map	Kartta
 Markers	Merkit
 Memo no.	Muistio nr.
@@ -706,25 +706,25 @@ Month2	helmikuu
 Month3	maaliskuu
 Month4	huhtikuu
 Month5	toukokuu
-Month6	kes‰kuu
-Month7	hein‰kuu
+Month6	kes√§kuu
+Month7	hein√§kuu
 Month8	elokuu
 Month9	syyskuu
-Move down	Siirr‰ alemmas
-Move to drafts	Siirr‰ luonnoksiin
-Move up	Siirr‰ ylˆs
+Move down	Siirr√§ alemmas
+Move to drafts	Siirr√§ luonnoksiin
+Move up	Siirr√§ yl√∂s
 Multiple	Useita
 Multiple filters	Useita suodattimia
-Multiple responsible	Useita vastuuhenkilˆit‰
-must accept cookies	Sinun sallittava ev‰steiden k‰yttˆ k‰ytt‰‰ksesi DaluxQA:ta 
-must accept terms	Sinun hyv‰ksytt‰v‰ k‰yttˆehdot k‰ytt‰‰ksesi DaluxQA:ta 
+Multiple responsible	Useita vastuuhenkil√∂it√§
+must accept cookies	Sinun sallittava ev√§steiden k√§ytt√∂ k√§ytt√§√§ksesi DaluxQA:ta 
+must accept terms	Sinun hyv√§ksytt√§v√§ k√§ytt√∂ehdot k√§ytt√§√§ksesi DaluxQA:ta 
 name	Nimi
 Name	Nimi
-Network failure. Try again	Verkkovirhe. Yrit‰ uudelleen
+Network failure. Try again	Verkkovirhe. Yrit√§ uudelleen
 New	Uusi
 new	Uusi
 New (m)	Uutta
-New assignee	Uusi vastuuhenkilˆ
+New assignee	Uusi vastuuhenkil√∂
 New building	Uusi rakennus
 New building model file	Uusi rakennusmalli tiedosto
 New checklist	Uusi tarkistuslista
@@ -733,74 +733,74 @@ New construction	Uusi rakentaminen
 New construction	Uusi urakka
 New department	Uusi osasto
 New discipline	Uusi valvonta-alue
-New fictive user	Uusi fiktiviinen k‰ytt‰j‰
+New fictive user	Uusi fiktiviinen k√§ytt√§j√§
 New floor	Uusi kerros
 New inspection	Uusi valvontamuistio
 New project	Uusi projekti
-New registration	Uusi rekisterˆinti
+New registration	Uusi rekister√∂inti
 New site	Uusi sivusto
 New supervisor area	Uusi valvonta-alue
-new task	Uusi teht‰v‰
-New tasks	Uusia teht‰vi‰
-New user	Uusi k‰ytt‰j‰
-New work description	Uusi tyˆnkuva
+new task	Uusi teht√§v√§
+New tasks	Uusia teht√§vi√§
+New user	Uusi k√§ytt√§j√§
+New work description	Uusi ty√∂nkuva
 new_building	Uusi rakennus
 new_demo_site	Uusi demo sivu
 new_demo_site_details	Uusi demo sivu\n\n  Ainoastaan pienet rakennukset sallitaan.
 new_site_details	Uusi sivu rajattomalla koolla.
 new_status	Uusi tila
-new_task_list	Uusi teht‰v‰lista
+new_task_list	Uusi teht√§v√§lista
 new_value	Uusi arvo
 Next	Seuraava
 No	Ei
 No available sites	Ei hankkeita
-No building and floors available for this site. GIS can not be placed	Rakennuksia ja kerroksia ei saatavana  t‰lle sivulle. GIS:ia ei voida sijoittaa
-No building and floors available for this site. GIS can not be placed	Rakennuksia ja kerroksia ei saatavana t‰lle sivulle. GIS:ia ei voida sijoittaa
+No building and floors available for this site. GIS can not be placed	Rakennuksia ja kerroksia ei saatavana  t√§lle sivulle. GIS:ia ei voida sijoittaa
+No building and floors available for this site. GIS can not be placed	Rakennuksia ja kerroksia ei saatavana t√§lle sivulle. GIS:ia ei voida sijoittaa
 No buildings	Inga byggander
 No checklists	Inga checklistor
-No connection	Ei yhteytt‰Ö
+No connection	Ei yhteytt√§¬Ö
 No drafts	Ei luonnokset
 No drawing material available.	Ei piirrustusmateriaalia saatavilla
 No drawing selected	Ei valittuja piirrustuksia
 No drawings	Ei piirrustuksia
-No permission text	Pyydetty‰ toimintoa ei voi suorittaa
+No permission text	Pyydetty√§ toimintoa ei voi suorittaa
 No permission title	Toiminto ei sallittu
 No picture	Ei kuvaa
-No registrations	Ei rekisterˆintej‰
+No registrations	Ei rekister√∂intej√§
 No results	Ei tuloksia
 No room	(ei tilaa)
 No selection	Ei valintaa
 no selection	Ei valintaa
 No sorting	Ei lajittelua
 No sorting	Ei lajittelua
-No tasks	Ei teht‰vi‰
+No tasks	Ei teht√§vi√§
 No title	Ei otsikkoa
 No.	No.
 no_building	(ei rakennusta)
-no_connection	Ei yhteytt‰Ö
+no_connection	Ei yhteytt√§¬Ö
 no_floor	(ei kerrosta)
 no_floors	(ei kerroksia)
 no_room	(ei tilaa)
 no_selection	Ei valintaa
 no_title	Ei otsikkoa
-none	Ei mit‰‰n
-None	Ei mit‰‰n
-None (filter)	Ei mit‰‰n
+none	Ei mit√§√§n
+None	Ei mit√§√§n
+None (filter)	Ei mit√§√§n
 normal	Normaali
 Not allowed	Ei sallittu
 Not created	Ei luotu
 Not deleted	Ei poistettu
 Not equal	Ei vastaa
-Not logged in	Ei kirjautunut sis‰‰n
+Not logged in	Ei kirjautunut sis√§√§n
 Not selected	Ei valittu
-Not sent (singular)	Ei l‰hetetty
-Not set	Ei m‰‰ritetty
-Not signed up	Ei rekisterˆitynyt
+Not sent (singular)	Ei l√§hetetty
+Not set	Ei m√§√§ritetty
+Not signed up	Ei rekister√∂itynyt
 Not synchronized	Ei synkronoitu
-not_found	Ei lˆytynyt
-not_set	(Ei m‰‰ritetty)
-Note field on registrations	Merkint‰kentt‰ rekisterˆinneille
-Notes	Merkint‰
+not_found	Ei l√∂ytynyt
+not_set	(Ei m√§√§ritetty)
+Note field on registrations	Merkint√§kentt√§ rekister√∂inneille
+Notes	Merkint√§
 notification	Ilmoitus
 Notification	Ilmoitus
 number	Numero
@@ -815,13 +815,13 @@ Observers:	Tarkkailijat:
 of	of
 Offline	Offline
 Offline	Offline
-offline_finding_location	Offline <br/> K‰ytt‰‰ l‰hint‰ mahdollista sijaintia
-offline_minimodel	Offline<br/> Internet-yhteytt‰ ei ole ja mini-malli ei ole k‰ytett‰viss‰ offline-tilassa.
-offline_minimodel_frame	Offline<br/> Internet-yhteytt‰ ei ole ja nykyinen kuvakulma ei ole k‰ytett‰viss‰ offline-tilassa.
-offline_mode_description	<b>Piirrustukset</b> ja teht‰v‰t kansioissa <b>Saapuneet</b>, <b>Hyl‰tyt</b> ja <b>Valmiiksi raportoidut</b> ovat ladatut offline-k‰yttˆ‰ varten.
-offline_mode_warning	Huomaa ett‰ suuria m‰‰ri‰ tietoja ladataan, ja on suositeltavaa k‰ytt‰‰ Wi-Fi yhteytt‰ tiedostojen lataukseen.
-offline_new_visit_2d	Offline<br/> Internet-yhteytt‰ ei ole ja nykyinen pohjapiirros ei ole k‰ytett‰viss‰ offline-tilassa.
-offline_new_visit_3d	Offline<br/> Internet-yhteytt‰ ei ole ja kerroksen sijainnit eiv‰t ole k‰ytett‰viss‰ offline-tilassa.
+offline_finding_location	Offline <br/> K√§ytt√§√§ l√§hint√§ mahdollista sijaintia
+offline_minimodel	Offline<br/> Internet-yhteytt√§ ei ole ja mini-malli ei ole k√§ytett√§viss√§ offline-tilassa.
+offline_minimodel_frame	Offline<br/> Internet-yhteytt√§ ei ole ja nykyinen kuvakulma ei ole k√§ytett√§viss√§ offline-tilassa.
+offline_mode_description	<b>Piirrustukset</b> ja teht√§v√§t kansioissa <b>Saapuneet</b>, <b>Hyl√§tyt</b> ja <b>Valmiiksi raportoidut</b> ovat ladatut offline-k√§ytt√∂√§ varten.
+offline_mode_warning	Huomaa ett√§ suuria m√§√§ri√§ tietoja ladataan, ja on suositeltavaa k√§ytt√§√§ Wi-Fi yhteytt√§ tiedostojen lataukseen.
+offline_new_visit_2d	Offline<br/> Internet-yhteytt√§ ei ole ja nykyinen pohjapiirros ei ole k√§ytett√§viss√§ offline-tilassa.
+offline_new_visit_3d	Offline<br/> Internet-yhteytt√§ ei ole ja kerroksen sijainnit eiv√§t ole k√§ytett√§viss√§ offline-tilassa.
 ok	OK
 Ok	OK
 OK	OK
@@ -835,17 +835,17 @@ Open dRofus report	Avaa dRofus raportti
 Open object properties	Avaa kohteen ominaisuudet
 Open project	Avaa projekti
 Open site	Avaa projekti
-Order	J‰rjestys
+Order	J√§rjestys
 Organization	Organisaatio
 Orientation (print)	Suunta
-Origin	Alkuper‰
+Origin	Alkuper√§
 Other	Muu
-other_users	Muut k‰ytt‰j‰t
+other_users	Muut k√§ytt√§j√§t
 Others	Others
-outbox	Ei l‰hetetty
-Outbox	Ei l‰hetetty
+outbox	Ei l√§hetetty
+Outbox	Ei l√§hetetty
 Outbox failed	Ei synkronoitu
-Outbox images	L‰hett‰m‰ttˆm‰t kuvat
+Outbox images	L√§hett√§m√§tt√∂m√§t kuvat
 Outbox images failed	Ei synkronoidut kuvat
 outbox_failed	Ei synkronoitu
 Overall assessment	Kommentti
@@ -854,17 +854,17 @@ Overview	Yleiskatsaus
 Overview drawing	Yleissuunnitelma
 overview on floorplans	Pohjapiirroksen yleiskatsaus
 overview, printouts	Yleiskatsaus, tulosteet
-Own	Omat k‰ynniss‰ olevat
+Own	Omat k√§ynniss√§ olevat
 Own roles	Omat
 Page	Sivu
-parent	P‰‰-
-Passive user	Passiivinen k‰ytt‰j‰
+parent	P√§√§-
+Passive user	Passiivinen k√§ytt√§j√§
 password	Salasana
 Password	Salasana
 Password again	Salasana uudelleen
-Permanent task deletion	Kaikki teht‰v‰t poistetaan pysyv‰sti eik‰ sit‰ voida palauttaa
+Permanent task deletion	Kaikki teht√§v√§t poistetaan pysyv√§sti eik√§ sit√§ voida palauttaa
 Permissions	Oikeudet
-Persons	Henkilˆt
+Persons	Henkil√∂t
 Phone	Puhelin
 Phone (short)	Puh.
 photo	Kuva
@@ -881,14 +881,14 @@ Pie	Kakku
 Place action	Sijoita
 Placement	Sijoitus
 Placement description	Sijoituksen kuvaus
-Please wait...	OdotaÖ
+Please wait...	Odota¬Ö
 Portrait	Seisova
 Prefix	Etuliite
 prefix deficiency	?
 prefix inspection	?
-Prepare project for offline use	Valmistele projekti offline-k‰yttˆ‰ varten
+Prepare project for offline use	Valmistele projekti offline-k√§ytt√∂√§ varten
 Preparing file	Valmistelee tiedostoa
-Preparing project for offline use	Valmistelee projektia offline-k‰yttˆ‰ varten
+Preparing project for offline use	Valmistelee projektia offline-k√§ytt√∂√§ varten
 Prev. deadline	Aik. deadline
 Prev. subject	Aik. Aihe
 Preview	Esikatselu
@@ -907,7 +907,7 @@ Priority	Prioriteetti
 Priority changed	Prioriteetti muutettu
 project	Projekti
 Project	Projekti
-Project access restricted	Projektiin p‰‰sy rajattu mobiilik‰yttˆˆn.\n\nOta yhteytt‰ Daluxiin saadaksesi t‰yden k‰yttˆoikeuden (support@daluxqa.com).
+Project access restricted	Projektiin p√§√§sy rajattu mobiilik√§ytt√∂√∂n.\n\nOta yhteytt√§ Daluxiin saadaksesi t√§yden k√§ytt√∂oikeuden (support@daluxqa.com).
 Project configuration	Hankkeen kokoonpano
 Project expired	Projekti vanhentunut
 Project info	Projektitiedot
@@ -916,7 +916,7 @@ Project name	Projektinimi
 Project no.	Projekti no.
 Project organisation	Rakennusjohto
 Project participant	Projektin osallistuja
-Project prepared for offline use	Projekti on valmis offline -k‰yttˆˆn
+Project prepared for offline use	Projekti on valmis offline -k√§ytt√∂√∂n
 Projects	Projektit
 Properties	Ominaisuudet
 properties_changed	Ominaisuudet muutettu
@@ -925,7 +925,7 @@ psc.	kpl.
 Publish	Julkaise
 Published buildings	Julkaistut rakennukset
 Punch Lists	Dashboard
-q user role	Millainen rooli on henkilˆll‰ jonka haluat luoda?
+q user role	Millainen rooli on henkil√∂ll√§ jonka haluat luoda?
 QA	QA
 Quality Assurance	Laatuvakuutus
 Quick subjects	Nopeat aiheet
@@ -933,59 +933,59 @@ Quick titles	Nopeat otsikot
 R	R
 Reason	Syy
 Receipt for execution	Kuitti suorituksesta
-Receives tasks	Vastaanottaa teht‰vi‰
+Receives tasks	Vastaanottaa teht√§vi√§
 Recieves tasks	Vastuussa oikaisusta
 Recorded	Luotu
 Recorded by	Luotu
 Red	Punainen
-Refresh	P‰ivit‰
+Refresh	P√§ivit√§
 REG	REG
-Registration	Rekisterˆinti
-Registrations	Rekisterˆinnit
-Registrations (filename)	Rekisterˆinnit
-Reject	Hylk‰‰
-Rejected	Hyl‰tty
-Rejected (folder)	Hyl‰tty
-Rejected by	Hyl‰tty
-Related contract	Liittyv‰t sopimukset
+Registration	Rekister√∂inti
+Registrations	Rekister√∂innit
+Registrations (filename)	Rekister√∂innit
+Reject	Hylk√§√§
+Rejected	Hyl√§tty
+Rejected (folder)	Hyl√§tty
+Rejected by	Hyl√§tty
+Related contract	Liittyv√§t sopimukset
 Relation	Suhde
-Remaining time	J‰ljell‰ oleva aika
+Remaining time	J√§ljell√§ oleva aika
 Remember me	Muista minut
-Remind unsubscribed	L‰het‰ kutsut
+Remind unsubscribed	L√§het√§ kutsut
 remove	Poista
 Remove	Poista
 Remove	Poista
-Remove person	Poista henkilˆ
-Remove work description	Poista tyˆnkuvaus
+Remove person	Poista henkil√∂
+Remove work description	Poista ty√∂nkuvaus
 removed	Poistettu
 Removed	Poistettu
-Rename	Nime‰ uudelleen
+Rename	Nime√§ uudelleen
 Rename building	Nimea rakennus uudelleen
-rename...	Nime‰ uudelleen
-rename_task_list	Nime‰ uudelleen teht‰v‰lista
+rename...	Nime√§ uudelleen
+rename_task_list	Nime√§ uudelleen teht√§v√§lista
 Report id	Report id
 Report settings	Raportin asetukset
 Reports	Raportit
-Required fields	Pakolliset kent‰t
-Reset view	Tyhjenn‰ sarakkeet
+Required fields	Pakolliset kent√§t
+Reset view	Tyhjenn√§ sarakkeet
 Resp. company	Vast. yritys
-Resp. email	Vast. s‰hkˆposti
-Responded date	Vastattu p‰iv‰m‰‰r‰
+Resp. email	Vast. s√§hk√∂posti
+Responded date	Vastattu p√§iv√§m√§√§r√§
 Responsible	Vastaava
-retry	Yrit‰ uudelleen
-Retry	Yrit‰ uudelleen
+retry	Yrit√§ uudelleen
+Retry	Yrit√§ uudelleen
 Revision	Tarkistus
 role	Rooli
 Role	Rooli
 Role has subordinates. Cant delete	Roolilla on alaisia. Ei voida poistaa roolia.
 Room	Huone
 Room ID field	Room ID field
-room updated?	Huonetta ei lˆytynyt. Sijainti on p‰ivitett‰v‰.<br/><br/> Onko piirrustusmateriaalit p‰ivitetty?
+room updated?	Huonetta ei l√∂ytynyt. Sijainti on p√§ivitett√§v√§.<br/><br/> Onko piirrustusmateriaalit p√§ivitetty?
 rooms	Huoneet
-rotate	Kierr‰
-rotate left	Kierr‰ vasempaan
-rotate picture save	Voidaan ainoastaan kiert‰‰ kun red-lining on tallennettu. \n\nTallenna kuva ja kierr‰.
-rotate right	Kierr‰ oikeaan
+rotate	Kierr√§
+rotate left	Kierr√§ vasempaan
+rotate picture save	Voidaan ainoastaan kiert√§√§ kun red-lining on tallennettu. \n\nTallenna kuva ja kierr√§.
+rotate right	Kierr√§ oikeaan
 S:Substitute, O: Observer	S: Sijainen, T:Tarkkailija
 Safety report	Turvallisuusselvitys
 Save	Tallenna
@@ -995,7 +995,7 @@ Save as Draft	Tallenna luonnoksena
 Save changes	Tallenna muutokset
 Save checklist	Tallenna tarkastuslista
 Save draft	Tallenna luonnos
-Save view	Tallenna n‰kym‰
+Save view	Tallenna n√§kym√§
 Saved	Tallennettu
 search	Hae
 Search	Hae
@@ -1008,40 +1008,40 @@ Select	Valitse
 select	Valitse
 Select all	Valitse kaikki
 Select all	Valitse kaikki
-Select assignee	Valitse vastuuhenkilˆ
+Select assignee	Valitse vastuuhenkil√∂
 Select construction	Valitse urakka
-select construction text	Valitse urakka jonka alle henkilˆ tallennetaan
+select construction text	Valitse urakka jonka alle henkil√∂ tallennetaan
 Select drawing	Valitse pohjapiirros
 Select only one for deletion	Voidaan ainoastaan poistaa yksi kerrallaan
 Select supervisor	Valitse valvonta-alue
-select supervisor text	Valitse valvonta-alue jonka alle henkilˆ lis‰t‰‰n
-Select user	Valitse k‰ytt‰j‰
-Select user company:	Valitse tai t‰smenn‰ k‰ytt‰j‰n yritys:
-Select users	Valitse k‰ytt‰j‰t
-Select work descriptions	Valitse tyˆnkuvaus
+select supervisor text	Valitse valvonta-alue jonka alle henkil√∂ lis√§t√§√§n
+Select user	Valitse k√§ytt√§j√§
+Select user company:	Valitse tai t√§smenn√§ k√§ytt√§j√§n yritys:
+Select users	Valitse k√§ytt√§j√§t
+Select work descriptions	Valitse ty√∂nkuvaus
 select_a_status	Valitse ensin tila
-select_an_assignee	Valitse vastuuhenkilˆ
+select_an_assignee	Valitse vastuuhenkil√∂
 Selected	Valittu
 selected area	valittu alue
 Selected first	Valittu ensin
 Selected last	Valittu viimeiseksi
-selected tasks	valitut teht‰v‰t
+selected tasks	valitut teht√§v√§t
 SelectFilter	Valitse suodatinparametri
 Selection only	Vain valitut
 selection only	Vain valitut
-send	L‰het‰
-Send	L‰het‰
-Send e-mail	L‰het‰ s‰hkˆpostia
-Send invitations	L‰het‰ kutsut
-Send password	L‰het‰ salasana
+send	L√§het√§
+Send	L√§het√§
+Send e-mail	L√§het√§ s√§hk√∂postia
+Send invitations	L√§het√§ kutsut
+Send password	L√§het√§ salasana
 Send to back	Vie taakse
-Sent (email)	L‰hetetty
+Sent (email)	L√§hetetty
 Server	Server
 Server Error	Palvelinvirhe
 server_error	Palvelinvirhe
 server_error_text	Palvelimessa tapahtui virhe
 Set location	Aseta sijainti
-Set selected responsible	Aseta valittu vastuuhenkilˆksi
+Set selected responsible	Aseta valittu vastuuhenkil√∂ksi
 set_to	asettu
 settings	Asetus
 Settings	Asetus
@@ -1051,21 +1051,21 @@ Shared sites	Jaetut sivustot
 shared_sites	Jaetut sivustot
 Short	Lyhyt
 Show company	Yritys
-Show drawings	N‰yt‰ piirrustukset
-Show entire organization	N‰yt‰ koko organisaatio
-Show location	N‰yt‰ sijainti
-Show work descriptions	N‰yt‰ tyˆnkuvaus
+Show drawings	N√§yt√§ piirrustukset
+Show entire organization	N√§yt√§ koko organisaatio
+Show location	N√§yt√§ sijainti
+Show work descriptions	N√§yt√§ ty√∂nkuvaus
 Signature	Allekirjoitus
-Signing field	Raportointikentt‰
+Signing field	Raportointikentt√§
 Signing field	Attachments
 Attachments	Attachments
 Simple	Yksinkertainen
-Single report	Yksitt‰inen raportti
-Single reports	Yksitt‰iset raportit
-Single users	Yksitt‰inen k‰ytt‰j‰
+Single report	Yksitt√§inen raportti
+Single reports	Yksitt√§iset raportit
+Single users	Yksitt√§inen k√§ytt√§j√§
 Site data	Sivuston tiedot
-Site is already prepared for offline use	Projekti on jo valmisteltu offline-k‰yttˆ‰ varten
-Site management	Tyˆmaajohto
+Site is already prepared for offline use	Projekti on jo valmisteltu offline-k√§ytt√∂√§ varten
+Site management	Ty√∂maajohto
 Site manager assistant	Katso/Muokkaa
 Site name	Projektinimi
 Site number	Projekti no.
@@ -1075,23 +1075,23 @@ Sites	Projektit
 slow app	Ohjelman osiot voivat olla normaalia hitaammat
 SorteringAZ	Lajittelee A-Z
 SorteringZA	Lajittelee Z-A
-Specify name	M‰‰rit‰ nimi
-Specify number	M‰‰rit‰ numero
-Specify prefix	M‰‰rit‰ etuliite
-Specify subject	M‰‰rit‰ otsikko
-Specify user name	Anna k‰ytt‰j‰tunnus
+Specify name	M√§√§rit√§ nimi
+Specify number	M√§√§rit√§ numero
+Specify prefix	M√§√§rit√§ etuliite
+Specify subject	M√§√§rit√§ otsikko
+Specify user name	Anna k√§ytt√§j√§tunnus
 standard	Standardi
 Standard filter	vakiosuodatin
 StandardFilter	Standartisuodatus
-Start drawing	Aloita piirt‰minen
+Start drawing	Aloita piirt√§minen
 status	Tila
 Status	Tila
 Status report	Tilaraportti
 Status report (filename)	Tilaraportti
 status_changed_from	Tila muutettu
-Stay here	Pysy t‰ss‰
-Stay here	Pysy t‰ss‰
-Stop drawing	Lopeta piirt‰minen
+Stay here	Pysy t√§ss√§
+Stay here	Pysy t√§ss√§
+Stop drawing	Lopeta piirt√§minen
 Subcontractor	Aliurakoitsija
 Subject	Aihe
 Subject already exists	Teksti on jo olemassa
@@ -1104,42 +1104,42 @@ Summary	Yhteenveto
 Summary	Yhteenveto
 Superior role:	Ylempi rooli:
 Supervisor	Esimies
-Supervisor role with tasks cant be removed	Valvontarooli teht‰vill‰ voidaan poistaa
+Supervisor role with tasks cant be removed	Valvontarooli teht√§vill√§ voidaan poistaa
 support	Apua
 Supported files	Tuetut tiedostot
 Synchronize now	Synkronoi nyt
 Synchronized	Synkronoitu
 synchronizing	Synkronoi
 Synchronizing	Synkronoi
-Tabel with tasks PDF	Teht‰v‰taulukko (PDF)
+Tabel with tasks PDF	Teht√§v√§taulukko (PDF)
 Table (Excel)	Taulukko (Excel)
 Table (PDF)	Taulukko (PDF
-Table with tasks excel	Teht‰v‰taulukko (Excel)
-Take me to Login	Mene sis‰‰nkirjautumiseen
+Table with tasks excel	Teht√§v√§taulukko (Excel)
+Take me to Login	Mene sis√§√§nkirjautumiseen
 Task	Puute
 Task count	Number of tasks of this type
-Task flow	Teht‰v‰flow
-Task folders	Teht‰v‰kansio
-Task reports (PDF)	Teht‰v‰raportti (PDF)
-Task template	Teht‰v‰malli
-task_list	Teht‰v‰lista
-task_list	Teht‰v‰lista
-task_list_setup	Teht‰v‰listan asetukset
-task_lists	Teht‰v‰listat
-tasks	Teht‰v‰t
-Tasks	Teht‰v‰t
-Tasks and issues	Teht‰v‰t
-Tasks associated with role. Cant delete	Teht‰v‰t liittyv‰t rooliin. Ei voida poistaa roolia.
-Tasks on plan drawings	Teht‰v‰t pohjapiirroksessa
-tasks_open	Avoimet teht‰v‰t
-tasks_total	Teht‰vien kokonaism‰‰r‰
+Task flow	Teht√§v√§flow
+Task folders	Teht√§v√§kansio
+Task reports (PDF)	Teht√§v√§raportti (PDF)
+Task template	Teht√§v√§malli
+task_list	Teht√§v√§lista
+task_list	Teht√§v√§lista
+task_list_setup	Teht√§v√§listan asetukset
+task_lists	Teht√§v√§listat
+tasks	Teht√§v√§t
+Tasks	Teht√§v√§t
+Tasks and issues	Teht√§v√§t
+Tasks associated with role. Cant delete	Teht√§v√§t liittyv√§t rooliin. Ei voida poistaa roolia.
+Tasks on plan drawings	Teht√§v√§t pohjapiirroksessa
+tasks_open	Avoimet teht√§v√§t
+tasks_total	Teht√§vien kokonaism√§√§r√§
 Templates	Mallit
 Text	Teksti
 text	Teksti
 The file is ready	Tiedosto on valmis
-The user will be removed	K‰ytt‰j‰ poistetaan
-The user will be removed from all aspects of the project.	K‰ytt‰j‰ poistetaan kaikista projektin osista.
-There is an update to the application	Sovellukseen on saatavalla p‰ivitys
+The user will be removed	K√§ytt√§j√§ poistetaan
+The user will be removed from all aspects of the project.	K√§ytt√§j√§ poistetaan kaikista projektin osista.
+There is an update to the application	Sovellukseen on saatavalla p√§ivitys
 Time of invitation	Kutsun ajankohta
 title	Aihe
 Title	Aihe
@@ -1147,38 +1147,38 @@ Title (role)	Otsikko
 Title changed	Otsikko muutettu
 title_changed_from	Otsikko muutettu
 to	to
-to approve	hyv‰ksy‰
+to approve	hyv√§ksy√§
 to assign	antaa
 to report ready	raportoida valmis
 Try Demo Site	Kokeile demoa
 Type	Tyyppi
-Type password for user	Kirjoita salasana k‰ytt‰j‰lle
+Type password for user	Kirjoita salasana k√§ytt√§j√§lle
 Type prefix	Tyypin etuliite
-Types	Tyyppej‰
-unassigned	(ei m‰‰ritetty)
-Unassigned	(ei m‰‰ritetty)
+Types	Tyyppej√§
+unassigned	(ei m√§√§ritetty)
+Unassigned	(ei m√§√§ritetty)
 unchanged	Muuttumaton
 Unchanged	Muuttumaton
 unhandled_error	Tapahtui odottamaton virhe
 unhandled_error_title	Virhe
 Unpacking drawings	Purkaa piirrustuksia
 Unpublished buildings	Julkaisemattomat rakennukset
-unsent_message	{0} l‰hett‰m‰tˆn viesti
-unsent_messages	{0} l‰hett‰m‰ttˆmi‰ viesti‰
-Update	P‰ivit‰
-Update checklist	P‰ivit‰ teht‰v‰lista
-Update Dalux Field	P‰ivit‰ Dalux Field 
-Update now	P‰ivit‰ nyt
-Update user	P‰ivit‰ k‰ytt‰j‰
-update:	P‰ivit‰: {0}
-update_task	P‰ivit‰
-Updated	P‰ivitetty
-Updated {0}	P‰ivitetty {0}
-Updated by	P‰ivitetty
-updated_by	P‰ivitetty
-updated_date	P‰ivitetty {0}
-updating	P‰ivitt‰‰
-Updating	P‰ivitt‰‰
+unsent_message	{0} l√§hett√§m√§t√∂n viesti
+unsent_messages	{0} l√§hett√§m√§tt√∂mi√§ viesti√§
+Update	P√§ivit√§
+Update checklist	P√§ivit√§ teht√§v√§lista
+Update Dalux Field	P√§ivit√§ Dalux Field 
+Update now	P√§ivit√§ nyt
+Update user	P√§ivit√§ k√§ytt√§j√§
+update:	P√§ivit√§: {0}
+update_task	P√§ivit√§
+Updated	P√§ivitetty
+Updated {0}	P√§ivitetty {0}
+Updated by	P√§ivitetty
+updated_by	P√§ivitetty
+updated_date	P√§ivitetty {0}
+updating	P√§ivitt√§√§
+Updating	P√§ivitt√§√§
 Upload DWG	Lataa DWG
 Upload DWGs	Lataa DWGt
 Upload image	Lataa kuva
@@ -1186,95 +1186,95 @@ Upload PDF	Lataa PDF
 upload_company_logo	Lataa yrityksen logo
 Uploaded by	Ladattu
 url:support	http://www.daluxqa.com/support/
-Use	K‰yt‰
-Use automatic publishing	K‰yt‰ automaattista julkaisua
+Use	K√§yt√§
+Use automatic publishing	K√§yt√§ automaattista julkaisua
 Use automatic publishing text	Vaihda automaattiseen julkaisuun? \n\n Rakennukset ja piirrustukset julkaistaan automaattisesti kun ovat valmiit.
-Use building	K‰yt‰ rakennusta
-Use location	K‰yt‰ sijaintia
-Use manual publishing	K‰yt‰ manuaalista julkaisua
+Use building	K√§yt√§ rakennusta
+Use location	K√§yt√§ sijaintia
+Use manual publishing	K√§yt√§ manuaalista julkaisua
 Use manual publishing text	Vaihda manuaaliseen julkaisuun? \n\n Voit julkaista rakennukset ja piirrustukset manuaalisesti kun ovat valmiit.
-Use search field below	K‰yt‰ allaolevaa hakukentt‰‰
-user	K‰ytt‰j‰
-User	K‰ytt‰j‰
-User active	K‰ytt‰j‰ validoitu
-User company	K‰ytt‰j‰n yritys
-User email settings	S‰hkˆpostiasetukset
-User exists already	K‰ytt‰j‰ on jo olemassa
-User found	K‰ytt‰j‰ lˆytyi
-User has signed up	K‰ytt‰j‰ on rekisterˆitynyt
-User name	S‰hkˆposti
-User not found	K‰ytt‰j‰‰ ei lˆytynyt
-User not signed up	K‰ytt‰j‰ ei ole rekisterˆitynyt
-User not validated	K‰ytt‰j‰‰ ei validoitu
-User removed	K‰ytt‰j‰ poistettu
-User rights	K‰yttˆoikeudet
-user_defined_flow	K‰ytt‰j‰n m‰‰rittelem‰ flow
-Users	K‰ytt‰j‰t
-Users removed	K‰ytt‰j‰t poistettu
-users_that_can_be_managed	K‰ytt‰j‰t joita voidaan yll‰pit‰‰
-users_with access	K‰ytt‰j‰t jolla p‰‰sy sivustolle
+Use search field below	K√§yt√§ allaolevaa hakukentt√§√§
+user	K√§ytt√§j√§
+User	K√§ytt√§j√§
+User active	K√§ytt√§j√§ validoitu
+User company	K√§ytt√§j√§n yritys
+User email settings	S√§hk√∂postiasetukset
+User exists already	K√§ytt√§j√§ on jo olemassa
+User found	K√§ytt√§j√§ l√∂ytyi
+User has signed up	K√§ytt√§j√§ on rekister√∂itynyt
+User name	S√§hk√∂posti
+User not found	K√§ytt√§j√§√§ ei l√∂ytynyt
+User not signed up	K√§ytt√§j√§ ei ole rekister√∂itynyt
+User not validated	K√§ytt√§j√§√§ ei validoitu
+User removed	K√§ytt√§j√§ poistettu
+User rights	K√§ytt√∂oikeudet
+user_defined_flow	K√§ytt√§j√§n m√§√§rittelem√§ flow
+Users	K√§ytt√§j√§t
+Users removed	K√§ytt√§j√§t poistettu
+users_that_can_be_managed	K√§ytt√§j√§t joita voidaan yll√§pit√§√§
+users_with access	K√§ytt√§j√§t jolla p√§√§sy sivustolle
 Value	Arvo
 Values	Arvot
 VATIN	ALV nro
 View	Katso
-View	N‰kym‰
-View buildings on map	N‰yt‰ rakennukset kartalla
-View case	N‰yt‰
-View for	N‰yt‰
-View user	N‰kym‰
+View	N√§kym√§
+View buildings on map	N√§yt√§ rakennukset kartalla
+View case	N√§yt√§
+View for	N√§yt√§
+View user	N√§kym√§
 View/Edit	Katso/Muokkaa
 View/Edit (responsible)	Katso/Muokkaa (vastaava)
-Views	N‰yttˆj‰
-wait	OdotaÖ
+Views	N√§ytt√∂j√§
+wait	Odota¬Ö
 Wait	Odota
 Warning	Varoitus
-warning remove user	Oletko varma ett‰ haluat poistaa t‰m‰n k‰ytt‰j‰n?
+warning remove user	Oletko varma ett√§ haluat poistaa t√§m√§n k√§ytt√§j√§n?
 Warning!	Varoitus
-Web service rejected your request	Verkkopalvelu hylk‰si pyynnˆn
+Web service rejected your request	Verkkopalvelu hylk√§si pyynn√∂n
 Week	Viikko
 Weekly safety report	Viikkoraportti
 whatis: construction	Urakka on sopimus joka luodaan. Urakka voi ulottua useaan valvonta-alueeseen.
-whatis: discipline	Valvonta-aluetta kontrolloidaan. Esimerkkej‰ alueista 'putkityˆt', s‰hkˆtyˆt' 'asennukset'
-whois: building owner	K‰ytt‰j‰ voi n‰hd‰ kaikki teht‰v‰t mutta ei muokata niit‰
-whois: contractor	Henkilˆ joka on vastuussa rakennusjohdolle ett‰ teht‰v‰t toimitetaan ajoissa ja t‰ytt‰‰ ammattilaisten kanssa sovitut laatuvaatimukset 
-whois: fictive	K‰ytt‰j‰, joka ei ole viel‰ tunnettu, tai joka myˆhemmin kutsutaan osallistumaan projektiin
-whois: site manager	Tyˆmaajohtajalla on p‰ivitt‰inen vastuu tyˆkohteesta ja on vastuussa ett‰ urakat toimitetaan sovitussa aikataulussa ja t‰ytt‰‰ sovitut laatuvaatimukset.
-whois: site manager assistant	K‰ytt‰j‰ voi n‰hd‰ kaikki teht‰v‰t ja muokata niit‰
-whois: subcontractor	Henkilˆ joka on tehnyt sopimuksen tietyst‰ teht‰v‰st‰ urakkajohtajan kanssa
-whois: supervisor	Henkilˆ joka eri toimialojen sis‰ll‰ tarkastaa ett‰ rakennustyˆt ovat suoritettu oikein
-With date	P‰iv‰m‰‰r‰ll‰
-Without date	Ilman p‰iv‰m‰‰r‰‰
-Work description	Tyˆnkuvaus
-Work descriptions	Tyˆnkuvaukset
-Work.Desc	Tyˆnkuv.
-Work.Num	Tyˆn nro.
-Worker report	Tyˆntekij‰raportti
-workflow_definition	Tyˆflown m‰‰ritys
+whatis: discipline	Valvonta-aluetta kontrolloidaan. Esimerkkej√§ alueista 'putkity√∂t', s√§hk√∂ty√∂t' 'asennukset'
+whois: building owner	K√§ytt√§j√§ voi n√§hd√§ kaikki teht√§v√§t mutta ei muokata niit√§
+whois: contractor	Henkil√∂ joka on vastuussa rakennusjohdolle ett√§ teht√§v√§t toimitetaan ajoissa ja t√§ytt√§√§ ammattilaisten kanssa sovitut laatuvaatimukset 
+whois: fictive	K√§ytt√§j√§, joka ei ole viel√§ tunnettu, tai joka my√∂hemmin kutsutaan osallistumaan projektiin
+whois: site manager	Ty√∂maajohtajalla on p√§ivitt√§inen vastuu ty√∂kohteesta ja on vastuussa ett√§ urakat toimitetaan sovitussa aikataulussa ja t√§ytt√§√§ sovitut laatuvaatimukset.
+whois: site manager assistant	K√§ytt√§j√§ voi n√§hd√§ kaikki teht√§v√§t ja muokata niit√§
+whois: subcontractor	Henkil√∂ joka on tehnyt sopimuksen tietyst√§ teht√§v√§st√§ urakkajohtajan kanssa
+whois: supervisor	Henkil√∂ joka eri toimialojen sis√§ll√§ tarkastaa ett√§ rakennusty√∂t ovat suoritettu oikein
+With date	P√§iv√§m√§√§r√§ll√§
+Without date	Ilman p√§iv√§m√§√§r√§√§
+Work description	Ty√∂nkuvaus
+Work descriptions	Ty√∂nkuvaukset
+Work.Desc	Ty√∂nkuv.
+Work.Num	Ty√∂n nro.
+Worker report	Ty√∂ntekij√§raportti
+workflow_definition	Ty√∂flown m√§√§ritys
 Yellow	Keltainen
-Yes	Kyll‰
-You can not delete this control plan because there are tasks associated with it	Et voi poistaa t‰t‰ valvontasuunnitelmaa koska siihen liittyy teht‰vi‰
-You cannot delete this checklist template because there exists checklists of this type.	Et voi poistaa t‰t‰ tarkistulistamallia sill‰ on olemassa t‰m‰n tyypin tarkistuslistoja
-You have not been assigned to any projects yet.	Sinulle ei ole viel‰ m‰‰ritetty projekteja.
-You must accept this	K‰ytt‰‰ksesi Dalux Field:ta on sinun:
+Yes	Kyll√§
+You can not delete this control plan because there are tasks associated with it	Et voi poistaa t√§t√§ valvontasuunnitelmaa koska siihen liittyy teht√§vi√§
+You cannot delete this checklist template because there exists checklists of this type.	Et voi poistaa t√§t√§ tarkistulistamallia sill√§ on olemassa t√§m√§n tyypin tarkistuslistoja
+You have not been assigned to any projects yet.	Sinulle ei ole viel√§ m√§√§ritetty projekteja.
+You must accept this	K√§ytt√§√§ksesi Dalux Field:ta on sinun:
 You must be administrator to add buildings	Drawings are linked from another project. You do not have permission to alter the drawings.
 You must be administrator to change publishing settings	Drawings are linked from another project. You do not have permission to change publishing settings.
 You must be administrator to delete buildings	Drawings are linked from another project. You do not have permission to delete buildings.
 You must be administrator to edit buildings	Drawings are linked from another project. You do not have permission to edit buildings.
 You must be administrator to rename buildings	Drawings are linked from another project. You do not have permission to rename buildings.
-You must be online to log in	Sinun t‰ytyy olla online kirjautuaksesi sis‰‰n.
-you_are_logged_in	Olet nyt kirjautunut sis‰‰n
+You must be online to log in	Sinun t√§ytyy olla online kirjautuaksesi sis√§√§n.
+you_are_logged_in	Olet nyt kirjautunut sis√§√§n
 Your colleagues drafts	Kollegojen luonnokset
 Your column setup is being reset	Sarakeasetuksesi uudelleenasetetaan
 Your drafts	Luonnokset
 Your sites	Sivustosi
-your_current_role_alter_error	Nykyinen roolisi ei anna lupaa muuttaa teht‰vi‰ jolla on tilap‰ivitys
-your_current_role_create_error	Nykyinen roolisi ei anna lupaa luoda uusia teht‰vi‰
+your_current_role_alter_error	Nykyinen roolisi ei anna lupaa muuttaa teht√§vi√§ jolla on tilap√§ivitys
+your_current_role_create_error	Nykyinen roolisi ei anna lupaa luoda uusia teht√§vi√§
 your_sites	Sivustosi
 Zip code	Postinr
 zip_code	Postinr
-Zone	Vyˆhyke
-Zone name	Vyˆhykenimi
-Zones	Vyˆhykkeet
+Zone	Vy√∂hyke
+Zone name	Vy√∂hykenimi
+Zones	Vy√∂hykkeet
 Project does not have any checklists	Project does not have any checklists
 Search in e-mail addresses	Search in e-mail addresses
 Enterprise agreement	Enterprise agreement
@@ -1305,7 +1305,7 @@ Delete task	Delete task
 Description of control plan area	Description of control plan area
 Task type has been deleted	Task type has been deleted<br/><br/>Choose another task type.
 No responsible, draft not shared	No responsible (draft not shared)
-Deadline today	M‰‰r‰aika t‰n‰‰n
+Deadline today	M√§√§r√§aika t√§n√§√§n
 Continue editing	Continue editing
 Inspection plans unavailable. No task types.	Inspection plans are unavailable because no task types have been added.
 Tasks with inspection plans	Tasks with inspection plans
@@ -1317,7 +1317,7 @@ Cannot delete contract. Attached checklists or inspection plans	Cannot delete co
 Add attachment	Add attachment
 Send again	Send again
 Max 300 tasks in worker report	Max 300 tasks in worker reports
-Add company	lis‰t‰ yritys
+Add company	lis√§t√§ yritys
 Edit company	Muokkaa yritys
 Remove company	Poista Yritys
 Are you sure you want to remove the user {0}?	Are you sure you want to remove the user {0}?

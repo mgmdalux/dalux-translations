@@ -31,7 +31,7 @@ of	av
 (No title)	(Ingen tittel)
 (none)	(ingen)
 (Not set)	(Ikke angitt)
-(Photo)	Ta på nytt
+(Photo)	Ta pÃ¥ nytt
 (room ...)	(Rom ...)
 (unspecified)	(ikke angitt)
 {0} of {1}	{0} av {1}
@@ -41,30 +41,30 @@ of	av
 A client error occured	Det skjedde en feil i brukerflaten.\nDalux har blitt underrettet.
 A main responsbile cannot be removed	En hovedansvarlig kan ikke fjernes
 Accept	Aksepter
-Accept eula	Aksepter våre <a href='eula.htm' target='_blank'>betingelser</a>
-Account expired (admin)	<center><br/><br/>Dalux Field-prosjektet "{0}" er utløpt.<br/><br/>Kontakt Dalux for å få gjenaktivert prosjektet.<br/><br/>&nbsp;</center>
-Account expired (user)	<center><br/><br/>Dalux Field-prosjektet "{0}" er utløpt.<br/><br/>Kontakt IT-administrator for å få gjenaktivert prosjektet.<br/><br/>&nbsp;</center>
-accuracy	nøyaktighet
+Accept eula	Aksepter vÃ¥re <a href='eula.htm' target='_blank'>betingelser</a>
+Account expired (admin)	<center><br/><br/>Dalux Field-prosjektet "{0}" er utlÃ¸pt.<br/><br/>Kontakt Dalux for Ã¥ fÃ¥ gjenaktivert prosjektet.<br/><br/>&nbsp;</center>
+Account expired (user)	<center><br/><br/>Dalux Field-prosjektet "{0}" er utlÃ¸pt.<br/><br/>Kontakt IT-administrator for Ã¥ fÃ¥ gjenaktivert prosjektet.<br/><br/>&nbsp;</center>
+accuracy	nÃ¸yaktighet
 Active user	Aktiv bruker
-add	Tilføy
-Add	Tilføy
-Add building	Tilføy bygning
-Add criteria	Tilføy krav
-Add information	Tilføy informasjon
-Add new registration	Tilføy ny registrering
-Add new role	Tilføy ny rolle
-Add other user	Tilføy annen bruker
-Add other user...	Tilføy annen bruker...
-Add person	Tilføy person
-Add persons	Tilføy personer
-Add photo	Tilføy bilde
-Add project user	Tilføy prosjektbruker
-Add quick field	Tilføy hurtig-emne
-add subordinate warning	Du er i ferd med å tilføye en underordnet til:\n{0} ({1})\n\nØnsker du dette?
-add subordinate warning	Du er i ferd med å tilføye en rolle under {0} på entreprisen {1}.\n\nForsett?
-Add zone	Tilføy sone
-added	Tilføyd
-Added	Tilføyd
+add	TilfÃ¸y
+Add	TilfÃ¸y
+Add building	TilfÃ¸y bygning
+Add criteria	TilfÃ¸y krav
+Add information	TilfÃ¸y informasjon
+Add new registration	TilfÃ¸y ny registrering
+Add new role	TilfÃ¸y ny rolle
+Add other user	TilfÃ¸y annen bruker
+Add other user...	TilfÃ¸y annen bruker...
+Add person	TilfÃ¸y person
+Add persons	TilfÃ¸y personer
+Add photo	TilfÃ¸y bilde
+Add project user	TilfÃ¸y prosjektbruker
+Add quick field	TilfÃ¸y hurtig-emne
+add subordinate warning	Du er i ferd med Ã¥ tilfÃ¸ye en underordnet til:\n{0} ({1})\n\nÃ˜nsker du dette?
+add subordinate warning	Du er i ferd med Ã¥ tilfÃ¸ye en rolle under {0} pÃ¥ entreprisen {1}.\n\nForsett?
+Add zone	TilfÃ¸y sone
+added	TilfÃ¸yd
+Added	TilfÃ¸yd
 Address	Adresse
 Address 1	Adresse 1
 Address 2	Adresse 2
@@ -79,7 +79,7 @@ administrators	Administratorer
 Advanced	Avansert
 Advanced filter	Avansert
 After	Etter
-alert delete role	Er du sikker på at du vil slette denne rollen?\n\nOppgaver tildelt til {0} vil fortsatt være å finne {1} under "Igangværende"
+alert delete role	Er du sikker pÃ¥ at du vil slette denne rollen?\n\nOppgaver tildelt til {0} vil fortsatt vÃ¦re Ã¥ finne {1} under "IgangvÃ¦rende"
 all	Alle
 All	Alle
 All (folder)	Alle oppgaver
@@ -97,26 +97,26 @@ Allow create users	Kan opprette brukere
 already created	eksisterer allerede
 already exists	eksisterer allerede
 Altered	Endret
-Annotate	Marker på foto
+Annotate	Marker pÃ¥ foto
 Anonymous user	Anonym bruker
 Approve	Godkjenn, lukk
-Approve followup	Godkjenn, oppfølgning
+Approve followup	Godkjenn, oppfÃ¸lgning
 Approved	Godkjent, lukket
 Approved (date)	Godkjent
 Approved (folder)	Godkjente
 Approved by	Godkjent, lukket av
 Approved closed (folder)	Godkjente, lukkede
-Approved followup	Godkjent, oppfølgning
-Approved followup (folder)	Godkjente, oppfølgning
-Approved, followup by	Godkjent, oppfølgning av
-ApprovedFollowup (folder)	Godkjente, oppfølgning
+Approved followup	Godkjent, oppfÃ¸lgning
+Approved followup (folder)	Godkjente, oppfÃ¸lgning
+Approved, followup by	Godkjent, oppfÃ¸lgning av
+ApprovedFollowup (folder)	Godkjente, oppfÃ¸lgning
 Architecture (model)	Arkitekt
 Archive (folder)	Avsluttet
-Are you sure you want to delete building "{0}"?	Er du sikker på at du vil slette bygningen "{0}"?
-Are you sure you want to delete this checklist?	Er du sikker på at du vil slette denne sjekklisten?
-Are you sure you want to delete this control plan?	Er du sikker på at du vil slette denne kontrollplanen?
+Are you sure you want to delete building "{0}"?	Er du sikker pÃ¥ at du vil slette bygningen "{0}"?
+Are you sure you want to delete this checklist?	Er du sikker pÃ¥ at du vil slette denne sjekklisten?
+Are you sure you want to delete this control plan?	Er du sikker pÃ¥ at du vil slette denne kontrollplanen?
 area	Areal
-Area (discipline)	Område
+Area (discipline)	OmrÃ¥de
 AreaPlan	Brutto-/nettoplaner
 arrow	Pil
 Ascending A-Z	Stigende A-Z
@@ -140,12 +140,12 @@ Awaiting approval (folder)	Avventer godkjennelse
 AwaitingApproval (folder)	Avventer godkjennelse
 back	Tilbake
 Back	Tilbake
-Bar	Søyle
+Bar	SÃ¸yle
 Base data	Stamdata
-Before	Før
+Before	FÃ¸r
 BIM object	Bygningsdel
 BIM object type	Bygningsdelstype
-bottom right	nederst til høyre
+bottom right	nederst til hÃ¸yre
 box	Kasse
 Bring to front	Plasser forrest
 Building	Bygning
@@ -154,24 +154,24 @@ Building is not ready	Bygningen er ikke klar
 Building name	Bygningsnavn
 Building overview	Bygningsoversikt
 Building status	Bygningsstatus
-building updated?	Bygningen ble ikke funnet. Posisjonen må oppdateres.<br/><br/>Har tegningsmaterialet blitt endret?
+building updated?	Bygningen ble ikke funnet. Posisjonen mÃ¥ oppdateres.<br/><br/>Har tegningsmaterialet blitt endret?
 building_incomplete	Bygning ikke klar
-building_incomplete_text	Bygningsmodellen ble nylig oppdatert og klargjøres for øyeblikket til visning. Visning er derfor ikke tilgjengelig akkurat nå.
+building_incomplete_text	Bygningsmodellen ble nylig oppdatert og klargjÃ¸res for Ã¸yeblikket til visning. Visning er derfor ikke tilgjengelig akkurat nÃ¥.
 building_model_analysing	Bygningen oppdateres
-building_model_not_uploaded	Det er ennå ikke lagt inn en bygningsmodell.
+building_model_not_uploaded	Det er ennÃ¥ ikke lagt inn en bygningsmodell.
 building_model_pending	Oppdatering av bygning er planlagt.
-building_model_queued_reanalysis	Bygningen oppdateres igjen og er i kø.
-building_model_waiting	Oppdatering av bygning er i kø.
+building_model_queued_reanalysis	Bygningen oppdateres igjen og er i kÃ¸.
+building_model_waiting	Oppdatering av bygning er i kÃ¸.
 building_name	Bygningsnavn
 building_name	Bygningsnavn
-building_name_cannot_be_empty	Bygningsnavn kan ikke stå tomt!
-building_name_cannot_be_empty	Bygningsnavn kan ikke stå tomt!
+building_name_cannot_be_empty	Bygningsnavn kan ikke stÃ¥ tomt!
+building_name_cannot_be_empty	Bygningsnavn kan ikke stÃ¥ tomt!
 building_overview	Bygningsoversikt
 buildings	Bygninger
 Buildings	Bygninger
 by	av
 Can be approved upon creation	Kan godkjennes ved opprettelse
-Can delete when	Det er kun mulig å slette alle oppgaver når det er opprettet færre enn 50 oppgaver
+Can delete when	Det er kun mulig Ã¥ slette alle oppgaver nÃ¥r det er opprettet fÃ¦rre enn 50 oppgaver
 cancel	Annuller
 Cancel	Annuller
 CANCEL	ANNULLER
@@ -179,7 +179,7 @@ Cancel changes	Annuller endringer
 Cannot remove project owner	Prosjekteieren kan ikke fjernes
 Category	Kategori
 Caution	Advarsel
-CeilingPlan	- 
+CeilingPlan	-Â 
 change	Skift
 Change	Skift
 Change location	Skift posisjon
@@ -197,10 +197,10 @@ Checklist closed	Sjekklisten avsluttet
 Checklist no.	Tilsynsnr.
 Checklist report	Sjekklisterapport
 Checklist template	Sjekklistemal
-Checklist template order	Sjekklistemal rekkefølge
+Checklist template order	Sjekklistemal rekkefÃ¸lge
 Checklists	Sjekklister
-Checklists disabled	Sjekklister slått fra
-Checklists enabled	Sjekklister slått til
+Checklists disabled	Sjekklister slÃ¥tt fra
+Checklists enabled	Sjekklister slÃ¥tt til
 Choose	Velg
 Choose...	Velg...
 city	By
@@ -208,8 +208,8 @@ City	By
 City	By
 Clear	Nullstill
 Clear annotations	Nullstill markering
-Click on the map to place origo	Klikk på kartet for å plassere origo
-Click to open	Klikk for å åpne
+Click on the map to place origo	Klikk pÃ¥ kartet for Ã¥ plassere origo
+Click to open	Klikk for Ã¥ Ã¥pne
 Client error	Klientfeil
 close	Lukk
 Close	Lukk
@@ -234,14 +234,14 @@ Complexity	Kompleksitet
 Compressing image	Komprimerer bilde...
 Compressing image	Komprimerer bilde
 Confirm	Bekreft
-Confirm delete construction	Er du sikker på at du vil slette denne entreprisen?
-confirm delete site	Er du sikker på at du vil slette denne plassen?
+Confirm delete construction	Er du sikker pÃ¥ at du vil slette denne entreprisen?
+confirm delete site	Er du sikker pÃ¥ at du vil slette denne plassen?
 Confirm deletion	Bekreft sletting
 Confirm password	Bekreft passord
 confirm_password	Bekreft passord
 Confirmation required	Bekreftelse kreves
 Connection problems	Forbindelsesproblemer
-Connection problems	Forbindelsesproblemer\n\nPrøv igjen...
+Connection problems	Forbindelsesproblemer\n\nPrÃ¸v igjen...
 Connection problems	Forbindelsesproblemer
 connection_lost	Forbindelsesproblemer
 connection_lost_text	Ingen internettforbindelse
@@ -265,13 +265,13 @@ copy_link	Kopier lenke
 Correspondence	Korrespondanse
 Correspondence report	Komprimert rapport
 Correspondence report (filename)	Komprimert rapport
-could not center on gps description	Kunne ikke sentrere på GPS-posisjon da den var utenfor tegningen
+could not center on gps description	Kunne ikke sentrere pÃ¥ GPS-posisjon da den var utenfor tegningen
 could not center on gps title	Kan ikke sentrere
 Could not open attachment	Det kunne ikke opprettes forbindelse til serveren.
 Could not reach the server	Er du tilkoblet Internett?
 could_not_find_comment	Kommentaren ble ikke funnet.\n\nNavigerer til plass.
 Country	Land
-Craftsman	Håndverker
+Craftsman	HÃ¥ndverker
 Create	Opprett
 Create Construction	Opprett entreprise
 Create demo user	Opprett demobruker
@@ -354,10 +354,10 @@ Deviation	Avvikelse
 DF	DF
 Disabled	Deaktivert
 Discard changes	Slett endringer
-Discipline	Tilsynsområde
+Discipline	TilsynsomrÃ¥de
 Discipline (drawing)	Fag
-Discipline already exists	Tilsynsområdet er allerede opprettet for denne entreprisen
-Disciplines	Tilsynsområder
+Discipline already exists	TilsynsomrÃ¥det er allerede opprettet for denne entreprisen
+Disciplines	TilsynsomrÃ¥der
 Displays	Viser
 Do you accept the invitation to the project {0}?	Vil du akseptere invitasjonen til prosjektet {0}?
 Do you want to save changes to the draft?	Vil du lagre endringene i kladden?
@@ -372,7 +372,7 @@ Downloading checklist...	Henter sjekkliste...
 Downloading report...	Henter rapport...
 Downloading task {0} of {1}	Henter oppgave {0} av {1}
 Draft	Kladde
-Draft early version, change location	<center>OBS!<br/><br/>Kladden er opprettet med en tidligere versjon av Dalux Field. Posisjonen må oppdateres.<br/><br/>Husk å oppdatere din mobil-app jevnlig.</center>
+Draft early version, change location	<center>OBS!<br/><br/>Kladden er opprettet med en tidligere versjon av Dalux Field. Posisjonen mÃ¥ oppdateres.<br/><br/>Husk Ã¥ oppdatere din mobil-app jevnlig.</center>
 Drafts	Kladder
 Drawing	Tegning
 Drawing information	Tegningsinformasjon
@@ -383,10 +383,10 @@ dRofus integration	dRofus-integrasjon
 Copy row	Kopier rekke
 Duplicate	Duplicate
 DUT_MILLIMETERS	mm
-DUT_SQUARE_METERS	m²
+DUT_SQUARE_METERS	mÂ²
 DV	DV
-Economy	Økonomi
-Economy changed	Økonomi endret
+Economy	Ã˜konomi
+Economy changed	Ã˜konomi endret
 edit	Rediger
 Edit	Rediger
 Edit building	Rediger bygning
@@ -401,11 +401,11 @@ Edit user	Rediger bruker
 Edit zone	Rediger sone
 Edit zones	Rediger soner
 Edit contract	Rediger entreprise
-element updated?	Bygningsdelen ble ikke funnet. Posisjonen må oppdateres.<br/><br/>Har tegningsmaterialet blitt endret?
+element updated?	Bygningsdelen ble ikke funnet. Posisjonen mÃ¥ oppdateres.<br/><br/>Har tegningsmaterialet blitt endret?
 element_properties	Egenskaper
-Elevation	Høyde
+Elevation	HÃ¸yde
 Elevation lower	Kote, nedre
-Elevation upper	Kote, øvre
+Elevation upper	Kote, Ã¸vre
 ellipse	Ellipse
 email	E-mail
 Email	E-mail
@@ -417,11 +417,11 @@ Email with daily summary	E-mail med daglig sammendrag
 email:	E-mail:
 empty_list	Listen er tom
 Enable	Bruk
-Enable checklists	Slå på sjekklister
+Enable checklists	SlÃ¥ pÃ¥ sjekklister
 Enable photos	Anvender bilder
 Enabled	Aktivert
 EngineeringPlan	Konstruksjonsplaner
-Enter discpline	Skriv inn tilsynsområde
+Enter discpline	Skriv inn tilsynsomrÃ¥de
 Enter title	Skriv inn tittel
 enterprise	Firma
 Entire list	Hele listen
@@ -438,7 +438,7 @@ existing	Eksisterende
 existing task restricted to {0}	Eksisterende oppgave: Begrenset til '{0}'
 Export	Eksporter
 Export all	Eksporter alt
-Export failed	Eksporten kunne ikke gjennomføres
+Export failed	Eksporten kunne ikke gjennomfÃ¸res
 Export overview	Eksporter oversikt
 Fictive user	Fiktiv bruker
 Field definition	Feltdefinisjon
@@ -453,7 +453,7 @@ Files to upload	Filer til opplasting
 Fill in	Fyll ut
 Filters	Filtre
 find	Finn
-First levels	Første
+First levels	FÃ¸rste
 First name	Fornavn
 first_name	Fornavn
 Floor	Etasje
@@ -461,7 +461,7 @@ Floor name	Etasjenavn
 Floor plan	Plan
 Floor plans	Plantegninger
 Floor properties	Egenskaper for etasje
-floor updated?	Plantegningen ble ikke funnet. Posisjonen må oppdateres.<br/><br/>Har tegningsmaterialet blitt endret?
+floor updated?	Plantegningen ble ikke funnet. Posisjonen mÃ¥ oppdateres.<br/><br/>Har tegningsmaterialet blitt endret?
 floor_name	Etasjenavn
 Floorplan	Etasjeplan
 FloorPlan	Etasjeplaner
@@ -472,7 +472,7 @@ Floors	Planer
 flow_configuration	Anvendt flow
 flow_configuration_definition	Definisjon av flow:
 Folder	Mappe
-Folder tools	Mappeverktøyer
+Folder tools	MappeverktÃ¸yer
 Foreman	Formann
 found	funnet
 From camera	Fra kamera
@@ -486,20 +486,20 @@ Generating report	Genererer rapport...
 Generating report {0}	Genererer rapport {0}
 Get Revit plug-in	Hent Revit-plug-in
 GIS location	GIS-posisjon
-GIS placement not chosen	Plassen er ikke plassert på GIS
+GIS placement not chosen	Plassen er ikke plassert pÃ¥ GIS
 Go to location	Vis posisjon
-gps accuracy timeout description	GPS kunne ikke kobles til. Sjekk at du har aktivert GPS i innstillingene på din mobilenhet, samt at du mottar GPS-signal.
+gps accuracy timeout description	GPS kunne ikke kobles til. Sjekk at du har aktivert GPS i innstillingene pÃ¥ din mobilenhet, samt at du mottar GPS-signal.
 gps accuracy timeout title	GPS
-gps accuracy too coarse description	Nøyaktigheten på GPS er for upresis til å kunne vises (mer enn 40 meter)
+gps accuracy too coarse description	NÃ¸yaktigheten pÃ¥ GPS er for upresis til Ã¥ kunne vises (mer enn 40 meter)
 gps accuracy too coarse title	GPS
 gps not enabled description	GPS kunne ikke kobles til. Sjekk at du har aktivert GPS i mobilenhetens innstillinger.
 gps not enabled title	GPS
-Greater than	Større enn
-Greater than equals	Større eller lik med
-Green	Grønn
+Greater than	StÃ¸rre enn
+Greater than equals	StÃ¸rre eller lik med
+Green	GrÃ¸nn
 Grid	Gitter
 Header	Sidehode
-height	Høyde
+height	HÃ¸yde
 Help text	Hjelpetekst
 Home	Hjem
 i_accept	I accept to use this free service &quot;as is&quot;
@@ -520,35 +520,35 @@ Include signing field	Include attachments
 Include attachments	Include attachments
 Include tasks	Include tasks
 Info	Info
-info 500+ options	Det er mer enn 2000 unike muligheter.\nBruk søkefilteret nedenfor.
-info add building name	Bygningsnavn kan ikke stå tomt!
+info 500+ options	Det er mer enn 2000 unike muligheter.\nBruk sÃ¸kefilteret nedenfor.
+info add building name	Bygningsnavn kan ikke stÃ¥ tomt!
 info admin edits work description	Kun en administrator kan redigere arbeidsbeskrivelsene.\nSe hvem  som er administrator under Brukere, nedenfor Oppsett.
 info another user created this task	En annen bruker har opprettet Oppgaven. Kun denne brukeren kan se og redigere Oppgaven.
-info app update	Oppdater Dalux Field<br/><br/>Husk å synkronisere ikke sendte data før du oppdaterer
-info batch deny assign wd	Det er kun mulig å tildele flere oppgaver på en gang når alle oppgavene er innenfor samme område og arbeidsbeskrivelse.\n\nBegrens markering. Filtrer evt. på kolonnen tilsynsområde og arbeidsbeskrivelse hvis disse benyttes.
-info batch deny reply	Det er kun mulig {0} flere oppgaver på en gang så lenge de markerte oppgavene kan endres av deg.\n\nHar du skriverettigheter til alle oppgavene?\nEr du i den rette mappen? \n\nFjern markering av oppgaver du ikke lenger kan endre.
-info building incomplete	Bygningsmodellen ble nylig oppdatert og klargjøres for øyeblikket til visning. Visning er derfor ikke tilgjengelig akkurat nå.
-info building queued analysis	Bygningen oppdateres. Prøv igjen senere.
+info app update	Oppdater Dalux Field<br/><br/>Husk Ã¥ synkronisere ikke sendte data fÃ¸r du oppdaterer
+info batch deny assign wd	Det er kun mulig Ã¥ tildele flere oppgaver pÃ¥ en gang nÃ¥r alle oppgavene er innenfor samme omrÃ¥de og arbeidsbeskrivelse.\n\nBegrens markering. Filtrer evt. pÃ¥ kolonnen tilsynsomrÃ¥de og arbeidsbeskrivelse hvis disse benyttes.
+info batch deny reply	Det er kun mulig {0} flere oppgaver pÃ¥ en gang sÃ¥ lenge de markerte oppgavene kan endres av deg.\n\nHar du skriverettigheter til alle oppgavene?\nEr du i den rette mappen? \n\nFjern markering av oppgaver du ikke lenger kan endre.
+info building incomplete	Bygningsmodellen ble nylig oppdatert og klargjÃ¸res for Ã¸yeblikket til visning. Visning er derfor ikke tilgjengelig akkurat nÃ¥.
+info building queued analysis	Bygningen oppdateres. PrÃ¸v igjen senere.
 info building update failed	Oppdatering feilet. Kontakt Dalux.
-info building updating 3d	Tegningsdata oppdateres. Prøv igjen senere.
+info building updating 3d	Tegningsdata oppdateres. PrÃ¸v igjen senere.
 info cannot edit work description	Arbeidsbeskrivelse kan kun endres hvis dennes overordnede ikke har noen arbeidsbeskrivelse. Kun administratorer kan endre arbeidsbeskrivelse for seg selv.
-info checklist conflict	<p align="center">Sjekklisten er endret fra en annen side.<br/>Endringene overskrives ved å velge Lagre.<br/><br/><b>Klikk for å se endringer</b></p>
-info checklist not sent retry	Sjekklisten ble ikke lagret på serveren.<br/><br/>Trykk på Lagre for å prøve igjen.
+info checklist conflict	<p align="center">Sjekklisten er endret fra en annen side.<br/>Endringene overskrives ved Ã¥ velge Lagre.<br/><br/><b>Klikk for Ã¥ se endringer</b></p>
+info checklist not sent retry	Sjekklisten ble ikke lagret pÃ¥ serveren.<br/><br/>Trykk pÃ¥ Lagre for Ã¥ prÃ¸ve igjen.
 info checklist offline	Denne sjekklisten er ikke tilgjengelig offline
 info commit checklist first	<P ALIGN="center">Bilde kunne ikke knyttes til sjekkliste.<br />Last opp sjekkliste eller slett bildet.</P>
 info company has users	Kan ikke fjerne et firma med brukere
 info connection lost	Ingen internettforbindelse
-info contract uses company	Firmaet brukes på en eller flere entrepriser
+info contract uses company	Firmaet brukes pÃ¥ en eller flere entrepriser
 info credetials fail	Brukernavn og kode kunne ikke verifiseres
 info demo site	Dette er et demoprosjekt. Du kan derfor ikke redigere BIM-oppsettet.
 info document ready	Dokumentet er ferdig.
 info document ready download	Dokumentet er ferdig. Last ned?
-info email not validated	e-mailadressen er ennå ikke bekreftet
+info email not validated	e-mailadressen er ennÃ¥ ikke bekreftet
 info empty list	Listen er tom
 info field missing	'{0}' mangler
 info image load failed	Bildet kunne ikke hentes
 info invalid email	E-mailadressen er ikke gyldig
-info invalid password	Passordet ditt må inneholde minst 6 tegn.
+info invalid password	Passordet ditt mÃ¥ inneholde minst 6 tegn.
 info invalid roleworkdescription delete	Kan ikke fjerne arbeidsbeskrivelser som er i bruk.
 info invited	<p align="center">Invitasjon til prosjektet '{0}'</p>
 info isnan {0}	Den inntastede verdien for '{0}' er ikke et tall
@@ -556,61 +556,61 @@ info logged in	Du ble logget inn
 info logged out	Du ble logget ut
 info mail sent {0}	Det ble sendt en mail til adressen '{0}'
 info must select assignee	Det skal velges en ansvarlig.
-info must update task	Må ha internettforbindelse for å kunne sende denne oppgaven.
-info new user added mail sent	Det ble sendt en invitasjonsmail.\n\nBrukeren aktiveres når e-mailadressen har blitt bekreftet via lenken i invitasjonsmailen og brukeren opprettet i systemet.
+info must update task	MÃ¥ ha internettforbindelse for Ã¥ kunne sende denne oppgaven.
+info new user added mail sent	Det ble sendt en invitasjonsmail.\n\nBrukeren aktiveres nÃ¥r e-mailadressen har blitt bekreftet via lenken i invitasjonsmailen og brukeren opprettet i systemet.
 info no bim	Intet tegningsmateriale. Last opp under Oppsett.
 info no company selected	Du har ikke valgt et firma.
-info no creator role	<p align="center">Prosjektoppsettet er endret<br/>Du har ikke lenger rettigheter til å opprette oppgaver</p>
-info no delete company	Firma kan ikke fjernes da det er tilknyttet brukere til dette firmaet.\n\nFjern brukerne fra firmaet først.
+info no creator role	<p align="center">Prosjektoppsettet er endret<br/>Du har ikke lenger rettigheter til Ã¥ opprette oppgaver</p>
+info no delete company	Firma kan ikke fjernes da det er tilknyttet brukere til dette firmaet.\n\nFjern brukerne fra firmaet fÃ¸rst.
 info no delete role	Kan ikke slette en rolle som har underordnede. \n\nHvis det er en ny person som erstatter denne personen skal denne rollen ikke slettes, men personen skal utskiftes.
-info no delete user organisation	Bruker kan ikke fjernes da brukeren er en del av organisasjonen.\n\nFjern først brukeren fra organisasjonen.
-info no delete user substitute	Bruker kan ikke fjernes da brukeren er stedfortreder for: {0} ({1})\n\nFjern først brukeren fra organisasjonen.
-info no discipline	Det må skrives inn et tilsynsområde.
-info no permission	Du har ikke rettigheter til å redigere her.
-info no title	Det må skrives inn en tittel.
+info no delete user organisation	Bruker kan ikke fjernes da brukeren er en del av organisasjonen.\n\nFjern fÃ¸rst brukeren fra organisasjonen.
+info no delete user substitute	Bruker kan ikke fjernes da brukeren er stedfortreder for: {0} ({1})\n\nFjern fÃ¸rst brukeren fra organisasjonen.
+info no discipline	Det mÃ¥ skrives inn et tilsynsomrÃ¥de.
+info no permission	Du har ikke rettigheter til Ã¥ redigere her.
+info no title	Det mÃ¥ skrives inn en tittel.
 info no update role	<p align="center">Rapporten er endret.<br/>Du kan ikke lenger oppdatere denne rapporten.<br/>Har saken blitt avsluttet eller endret?</p>
 info none selected	Det er ikke valgt noen oppgaver
 info non-existing assignee role	<p align="center">Prosjektoppsettet er endret<br/>Oppgaven kan ikke lenger tildeles til denne personen</p>
 info non-existing assignee wd	<p align="center">Prosjektoppsettet er endret<br/>Oppgaven kan ikke lenger tildeles til denne personen</p>
-info non-existing role	<p align="center">Prosjektoppsettet er endret<br/>Din angitte rolle gir ikke rettighet til å endre Oppgaven</p>
-info non-existing substitute	<p align="center">Prosjektoppsettet er endret<br/>Du har ikke lenger rettigheter til å endre oppgaver</p>
-info not self superior	Det er ikke mulig å ha seg selv som overordnet
-info offline finding location	Offline<br/>Anvender nærmeste tilgjengelige posisjon
+info non-existing role	<p align="center">Prosjektoppsettet er endret<br/>Din angitte rolle gir ikke rettighet til Ã¥ endre Oppgaven</p>
+info non-existing substitute	<p align="center">Prosjektoppsettet er endret<br/>Du har ikke lenger rettigheter til Ã¥ endre oppgaver</p>
+info not self superior	Det er ikke mulig Ã¥ ha seg selv som overordnet
+info offline finding location	Offline<br/>Anvender nÃ¦rmeste tilgjengelige posisjon
 info offline minimodel	Offline<br/>Internett er ikke tilkoblet og minimodellen er ikke tilgjengelig offline.
 info offline minimodel frame	Offline<br/> Internett er ikke tilkoblet og denne vinkelen er ikke tilgjengelig offline.
 info offline new visit 2d	Internett er ikke tilkoblet og plantegningen er ikke tilgjengelig offline.
-info offline new visit 3d	Internett er ikke tilkoblet og det er ikke noen posisjoner tilgjengelige på denne etasjen.
-info open draft	<p align="center">Kladd<br/><b>Klikk for å vise rapporten</b></p>
+info offline new visit 3d	Internett er ikke tilkoblet og det er ikke noen posisjoner tilgjengelige pÃ¥ denne etasjen.
+info open draft	<p align="center">Kladd<br/><b>Klikk for Ã¥ vise rapporten</b></p>
 info password no match	Passordene er ikke like.
 info picture ready	Hent bilde
 info picture ready download	Bildet er klar for nedlasting
 info preview only	Systemet er ikke tilgjengelig for demobruker.
-info processing 3d	Visning oppdateres. Prøv igjen senere.
+info processing 3d	Visning oppdateres. PrÃ¸v igjen senere.
 info program error	<p align="center">Det har skjedd en programfeil<br/>Kontakt Dalux (support@dalux.com)</p>
 info project setting error	<p align="center">Uforutsett prosjektoppsett<br/>Kontakt Dalux (support@dalux.com)</p>
-info remove company	Er du sikker på du vil slette dette Firmaet?
-info remove self	Du holder på å fjerne deg selv fra prosjektet.\n\nFortsett?
-info remove work description	Vær oppmerksom på at oppgaver opprettet med denne arbeidsbeskrivelsen ikke lenger kan grupperes ut fra denne egenskapen.\nBrukere tilknyttet arbeidsbeskrivelsen blir automatisk fjernet fra beskrivelsen.\n\nFortsett?
+info remove company	Er du sikker pÃ¥ du vil slette dette Firmaet?
+info remove self	Du holder pÃ¥ Ã¥ fjerne deg selv fra prosjektet.\n\nFortsett?
+info remove work description	VÃ¦r oppmerksom pÃ¥ at oppgaver opprettet med denne arbeidsbeskrivelsen ikke lenger kan grupperes ut fra denne egenskapen.\nBrukere tilknyttet arbeidsbeskrivelsen blir automatisk fjernet fra beskrivelsen.\n\nFortsett?
 info report has update in folder	<p align="center">Merk!<br/>Det er en oppdatering til oppgaven i mappen {0}</p>
 info report has updates in folder	<p align="center">Merk!<br/>Det er oppdateringer til oppgaven i mappen {0}</p>
 info report has updates in folders	<p align="center">Merk!<br/>Det er oppdateringer til oppgaven i mappen {0}</p>
 info report ready	Rapporten er ferdig.
 info report ready download	Rapporten er ferdig. Last ned?
 info role name not empty	Angi rollenavn
-info server error	Det oppstod en feil på serveren
+info server error	Det oppstod en feil pÃ¥ serveren
 info site manager change	Hvis du som byggeleder skifter deg selv ut vil du ikke lenger kunne se noen brukere.\n\nDenne handlingen kan ikke angres!
 info synchronizing no open	Ikke sendte beskjeder sendes. Inntastinger kan ikke vises samtidig.
-info task altered	<p align="center">Oppgaven er endret<br/>Oppdateringen ble ikke sendt.<br/><b>Klikk for å åpne oppgaven</b></p>
+info task altered	<p align="center">Oppgaven er endret<br/>Oppdateringen ble ikke sendt.<br/><b>Klikk for Ã¥ Ã¥pne oppgaven</b></p>
 info task not available	<P ALIGN="center">Rapporten er ikke tilgjengelig</P>
 info task offline	<P ALIGN="center">Denne rapporten er ikke tilgjengelig offline</P>
-info task sent update checklist	Oppgaven er sendt til serveren. Oppdater sjekklisten for å åpne den nyeste rapporten.
-info too many tasks	I dette området: {0} oppgaver
+info task sent update checklist	Oppgaven er sendt til serveren. Oppdater sjekklisten for Ã¥ Ã¥pne den nyeste rapporten.
+info too many tasks	I dette omrÃ¥det: {0} oppgaver
 info unhandled error	Det oppstod en uventet feil.
-info user added mail sent	Brukeren er nå tilføyd og det er sendt en invitasjonsmail.\n\nBrukeren aktiveres når e-mailadressen er bekreftet via lenken i invitasjonsmailen.
+info user added mail sent	Brukeren er nÃ¥ tilfÃ¸yd og det er sendt en invitasjonsmail.\n\nBrukeren aktiveres nÃ¥r e-mailadressen er bekreftet via lenken i invitasjonsmailen.
 info user invitation accepted	Bruker opprettet og invitasjon akseptert
 info user not found create?	Brukeren ble ikke funnet. Vil du opprette denne brukeren?
-info wait synchronizing tasks	Oppgaven kan ikke vises når utboksen synkroniseres. Prøv igjen om et øyeblikk.
-info wizard new user	Personen har ikke blitt opprettet tidligere i ditt Dalux Field-Prosjekt. Det vil bli sendt en invitasjon når det trykkes Opprett.
+info wait synchronizing tasks	Oppgaven kan ikke vises nÃ¥r utboksen synkroniseres. PrÃ¸v igjen om et Ã¸yeblikk.
+info wizard new user	Personen har ikke blitt opprettet tidligere i ditt Dalux Field-Prosjekt. Det vil bli sendt en invitasjon nÃ¥r det trykkes Opprett.
 Insert	Sett inn
 Insert comment	Kommenter
 Insert text	Sett inn tekst
@@ -657,7 +657,7 @@ Less than one minute remaining	Mindre enn ett minutt igjen
 Let us know	Gi oss beskjed
 lets_know	Gi oss beskjed
 Level	Etasje
-Levels	Nivåer
+Levels	NivÃ¥er
 List	Liste
 loading	Henter
 Loading (from disk)	Innleser
@@ -666,8 +666,8 @@ Loading data	Henter data
 Loading drafts...	Henter kladder
 Loading list data	Innleser listedata
 Loading list data...	Henter listedata...
-located on plan	Posisjon på plan
-located on plan and view	Posisjon på plan og view
+located on plan	Posisjon pÃ¥ plan
+located on plan and view	Posisjon pÃ¥ plan og view
 location	Posisjon
 Location	Posisjon
 Location changed	Posisjon endret
@@ -692,7 +692,7 @@ Long	Lang
 low	Lav
 manage_users	Administrer brukere
 Map	Kart
-Markers	Markører
+Markers	MarkÃ¸rer
 Memo no.	Notenr.
 minute	minutt
 minutes	minutter
@@ -716,11 +716,11 @@ Move up	Flytt opp
 Multiple	Flere
 Multiple filters	Mange filtre
 Multiple responsible	Flere ansvarlige
-must accept cookies	For å bruke Dalux Field må du tillate bruk av cookies
-must accept terms	For å bruke Dalux Field må du akseptere våre brukerbetingelser
+must accept cookies	For Ã¥ bruke Dalux Field mÃ¥ du tillate bruk av cookies
+must accept terms	For Ã¥ bruke Dalux Field mÃ¥ du akseptere vÃ¥re brukerbetingelser
 name	Navn
 Name	Navn
-Network failure. Try again	Nettverksfeil. Prøv igjen
+Network failure. Try again	Nettverksfeil. PrÃ¸v igjen
 New	Ny
 new	Ny
 New (m)	Nytt
@@ -732,21 +732,21 @@ New company	Nytt firma
 New construction	Ny entreprise
 New construction	Ny entreprise
 New department	Ny avdeling
-New discipline	Nytt tilsynsområde
+New discipline	Nytt tilsynsomrÃ¥de
 New fictive user	Ny fiktiv bruker
 New floor	Ny etasje
 New inspection	Nytt tilsynsnotat
 New project	Nytt Prosjekt
 New registration	Ny registrering
 New site	Ny plass
-New supervisor area	Nytt tilsynsområde
+New supervisor area	Nytt tilsynsomrÃ¥de
 new task	ny oppgave
 New tasks	Nye oppgaver
 New user	Ny bruker
 New work description	Ny arbeidsbeskrivelse
 new_building	Ny bygning
 new_demo_site	Ny demoplass
-new_demo_site_details	Ny demoplass.\n\nKun små bygninger tillates
+new_demo_site_details	Ny demoplass.\n\nKun smÃ¥ bygninger tillates
 new_site_details	Ny ubegrenset plass.
 new_status	Ny status
 new_task_list	Ny oppgaveliste
@@ -754,8 +754,8 @@ new_value	Ny verdi
 Next	Neste
 No	Nei
 No available sites	Ingen tilgjengelige prosjekter
-No building and floors available for this site. GIS can not be placed	Det kan ikke plasseres på GIS da det ikke er noen etasjeplaner på denne plassen.
-No building and floors available for this site. GIS can not be placed	Det kan ikke plasseres på GIS da det ikke er noen etasjeplaner på denne plassen.
+No building and floors available for this site. GIS can not be placed	Det kan ikke plasseres pÃ¥ GIS da det ikke er noen etasjeplaner pÃ¥ denne plassen.
+No building and floors available for this site. GIS can not be placed	Det kan ikke plasseres pÃ¥ GIS da det ikke er noen etasjeplaner pÃ¥ denne plassen.
 No buildings	Ingen bygninger
 No checklists	Ingen sjekklister
 No connection	Ingen forbindelse...
@@ -763,7 +763,7 @@ No drafts	Ingen kladder
 No drawing material available.	Intet tegningsmateriale tilgjengelig.
 No drawing selected	Ingen tegning valgt
 No drawings	Ingen tegninger
-No permission text	Den ønskede operasjonen kunne ikke utføres
+No permission text	Den Ã¸nskede operasjonen kunne ikke utfÃ¸res
 No permission title	Operasjon ikke tillatt
 No picture	Intet bilde
 No registrations	Ingen registreringer
@@ -799,7 +799,7 @@ Not signed up	Ikke tilmeldt
 Not synchronized	Ikke synkronisert
 not_found	Ikke funnet
 not_set	(Ikke angitt)
-Note field on registrations	Notatfelter på registreringer
+Note field on registrations	Notatfelter pÃ¥ registreringer
 Notes	Notater
 notification	Beskjed
 Notification	Beskjed
@@ -808,34 +808,34 @@ Number	Nummer
 Number series	Nummerserie
 object	Bygningsdel
 Observations	Observasjoner
-Observer	Observatør
+Observer	ObservatÃ¸r
 Observer (single letter)	O
-Observers	Observatører
-Observers:	Observatører:
+Observers	ObservatÃ¸rer
+Observers:	ObservatÃ¸rer:
 of	av
 Offline	Offline
 Offline	Offline
-offline_finding_location	Offline<br/>Anvender nærmeste tilgjengelige posisjon
+offline_finding_location	Offline<br/>Anvender nÃ¦rmeste tilgjengelige posisjon
 offline_minimodel	Offline<br/>Internett er ikke tilkoblet og minimodellen er ikke tilgjengelig offline.
 offline_minimodel_frame	Offline<br/> Internett er ikke tilkoblet og denne vinkelen er ikke tilgjengelig offline.
 offline_mode_description	<b>Tegningsmateriale</b> og oppgaver i mappene <b>Innboks</b>, <b>Avviste</b> og <b>Klarmeldte</b> hentes til bruk i offline tilstand.
-offline_mode_warning	Merk at det hentes store mengder data og det anbefales derfor at man bruker Wi-Fi under overføringen.
+offline_mode_warning	Merk at det hentes store mengder data og det anbefales derfor at man bruker Wi-Fi under overfÃ¸ringen.
 offline_new_visit_2d	Offline<br/>Det er ikke forbindelse til Internett og plantegningen er ikke tilgjengelig offline.
-offline_new_visit_3d	Offline<br/>Det er ikke forbindelse til Internett og det er ikke noen posisjoner tilgjengelige på denne etasjen.
+offline_new_visit_3d	Offline<br/>Det er ikke forbindelse til Internett og det er ikke noen posisjoner tilgjengelige pÃ¥ denne etasjen.
 ok	OK
 Ok	OK
 OK	OK
 old_value	Tidligere verdi
-Ongoing (folder)	Pågående
-Open	Åpne
-Open (folder)	Åpne
-Open (singular)	Påbegynt
-Open checklist	Åpne sjekkliste
-Open dRofus report	Åpne dRofus-rapport
-Open object properties	Åpne objektegenskaper
-Open project	Åpne prosjekt
-Open site	Åpne prosjekt
-Order	Rekkefølge
+Ongoing (folder)	PÃ¥gÃ¥ende
+Open	Ã…pne
+Open (folder)	Ã…pne
+Open (singular)	PÃ¥begynt
+Open checklist	Ã…pne sjekkliste
+Open dRofus report	Ã…pne dRofus-rapport
+Open object properties	Ã…pne objektegenskaper
+Open project	Ã…pne prosjekt
+Open site	Ã…pne prosjekt
+Order	RekkefÃ¸lge
 Organization	Organisasjon
 Orientation (print)	Papirretning
 Origin	Opphav
@@ -852,16 +852,16 @@ Overall assessment	Kommentar
 overview	oversikt
 Overview	Oversikt
 Overview drawing	Oversiktstegning
-overview on floorplans	oversikt på planer
+overview on floorplans	oversikt pÃ¥ planer
 overview, printouts	oversikt, utskrift
-Own	Egne pågående
+Own	Egne pÃ¥gÃ¥ende
 Own roles	Egne
 Page	Side
 parent	Overordnet
 Passive user	Passiv bruker
 password	Passord
 Password	Passord
-Password again	Passord på nytt
+Password again	Passord pÃ¥ nytt
 Permanent task deletion	Alle oppgaver vil bli slettet permanent og kan ikke gjendannes
 Permissions	Rettigheter
 Persons	Personer
@@ -877,12 +877,12 @@ photoMaxWidth	1024
 photos	bilder
 Photos	Bilder
 picture	Bilde
-Pie	- 
+Pie	-Â 
 Place action	Plasser
 Placement	Plassering
 Placement description	Plasseringsbeskrivelse
 Please wait...	Vennligst vent ...
-Portrait	Stående
+Portrait	StÃ¥ende
 Prefix	Prefiks
 prefix deficiency	M
 prefix inspection	T
@@ -891,7 +891,7 @@ Preparing file	Forbereder fil
 Preparing project for offline use	Forbereder Prosjekt til offline bruk
 Prev. deadline	Tidl. deadline
 Prev. subject	Tidl. emne
-Preview	Forhåndsvisning
+Preview	ForhÃ¥ndsvisning
 Previous	Forrige
 Print	Eksporter
 Print (print)	Skriv ut
@@ -909,7 +909,7 @@ project	Prosjekt
 Project	Prosjekt
 Project access restricted	Prosjektadgang begrenset til mobil-bruk.\n\nFor full adgang, kontakt Dalux (support@dalux.com).
 Project configuration	Prosjektoppsett
-Project expired	Prosjekt utløpt
+Project expired	Prosjekt utlÃ¸pt
 Project info	Stamdata
 Project information	Prosjektinformasjon
 Project name	Prosjektnavn
@@ -925,19 +925,19 @@ psc.	stk.
 Publish	Publiser
 Published buildings	Publiserte bygninger
 Punch Lists	Dashboard
-q user role	Hvilken rolle har den personen som du ønsker å opprette?
+q user role	Hvilken rolle har den personen som du Ã¸nsker Ã¥ opprette?
 QA	QA
 Quality Assurance	Kvalitetssikring
 Quick subjects	Hurtig-overskrifter
 Quick titles	Hurtig-overskrifter
 R	R
-Reason	Årsak
-Receipt for execution	Kvittering for utførelse
+Reason	Ã…rsak
+Receipt for execution	Kvittering for utfÃ¸relse
 Receives tasks	Mottar oppgaver
 Recieves tasks	Ansvarlig for utbedring
 Recorded	Opprettet
 Recorded by	Opprettet av
-Red	Rød
+Red	RÃ¸d
 Refresh	Oppdater
 REG	REG
 Registration	Registrering
@@ -959,10 +959,10 @@ Remove person	Fjern person
 Remove work description	Fjern arbeidsbeskrivelse
 removed	Fjernet
 Removed	Fjernet
-Rename	Døp om
-Rename building	Døp om bygning
-rename...	Døp om ...
-rename_task_list	Døp om oppgaveliste
+Rename	DÃ¸p om
+Rename building	DÃ¸p om bygning
+rename...	DÃ¸p om ...
+rename_task_list	DÃ¸p om oppgaveliste
 Report id	Rapport-id
 Report settings	Rapportoppsetning
 Reports	Rapporter
@@ -972,20 +972,20 @@ Resp. company	Ansv. firma
 Resp. email	Ansv. e-mail
 Responded date	Returdato
 Responsible	Ansvarlig
-retry	Prøv igjen
-Retry	Prøv igjen
+retry	PrÃ¸v igjen
+Retry	PrÃ¸v igjen
 Revision	Revisjon
 role	Rolle
 Role	Rolle
 Role has subordinates. Cant delete	Det er andre roller under denne rollen. Rollen kan ikke slettes.
 Room	Rom
 Room ID field	Rom ID-felt
-room updated?	Lokalet ble ikke funnet. Posisjonen må oppdateres.<br/><br/>Har tegningsmaterialet blitt endret?
+room updated?	Lokalet ble ikke funnet. Posisjonen mÃ¥ oppdateres.<br/><br/>Har tegningsmaterialet blitt endret?
 rooms	Rom
 rotate	Roter
 rotate left	Roter til venstre
-rotate picture save	Kan kun rotere når red-lining er lagret.\n\nLagre bilde og roter
-rotate right	Roter til høyre
+rotate picture save	Kan kun rotere nÃ¥r red-lining er lagret.\n\nLagre bilde og roter
+rotate right	Roter til hÃ¸yre
 S:Substitute, O: Observer	S: Substitute, O:Observer
 Safety report	Sikkerhetsrapport
 Save	Lagre
@@ -997,12 +997,12 @@ Save checklist	Lagre sjekkliste
 Save draft	Lagre kladd
 Save view	Lagre visning
 Saved	Lagret
-search	Søk
-Search	Søk
-Search	Søk
-Search (filter)	Søking
-Search criteria	Søkekriterier
-Search for	Skriv inn søkeord
+search	SÃ¸k
+Search	SÃ¸k
+Search	SÃ¸k
+Search (filter)	SÃ¸king
+Search criteria	SÃ¸kekriterier
+Search for	Skriv inn sÃ¸keord
 Section	Snittegninger
 Select	Velg
 select	Velg
@@ -1010,20 +1010,20 @@ Select all	Velg alle
 Select all	Velg alle
 Select assignee	Velg ansvarlig
 Select construction	Velg entreprise
-select construction text	Velg entreprisen som personen skal tilføyes under
+select construction text	Velg entreprisen som personen skal tilfÃ¸yes under
 Select drawing	Velg plantegning
-Select only one for deletion	Kan kun slette én om gangen
-Select supervisor	Velg tilsynsområde
-select supervisor text	Velg tilsynsområdet som personen skal tilføyes under
+Select only one for deletion	Kan kun slette Ã©n om gangen
+Select supervisor	Velg tilsynsomrÃ¥de
+select supervisor text	Velg tilsynsomrÃ¥det som personen skal tilfÃ¸yes under
 Select user	Velg bruker
 Select user company:	Velg eller angi firma for denne brukeren:
 Select users	Velg brukere
 Select work descriptions	Velg arbeidsbeskrivelser
-select_a_status	Velg en status først
+select_a_status	Velg en status fÃ¸rst
 select_an_assignee	Velg en ansvarlig
 Selected	Markert
-selected area	valgte område
-Selected first	Markerte først
+selected area	valgte omrÃ¥de
+Selected first	Markerte fÃ¸rst
 Selected last	Markerte sist
 selected tasks	utvalgte oppgaver
 SelectFilter	Velg filter parameter
@@ -1039,7 +1039,7 @@ Sent (email)	Sendt
 Server	Server
 Server Error	Serverfeil
 server_error	Serverfeil
-server_error_text	Det oppstod en feil på serveren
+server_error_text	Det oppstod en feil pÃ¥ serveren
 Set location	Angi posisjon
 Set selected responsible	Sett valgte som ansvarlig
 set_to	set to
@@ -1072,7 +1072,7 @@ Site number	Prosjekt-nr.
 site_data	Plassdata
 site_name	Plassnavn
 Sites	Prosjekter
-slow app	Deler av programmet kan være langsomt
+slow app	Deler av programmet kan vÃ¦re langsomt
 SorteringAZ	Sortering A-Z
 SorteringZA	Sortering Z-A
 Specify name	Angi navn
@@ -1092,22 +1092,22 @@ status_changed_from	Status endret fra
 Stay here	Bli her
 Stay here	Bli her
 Stop drawing	Stopp opptegning
-Subcontractor	Underentreprenør
+Subcontractor	UnderentreprenÃ¸r
 Subject	Emne
 Subject already exists	Teksten eksisterer allerede
 Substitute (single letter)	S
 Substitute for	Stedfortreder for
-Substitutes and observers	Stedfortredere og observatører
-Substitutes and observers	Stedfortredere og observatører
+Substitutes and observers	Stedfortredere og observatÃ¸rer
+Substitutes and observers	Stedfortredere og observatÃ¸rer
 Substitutes:	Stedfortredere:
 Summary	Oppsummering
 Summary	Oppsummering
 Superior role:	Dennes overordnede:
-Supervisor	Tilsynsførende
+Supervisor	TilsynsfÃ¸rende
 Supervisor role with tasks cant be removed	Tilsynsroller tilknyttet oppgaver kan ikke slettes.
 support	Hjelp
-Supported files	Understøttede filer
-Synchronize now	Synkroniser nå
+Supported files	UnderstÃ¸ttede filer
+Synchronize now	Synkroniser nÃ¥
 Synchronized	Synkronisert
 synchronizing	Synkroniserer
 Synchronizing	Synkroniserer
@@ -1115,7 +1115,7 @@ Tabel with tasks PDF	Tabell med oppgaver (PDF)
 Table (Excel)	Tabell (Excel)
 Table (PDF)	Tabell (PDF)
 Table with tasks excel	Tabell med oppgaver (Excel)
-Take me to Login	Gå til Login
+Take me to Login	GÃ¥ til Login
 Task	Oppgave
 Task count	Antall oppgaver av denne typen
 Task flow	Oppgaveflow
@@ -1130,15 +1130,15 @@ tasks	oppgaver
 Tasks	Oppgaver
 Tasks and issues	Oppgaver
 Tasks associated with role. Cant delete	Det er oppgaver tilknyttet denne rollen. Rollen kan derfor ikke slettes.
-Tasks on plan drawings	Oppgaver på plantegning
-tasks_open	Åpne saker
+Tasks on plan drawings	Oppgaver pÃ¥ plantegning
+tasks_open	Ã…pne saker
 tasks_total	Totalt antall saker
 Templates	Maler
 Text	Tekst
 text	Tekst
 The file is ready	Filen er klar
 The user will be removed	Brukeren fjernes
-The user will be removed from all aspects of the project.	Brukeren vil bli fjernet fra alle områder i prosjektet.
+The user will be removed from all aspects of the project.	Brukeren vil bli fjernet fra alle omrÃ¥der i prosjektet.
 There is an update to the application	Det er en oppdatering til programmet!
 Time of invitation	Invitasjonstidspunkt
 title	Emne
@@ -1147,10 +1147,10 @@ Title (role)	Tittel
 Title changed	Tittel endret
 title_changed_from	Tittel endret fra
 to	til
-to approve	å godkjenne
-to assign	å tildele
-to report ready	å klarmelde
-Try Demo Site	Prøv demo
+to approve	Ã¥ godkjenne
+to assign	Ã¥ tildele
+to report ready	Ã¥ klarmelde
+Try Demo Site	PrÃ¸v demo
 Type	Type
 Type password for user	Skriv passordet for brukeren
 Type prefix	Typeprefiks
@@ -1168,7 +1168,7 @@ unsent_messages	{0} beskjeder ikke sendt
 Update	Oppdater
 Update checklist	Oppdater sjekkliste
 Update Dalux Field	Oppdater Dalux Field
-Update now	Oppdater nå
+Update now	Oppdater nÃ¥
 Update user	Oppdater bruker
 update:	Oppdater: {0}
 update_task	Oppdater
@@ -1188,12 +1188,12 @@ Uploaded by	Lastet opp av
 url:support	http://field.dalux.com/manual/
 Use	Bruk
 Use automatic publishing	Bruk auto-publisering
-Use automatic publishing text	Skift til automatisk publisering?\n\nBygninger og tegninger utgis automatisk når de er klare.
+Use automatic publishing text	Skift til automatisk publisering?\n\nBygninger og tegninger utgis automatisk nÃ¥r de er klare.
 Use building	Bruk bygning
 Use location	Bruk posisjon
 Use manual publishing	Bruk manuell publisering
-Use manual publishing text	Skift til manuell publisering?\n\nDu skal manuelt utgi bygninger og tegninger når de er klare.
-Use search field below	Det er mer enn 500 unike muligheter.\nBruk søkefilteret nedenfor.
+Use manual publishing text	Skift til manuell publisering?\n\nDu skal manuelt utgi bygninger og tegninger nÃ¥r de er klare.
+Use search field below	Det er mer enn 500 unike muligheter.\nBruk sÃ¸kefilteret nedenfor.
 user	Bruker
 User	Bruker
 User active	Bruker validert
@@ -1201,10 +1201,10 @@ User company	Brukerens firma
 User email settings	Mailoppsett
 User exists already	Bruker eksisterer allerede
 User found	Bruker funnet
-User has signed up	Brukeren er påmeldt
+User has signed up	Brukeren er pÃ¥meldt
 User name	E-mail
 User not found	Brukeren ble ikke funnet.
-User not signed up	Bruker ikke påmeldt
+User not signed up	Bruker ikke pÃ¥meldt
 User not validated	Bruker ikke validert
 User removed	Bruker fjernet
 User rights	Brukerrettigheter
@@ -1218,7 +1218,7 @@ Values	Verdier
 VATIN	Organisasjonsnr.
 View	Se
 View	Visning
-View buildings on map	Vis bygninger på kart
+View buildings on map	Vis bygninger pÃ¥ kart
 View case	Vis
 View for	Vis for
 View user	Vis
@@ -1228,47 +1228,47 @@ Views	Visning
 wait	Vent...
 Wait	Vent
 Warning	Advarsel
-warning remove user	Er du sikker på at du vil fjerne denne brukeren?
+warning remove user	Er du sikker pÃ¥ at du vil fjerne denne brukeren?
 Warning!	Advarsel!
-Web service rejected your request	Serveren avviste din forespørsel
+Web service rejected your request	Serveren avviste din forespÃ¸rsel
 Week	Uke
 Weekly safety report	Ukerapport
-whatis: construction	Entreprise er den kontrakten som inngås. En entreprise kan gjelde for flere tilsynsområder
-whatis: discipline	Tilsynsområdet er den fagdisiplinen som kontrolleres. Eksempler på fagdisipliner kan f.eks. være 'VVS', 'El' og 'Aptering'.
-whois: building owner	En bruker som kan se alle oppgaver, men ikke har mulighet for å redigere
+whatis: construction	Entreprise er den kontrakten som inngÃ¥s. En entreprise kan gjelde for flere tilsynsomrÃ¥der
+whatis: discipline	TilsynsomrÃ¥det er den fagdisiplinen som kontrolleres. Eksempler pÃ¥ fagdisipliner kan f.eks. vÃ¦re 'VVS', 'El' og 'Aptering'.
+whois: building owner	En bruker som kan se alle oppgaver, men ikke har mulighet for Ã¥ redigere
 whois: contractor	En person som overfor byggeledelsen er ansvarlig for at oppgaver leveres til tiden og overholder avtalt kvalitet innen en bestemt faggruppe
-whois: fictive	En bruker som enten ikke kjennes ennå, eller først senere skal inviteres til å delta i dette prosjektet
+whois: fictive	En bruker som enten ikke kjennes ennÃ¥, eller fÃ¸rst senere skal inviteres til Ã¥ delta i dette prosjektet
 whois: site manager	Byggelederen har som daglige ansvar for byggeplassen og har ansvaret for at alle entrepriser leveres til tiden og overholder avtalt kvalitet
 whois: site manager assistant	En bruker som kan se og redigere alle oppgaver
-whois: subcontractor	En person som har inngått en kontraktmessig avtale på en bestemt oppgave med en entrepriseleder
-whois: supervisor	En person som innenfor forskjellige fagområder etterser at bygget utføres korrekt
+whois: subcontractor	En person som har inngÃ¥tt en kontraktmessig avtale pÃ¥ en bestemt oppgave med en entrepriseleder
+whois: supervisor	En person som innenfor forskjellige fagomrÃ¥der etterser at bygget utfÃ¸res korrekt
 With date	Med dato
 Without date	Uten dato
 Work description	Arbeidsbeskrivelse
 Work descriptions	Arbeidsbeskrivelser
 Work.Desc	Arb.Besk
 Work.Num	Arb.Num
-Worker report	Håndverkerrapport
+Worker report	HÃ¥ndverkerrapport
 workflow_definition	Workflow definition
 Yellow	Gul
 Yes	Ja
 You can not delete this control plan because there are tasks associated with it	Du kan ikke slette denne kontrollplanen da det er oppgaver forbundet med den.
 You cannot delete this checklist template because there exists checklists of this type.	Du kan ikke slette denne sjekklistemalen fordi det eksisterer sjekklister som benytter den.
-You have not been assigned to any projects yet.	Du er ikke tilknyttet et prosjekt ennå.
-You must accept this	For å bruke Dalux Field må du:
-You must be administrator to add buildings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til å tilføye bygninger.
-You must be administrator to change publishing settings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til å endre publiseringsmetode.
-You must be administrator to delete buildings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til å slette bygninger.
-You must be administrator to edit buildings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til å redigere bygninger.
-You must be administrator to rename buildings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til å døpe om bygninger.
-You must be online to log in	Du må være online for å kunne logge inn
-you_are_logged_in	Du er nå logget inn
+You have not been assigned to any projects yet.	Du er ikke tilknyttet et prosjekt ennÃ¥.
+You must accept this	For Ã¥ bruke Dalux Field mÃ¥ du:
+You must be administrator to add buildings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til Ã¥ tilfÃ¸ye bygninger.
+You must be administrator to change publishing settings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til Ã¥ endre publiseringsmetode.
+You must be administrator to delete buildings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til Ã¥ slette bygninger.
+You must be administrator to edit buildings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til Ã¥ redigere bygninger.
+You must be administrator to rename buildings	Tegninger er linket fra et annet prosjekt. Du har ikke rettigheter til Ã¥ dÃ¸pe om bygninger.
+You must be online to log in	Du mÃ¥ vÃ¦re online for Ã¥ kunne logge inn
+you_are_logged_in	Du er nÃ¥ logget inn
 Your colleagues drafts	Dine kollegaers kladder
 Your column setup is being reset	Dine kolonnevalg nullstilles
 Your drafts	Dine kladder
 Your sites	Dine sites
-your_current_role_alter_error	Din nåværende rolle tillater ikke å endre kommentarer med status:
-your_current_role_create_error	Din nåværende rolle tillater ikke å opprette nye kommentarer
+your_current_role_alter_error	Din nÃ¥vÃ¦rende rolle tillater ikke Ã¥ endre kommentarer med status:
+your_current_role_create_error	Din nÃ¥vÃ¦rende rolle tillater ikke Ã¥ opprette nye kommentarer
 your_sites	Dine plasser
 Zip code	Postnr.
 zip_code	Postnr.
@@ -1276,7 +1276,7 @@ Zone	Sone
 Zone name	Sonenavn
 Zones	Soner
 Project does not have any checklists	Prosjektet har ingen sjekklister
-Search in e-mail addresses	Søk i e-mailadresser
+Search in e-mail addresses	SÃ¸k i e-mailadresser
 Enterprise agreement	Firmaavtale
 Open properties	Open properties
 Enterprise invoicing info	Invoicing information is used for all projects in the company agreement
@@ -1366,7 +1366,7 @@ Import quick fields	Importer
 Person	Person
 Activated	Aktivert
 Rooms	Rom
-Draw on map	Tegn på kart
+Draw on map	Tegn pÃ¥ kart
 3D preview	Vis i 3D
 Log	Logg
 Upload	Last opp
@@ -1496,7 +1496,7 @@ Price	Price
 Note	Note
 Invoices	Invoices
 Invoice	Invoice
-Are you sure you want to delete this role?	Er du sikker på at du vil slette denne rollen?
+Are you sure you want to delete this role?	Er du sikker pÃ¥ at du vil slette denne rollen?
 From	Fra
 Add filter	Add filter
 To	Til

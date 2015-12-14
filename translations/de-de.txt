@@ -27,7 +27,7 @@ of	von
 (multiple)	(mehrere)
 (no deadline)	(Keine Abgabefrist)
 (No photo)	Nimm Foto
-(No superior)	(Kein übergeordneter)
+(No superior)	(Kein Ã¼bergeordneter)
 (No title)	(Ohne Titel)
 (none)	(Kein / keine)
 (Not set)	(nicht angegeben)
@@ -37,8 +37,8 @@ of	von
 {0} of {1}	{0} von {1}
 {0} unsent message	{0} Nachricht nicht gesendet
 {0} unsent messages	{0} Nachrichten nicht gesendet
-0 tasks for {0}	0 Aufgaben für {0}
-A client error occured	Es ist ein Fehler in der Projektoberfläche aufgetreten.\nDalux ist benachrichtet. 
+0 tasks for {0}	0 Aufgaben fÃ¼r {0}
+A client error occured	Es ist ein Fehler in der ProjektoberflÃ¤che aufgetreten.\nDalux ist benachrichtet. 
 A main responsbile cannot be removed	Ein Hauptverantwortlicher kann nicht entfernt werden
 Accept	Akzeptier
 Accept eula	Akteptier unsere  <a href='EULA.htm' target='_blank'>Bedingungen</a>
@@ -46,25 +46,25 @@ Account expired (admin)	<center><br/><br/>Dalux Feld -Projekt "{0}" ist ausgelau
 Account expired (user)	<center><br/><br/>Dalux Feld-Projket "{0}" ist ausgelaufen.<br/><br/>Nimm Kontakt mit Dalux IT-Administration auf, um das Projekt wieder zu reaktivieren.<br/><br/>&nbsp;</center>
 accuracy	Genauigkeit
 Active user	Akitven Benutzer
-add	Hinzufügen
-Add	Hinzufügen
-Add building	Gebäude hinzufügen
-Add criteria	Kriterium hinzufügen
-Add information	Information hinzufügen
-Add new registration	Neue Registrirung hinzufügen
-Add new role	Neue Rolle hinzufügen
-Add other user	Anderen Benutzer hinzufügen
-Add other user...	Anderen Benutzer hinzufügen…
-Add person	Person hinzufügen
-Add persons	Personen hinzufügen
-Add photo	Bild hinzufügen
-Add project user	Projektbenutzer hinzufügen
-Add quick field	Quick-Tema hinzufügen
-add subordinate warning	Sie sind dabei einen Untergeordneten hinzuzufügen nach \n{0} ({1})\n\nIst das erwünscht?
-add subordinate warning	Sie sind dabei einen Untergeordneten hinzuzufügen nach \n{0} ({1})\n\nIst das erwünscht?
-Add zone	Zone hinzufügen
-added	Hinzugefügt
-Added	Hinzugefügt
+add	HinzufÃ¼gen
+Add	HinzufÃ¼gen
+Add building	GebÃ¤ude hinzufÃ¼gen
+Add criteria	Kriterium hinzufÃ¼gen
+Add information	Information hinzufÃ¼gen
+Add new registration	Neue Registrirung hinzufÃ¼gen
+Add new role	Neue Rolle hinzufÃ¼gen
+Add other user	Anderen Benutzer hinzufÃ¼gen
+Add other user...	Anderen Benutzer hinzufÃ¼genÂ…
+Add person	Person hinzufÃ¼gen
+Add persons	Personen hinzufÃ¼gen
+Add photo	Bild hinzufÃ¼gen
+Add project user	Projektbenutzer hinzufÃ¼gen
+Add quick field	Quick-Tema hinzufÃ¼gen
+add subordinate warning	Sie sind dabei einen Untergeordneten hinzuzufÃ¼gen nach \n{0} ({1})\n\nIst das erwÃ¼nscht?
+add subordinate warning	Sie sind dabei einen Untergeordneten hinzuzufÃ¼gen nach \n{0} ({1})\n\nIst das erwÃ¼nscht?
+Add zone	Zone hinzufÃ¼gen
+added	HinzugefÃ¼gt
+Added	HinzugefÃ¼gt
 Address	Adresse
 Address 1	Adresse 1
 Address 2	Adresse 2
@@ -79,27 +79,27 @@ administrators	Administrator
 Advanced	Erweitert
 Advanced filter	Erweitert
 After	Nach
-alert delete role	Sind Sie sich sicher, diese Funktion löschen zu wollen?\n\nAufgaben zugeteilt nach {0} werden forsätzlich unter {1}   "Laufende Projekte " zu finden sein.
+alert delete role	Sind Sie sich sicher, diese Funktion lÃ¶schen zu wollen?\n\nAufgaben zugeteilt nach {0} werden forsÃ¤tzlich unter {1}   "Laufende Projekte " zu finden sein.
 all	Alle
 All	Alle
 All (folder)	Alle Aufgaben 
 All contracts	Alle Gewerke
 All tasks	Alle Aufgaben 
 All tasks (folder)	Alle Aufgaben
-All tasks will be deleted	Nicht gesendete Aufgaben und Entwürfe werden gelöscht
+All tasks will be deleted	Nicht gesendete Aufgaben und EntwÃ¼rfe werden gelÃ¶scht
 All users	Alle Benutzer
 all_users	Alle Benutzer
 all_users	Alle Benutzer
-Allow cookies	Cokies akzeptieren(<a href='cookies.htm' target='_blank'>læs mere</a>)
+Allow cookies	Cokies akzeptieren(<a href='cookies.htm' target='_blank'>lÃ¦s mere</a>)
 Allow create tasks	Aufgaben einrichten erlauben 
-Allow create tasks colleagues	Einrichten von Aufgaben für Kollegen erlaubt
+Allow create tasks colleagues	Einrichten von Aufgaben fÃ¼r Kollegen erlaubt
 Allow create users	Benutzer einrichten erlaubt
 already created	Existiert bereits
 already exists	Existiert bereits
-Altered	Geändert
+Altered	GeÃ¤ndert
 Annotate	Markiere auf dem Foto
 Anonymous user	Anonymer Benutzer
-Approve	Freigeben, schließen
+Approve	Freigeben, schlieÃŸen
 Approve followup	Freigeben, weiter verfolgen
 Approved	Freigegeben, geschlossen
 Approved (date)	Freigegeben
@@ -112,10 +112,10 @@ Approved, followup by	Freigegeben, Nachfolge von
 ApprovedFollowup (folder)	Freigegebene, Nachfolge
 Architecture (model)	Architekt
 Archive (folder)	Abgeschlossen
-Are you sure you want to delete building "{0}"?	Sind Sie sich sicher das Gebäude löschen zu wollen?
-Are you sure you want to delete this checklist?	Sind Sie sich sicher die Checkliste löschen zu wollen?
-Are you sure you want to delete this control plan?	Sind Sie sich sicher diesen Kontrolplan löschen zu wollen?
-area	Fläche
+Are you sure you want to delete building "{0}"?	Sind Sie sich sicher das GebÃ¤ude lÃ¶schen zu wollen?
+Are you sure you want to delete this checklist?	Sind Sie sich sicher die Checkliste lÃ¶schen zu wollen?
+Are you sure you want to delete this control plan?	Sind Sie sich sicher diesen Kontrolplan lÃ¶schen zu wollen?
+area	FlÃ¤che
 Area (discipline)	Gebiet
 AreaPlan	Brutto-/Nettogrundrisse
 arrow	Pfeil
@@ -130,69 +130,69 @@ Assigned to	Zugeteilt an
 Assigned to {0}	<u>{0}</u> zugeteilt
 assignee	Zugeteilt
 Assignee	Zugeteilt
-Associate checklist	Knüpfe die Checkliste an  
-Associated checklist	Checklistenanküpfung
+Associate checklist	KnÃ¼pfe die Checkliste an  
+Associated checklist	ChecklistenankÃ¼pfung
 Association comment	Kommentar zum Anhang
 Attention to	Z.Hd.
 Auto	Auto
-Available offline	Zugänglich im Offline-Modus
+Available offline	ZugÃ¤nglich im Offline-Modus
 Awaiting approval (folder)	Freigabe abwarten
 AwaitingApproval (folder)	Freigabe abwarten
-back	Zurück
-Back	Zurück
-Bar	Säule
+back	ZurÃ¼ck
+Back	ZurÃ¼ck
+Bar	SÃ¤ule
 Base data	Stammdaten
 Before	Bevor
-BIM object	Gebäudeteil
+BIM object	GebÃ¤udeteil
 BIM object type	Bauteiltyp
 bottom right	Rechts unten
 box	Box
 Bring to front	Im Vordergrund plazieren
-Building	Gebäude
-Building incomplete	Gebäude nicht eindeutig
-Building is not ready	Das Gebäude ist nicht eindeutig
-Building name	Gebäudename
-Building overview	Gebäudeübersicht
-Building status	Gebäudestatus
-building updated?	Das Gebäude wurde nicht gefunden. Bitte Zielordner aktualisieren.<br/><br/>Wurde das Zeichenmaterial geändert?
-building_incomplete	Der Gebäudeaufbau ist unvollständig
-building_incomplete_text	Das Gebäudemodell wurde kürzlich aktualisiert und wird momentan zur Ansicht vorbereitet. Die Datenanzeige ist deshalb momentan nicht verfügbar
-building_model_analysing	Das Gebäude wird aktualisiert
-building_model_not_uploaded	Es wurde bisher kein Gebäudemodell eingerichtet
-building_model_pending	Aktualisierung des Gebäudes eingeplant.
-building_model_queued_reanalysis	Das Gebäude wird wieder aktualisiert und befindet sich in der Warteschlange
-building_model_waiting	Aktualisierung des Gebäudes ist in der Warteschlange
-building_name	Gebäudename
-building_name	Gebäudename
-building_name_cannot_be_empty	Gebäudename darf nicht leer sein!
-building_name_cannot_be_empty	Gebäudename darf nicht leer sein!
-building_overview	Gebäudeübersicht
-buildings	Gebäude
-Buildings	Gebäude
+Building	GebÃ¤ude
+Building incomplete	GebÃ¤ude nicht eindeutig
+Building is not ready	Das GebÃ¤ude ist nicht eindeutig
+Building name	GebÃ¤udename
+Building overview	GebÃ¤udeÃ¼bersicht
+Building status	GebÃ¤udestatus
+building updated?	Das GebÃ¤ude wurde nicht gefunden. Bitte Zielordner aktualisieren.<br/><br/>Wurde das Zeichenmaterial geÃ¤ndert?
+building_incomplete	Der GebÃ¤udeaufbau ist unvollstÃ¤ndig
+building_incomplete_text	Das GebÃ¤udemodell wurde kÃ¼rzlich aktualisiert und wird momentan zur Ansicht vorbereitet. Die Datenanzeige ist deshalb momentan nicht verfÃ¼gbar
+building_model_analysing	Das GebÃ¤ude wird aktualisiert
+building_model_not_uploaded	Es wurde bisher kein GebÃ¤udemodell eingerichtet
+building_model_pending	Aktualisierung des GebÃ¤udes eingeplant.
+building_model_queued_reanalysis	Das GebÃ¤ude wird wieder aktualisiert und befindet sich in der Warteschlange
+building_model_waiting	Aktualisierung des GebÃ¤udes ist in der Warteschlange
+building_name	GebÃ¤udename
+building_name	GebÃ¤udename
+building_name_cannot_be_empty	GebÃ¤udename darf nicht leer sein!
+building_name_cannot_be_empty	GebÃ¤udename darf nicht leer sein!
+building_overview	GebÃ¤udeÃ¼bersicht
+buildings	GebÃ¤ude
+Buildings	GebÃ¤ude
 by	von
-Can be approved upon creation	Genehmigungsfähig während der Errichtung
-Can delete when	Es ist nur möglich, alle Aufgaben zu löschen, wenn weniger als 50 Aufgaben erstellt sind
+Can be approved upon creation	GenehmigungsfÃ¤hig wÃ¤hrend der Errichtung
+Can delete when	Es ist nur mÃ¶glich, alle Aufgaben zu lÃ¶schen, wenn weniger als 50 Aufgaben erstellt sind
 cancel	Annuliere
 Cancel	Annuliere
 CANCEL	Annuliere
-Cancel changes	Änderungen annulieren
-Cannot remove project owner	Der Projekteigentümer kann nicht entfernt werden
+Cancel changes	Ã„nderungen annulieren
+Cannot remove project owner	Der ProjekteigentÃ¼mer kann nicht entfernt werden
 Category	Kategorie
 Caution	Warnung
 CeilingPlan	Deckenspiegel
-change	Verändere 
-Change	Verändere 
-Change location	Standort verändern
-Change to automatic publishing	Zur automatischen Veröffentlichung wechseln
-Change to manual publishing	Zur manuellen Veröffentlichung wechseln
+change	VerÃ¤ndere 
+Change	VerÃ¤ndere 
+Change location	Standort verÃ¤ndern
+Change to automatic publishing	Zur automatischen VerÃ¶ffentlichung wechseln
+Change to manual publishing	Zur manuellen VerÃ¶ffentlichung wechseln
 change...	Wechel
 changed	gewechselt
-changed from	geändert von
-changed_by	geändert von
-changed_from	Geändert von 
+changed from	geÃ¤ndert von
+changed_by	geÃ¤ndert von
+changed_from	GeÃ¤ndert von 
 Checklist	Checkliste 
-Checklist association changed	Checklistenanknüpfung geändert
-Checklist changes will be saved	Checklistenänderung wird gespeichert.\nFortsetzen?
+Checklist association changed	ChecklistenanknÃ¼pfung geÃ¤ndert
+Checklist changes will be saved	ChecklistenÃ¤nderung wird gespeichert.\nFortsetzen?
 Checklist closed	Chekliste abgeschlossen
 Checklist no.	Kontrollistennummer
 Checklist report	Kontrollistenbericht
@@ -201,22 +201,22 @@ Checklist template order	Reihenfolge der Cheklistenvorlage
 Checklists	Kontrollisten
 Checklists disabled	Kontrollisten deaktiviert
 Checklists enabled	Kontrollisten aktiviert
-Choose	Wählen... 
-Choose...	Wählen... 
+Choose	WÃ¤hlen... 
+Choose...	WÃ¤hlen... 
 city	Stadt
 City	Stadt
 City	Stadt
-Clear	Zurücksetzen
-Clear annotations	Auswahl zurücksetzen
+Clear	ZurÃ¼cksetzen
+Clear annotations	Auswahl zurÃ¼cksetzen
 Click on the map to place origo	Auf die Karte klicken um Origo zu plazieren
-Click to open	Zum Öffnen (hier) klicken
+Click to open	Zum Ã–ffnen (hier) klicken
 Client error	Programmfehler
 close	Schliessen Sie
 Close	Schliessen Sie
 Closed (singular)	Abgeschlossen
 Color	Farbe
 Color code	Farbkodierung  
-Color code changed	Farbkodierung  geändert
+Color code changed	Farbkodierung  geÃ¤ndert
 Combined	Abschliessend
 Combined report	Abschlussbericht
 Comment	Kommentar 
@@ -230,16 +230,16 @@ Completed	Fertiggestellt
 Completed (checklist)	Abgeschlossen
 Completed (folder)	Bereitgemeldete
 Completed by	Nachgebessert von
-Complexity	Komplexität
-Compressing image	Komprimiere Foto…
-Compressing image	Komprimiere Foto…
-Confirm	Bestätigen Sie
-Confirm delete construction	Sind Sie sich sicher dieses Gewerk löschen zu wollen?
-confirm delete site	Sind Sie sich sicher diese Baustelle löschen zu wollen?
-Confirm deletion	Löschen bestätigen
-Confirm password	Password bestätigen 
-confirm_password	Password bestätigen 
-Confirmation required	Bestätigung erforderlich
+Complexity	KomplexitÃ¤t
+Compressing image	Komprimiere FotoÂ…
+Compressing image	Komprimiere FotoÂ…
+Confirm	BestÃ¤tigen Sie
+Confirm delete construction	Sind Sie sich sicher dieses Gewerk lÃ¶schen zu wollen?
+confirm delete site	Sind Sie sich sicher diese Baustelle lÃ¶schen zu wollen?
+Confirm deletion	LÃ¶schen bestÃ¤tigen
+Confirm password	Password bestÃ¤tigen 
+confirm_password	Password bestÃ¤tigen 
+Confirmation required	BestÃ¤tigung erforderlich
 Connection problems	Verbindungsprobleme
 Connection problems	Verbindungsprobleme
 Connection problems	Verbindungsprobleme
@@ -259,15 +259,15 @@ Contract management	Polier
 Contractor	Polier 
 Control plan	Kontrollplan
 Control plan area	Kontrollpunkt
-Control plans	Kontrollpläne
+Control plans	KontrollplÃ¤ne
 Copy from other project	Aus einem anderen Projekt kopieren
 copy_link	Link kopieren
 Correspondence	Korrespondenz
 Correspondence report	Komprimierter Bericht
 Correspondence report (filename)	Komprimierter Bericht
-could not center on gps description	Ausrichten auf den Mittelpunkt im GPS nicht möglich, da ausserhalb der Zeichnung
-could not center on gps title	Ausrichten auf den Mittelpunkt nicht möglich
-Could not open attachment	Beigefügte Datei konnte nicht geöffnet werden
+could not center on gps description	Ausrichten auf den Mittelpunkt im GPS nicht mÃ¶glich, da ausserhalb der Zeichnung
+could not center on gps title	Ausrichten auf den Mittelpunkt nicht mÃ¶glich
+Could not open attachment	BeigefÃ¼gte Datei konnte nicht geÃ¶ffnet werden
 Could not reach the server	Es konnte keine Verbindung zum Server hergestellt werden. Sind Sie mit dem Internet verbunden?
 could_not_find_comment	Der Kommentar konnte nicht gefunden werden\n\nNavigiere zur Baustelle.
 Country	Land
@@ -300,12 +300,12 @@ Creates tasks	Erstellt Aufgaben
 credetials_fail	E-Mail-Adresse oder Kennwort falsch
 Criteria	Kriterien
 custom_filter	Benutzerfilter
-Daily summary	Tägliche Zusammenfassung
+Daily summary	TÃ¤gliche Zusammenfassung
 Dalux administration	Dalux-Administration
-Dalux daily	Dalux täglich
-Dashboard	Übersicht
+Dalux daily	Dalux tÃ¤glich
+Dashboard	Ãœbersicht
 Data fields	Datenfelder
-Data removed from {0} checklists	Werden Änderungen gespeichert, werden<font style="color:#DD0000">gelöscht</font> Daten in {0} Kontrolliste.
+Data removed from {0} checklists	Werden Ã„nderungen gespeichert, werden<font style="color:#DD0000">gelÃ¶scht</font> Daten in {0} Kontrolliste.
 Database	Datenbank
 date	Datum
 Date	Datum
@@ -317,32 +317,32 @@ dateformat_short	MMM d
 dateformatDayYear	MMMM d yyyy
 deadline	Frist
 Deadline	Frist
-Deadline changed	Frist geändert
+Deadline changed	Frist geÃ¤ndert
 Default description	Standardbeschreibung
 Default description	Standardbeschreibung
 Deficiency	Mangel
 Delegated to	Ausdeligiert an
-Delete	Löschen
-delete	Löschen
-Delete all	Alles löschen
-Delete all tasks	Alle Aufgaben löschen
-Delete building	Gebäude löschen
-Delete checklist	Checkliste löschen
-Delete control plan	Kontrollplan löschen
-Delete draft	Entwurf löschen
-Delete Draft	Entwurf löschen
-Delete draft	Entwurf löschen
-Delete draft (draft)	Entwurf löschen
-Delete draft (update)	Entwurf löschen
-Delete draft alternative	Entwurf löschen
-Delete drawing	Umriss löschen
-Delete from outbox	Aus dem Ordner "nicht gesendet" löschen
-Delete photo	Bild löschen
+Delete	LÃ¶schen
+delete	LÃ¶schen
+Delete all	Alles lÃ¶schen
+Delete all tasks	Alle Aufgaben lÃ¶schen
+Delete building	GebÃ¤ude lÃ¶schen
+Delete checklist	Checkliste lÃ¶schen
+Delete control plan	Kontrollplan lÃ¶schen
+Delete draft	Entwurf lÃ¶schen
+Delete Draft	Entwurf lÃ¶schen
+Delete draft	Entwurf lÃ¶schen
+Delete draft (draft)	Entwurf lÃ¶schen
+Delete draft (update)	Entwurf lÃ¶schen
+Delete draft alternative	Entwurf lÃ¶schen
+Delete drawing	Umriss lÃ¶schen
+Delete from outbox	Aus dem Ordner "nicht gesendet" lÃ¶schen
+Delete photo	Bild lÃ¶schen
 Delete selection	Markierung entfernen
-Delete tasks	Aufgaben löschen
-Delete view	Vorschau löschen
-Delete x tasks	Aufgaben löschen: {0}x {1}
-Delete zone	Zone löschen
+Delete tasks	Aufgaben lÃ¶schen
+Delete view	Vorschau lÃ¶schen
+Delete x tasks	Aufgaben lÃ¶schen: {0}x {1}
+Delete zone	Zone lÃ¶schen
 Demo user	Demo-Benutzer 
 Descending Z-A	Absteigend Z-A
 description	Beschreibung
@@ -353,18 +353,18 @@ Detailed	Detailiert
 Deviation	Abweichung
 DF	DF
 Disabled	Deaktiviert
-Discard changes	Änderungen löschen
+Discard changes	Ã„nderungen lÃ¶schen
 Discipline	Aufsichtgebiet
 Discipline (drawing)	Fachgebiet
-Discipline already exists	Aufsichtgebiet für dieses Gewerk ist bereits erstellt
+Discipline already exists	Aufsichtgebiet fÃ¼r dieses Gewerk ist bereits erstellt
 Disciplines	Aufsichtgebieten
 Displays	Anzeiger 
-Do you accept the invitation to the project {0}?	Einladung für das Projekt akzeptieren{0}?
-Do you want to save changes to the draft?	Sollen die Änderungen im Entwurf gespeichert werden?
+Do you accept the invitation to the project {0}?	Einladung fÃ¼r das Projekt akzeptieren{0}?
+Do you want to save changes to the draft?	Sollen die Ã„nderungen im Entwurf gespeichert werden?
 Do you want to save the draft?	Entwurf speichern?
 document file types	*.pdf
 Documents	Unterlagen
-Does not contain	Enthält nicht 
+Does not contain	EnthÃ¤lt nicht 
 Done	Beendet
 Download	Herunterladen
 Download PDF	PDF herunterladen
@@ -372,7 +372,7 @@ Downloading checklist...	Checkliste herunterladen
 Downloading report...	Bericht herunterladen
 Downloading task {0} of {1}	Aufgabe herunterladen {0} af {1}
 Draft	Entwurf
-Draft early version, change location	<center>OBS!<br/><br/>Der Entwurf ist erstellt in einer früheren Version von Dalux Field. Der Standort muss aktualisiert werden.<br/><br/>Bitte aktualisieren Sie Ihre mobile Anwendung (Mobil-app) kontinuierlich.</center>
+Draft early version, change location	<center>OBS!<br/><br/>Der Entwurf ist erstellt in einer frÃ¼heren Version von Dalux Field. Der Standort muss aktualisiert werden.<br/><br/>Bitte aktualisieren Sie Ihre mobile Anwendung (Mobil-app) kontinuierlich.</center>
 Drafts	Entwurf
 Drawing	Zeichnung
 Drawing information	Information zur Zeichnung
@@ -383,27 +383,27 @@ dRofus integration	dRofus-integrierung
 Copy row	Reihe kopieren
 Duplicate	Duplicate
 DUT_MILLIMETERS	mm
-DUT_SQUARE_METERS	m²
+DUT_SQUARE_METERS	mÂ²
 DV	DV
-Economy	Ökonomie
-Economy changed	Geänderte Ökonomie
-edit	Ändere
-Edit	Ändere
-Edit building	Gebäude ändern
-Edit building model file	Gebäudemodel ändern
-Edit persons	Personen ändern
-Edit photo	Fotos ändern
-Edit project data	Projektdaten ändern
-Edit properties	Eigenschaften ändern
-Edit role	Rolle ändern
-Edit site data	Ändere Baustelledaten
-Edit user	Benutzer ändern
-Edit zone	Zone ändern
-Edit zones	Zonen ändern
-Edit contract	Gewerk ändern
-element updated?	Das Gebäudeteil wurde nicht gefunden. Umgebung muss reaktualisiert werden.<br/><br/>Wurde das Zeichenmaterial verändert?
+Economy	Ã–konomie
+Economy changed	GeÃ¤nderte Ã–konomie
+edit	Ã„ndere
+Edit	Ã„ndere
+Edit building	GebÃ¤ude Ã¤ndern
+Edit building model file	GebÃ¤udemodel Ã¤ndern
+Edit persons	Personen Ã¤ndern
+Edit photo	Fotos Ã¤ndern
+Edit project data	Projektdaten Ã¤ndern
+Edit properties	Eigenschaften Ã¤ndern
+Edit role	Rolle Ã¤ndern
+Edit site data	Ã„ndere Baustelledaten
+Edit user	Benutzer Ã¤ndern
+Edit zone	Zone Ã¤ndern
+Edit zones	Zonen Ã¤ndern
+Edit contract	Gewerk Ã¤ndern
+element updated?	Das GebÃ¤udeteil wurde nicht gefunden. Umgebung muss reaktualisiert werden.<br/><br/>Wurde das Zeichenmaterial verÃ¤ndert?
 element_properties	Eigenschaften
-Elevation	Höhe
+Elevation	HÃ¶he
 Elevation lower	Kote, untere
 Elevation upper	Kote, obere
 ellipse	Ellipse
@@ -413,15 +413,15 @@ Email for new tasks	E-Mail bei neuen Aufgaben
 Email log	E-Mail-log
 Email settings	E-Mail-Setup
 Email settings (ribbon)	E-Mail-Setup
-Email with daily summary	E-Mail mit täglicher Zusammenfassung
+Email with daily summary	E-Mail mit tÃ¤glicher Zusammenfassung
 email:	E-Mail
 empty_list	Die Liste ist leer
 Enable	Anwende
 Enable checklists	Checklisten einschalten
 Enable photos	Fotos anwenden
 Enabled	Aktivieren 
-EngineeringPlan	Ingenieurbaupläne
-Enter discpline	Überwachungsbereich eingeben
+EngineeringPlan	IngenieurbauplÃ¤ne
+Enter discpline	Ãœberwachungsbereich eingeben
 Enter title	Titel eingeben
 enterprise	Firma
 Entire list	Die gesamte Liste
@@ -429,7 +429,7 @@ Equals	Gleich
 error	Fehler
 Error	Fehler
 Error	Fehler
-Error downloading offline data	Daten können nicht abgerufen werden
+Error downloading offline data	Daten kÃ¶nnen nicht abgerufen werden
 Excel	Excel
 Excel and locations	Excel und deren Standorte
 Excel and locations	Excel und deren Standorte
@@ -438,7 +438,7 @@ existing	Vorhanden
 existing task restricted to {0}	Vorhande Aufgabe: begrenzt auf '{0}'
 Export	Export
 Export all	Exportiert alles
-Export failed	Export konnte nicht durchgeführt werden
+Export failed	Export konnte nicht durchgefÃ¼hrt werden
 Export overview	Exportiere die Zusammenfassung
 Fictive user	Fiktiver Benutzer
 Field definition	Felddefinition
@@ -450,7 +450,7 @@ File to upload	Datei hochladen
 Filename	Dateiname
 Files	Dateien 
 Files to upload	Dateien hochladen
-Fill in	Ausfüllen
+Fill in	AusfÃ¼llen
 Filters	Filter
 find	Finden
 First levels	Erste
@@ -461,12 +461,12 @@ Floor name	Etagename
 Floor plan	Grundriss
 Floor plans	Grundrisse
 Floor properties	Eigenschaften der Etage
-floor updated?	Der Grundriss wurde nicht gefunden. Der Standort muss aktualisiert werden.<br/> Sind die Zeichnungen geändert worden?
+floor updated?	Der Grundriss wurde nicht gefunden. Der Standort muss aktualisiert werden.<br/> Sind die Zeichnungen geÃ¤ndert worden?
 floor_name	Etagenname
 Floorplan	Grundriss-plan
 FloorPlan	Grundriss-plan
-floorplans	Grundriss-pläne
-Floorplans	Grundriss-pläne
+floorplans	Grundriss-plÃ¤ne
+Floorplans	Grundriss-plÃ¤ne
 floors	Grundrisse
 Floors	Grundrisse
 flow_configuration	Ablaus anwenden
@@ -488,18 +488,18 @@ Get Revit plug-in	Hole Revit plug-in
 GIS location	GIS-Plazierung
 GIS placement not chosen	Baustelle ist nicht im GIS plaziert
 Go to location	Zeige Ort
-gps accuracy timeout description	Es konnte nicht auf GPS angeschlossen werden. Überprüfe, ob das GPS-Modus auf dem Mobilgerät aktiviert ist, und desweiteren, ob GPS Signale empfangen werden.
+gps accuracy timeout description	Es konnte nicht auf GPS angeschlossen werden. ÃœberprÃ¼fe, ob das GPS-Modus auf dem MobilgerÃ¤t aktiviert ist, und desweiteren, ob GPS Signale empfangen werden.
 gps accuracy timeout title	GPS
-gps accuracy too coarse description	Die Genauigkeit des GPS ist zu ungenau (über 40 Meter), um angezeigt werden zu können
+gps accuracy too coarse description	Die Genauigkeit des GPS ist zu ungenau (Ã¼ber 40 Meter), um angezeigt werden zu kÃ¶nnen
 gps accuracy too coarse title	GPS
-gps not enabled description	Es konnte nicht auf GPS angeschlossen werden. Überprüfe, ob das GPS-Modus auf dem Mobilgerät aktiviert ist.
+gps not enabled description	Es konnte nicht auf GPS angeschlossen werden. ÃœberprÃ¼fe, ob das GPS-Modus auf dem MobilgerÃ¤t aktiviert ist.
 gps not enabled title	GPS
-Greater than	Grösser als
-Greater than equals	Grösser oder gleich wie
-Green	Grün
+Greater than	GrÃ¶sser als
+Greater than equals	GrÃ¶sser oder gleich wie
+Green	GrÃ¼n
 Grid	Gitterraster
 Header	Kopfzeile
-height	Höhe  
+height	HÃ¶he  
 Help text	Hilfetext
 Home	Zuhause
 i_accept	I accept to use this free service &quot;as is&quot;
@@ -508,7 +508,7 @@ image file types	*.gif;*.png;*.jpg;*.jpeg
 images	Bilder
 Images	Bilder
 Import	Importiere
-Import complete	Die Projekteinríchtung wurde importiert
+Import complete	Die ProjekteinrÃ­chtung wurde importiert
 Import from	Importiert von
 Import from file	Importiert von Datei
 Import from filesystem	Importiert von Dateisystem
@@ -520,76 +520,76 @@ Include signing field	Berichterstattungsfeld mitnehmen
 Include attachments	Include attachments
 Include tasks	Include tasks
 Info	Info 
-info 500+ options	Es gibt mehr als 2000 einzigartige Möglichkeiten.\nBenutze den Suchfilter weiter unten.
-info add building name	Der Gebäudename darf nicht leer sein!
+info 500+ options	Es gibt mehr als 2000 einzigartige MÃ¶glichkeiten.\nBenutze den Suchfilter weiter unten.
+info add building name	Der GebÃ¤udename darf nicht leer sein!
 info admin edits work description	Nur ein Administrator kann die Arbeitsbeschreibung bearbeiten.\n Wer Administrator ist, siehe unter Benutzer, unter Projekteinrichtung.
 info another user created this task	Ein anderer Benutzer hat diese Aufgabe erstellt. Nur Dieser kann die Aufgabe sehen und bearbeiten.
 info app update	Update Dalux Feld<br/><br/>Denken Sie bitte daran, noch nicht gesendete Daten vor der Aktualisierung zu synchronisieren
-info batch deny assign wd	Es ist nur möglich, mehrere Aufgaben auf einmal zuzuordnen, wenn Diese in der gleichen Gegend positioniert sind und aus gleichem LV stammen.\n\nBegrenze Markierung. U.U die Spalten Aufsicht und LV auswählen, falls diese benutzt werden.
-info batch deny reply	Es ist nur möglich {0}, mehrere Aufgaben gleichzeitig zu machen , solange die ausgewählten Aufgaben von Ihnen geändert werden können. \n\nHaben Sie Schreibzugriff für alle Aufgaben?\nSind Sie in der richtigen Mappendatei? \n\nDeaktivieren Sie Aufgaben, die Sie nicht mehr länger ändern können.
-info building incomplete	Das Gebäudemodell wurde kürzlich aktualisiert und wird derzeit für die Anzeige vorbereitet. Eine Ansicht ist momentan daher nicht verfügbar.
-info building queued analysis	Das Gebäude wird aktualisiert. Später nochmals versuchen.
+info batch deny assign wd	Es ist nur mÃ¶glich, mehrere Aufgaben auf einmal zuzuordnen, wenn Diese in der gleichen Gegend positioniert sind und aus gleichem LV stammen.\n\nBegrenze Markierung. U.U die Spalten Aufsicht und LV auswÃ¤hlen, falls diese benutzt werden.
+info batch deny reply	Es ist nur mÃ¶glich {0}, mehrere Aufgaben gleichzeitig zu machen , solange die ausgewÃ¤hlten Aufgaben von Ihnen geÃ¤ndert werden kÃ¶nnen. \n\nHaben Sie Schreibzugriff fÃ¼r alle Aufgaben?\nSind Sie in der richtigen Mappendatei? \n\nDeaktivieren Sie Aufgaben, die Sie nicht mehr lÃ¤nger Ã¤ndern kÃ¶nnen.
+info building incomplete	Das GebÃ¤udemodell wurde kÃ¼rzlich aktualisiert und wird derzeit fÃ¼r die Anzeige vorbereitet. Eine Ansicht ist momentan daher nicht verfÃ¼gbar.
+info building queued analysis	Das GebÃ¤ude wird aktualisiert. SpÃ¤ter nochmals versuchen.
 info building update failed	Update fehlgeschlagen. Dalux bitte benachrichtigen
-info building updating 3d	Zeichendaten werden aktualisiert. Später nochmals probieren.
-info cannot edit work description	LV-Beschreibung kann nur geändert werden, wenn dessen Vorgestetzter keine LV-Beschreibung besitzt. Ausschliesslich Administratoren können Änderungen für sich selbst ausführen.
-info checklist conflict	<p align="center">Kontrolliste ist geändert worden von anderer Seite.<br/>Die Änderungen werden drch Speichern überschrieben.<br/><br/><b> Klicken Sie auf, um Änderungen zu sehen</b></p>
+info building updating 3d	Zeichendaten werden aktualisiert. SpÃ¤ter nochmals probieren.
+info cannot edit work description	LV-Beschreibung kann nur geÃ¤ndert werden, wenn dessen Vorgestetzter keine LV-Beschreibung besitzt. Ausschliesslich Administratoren kÃ¶nnen Ã„nderungen fÃ¼r sich selbst ausfÃ¼hren.
+info checklist conflict	<p align="center">Kontrolliste ist geÃ¤ndert worden von anderer Seite.<br/>Die Ã„nderungen werden drch Speichern Ã¼berschrieben.<br/><br/><b> Klicken Sie auf, um Ã„nderungen zu sehen</b></p>
 info checklist not sent retry	Die Chekliste wurde  auf dem Server nicht gespeichert.<br/><br/>Bitte speichern um erneut zu probieren. 
-info checklist offline	Diese Checkliste ist im Offline-Modus nicht zugänglich. 
-info commit checklist first	<P ALIGN="center">Foto konnte der Chekliste nicht zugeknüpft werden.<br />Upload Checkliste oder Foto löschen.</P>
-info company has users	Nicht möglich eine Firma mit Benutzern zu entfernen
+info checklist offline	Diese Checkliste ist im Offline-Modus nicht zugÃ¤nglich. 
+info commit checklist first	<P ALIGN="center">Foto konnte der Chekliste nicht zugeknÃ¼pft werden.<br />Upload Checkliste oder Foto lÃ¶schen.</P>
+info company has users	Nicht mÃ¶glich eine Firma mit Benutzern zu entfernen
 info connection lost	Es besteht keine Internetverbindung
 info contract uses company	Das Unternehmen beinhaltet mehrere Gewerke
-info credetials fail	Benutzername und Code konnte nicht überprüft werden
-info demo site	Dies ist ein Demo-Projekt. Folglich ist ein redigieren in BIM nicht möglich.
+info credetials fail	Benutzername und Code konnte nicht Ã¼berprÃ¼ft werden
+info demo site	Dies ist ein Demo-Projekt. Folglich ist ein redigieren in BIM nicht mÃ¶glich.
 info document ready	Das Dokument ist fertig
 info document ready download	Das Dokument ist fertig. Herunterladen?
-info email not validated	E-Mailadressen bisher nicht bestätigt
+info email not validated	E-Mailadressen bisher nicht bestÃ¤tigt
 info empty list	Liste ist leer
 info field missing	{0}' fehlt
 info image load failed	Bild konnte nicht geladen werden
-info invalid email	Ungültige E-Mailadresse
+info invalid email	UngÃ¼ltige E-Mailadresse
 info invalid password	Der Zugangskode soll aus mindestens 6 Zeichen bestehen
-info invalid roleworkdescription delete	Es ist nicht möglich Arbeitsbeschreibungen (LV)zu entfernen, die im Gebrauch sind.
+info invalid roleworkdescription delete	Es ist nicht mÃ¶glich Arbeitsbeschreibungen (LV)zu entfernen, die im Gebrauch sind.
 info invited	<p align="center">Einladung zu dem Projekt '{0}'</p>
-info isnan {0}	Der eingegebene Wert für '{0}' ist kein Zahlenwert. 
+info isnan {0}	Der eingegebene Wert fÃ¼r '{0}' ist kein Zahlenwert. 
 info logged in	Erfolgreich eingeloggt
 info logged out	Erfolgreich ausgeloggt
 info mail sent {0}	Eine E-Mail wurde an die Adresse '{0}' geschickt
 info must select assignee	Ein Verantwortlicher soll genannt werden
 info must update task	Internetverbindung ist Vorraussetzung um diese Aufgabe zu senden
-info new user added mail sent	Es wurde eine Begrüssungsmail versandt.\n\nBenutzer wird aktiviert, wenn sowhl E-Mailadresse bekräftet wird via Link in der Begrüssungsmail als auch der Benutzer im System aufgerichtet wurde.
+info new user added mail sent	Es wurde eine BegrÃ¼ssungsmail versandt.\n\nBenutzer wird aktiviert, wenn sowhl E-Mailadresse bekrÃ¤ftet wird via Link in der BegrÃ¼ssungsmail als auch der Benutzer im System aufgerichtet wurde.
 info no bim	Keine Zeichnungen vorhanden. Herunterladen, unter Projekteinrichtung.
-info no company selected	Sie haben keine Firma gewählt
-info no creator role	<p align="center">Projekteinstellung ist geändert.<br/>Sie haben nicht mehr das Recht, Aufgaben zu erstellen</p>
-info no delete company	Unternehmen kann nicht entfernt werden, solange Benutzer mit Diesem verknüpt sind.\n\nEntferne die Benutzer der Firma zuerst.
-info no delete role	Nicht möglich eine Funktion zu löschen, die einen Untergeordneten hat. \n\nFalls es sich um eine neue Person handelt, die die alte erstetzten soll, ist die nicht die Rolle zu löschen, sondern die Person zu ersetzen.
+info no company selected	Sie haben keine Firma gewÃ¤hlt
+info no creator role	<p align="center">Projekteinstellung ist geÃ¤ndert.<br/>Sie haben nicht mehr das Recht, Aufgaben zu erstellen</p>
+info no delete company	Unternehmen kann nicht entfernt werden, solange Benutzer mit Diesem verknÃ¼pt sind.\n\nEntferne die Benutzer der Firma zuerst.
+info no delete role	Nicht mÃ¶glich eine Funktion zu lÃ¶schen, die einen Untergeordneten hat. \n\nFalls es sich um eine neue Person handelt, die die alte erstetzten soll, ist die nicht die Rolle zu lÃ¶schen, sondern die Person zu ersetzen.
 info no delete user organisation	Benutzer kann nicht entfernt werden, da Dieser ein Teil der Organisation darstellt.\n\nEntfernung des Benutzers von der Organisation zuerst.
-info no delete user substitute	Der Benutzer kann nicht entfernt werden, wenn Dieser Stellvertreter ist für: {0} ({1})\n\nEntferne den Benutzer von der Organisation zuerst.
+info no delete user substitute	Der Benutzer kann nicht entfernt werden, wenn Dieser Stellvertreter ist fÃ¼r: {0} ({1})\n\nEntferne den Benutzer von der Organisation zuerst.
 info no discipline	Eingabe des Aufichtsgebietes notwendig
-info no permission	Sie sind nicht berechtigt, hier zu ändern.
+info no permission	Sie sind nicht berechtigt, hier zu Ã¤ndern.
 info no title	Ein Titel soll eingegeben werden
-info no update role	<p align = "center"> Der Bericht wurde geändert. <br/> An diesem Bericht kann nicht mehr aktualisiert werden. <br/>Wurde der Fall abgeschlossen oder verändert? </ P>
-info none selected	Es wurden keine Aufgaben gewählt
-info non-existing assignee role	<p align="center">Die Projekteinstellung ist verändert<br/>Die Aufgabe kan nicht länger der Person zugeordnet werden.</p>
-info non-existing assignee wd	<p align="center">Die Projekteinstellung ist verändert<br/>Die Aufgabe kan nicht länger der Person zugeordnet werden.</p>
-info non-existing role	<p align="center">Die Projekteinstellung ist verändert<br/>Ihre angegebe Rolle gibt Ihnen nicht das Recht die Aufgabe abzuändern</p>
-info non-existing substitute	<p align="center">Die Projekeinstellung ist verändert<br/>Ihre angegebe Rolle gibt Ihnen nicht mehr das Recht die Aufgabe abzuändern</p>
-info not self superior	Es ist nicht möglich sein eigener Vorgesetzter zu sein.
-info offline finding location	Verwendet nächst verfügbaren Ort
-info offline minimodel	Offline<br/>Es besteht keine Internetverbindung und das Minimodel ist im Offline-Modus nicht verfügbar.
-info offline minimodel frame	Offline<br/>Es besteht keine Internetverbindung und dieser Winkel ist im Offline-Modus nicht verfügbar. 
-info offline new visit 2d	Es besteht keine Internetverbindung und Grundpläne sind im Offline-Modus nicht verfügbar. 
-info offline new visit 3d	Es besteht keine Internetverbindung und es sind keine Orte zugänglich auf dieser Etage.
+info no update role	<p align = "center"> Der Bericht wurde geÃ¤ndert. <br/> An diesem Bericht kann nicht mehr aktualisiert werden. <br/>Wurde der Fall abgeschlossen oder verÃ¤ndert? </ P>
+info none selected	Es wurden keine Aufgaben gewÃ¤hlt
+info non-existing assignee role	<p align="center">Die Projekteinstellung ist verÃ¤ndert<br/>Die Aufgabe kan nicht lÃ¤nger der Person zugeordnet werden.</p>
+info non-existing assignee wd	<p align="center">Die Projekteinstellung ist verÃ¤ndert<br/>Die Aufgabe kan nicht lÃ¤nger der Person zugeordnet werden.</p>
+info non-existing role	<p align="center">Die Projekteinstellung ist verÃ¤ndert<br/>Ihre angegebe Rolle gibt Ihnen nicht das Recht die Aufgabe abzuÃ¤ndern</p>
+info non-existing substitute	<p align="center">Die Projekeinstellung ist verÃ¤ndert<br/>Ihre angegebe Rolle gibt Ihnen nicht mehr das Recht die Aufgabe abzuÃ¤ndern</p>
+info not self superior	Es ist nicht mÃ¶glich sein eigener Vorgesetzter zu sein.
+info offline finding location	Verwendet nÃ¤chst verfÃ¼gbaren Ort
+info offline minimodel	Offline<br/>Es besteht keine Internetverbindung und das Minimodel ist im Offline-Modus nicht verfÃ¼gbar.
+info offline minimodel frame	Offline<br/>Es besteht keine Internetverbindung und dieser Winkel ist im Offline-Modus nicht verfÃ¼gbar. 
+info offline new visit 2d	Es besteht keine Internetverbindung und GrundplÃ¤ne sind im Offline-Modus nicht verfÃ¼gbar. 
+info offline new visit 3d	Es besteht keine Internetverbindung und es sind keine Orte zugÃ¤nglich auf dieser Etage.
 info open draft	<p align="center">Entwurf<br/><b>Klikken Sie um den Rapport zu zeigen</b><br/></p>
 info password no match	Zugangskodes sind nicht gleich
 info picture ready	Bild holen
 info picture ready download	Das Bild ist klar zum herunterladen
-info preview only	Kein Systemzugang für Demo-Benutzer
-info processing 3d	Anzeige wird aktualisiert. Später nochmal versuchen.
+info preview only	Kein Systemzugang fÃ¼r Demo-Benutzer
+info processing 3d	Anzeige wird aktualisiert. SpÃ¤ter nochmal versuchen.
 info program error	<p align="center">Ein Programfehler ist entstanden<br/>Bitte Dalux benachrichtigen (support@dalux.com)</p>
 info project setting error	<p align="center">Unvorhergesehene Projekteinrichtung<br/>Bitte Dalux benachrichtigen(support@dalux.com)</p>
-info remove company	Sind Sie sicher, dieses Unternehmen löschen zu wollen?
-info remove self	Sie sind dabei sich selber im Projekt zu löschen.\n\nFortsetzen? 
+info remove company	Sind Sie sicher, dieses Unternehmen lÃ¶schen zu wollen?
+info remove self	Sie sind dabei sich selber im Projekt zu lÃ¶schen.\n\nFortsetzen? 
 info remove work description	Seien Sie sich bewusst, dass die mit dieser LV-Beschreibung erstellte Aufgaben nicht mehr auf der Grundlage dieser Eigenschaft gruppiert werden kann. \nBenutzer die dem LV zugeordnet sind, werden automatisch aus dem LV entfernt..\n\nFortsetzen?
 info report has update in folder	<p align="center">Notiere!<br/>Esgibt es ein Update im Aufgabenordner {0}</p>
 info report has updates in folder	<p align="center">Notieren Sie!<br/>Esgibt es Updates im Aufgabenordner {0}</p> 
@@ -598,32 +598,32 @@ info report ready	Der Bericht ist fertig
 info report ready download	Der Bericht ist fertig. Herunterladen?
 info role name not empty	Funktionsname angeben
 info server error	Es ist ein Fehler auf dem Server entstanden
-info site manager change	Sollten Sie sich selbst als Bauleiter austauschen, werden Sie keine Benutzer mehr sehen.\n\nDiese Handlung kann nicht rückgängig gemacht werden!
-info synchronizing no open	Nicht verschickte Mitteilungen werden gesendet. Eingaben können nicht gleichzeitig angezeigt werden.
-info task altered	<p align="center">Aufgabe wurde geändert<br/>Das Update wurde nicht gesendet.<br/><b>Klikke um die Aufgabe zu öffnen</b></p>
-info task not available	<P ALIGN="center">Der Bericht ist nicht zugänglich</P>
-info task offline	<P ALIGN="center">Dieser Bericht ist nicht zugänglich</P>
-info task sent update checklist	Die Aufgabe ist an den Server gesandt. Aktualisieren Sie die Checkliste, um den resultierenden Bericht zu öffnen.
+info site manager change	Sollten Sie sich selbst als Bauleiter austauschen, werden Sie keine Benutzer mehr sehen.\n\nDiese Handlung kann nicht rÃ¼ckgÃ¤ngig gemacht werden!
+info synchronizing no open	Nicht verschickte Mitteilungen werden gesendet. Eingaben kÃ¶nnen nicht gleichzeitig angezeigt werden.
+info task altered	<p align="center">Aufgabe wurde geÃ¤ndert<br/>Das Update wurde nicht gesendet.<br/><b>Klikke um die Aufgabe zu Ã¶ffnen</b></p>
+info task not available	<P ALIGN="center">Der Bericht ist nicht zugÃ¤nglich</P>
+info task offline	<P ALIGN="center">Dieser Bericht ist nicht zugÃ¤nglich</P>
+info task sent update checklist	Die Aufgabe ist an den Server gesandt. Aktualisieren Sie die Checkliste, um den resultierenden Bericht zu Ã¶ffnen.
 info too many tasks	Auf diesem Gebiet: {0} Aufgaben
 info unhandled error	Es ist ein unerwarteter Fehler entstanden.
-info user added mail sent	Der Benutzer ist nun hinzugefügt und hat eine Begrüssungsmai geschickt.\n\nDer Benutzer wird aktiviert, sobalddie E-Mail-Adresse via den Link in der Begrüssungsmail bestätigt worden ist.
+info user added mail sent	Der Benutzer ist nun hinzugefÃ¼gt und hat eine BegrÃ¼ssungsmai geschickt.\n\nDer Benutzer wird aktiviert, sobalddie E-Mail-Adresse via den Link in der BegrÃ¼ssungsmail bestÃ¤tigt worden ist.
 info user invitation accepted	Benutzer ist erstellt und die Einladung ist akzeptiert 
-info user not found create?	Dieser Benutzer konnte nicht gefunden werden. Möchten Sie diesen Benutzer erstellen?
-info wait synchronizing tasks	Die Aufgabe kann nicht angezeigt werden während der Postausgang synchronisiert wird. Versuchen Sie es später noch einmal.
+info user not found create?	Dieser Benutzer konnte nicht gefunden werden. MÃ¶chten Sie diesen Benutzer erstellen?
+info wait synchronizing tasks	Die Aufgabe kann nicht angezeigt werden wÃ¤hrend der Postausgang synchronisiert wird. Versuchen Sie es spÃ¤ter noch einmal.
 info wizard new user	Die Person, ist bisher bisher nicht im Dalux Feld Projekt erstellt worden. Es wird eine Einladung erstellt, sobald die Erstellung angeklikkt wird. 
 Insert	Einsetzen
 Insert comment	Kommentieren Sie
-Insert text	Text einfügen
+Insert text	Text einfÃ¼gen
 Inspection	Ausfsicht
 Inspection note	Aufsichtsbericht
 Instant mails	E-Mail bei neuen Aufgaben
 Instructions	Anweisung
 Interval	Zwischenraum
-Invalid password	Ungültiger Code
-invalid_flow	Ungültige Handlung
-invalid_flow_text	Handlung ist nicht zugelassen für diesen Benutzer (wurde Aufgabe geändert?)
-invalid_user	Ungültiger Benutzer
-invalid_user_text	Login Daten oder Rechte wurden geändert
+Invalid password	UngÃ¼ltiger Code
+invalid_flow	UngÃ¼ltige Handlung
+invalid_flow_text	Handlung ist nicht zugelassen fÃ¼r diesen Benutzer (wurde Aufgabe geÃ¤ndert?)
+invalid_user	UngÃ¼ltiger Benutzer
+invalid_user_text	Login Daten oder Rechte wurden geÃ¤ndert
 Invitation	Einladung
 Invitation accepted (date)	Einladung akzeptiert
 Invitation sent (date)	Einladung gesendet
@@ -635,7 +635,7 @@ Invoice information	Rechnungs Informationen
 Invoice note	Rechnungsnotiz
 Is empty	Ist leer
 Is not empty	Ist nicht leer
-is_not_available	Ist nicht zugänglich
+is_not_available	Ist nicht zugÃ¤nglich
 IT Administrators	IT-Administratoren
 Landscape	Liegend
 language	de
@@ -644,8 +644,8 @@ language (splash screen)	de
 language_code	de-de
 Last editet	Zuletzt bearbeitet
 Last edited	Last edited
-Last modified	Zuletzt geändert
-Last modified by	Letzt geändert von
+Last modified	Zuletzt geÃ¤ndert
+Last modified by	Letzt geÃ¤ndert von
 Last name	Nachname
 Last updated	Zuletzt aktualisiert
 Last updated by	Zuletzt aktualisiert von
@@ -653,7 +653,7 @@ Last uploaded by	Zuletzt hochgeladen von
 last_name	Nachname
 Less than	Weniger als
 Less than equals	Weniger oder gleich mit
-Less than one minute remaining	Weniger als eine Minute zurück
+Less than one minute remaining	Weniger als eine Minute zurÃ¼ck
 Let us know	Geben Sie uns Bescheid
 lets_know	Geben Sie uns Bescheid
 Level	Etage
@@ -661,16 +661,16 @@ Levels	Ebenen
 List	Liste  
 loading	Bringe 
 Loading (from disk)	Laden
-Loading buildings	Holt Gebäude
+Loading buildings	Holt GebÃ¤ude
 Loading data	Holt Daten
 Loading drafts...	Holt Kladden
-Loading list data	Lädt Listendaten
-Loading list data...	Holt Listendaten…
+Loading list data	LÃ¤dt Listendaten
+Loading list data...	Holt ListendatenÂ…
 located on plan	Plazierung auf Grundriss
 located on plan and view	Plazierung auf Grundriss und Ansichten
 location	Plazierung
 Location	Plazierung
-Location changed	Plazierung geändert
+Location changed	Plazierung geÃ¤ndert
 location:	Plazierung:
 Location: {0}	Plazierung {0}
 Log in	Einloggen
@@ -681,9 +681,9 @@ Logged in as	Einloggen als
 logged_in_as	Einloggen als
 logged_out	Sie wurden ausgeloggt
 Login refused text	Benutzer/Code wurde nicht gefunden.
-Login refused title	Ungültiger Benutzer
-Login revoked text	Login Daten oder Rechte wurden geändert
-Login revoked title	Ungültiger Benutzer
+Login refused title	UngÃ¼ltiger Benutzer
+Login revoked text	Login Daten oder Rechte wurden geÃ¤ndert
+Login revoked title	UngÃ¼ltiger Benutzer
 logo	Logo
 Logo	Logo
 Project photo	Project photo
@@ -696,23 +696,23 @@ Markers	Curser
 Memo no.	Hinweisnummer
 minute	Minute
 minutes	Minuten
-Modified	Geändert
-modified	Geändert
+Modified	GeÃ¤ndert
+modified	GeÃ¤ndert
 Month1	Januar
 Month10	Oktober
 Month11	November
 Month12	Dezember
 Month2	Februar
-Month3	Märtz
+Month3	MÃ¤rtz
 Month4	April
 Month5	Mai
 Month6	Juni
 Month7	Juli
 Month8	August
 Month9	September
-Move down	Abwärts bewegen
+Move down	AbwÃ¤rts bewegen
 Move to drafts	Zum Entwurf gehen
-Move up	Aufwärts bewegen
+Move up	AufwÃ¤rts bewegen
 Multiple	Mehrere
 Multiple filters	Viele Filter
 Multiple responsible	Mehrere Verantwortliche
@@ -725,8 +725,8 @@ New	Neu
 new	Neu
 New (m)	Erneut
 New assignee	Neu verantwortlich
-New building	Neues Gebäude
-New building model file	Neue Gebäudemodell-Datei
+New building	Neues GebÃ¤ude
+New building model file	Neue GebÃ¤udemodell-Datei
 New checklist	Neue Checkliste
 New company	Neue Firma
 New construction	Neues Gewerk
@@ -744,44 +744,44 @@ new task	Neue Aufgabe
 New tasks	Neue Aufgaben
 New user	Neuer Benutzer
 New work description	Neue LV- Beschreibung
-new_building	Neues Gebäude
+new_building	Neues GebÃ¤ude
 new_demo_site	Neue Demo-Baustelle
-new_demo_site_details	Neue Demo-Baustelle.\n\nNur kleine Gebäude werden zugelassen
+new_demo_site_details	Neue Demo-Baustelle.\n\nNur kleine GebÃ¤ude werden zugelassen
 new_site_details	Neue unbegrenzte Baustelle
 new_status	Neuer Status
 new_task_list	Neue Aufgababenliste
 new_value	Neuer Wert
-Next	Nächste
+Next	NÃ¤chste
 No	Nein
-No available sites	Keine zugänglichen Projekte
-No building and floors available for this site. GIS can not be placed	Es kann nicht auf GIS platziert werden, da es keine Grundrisse für diese Baustelle gibt.
-No building and floors available for this site. GIS can not be placed	Es kann nicht auf GIS platziert werden, da es keine Grundrisse für diese Baustelle gibt.
-No buildings	Keine Gebäude
+No available sites	Keine zugÃ¤nglichen Projekte
+No building and floors available for this site. GIS can not be placed	Es kann nicht auf GIS platziert werden, da es keine Grundrisse fÃ¼r diese Baustelle gibt.
+No building and floors available for this site. GIS can not be placed	Es kann nicht auf GIS platziert werden, da es keine Grundrisse fÃ¼r diese Baustelle gibt.
+No buildings	Keine GebÃ¤ude
 No checklists	Keine Checkliste
-No connection	Keine Verbindung…
+No connection	Keine VerbindungÂ…
 No drafts	Keine Kladde
-No drawing material available.	Keine Zeichenunterlagen zugänglich
-No drawing selected	Keine Zeichnung ausgewählt
+No drawing material available.	Keine Zeichenunterlagen zugÃ¤nglich
+No drawing selected	Keine Zeichnung ausgewÃ¤hlt
 No drawings	Keine Zeichnungen  
-No permission text	Die gewüschte Handlung  konnte nicht durchgeführt werden
+No permission text	Die gewÃ¼schte Handlung  konnte nicht durchgefÃ¼hrt werden
 No permission title	Unerlaubte Handlung
 No picture	Kein Bild vorhanden
 No registrations	Keine Registrierung vorhanden
 No results	Keine Ergebisse vorhanden
 No room	(Kein Raum vorhanden)
-No selection	Nichts herausgewählt
-no selection	Nichts herausgewählt
+No selection	Nichts herausgewÃ¤hlt
+no selection	Nichts herausgewÃ¤hlt
 No sorting	Keine Sortierung
 No sorting	Keine Sortierung
 No tasks	Keine Aufgaben
 No title	Ohne Inhalt
 No.	Nummer
-no_building	Kein Gebäude vorhanden
-no_connection	Keine Verbindung…
+no_building	Kein GebÃ¤ude vorhanden
+no_connection	Keine VerbindungÂ…
 no_floor	Keine Etage vorhanden
 no_floors	Keine Etagen vorhanden
 no_room	(kein Lokal)
-no_selection	Keine Auswahlmöglichkeit
+no_selection	Keine AuswahlmÃ¶glichkeit
 no_title	(Ohne Titel)
 none	Ohne
 None	Ohne
@@ -789,7 +789,7 @@ None (filter)	Nichts
 normal	Generell 
 Not allowed	Nicht zugelassen
 Not created	Nicht eingerichtet
-Not deleted	Nicht gelöscht
+Not deleted	Nicht gelÃ¶scht
 Not equal	Nicht gleich wie
 Not logged in	Nicht eingeloggt 
 Not selected	Nicht markiert
@@ -799,7 +799,7 @@ Not signed up	Nicht registriert
 Not synchronized	Nicht synchronisiert
 not_found	Nicht gefunden
 not_set	Nicht angegeben
-Note field on registrations	Hinweise wärend der registrierungen
+Note field on registrations	Hinweise wÃ¤rend der registrierungen
 Notes	Notizzen
 notification	Bescheid
 Notification	Bescheid
@@ -815,26 +815,26 @@ Observers:	Beobachte:
 of	von
 Offline	Offline-Modus
 Offline	Offline-Modus
-offline_finding_location	Offline<br/>Vervendet nächst verfügbaren Ort
-offline_minimodel	Offline<br/>Es besteht keine Internetverbindung, das Minimodell ist nicht verfügbar im Offline-Modus.
-offline_minimodel_frame	Offline<br/>Es besteht keine Internetverbindung, dieser Blickwinkel ist nichr verfügbar im Offline-Modus.
-offline_mode_description	<b>Zeichenmaterial</b> Und Aufgaben in Ordnern<b>Posteingang</b>, <b>Abgelehnte</b> og <b>Klargemeldte</b> Kann für die Verwendung im Offline-Modus abgerufen werdenwerden.
-offline_mode_warning	Beachten Sie, dass beim Herunterladen große Datenmengen benötigt werden und es wird daher empfohlen, dass WLAN während dieser Übertragung verwendet wird.
-offline_new_visit_2d	Offline-Modus<br/>Es besteht keine Internetverbindung und Grundrisse sind nicht zugänglich im Offline-Modus.
-offline_new_visit_3d	Offline-Modus<br/>Es besteht keine Internetverbindung und es sind keine Orte zugänglich im Offline-Modus.
+offline_finding_location	Offline<br/>Vervendet nÃ¤chst verfÃ¼gbaren Ort
+offline_minimodel	Offline<br/>Es besteht keine Internetverbindung, das Minimodell ist nicht verfÃ¼gbar im Offline-Modus.
+offline_minimodel_frame	Offline<br/>Es besteht keine Internetverbindung, dieser Blickwinkel ist nichr verfÃ¼gbar im Offline-Modus.
+offline_mode_description	<b>Zeichenmaterial</b> Und Aufgaben in Ordnern<b>Posteingang</b>, <b>Abgelehnte</b> og <b>Klargemeldte</b> Kann fÃ¼r die Verwendung im Offline-Modus abgerufen werdenwerden.
+offline_mode_warning	Beachten Sie, dass beim Herunterladen groÃŸe Datenmengen benÃ¶tigt werden und es wird daher empfohlen, dass WLAN wÃ¤hrend dieser Ãœbertragung verwendet wird.
+offline_new_visit_2d	Offline-Modus<br/>Es besteht keine Internetverbindung und Grundrisse sind nicht zugÃ¤nglich im Offline-Modus.
+offline_new_visit_3d	Offline-Modus<br/>Es besteht keine Internetverbindung und es sind keine Orte zugÃ¤nglich im Offline-Modus.
 ok	OK 
 Ok	OK 
 OK	OK 
-old_value	Früherer Wert
-Ongoing (folder)	Ingangwährend
-Open	Öffne!
-Open (folder)	Öffnen Sie
+old_value	FrÃ¼herer Wert
+Ongoing (folder)	IngangwÃ¤hrend
+Open	Ã–ffne!
+Open (folder)	Ã–ffnen Sie
 Open (singular)	Begonnen 
-Open checklist	Öffnen Sie die Checkliste
-Open dRofus report	Öffne den dRofus-Bericht
-Open object properties	Öffne die Objekteigenschaften
-Open project	Projekt öffnen
-Open site	Projekt öffnen
+Open checklist	Ã–ffnen Sie die Checkliste
+Open dRofus report	Ã–ffne den dRofus-Bericht
+Open object properties	Ã–ffne die Objekteigenschaften
+Open project	Projekt Ã¶ffnen
+Open site	Projekt Ã¶ffnen
 Order	Reihenfolge   
 Organization	Organisation
 Orientation (print)	Papierausrichtung
@@ -849,20 +849,20 @@ Outbox images	Nicht versandte Bilder
 Outbox images failed	Nicht synchronisierte Bilder
 outbox_failed	Nicht synchronisiert
 Overall assessment	Kommentar
-overview	Übersicht
-Overview	Übersicht
-Overview drawing	Übersichtsplan
-overview on floorplans	Übersicht über Pläne
-overview, printouts	Übersicht, Ausdruck
+overview	Ãœbersicht
+Overview	Ãœbersicht
+Overview drawing	Ãœbersichtsplan
+overview on floorplans	Ãœbersicht Ã¼ber PlÃ¤ne
+overview, printouts	Ãœbersicht, Ausdruck
 Own	Eigene laufende
 Own roles	Eigene  
 Page	Seite
-parent	Übergeordnet
+parent	Ãœbergeordnet
 Passive user	Passiver benutzer
 password	Passwort
 Password	Passwort
 Password again	Passwort wieder
-Permanent task deletion	Alle Aufgaben werden dauerhaft gelöscht und können nicht wiederhergestellt werden
+Permanent task deletion	Alle Aufgaben werden dauerhaft gelÃ¶scht und kÃ¶nnen nicht wiederhergestellt werden
 Permissions	Rechte
 Persons	Personen
 Phone	Telefon
@@ -881,33 +881,33 @@ Pie	Kuchen
 Place action	Plaziere
 Placement	Plazierung
 Placement description	Plazierungsbeschreibung
-Please wait...	Bitte warte…
+Please wait...	Bitte warteÂ…
 Portrait	Stehend
-Prefix	Präfix
+Prefix	PrÃ¤fix
 prefix deficiency	M
 prefix inspection	T
-Prepare project for offline use	Vorbereiten Sie das Projekt für die Offline-Nutzung
+Prepare project for offline use	Vorbereiten Sie das Projekt fÃ¼r die Offline-Nutzung
 Preparing file	Datei wird vorbereitet
-Preparing project for offline use	Datei wird für die Offline-Nutzung vorbereitet
-Prev. deadline	Früheste Abgabezeitpunkt
+Preparing project for offline use	Datei wird fÃ¼r die Offline-Nutzung vorbereitet
+Prev. deadline	FrÃ¼heste Abgabezeitpunkt
 Prev. subject	Ehemaliges Thema
 Preview	Vorschau  
-Previous	Frühere
+Previous	FrÃ¼here
 Print	Exportiert  
 Print (print)	Drucken
 Print all	Exportiert alles
-Print selected	Exportiert ausgewählte
+Print selected	Exportiert ausgewÃ¤hlte
 Printed	Gedruckt
 Printing	Drucken
 printout locations	Ort des Ausdrucks
 Printouts	Exportiert
 printouts, list	Druckliste
-priority	Priorität
-Priority	Priorität
-Priority changed	Priorität ändern
+priority	PrioritÃ¤t
+Priority	PrioritÃ¤t
+Priority changed	PrioritÃ¤t Ã¤ndern
 project	Projekt  
 Project	Projekt  
-Project access restricted	Zugangsbeschränkung für den mobilen Einsatz-Gebrauch.\n\nFür den vollwertigen Zugang, kontakte Dalux (support@dalux.com).
+Project access restricted	ZugangsbeschrÃ¤nkung fÃ¼r den mobilen Einsatz-Gebrauch.\n\nFÃ¼r den vollwertigen Zugang, kontakte Dalux (support@dalux.com).
 Project configuration	Projekteinstellung
 Project expired	Projekt abgelaufen
 Project info	Stammdaten
@@ -916,25 +916,25 @@ Project name	Projektname
 Project no.	Ref. Nr.
 Project organisation	Bauleitung
 Project participant	Projektteilnehmer
-Project prepared for offline use	Projekt ist bereit für die Offline-Nutzung
+Project prepared for offline use	Projekt ist bereit fÃ¼r die Offline-Nutzung
 Projects	Projekte
 Properties	Eigenschaften
-properties_changed	Geänderte Eigenschaften
+properties_changed	GeÃ¤nderte Eigenschaften
 property	Eigenschaft 
 psc.	Stck.
-Publish	Veröffentliche   
-Published buildings	Veröffentliche Gebäude
-Punch Lists	Übersicht
+Publish	VerÃ¶ffentliche   
+Published buildings	VerÃ¶ffentliche GebÃ¤ude
+Punch Lists	Ãœbersicht
 q user role	Welche Funktion hat die Person, die Sie erstellen wollen?
 QA	QA
-Quality Assurance	Qualitätsmanagement
+Quality Assurance	QualitÃ¤tsmanagement
 Quick subjects	Schnell-Themen
 Quick titles	Schnell-Themen
 R	R
 Reason	Ursache
-Receipt for execution	Beleg für die Ausführung
-Receives tasks	Erhält Aufgaben
-Recieves tasks	Verantwortlich für die Reparatur
+Receipt for execution	Beleg fÃ¼r die AusfÃ¼hrung
+Receives tasks	ErhÃ¤lt Aufgaben
+Recieves tasks	Verantwortlich fÃ¼r die Reparatur
 Recorded	Erstellt
 Recorded by	Erstellt von
 Red	Rot
@@ -960,8 +960,8 @@ Remove work description	Entferne LV Beschreibung
 removed	Entfernt
 Removed	Entfernt
 Rename	Umbenennen
-Rename building	Gebäude umbenennen
-rename...	Umbenennen…
+Rename building	GebÃ¤ude umbenennen
+rename...	UmbenennenÂ…
 rename_task_list	Auftragsliste umbenennen
 Report id	Rapport id
 Report settings	Berichteinstellung
@@ -970,17 +970,17 @@ Required fields	Obligatorische Felder
 Reset view	Spalten auf Null stellen
 Resp. company	Verantwortliches Unternehmen
 Resp. email	Verantwortlich. E-Mail
-Responded date	Datum der Zurücksendung 
+Responded date	Datum der ZurÃ¼cksendung 
 Responsible	Verantwortlich
 retry	Nochmals probieren
 Retry	Nochmals probieren
 Revision	Revision
 role	Funktion
 Role	Funktion
-Role has subordinates. Cant delete	Es besteht noch andere Funktionen unter dieser Funkion. Die Funktion kann nicht gelöscht werden.
+Role has subordinates. Cant delete	Es besteht noch andere Funktionen unter dieser Funkion. Die Funktion kann nicht gelÃ¶scht werden.
 Room	Raum
 Room ID field	Raum ID Felt
-room updated?	Der Raum wurde nicht gefunden. Der Standort muss aktualisiert werden.<br/><br/>Wurde das Zeichenmaterial geändert?
+room updated?	Der Raum wurde nicht gefunden. Der Standort muss aktualisiert werden.<br/><br/>Wurde das Zeichenmaterial geÃ¤ndert?
 rooms	Raum 
 rotate	Drehe
 rotate left	Nach links drehen
@@ -992,7 +992,7 @@ Save	Speicher
 Save	Speicher
 SAVE	Speicher
 Save as Draft	Als Kladde speichern 
-Save changes	Änderungen speichern
+Save changes	Ã„nderungen speichern
 Save checklist	Checkliste speichern
 Save draft	Entwurf speichern 
 Save view	Anzeige speichern
@@ -1002,33 +1002,33 @@ Search	Suche
 Search	Suche
 Search (filter)	Die Suche
 Search criteria	Suchkriterien
-Search for	Schlüsselwort angeben
+Search for	SchlÃ¼sselwort angeben
 Section	Schnittzeichnungen
-Select	Auswählen
-select	Auswählen
-Select all	Alle wählen
-Select all	Alle wählen
-Select assignee	Verantwortlichen wählen
-Select construction	Gewerk wählen
-select construction text	Wähle das Gewerk, in der die Person hinzugefügt werden soll
-Select drawing	Grundriss wählen
-Select only one for deletion	Kann nur ein zu einer Zeit zu löschen
-Select supervisor	Wähle das Bauaufsichtsgebiet
-select supervisor text	Wähle das Bauaufsichtsgebiet, in der die Person hinzugefügt werden soll
-Select user	Wähle Benutzer
-Select user company:	Wähle oder angebe die Firma des Benutzers
-Select users	Wähle Benutzer
-Select work descriptions	Wähle die LV-Beschreibung
-select_a_status	Wähle als erstes einen Status
-select_an_assignee	Wähle einen Verantwortlichen 
+Select	AuswÃ¤hlen
+select	AuswÃ¤hlen
+Select all	Alle wÃ¤hlen
+Select all	Alle wÃ¤hlen
+Select assignee	Verantwortlichen wÃ¤hlen
+Select construction	Gewerk wÃ¤hlen
+select construction text	WÃ¤hle das Gewerk, in der die Person hinzugefÃ¼gt werden soll
+Select drawing	Grundriss wÃ¤hlen
+Select only one for deletion	Kann nur ein zu einer Zeit zu lÃ¶schen
+Select supervisor	WÃ¤hle das Bauaufsichtsgebiet
+select supervisor text	WÃ¤hle das Bauaufsichtsgebiet, in der die Person hinzugefÃ¼gt werden soll
+Select user	WÃ¤hle Benutzer
+Select user company:	WÃ¤hle oder angebe die Firma des Benutzers
+Select users	WÃ¤hle Benutzer
+Select work descriptions	WÃ¤hle die LV-Beschreibung
+select_a_status	WÃ¤hle als erstes einen Status
+select_an_assignee	WÃ¤hle einen Verantwortlichen 
 Selected	Markierten
-selected area	Wähle ein Gebiet
+selected area	WÃ¤hle ein Gebiet
 Selected first	Zuerst markierten
 Selected last	Zuletzt markierten
-selected tasks	Ausgewählte Aufgaben
-SelectFilter	Wähle Filterparameter
-Selection only	Nur ausgewählte
-selection only	Nur ausgewählte
+selected tasks	AusgewÃ¤hlte Aufgaben
+SelectFilter	WÃ¤hle Filterparameter
+Selection only	Nur ausgewÃ¤hlte
+selection only	Nur ausgewÃ¤hlte
 send	Sende 
 Send	Sende 
 Send e-mail	Sende E-Mail
@@ -1041,7 +1041,7 @@ Server Error	Serverfehler
 server_error	Serverfehler
 server_error_text	Auf dem Server ist ein Fehler aufgetreten
 Set location	Ort angeben
-Set selected responsible	Registriere den ausgewählen als verantwortlichen
+Set selected responsible	Registriere den ausgewÃ¤hlen als verantwortlichen
 set_to	Angesetzt zu
 settings	Einstellung
 Settings	Einstellung
@@ -1064,7 +1064,7 @@ Single report	Einzelbericht
 Single reports	Einzelberichte
 Single users	Einzelne Benutzer
 Site data	Baustellendaten
-Site is already prepared for offline use	Das Projekt ist bereits für die Offline-Nutzung vorbereitet
+Site is already prepared for offline use	Das Projekt ist bereits fÃ¼r die Offline-Nutzung vorbereitet
 Site management	Bauleitung
 Site manager assistant	Anzeigen / Bearbeiten
 Site name	Projektname
@@ -1077,7 +1077,7 @@ SorteringAZ	Sortieren von A-Z
 SorteringZA	Sortieren von Z-A
 Specify name	Name angeben
 Specify number	Nummer angeben
-Specify prefix	Präfix angeben
+Specify prefix	PrÃ¤fix angeben
 Specify subject	Thema angeben
 Specify user name	Namen des Benutzers angeben
 standard	Standard
@@ -1088,7 +1088,7 @@ status	Status
 Status	Status
 Status report	Statusbericht
 Status report (filename)	Statusbericht
-status_changed_from	Status geändert von
+status_changed_from	Status geÃ¤ndert von
 Stay here	Bleib hier
 Stay here	Bleib hier
 Stop drawing	Beende die Aufzeichnungsarbeit
@@ -1096,17 +1096,17 @@ Subcontractor	Subunternehmer
 Subject	Thema  
 Subject already exists	Der Text ist bereits vorhanden
 Substitute (single letter)	S
-Substitute for	Stellvertreter für:
+Substitute for	Stellvertreter fÃ¼r:
 Substitutes and observers	Delegierte und Beobachter
 Substitutes and observers	Delegierte und Beobachter
 Substitutes:	Stellvertreter:
 Summary	Zusammenfassung
 Summary	Zusammenfassung
-Superior role:	Deren Übergeordneten:
-Supervisor	Bauaufsichtsführender
-Supervisor role with tasks cant be removed	Aufsichtsfunktionen dessen Aufgaben zugewiesenen wurden, können nicht gelöscht werden.
+Superior role:	Deren Ãœbergeordneten:
+Supervisor	BauaufsichtsfÃ¼hrender
+Supervisor role with tasks cant be removed	Aufsichtsfunktionen dessen Aufgaben zugewiesenen wurden, kÃ¶nnen nicht gelÃ¶scht werden.
 support	Hilfe
-Supported files	Unterstützte Dateien
+Supported files	UnterstÃ¼tzte Dateien
 Synchronize now	Jetzt synchroniesieren
 Synchronized	Synchronisierte
 synchronizing	Synchronisiert
@@ -1129,9 +1129,9 @@ task_lists	Aufgabenlisten
 tasks	Aufgaben
 Tasks	Aufgaben
 Tasks and issues	Aufgaben
-Tasks associated with role. Cant delete	Es gibt Aufgaben, die zu dieser Rolle angeknüpft sind. Die Rolle kann daher nicht gelöscht werden.
+Tasks associated with role. Cant delete	Es gibt Aufgaben, die zu dieser Rolle angeknÃ¼pft sind. Die Rolle kann daher nicht gelÃ¶scht werden.
 Tasks on plan drawings	Aufgaben auf dem Grundriss
-tasks_open	Öffne Projekte
+tasks_open	Ã–ffne Projekte
 tasks_total	Gesamtanzahl von Projekten
 Templates	Vorlagen
 Text	Text
@@ -1144,8 +1144,8 @@ Time of invitation	Zeitpunkt der Einladung
 title	Thema
 Title	Thema
 Title (role)	Titel
-Title changed	Titel geändert
-title_changed_from	Titel geändert von
+Title changed	Titel geÃ¤ndert
+title_changed_from	Titel geÃ¤ndert von
 to	nach
 to approve	zu genehmigen
 to assign	zuordnen
@@ -1153,16 +1153,16 @@ to report ready	bereitmelden
 Try Demo Site	Demo testen
 Type	Typ
 Type password for user	Gebe das Benutzerkennwort an
-Type prefix	Präfixtyp
+Type prefix	PrÃ¤fixtyp
 Types	Typen
 unassigned	(nicht zugeordnet)
 Unassigned	(nicht zugeordnet)
-unchanged	Ungeändert
-Unchanged	Ungeändert
+unchanged	UngeÃ¤ndert
+Unchanged	UngeÃ¤ndert
 unhandled_error	Ein unerwarteter Fehler ist aufgetaucht.
 unhandled_error_title	Fehler
 Unpacking drawings	Extrahieren von digitalen Zeichnungen
-Unpublished buildings	Unveröffentlichte Gebäude
+Unpublished buildings	UnverÃ¶ffentlichte GebÃ¤ude
 unsent_message	{0} Nachricht wurde nicht gesendet
 unsent_messages	{0} Nachrichten wurden nicht gesendet
 Update	Aktualisiere
@@ -1187,16 +1187,16 @@ upload_company_logo	Firmalogo hochladen
 Uploaded by	Hochgeladen von
 url:support	http://field.dalux.com/manual/
 Use	Anwende
-Use automatic publishing	Veröffentlichungsmodus verwenden
-Use automatic publishing text	Wechseln zu dem automatischen Veröffentlichungs-Modus?\n\nGebäude und Zeichnungen werden automatisch veröffentlicht, wenn diese fertig sind.
-Use building	Gebäude verwenden
+Use automatic publishing	VerÃ¶ffentlichungsmodus verwenden
+Use automatic publishing text	Wechseln zu dem automatischen VerÃ¶ffentlichungs-Modus?\n\nGebÃ¤ude und Zeichnungen werden automatisch verÃ¶ffentlicht, wenn diese fertig sind.
+Use building	GebÃ¤ude verwenden
 Use location	Standort verwenden
 Use manual publishing	Verwende die manuelle Freigabe
-Use manual publishing text	Wechseln zu der manuellen Freigabe?\n\Sobald die Gebäude und deren Zeichnungen klar sind, sind Diese zu veröffentlichen.
-Use search field below	Es gibt mehr als 500 einzigartige Möglichkeiten.\nVerwende untenstehende Suchfilter.
+Use manual publishing text	Wechseln zu der manuellen Freigabe?\n\Sobald die GebÃ¤ude und deren Zeichnungen klar sind, sind Diese zu verÃ¶ffentlichen.
+Use search field below	Es gibt mehr als 500 einzigartige MÃ¶glichkeiten.\nVerwende untenstehende Suchfilter.
 user	Benutzer  
 User	Benutzer  
-User active	Benutzer überprüft
+User active	Benutzer Ã¼berprÃ¼ft
 User company	Firma des Benutzers
 User email settings	Mail-Setup
 User exists already	Benutzer eksistiert bereits
@@ -1205,43 +1205,43 @@ User has signed up	Benutzer ist angemeldet / registriert
 User name	E-Mail
 User not found	Benutzer wurde nicht gefunden
 User not signed up	Benutzer ist nicht angemeldet 
-User not validated	Benutzer ist nicht geprüft
+User not validated	Benutzer ist nicht geprÃ¼ft
 User removed	Benutzer entfernt
 User rights	Benutzerrechte
 user_defined_flow	Benutzerdefinierter Ablauf
 Users	Benutzer
 Users removed	Benutzer entfernt
-users_that_can_be_managed	Benutzer die administriert werden können
+users_that_can_be_managed	Benutzer die administriert werden kÃ¶nnen
 users_with access	Benutzer mit Zugang zu dieser Baustelle
 Value	Wert
 Values	Werte
-VATIN	Det centrale virksomhedsregister (dän. Etwa: Handelskammerregistrierung HRA und HRB) 
+VATIN	Det centrale virksomhedsregister (dÃ¤n. Etwa: Handelskammerregistrierung HRA und HRB) 
 View	Siehe
 View	Siehe
-View buildings on map	Anzeige Gebäude auf der Karte 
+View buildings on map	Anzeige GebÃ¤ude auf der Karte 
 View case	Zeige 
-View for	Zeige für
+View for	Zeige fÃ¼r
 View user	Zeige
 View/Edit	Siehe / Bearbeiten
 View/Edit (responsible)	Siehe / Bearbeiten (verantwortlich)
 Views	Anzeige
-wait	Warte…
-Wait	Warte…
+wait	WarteÂ…
+Wait	WarteÂ…
 Warning	Warnung
 warning remove user	Sind Sie sich sicher, diesen Benutzer entfernen zu wollen?
 Warning!	Warnung!
 Web service rejected your request	Der Server hat Ihre Anfrage abgelehnt
 Week	Woche
-Weekly safety report	Wöchentlicher Bericht
-whatis: construction	Zu jedem einzelnen Gewerk werden Verträge abgeschlossen. Ein Gewerk kan sich über mehrere Aufsichtbereiche erstrecken
-whatis: discipline	Aufsichtsbereiche sind die zu steuernde Gewerke. Beispiele dafür wären u.a. "Sanitär", "Elektro" und "Montage".
-whois: building owner	Einem Benutzer können sämtliche Aufgaben angezeigt werden, ohne diese redigieren zu können.
-whois: contractor	Eine Person, die innerhalb einer Fachgruppe gegenüber der Bauleitung für die zeitgerechte Durchführung und verabredete Qualität der Aufgaben verantwortlich ist.
-whois: fictive	Ein Benutzer der entweder noch nicht bekannt ist, oder der erst später aufgefordert werden soll, an diesem Projekt teilzunehmen
-whois: site manager	Der Bauleiter trägt die tägliche Verantwortung der Baustelle und hat darüber hinaus die Verantortung, dass sowohl sämtliche Gewerke zeitgerecht fertig zu sein haben, als auch  die Einhaltung der vereinbarten baulichen Qualität.
+Weekly safety report	WÃ¶chentlicher Bericht
+whatis: construction	Zu jedem einzelnen Gewerk werden VertrÃ¤ge abgeschlossen. Ein Gewerk kan sich Ã¼ber mehrere Aufsichtbereiche erstrecken
+whatis: discipline	Aufsichtsbereiche sind die zu steuernde Gewerke. Beispiele dafÃ¼r wÃ¤ren u.a. "SanitÃ¤r", "Elektro" und "Montage".
+whois: building owner	Einem Benutzer kÃ¶nnen sÃ¤mtliche Aufgaben angezeigt werden, ohne diese redigieren zu kÃ¶nnen.
+whois: contractor	Eine Person, die innerhalb einer Fachgruppe gegenÃ¼ber der Bauleitung fÃ¼r die zeitgerechte DurchfÃ¼hrung und verabredete QualitÃ¤t der Aufgaben verantwortlich ist.
+whois: fictive	Ein Benutzer der entweder noch nicht bekannt ist, oder der erst spÃ¤ter aufgefordert werden soll, an diesem Projekt teilzunehmen
+whois: site manager	Der Bauleiter trÃ¤gt die tÃ¤gliche Verantwortung der Baustelle und hat darÃ¼ber hinaus die Verantortung, dass sowohl sÃ¤mtliche Gewerke zeitgerecht fertig zu sein haben, als auch  die Einhaltung der vereinbarten baulichen QualitÃ¤t.
 whois: site manager assistant	Ein Benutzer kann Einsicht haben und alle Aufgaben bearbeiten
 whois: subcontractor	Eine Person, die eine vertragliche Vereinbarung zur Erstellung einer bestimmten Aufgabe mit dem Polier eingegangen ist. 
-whois: supervisor	Eine Person, innerhalb verschiedener Fachgebiete kontrolliert, ob es korrekt durchgeführt wird
+whois: supervisor	Eine Person, innerhalb verschiedener Fachgebiete kontrolliert, ob es korrekt durchgefÃ¼hrt wird
 With date	Mit Datum
 Without date	Ohne Datum
 Work description	LV- Beschreibung
@@ -1252,22 +1252,22 @@ Worker report	Handwerker-Bericht
 workflow_definition	Workflow definition
 Yellow	Gelb
 Yes	Ja
-You can not delete this control plan because there are tasks associated with it	Sie können diesen Kontrollplan nicht löschen, da es an Aufgaben zugeordnet ist.
-You cannot delete this checklist template because there exists checklists of this type.	Sie können diese Checklistenvorlage nicht löschen, da gibt es Checklisten gibt, die Diesen verwenden.
+You can not delete this control plan because there are tasks associated with it	Sie kÃ¶nnen diesen Kontrollplan nicht lÃ¶schen, da es an Aufgaben zugeordnet ist.
+You cannot delete this checklist template because there exists checklists of this type.	Sie kÃ¶nnen diese Checklistenvorlage nicht lÃ¶schen, da gibt es Checklisten gibt, die Diesen verwenden.
 You have not been assigned to any projects yet.	Sie sind noch nicht einem Projekt zugeordnet worden.
-You must accept this	Um Dalux Feld zu verwenden, müssen Sie:
-You must be administrator to add buildings	Sie müssen Administrator sein, um Gebäude hinzuzufügen.
-You must be administrator to change publishing settings	Sie müssen als Administrator angemeldet sein, um Veröffentlichungverfahren zu ändern.
-You must be administrator to delete buildings	Sie müssen als Administrator angemeldet sein, um Gebäude zu löschen.
-You must be administrator to edit buildings	Sie müssen als Administrator angemeldet sein, um Gebäude zu ändern. 
-You must be administrator to rename buildings	Sie müssen als Administrator angemeldet sein, um Gebäude umzubenennen.
-You must be online to log in	Sie müssen Online angemeldet sein, um sich anzumelden 
+You must accept this	Um Dalux Feld zu verwenden, mÃ¼ssen Sie:
+You must be administrator to add buildings	Sie mÃ¼ssen Administrator sein, um GebÃ¤ude hinzuzufÃ¼gen.
+You must be administrator to change publishing settings	Sie mÃ¼ssen als Administrator angemeldet sein, um VerÃ¶ffentlichungverfahren zu Ã¤ndern.
+You must be administrator to delete buildings	Sie mÃ¼ssen als Administrator angemeldet sein, um GebÃ¤ude zu lÃ¶schen.
+You must be administrator to edit buildings	Sie mÃ¼ssen als Administrator angemeldet sein, um GebÃ¤ude zu Ã¤ndern. 
+You must be administrator to rename buildings	Sie mÃ¼ssen als Administrator angemeldet sein, um GebÃ¤ude umzubenennen.
+You must be online to log in	Sie mÃ¼ssen Online angemeldet sein, um sich anzumelden 
 you_are_logged_in	Sie sind jetzt Online-angemeldet
 Your colleagues drafts	Kladde Ihrer Kollegen
-Your column setup is being reset	Die Spalteauswahl wird zurückversetzt
+Your column setup is being reset	Die Spalteauswahl wird zurÃ¼ckversetzt
 Your drafts	Ihre Kladde
 Your sites	Ihre Baustellen
-your_current_role_alter_error	Ihre momentane Funktion erlaubt es nicht, Kommentare mit Status zu ändern:
+your_current_role_alter_error	Ihre momentane Funktion erlaubt es nicht, Kommentare mit Status zu Ã¤ndern:
 your_current_role_create_error	Ihre jetzige Funktion erlaubt es nicht, neue Kommentare zu erstellen
 your_sites	Ihre Baustellen
 Zip code	Postleitzahl:
@@ -1275,7 +1275,7 @@ zip_code	Postleitzahl:
 Zone	Zone
 Zone name	Zonenname
 Zones	Zonen
-Project does not have any checklists	Das Projekt verfügt nicht über Checklisten
+Project does not have any checklists	Das Projekt verfÃ¼gt nicht Ã¼ber Checklisten
 Search in e-mail addresses	Suche unter E-Mailadressen 
 Enterprise agreement	Enterprise agreement
 Open properties	Open properties
@@ -1317,8 +1317,8 @@ Cannot delete contract. Attached checklists or inspection plans	Cannot delete co
 Add attachment	Add attachment
 Send again	Send again
 Max 300 tasks in worker report	Max 300 tasks in worker reports
-Add company	Firma hinzufügen
-Edit company	Firma ändern
+Add company	Firma hinzufÃ¼gen
+Edit company	Firma Ã¤ndern
 Remove company	Firmen entfernen
 Are you sure you want to remove the user {0}?	Are you sure you want to remove the user {0}?
 Prepare for offline	Prepare for offline
@@ -1360,7 +1360,7 @@ Payer	Payer
 Quick fields	Quick fields
 Quick field	Quick field
 Remove quick field	Entferne
-Edit quick field	Ändere
+Edit quick field	Ã„ndere
 Export quick fields	Export
 Import quick fields	Importiere
 Person	Person
@@ -1410,7 +1410,7 @@ Test	Test
 Server OK	Server OK!
 Total area	Total area
 Room name	Room name
-Area	Fläche
+Area	FlÃ¤che
 Add level	Add level
 Edit level	Edit level
 drawings drawn to scale	Drawings on level drawn to scale

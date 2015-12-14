@@ -383,7 +383,7 @@ dRofus integration	dRofus integration
 Copy row	Copy row
 Duplicate	Duplicate
 DUT_MILLIMETERS	mm
-DUT_SQUARE_METERS	m²
+DUT_SQUARE_METERS	mÂ²
 DV	DV
 Economy	Economy
 Economy changed	Economy changed
@@ -1499,7 +1499,7 @@ Invoice	Invoice
 Are you sure you want to delete this role?	Are you sure you want to delete this role?
 From	De
 Add filter	Add filter
-To	À
+To	Ã€
 Drawing setup	Drawing setup
 Show on list	Show on list
 Show on drawing	Show on drawing

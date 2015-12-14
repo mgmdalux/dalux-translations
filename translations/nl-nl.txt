@@ -54,7 +54,7 @@ Add information	Voeg informatie toe
 Add new registration	Add new registration
 Add new role	Voeg nieuwe functie toe
 Add other user	Voeg andere gebruiker toe
-Add other user...	Voeg andere gebruiker toe…
+Add other user...	Voeg andere gebruiker toeÂ…
 Add person	Add person
 Add persons	Add persons
 Add photo	Add photo
@@ -156,9 +156,9 @@ Building overview	Overzicht gebouw
 Building status	Gebouwstatus
 building updated?	Building not found. Repositioning required. Has the drawing material been updated?
 building_incomplete	Gebouw niet beschikbaar
-building_incomplete_text	Het gebouw werd onlangs geüpdate en wordt momenteel voorbereid voor weergave op het mobiele apparaat. Het gebouw is tijdelijk niet beschikbaar
+building_incomplete_text	Het gebouw werd onlangs geÃ¼pdate en wordt momenteel voorbereid voor weergave op het mobiele apparaat. Het gebouw is tijdelijk niet beschikbaar
 building_model_analysing	The building is being analysed.
-building_model_not_uploaded	Gebouwmodel nog niet geüpload
+building_model_not_uploaded	Gebouwmodel nog niet geÃ¼pload
 building_model_pending	The building is scheduled for analysis.
 building_model_queued_reanalysis	Building is currently queued for reanalysis.
 building_model_waiting	Building is currently queued for analysis.
@@ -185,7 +185,7 @@ Change	Veranderen
 Change location	Change location
 Change to automatic publishing	Change to automatic publishing
 Change to manual publishing	Change to manual publishing
-change...	Veranderen…
+change...	VeranderenÂ…
 changed	Veranderd
 changed from	Veranderd vanaf
 changed_by	Veranderd door
@@ -231,8 +231,8 @@ Completed (checklist)	Voltooid
 Completed (folder)	Gemeld als afgerond
 Completed by	verholpen door
 Complexity	Complexiteit
-Compressing image	Comprimeren afbeelding…
-Compressing image	Comprimeren afbeelding…
+Compressing image	Comprimeren afbeeldingÂ…
+Compressing image	Comprimeren afbeeldingÂ…
 Confirm	Bevestigen
 Confirm delete construction	Are you sure you want to delete this contract?
 confirm delete site	Weet u zeker dat u deze omgeving wilt verwijderen?
@@ -261,7 +261,7 @@ Control plan	Inspection plan
 Control plan area	Inspection plan area
 Control plans	Inspection plans
 Copy from other project	Copy from other project
-copy_link	Link kopiëren
+copy_link	Link kopiÃ«ren
 Correspondence	correspondentie
 Correspondence report	Samengeperst rapport
 Correspondence report (filename)	Samengeperst rapport
@@ -368,7 +368,7 @@ Does not contain	Does not contain
 Done	Klaar
 Download	Download
 Download PDF	Download PDF
-Downloading checklist...	Downloaden checklist…
+Downloading checklist...	Downloaden checklistÂ…
 Downloading report...	Downloaden rapport.
 Downloading task {0} of {1}	Downloading task {0} of {1}
 Draft	Concept
@@ -383,7 +383,7 @@ dRofus integration	dRofus-integration
 Copy row	Copy row
 Duplicate	Duplicate
 DUT_MILLIMETERS	mm
-DUT_SQUARE_METERS	m²
+DUT_SQUARE_METERS	mÂ²
 DV	DV
 Economy	Besparing
 Economy changed	Besparing veranderd
@@ -482,7 +482,7 @@ General problem	General problem
 Generate report	Genereer rapport
 Generating document	Genereren document
 Generating picture	Genereren afbeelding
-Generating report	Genereren rapport…
+Generating report	Genereren rapportÂ…
 Generating report {0}	Genereren rapport {0}
 Get Revit plug-in	Get Revit plug-in
 GIS location	GIS locatie
@@ -527,7 +527,7 @@ info another user created this task	Een andere gebruiker heeft deze taak aangema
 info app update	Update Dalux Field<br/><br/>Remember to synchronize unsent data before updating
 info batch deny assign wd	It is only possible to assign multiple tasks at once when all tasks are within the same area and work description.\n\nNarrow down the selection. You might want to apply a filter on the columns Supervision and Work Description.
 info batch deny reply	It is only possible {0} multiple tasks at once as long as the selected tasks can be changed by you.\n\nDo you have write permissions to the selected tasks?\nDid you select the right folder?\n\nRemove selection of tasks you can no longer change.
-info building incomplete	Het gebouw werd onlangs geüpdate en wordt momenteel voorbereid voor weergave op het mobiele apparaat. Het gebouw is tijdelijk niet beschikbaar
+info building incomplete	Het gebouw werd onlangs geÃ¼pdate en wordt momenteel voorbereid voor weergave op het mobiele apparaat. Het gebouw is tijdelijk niet beschikbaar
 info building queued analysis	Building is being updated. Try again later.
 info building update failed	Building update failed. Contact Dalux.
 info building updating 3d	Drawings are being updated. Try again later.
@@ -590,7 +590,7 @@ info program error	<p align="center">Programma fout opgetreden<br/>Neem contact 
 info project setting error	<p align="center">Onvoorspelbare project instellingen<br/>Neem contact op met Dalux (support@dalux.com)</p>
 info remove company	Are you sure you want to delete this company?
 info remove self	You are about to remove yourself from the project\n\nContinue?
-info remove work description	Wees ervan bewust dat aangemaakte taken met deze werkbeschrijving niet langer gegroepeerd kunnen worden gebasseerd op dit eigendom.\nDe werkbeschrijving zal automatisch verwijderd worden van de Beïnvloede functies. \n\n doorgaan?
+info remove work description	Wees ervan bewust dat aangemaakte taken met deze werkbeschrijving niet langer gegroepeerd kunnen worden gebasseerd op dit eigendom.\nDe werkbeschrijving zal automatisch verwijderd worden van de BeÃ¯nvloede functies. \n\n doorgaan?
 info report has update in folder	<p align="center">Let op!<br/>Er zijn updates voor het rapport in de mappen {0}</p>
 info report has updates in folder	<p align="center">Let op!<br/>Er zijn updates voor het rapport in de mappen {0}</p>
 info report has updates in folders	<p align="center">Let op!<br/>Er zijn updates voor het rapport in de mappen {0}</p>
@@ -610,7 +610,7 @@ info user added mail sent	De gebruiker is nu toegevoegd en een uitnodigingsmail 
 info user invitation accepted	Gebruiker aangemaakt en uitnodiging geaccepteerd
 info user not found create?	Gebruiker niet gevonden. Wilt u deze gebruiker aanmaken?
 info wait synchronizing tasks	De taak kan niet worden geopend gedurdende de outbox wordt gesychroniseerd. Probeer het later opnieuw
-info wizard new user	Een persoon die niet deel uit maakt van uw Dalux Field project. Een uitnodiging wordt verzonden wanneer u op creëer klikt.
+info wizard new user	Een persoon die niet deel uit maakt van uw Dalux Field project. Een uitnodiging wordt verzonden wanneer u op creÃ«er klikt.
 Insert	Invoegen
 Insert comment	Voeg opmerking toe
 Insert text	Insert text
@@ -649,7 +649,7 @@ Last modified by	Laatst gewijzigd door
 Last name	Achternaam
 Last updated	Laatst bijgewerkt op
 Last updated by	Laatst bijgewerkt door
-Last uploaded by	Laatst geüpload door
+Last uploaded by	Laatst geÃ¼pload door
 last_name	Achternaam
 Less than	Less than
 Less than equals	Less than equals
@@ -663,9 +663,9 @@ loading	Laden
 Loading (from disk)	Loading
 Loading buildings	Loading buildings
 Loading data	Gegevens laden
-Loading drafts...	Laden concepten…
+Loading drafts...	Laden conceptenÂ…
 Loading list data	Laden gegevenslijst
-Loading list data...	Laden gegevens lijst…
+Loading list data...	Laden gegevens lijstÂ…
 located on plan	Gelegen op plattegrond
 located on plan and view	Gelegen op plattegrond en aanzicht
 location	Locatie
@@ -758,7 +758,7 @@ No building and floors available for this site. GIS can not be placed	Geen gebou
 No building and floors available for this site. GIS can not be placed	Geen gebouw en plattegronden beschikbaar voor deze omgeving. GIS kan niet geplaatst worden
 No buildings	No buildings
 No checklists	No checklists
-No connection	Geen verbinding…
+No connection	Geen verbindingÂ…
 No drafts	Geen concepten
 No drawing material available.	No drawing material available.
 No drawing selected	No drawing selected
@@ -777,7 +777,7 @@ No tasks	No tasks
 No title	Geen titel
 No.	Nr.
 no_building	(geen gebouw)
-no_connection	Geen verbinding…
+no_connection	Geen verbindingÂ…
 no_floor	(geen vloer)
 no_floors	(geen vloer)
 no_room	(geen ruimte)
@@ -837,7 +837,7 @@ Open project	Open project
 Open site	Open project
 Order	Rangschrikken
 Organization	Organisatie
-Orientation (print)	Oriëntering
+Orientation (print)	OriÃ«ntering
 Origin	Oorsprong
 Other	Ander
 other_users	Andere gebruikers
@@ -881,7 +881,7 @@ Pie	Taart
 Place action	Plaats
 Placement	Plaatsing
 Placement description	Placement description
-Please wait...	Even geduld aub…
+Please wait...	Even geduld aubÂ…
 Portrait	Portret
 Prefix	Voorvoegsel
 prefix deficiency	N
@@ -961,7 +961,7 @@ removed	Verwijderd
 Removed	Verwijderd
 Rename	Hernoemen
 Rename building	Rename building
-rename...	Hernoemen…
+rename...	HernoemenÂ…
 rename_task_list	Hernoem takenlijst
 Report id	Report id
 Report settings	Rapport instellingen
@@ -1012,7 +1012,7 @@ Select assignee	Kies gevolmachtigde
 Select construction	Kies bouwwerk
 select construction text	Selecteer de aannemer in opdracht
 Select drawing	Kies plattegrond
-Select only one for deletion	Selecteer slechts één voor verwijdering
+Select only one for deletion	Selecteer slechts Ã©Ã©n voor verwijdering
 Select supervisor	Kies toezichthouder
 select supervisor text	Kies de toezichthouder van het betreffende bouwwerk
 Select user	Kies gebruiker
@@ -1225,7 +1225,7 @@ View user	Bekijk
 View/Edit	Zien/Uitgeven
 View/Edit (responsible)	Zien/Uitgeven (verantwoordelijke)
 Views	Aanzichten
-wait	Wacht…
+wait	WachtÂ…
 Wait	Wacht
 Warning	Waarschuwing
 warning remove user	Weet u zeker dat u deze gebruiker wilt verwijderen?
